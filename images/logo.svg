@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="75" viewBox="0 0 300 75">
+  <defs>
+    <linearGradient id="egGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <!-- Crest Icon -->
+  <g transform="translate(10, 8)">
+    <!-- Hexagonal / Shield Base -->
+    <polygon points="28,2 52,14 52,42 28,54 4,42 4,14" fill="url(#egGrad)" stroke="#d97706" stroke-width="2" />
+    <!-- Open Book / Minaret Motif -->
+    <path d="M16,36 Q28,30 28,18 Q28,30 40,36 Q28,32 16,36 Z" fill="#ffffff" />
+    <polygon points="28,12 30,17 26,17" fill="#d97706" />
+    <circle cx="28" cy="10" r="1.5" fill="#d97706" />
+  </g>
+  <!-- Text Wordmark -->
+  <text x="75" y="34" font-family="'Segoe UI', Roboto, -apple-system, sans-serif" font-weight="800" font-size="22" fill="#065f46" letter-spacing="-0.5">DeenImpact</text>
+  <text x="215" y="34" font-family="'Segoe UI', Roboto, -apple-system, sans-serif" font-weight="600" font-size="14" fill="#d97706" letter-spacing="1.5">ACADEMY</text>
+  <text x="76" y="52" font-family="'Segoe UI', Roboto, -apple-system, sans-serif" font-weight="500" font-size="10" fill="#4b5563" letter-spacing="0.8">Knowledge, Action &amp; Guidance</text>
+</svg>

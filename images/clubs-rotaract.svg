@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9f1239" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <pattern id="pat" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M20,0 L40,20 L20,40 L0,20 Z" fill="none" stroke="#f43f5e" stroke-opacity="0.1" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)" />
+  <rect width="800" height="500" fill="url(#pat)" />
+  
+  <!-- Decorative border box -->
+  <rect x="30" y="30" width="740" height="440" rx="12" fill="none" stroke="#f43f5e" stroke-opacity="0.25" stroke-width="2" />
+  
+  <!-- Center Emblem -->
+  <circle cx="400" cy="200" r="54" fill="#9f1239" stroke="#f43f5e" stroke-width="3" />
+  <circle cx="400" cy="200" r="44" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5" />
+  <polygon points="400,165 412,192 440,192 418,208 426,235 400,218 374,235 382,208 360,192 388,192" fill="#f43f5e" />
+
+  <!-- Text -->
+  <text x="400" y="300" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="0.5">Rotaract & Press Club</text>
+  <text x="400" y="335" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" fill="#f43f5e" font-weight="500">Leadership, Journalism & Community</text>
+  <text x="400" y="380" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8" letter-spacing="1">DEENIMPACT ACADEMY | APETE, IBADAN</text>
+</svg>

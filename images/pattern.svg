@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .pat { fill: none; stroke: #065f46; stroke-width: 1.2; stroke-opacity: 0.08; }
+      .pat-gold { fill: none; stroke: #d97706; stroke-width: 0.8; stroke-opacity: 0.08; }
+    </style>
+  </defs>
+  <!-- 8-pointed star rosette tile -->
+  <g class="pat">
+    <polygon points="40,10 48,22 62,14 54,28 68,36 54,44 62,58 48,50 40,62 32,50 18,58 26,44 12,36 26,28 18,14 32,22" />
+    <rect x="25" y="25" width="30" height="30" transform="rotate(45 40 40)" />
+    <circle cx="40" cy="40" r="14" />
+    <line x1="0" y1="40" x2="80" y2="40" />
+    <line x1="40" y1="0" x2="40" y2="80" />
+    <line x1="0" y1="0" x2="80" y2="80" />
+    <line x1="0" y1="80" x2="80" y2="0" />
+  </g>
+  <g class="pat-gold">
+    <circle cx="40" cy="40" r="6" />
+    <circle cx="0" cy="0" r="6" />
+    <circle cx="80" cy="0" r="6" />
+    <circle cx="0" cy="80" r="6" />
+    <circle cx="80" cy="80" r="6" />
+  </g>
+</svg>
