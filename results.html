@@ -126,7 +126,7 @@
             <div style="width: 54px; height: 54px; border-radius: 50%; background: var(--color-primary-light); color: var(--color-primary); font-size: 1.75rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 0.75rem;" aria-hidden="true">
               🔐
             </div>
-            <span class="portal-badge">SERVER-AUTHENTICATED PORTAL</span>
+            <span class="portal-badge">OFFICIAL RESULTS PORTAL</span>
             <h2 style="font-size: 1.5rem; color: var(--color-primary-dark); margin-bottom: 0.35rem;">
               Access Report Sheet
             </h2>
@@ -137,6 +137,29 @@
 
           <!-- Alert Notification Box -->
           <div id="resultsAlert" style="display: none;" role="alert"></div>
+
+          <!-- Success Result Download Box -->
+          <div id="resultsSuccessBox" style="display: none; background: #f0fdf4; border: 1px solid #86efac; border-radius: var(--radius-md); padding: 1.5rem; text-align: center; margin-bottom: 1.25rem;">
+            <div style="font-size: 2.25rem; margin-bottom: 0.5rem;" aria-hidden="true">📋</div>
+            <div style="font-size: 0.8rem; font-weight: 700; color: #15803d; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.35rem;">Official Record Found</div>
+            <h3 style="color: #166534; font-size: 1.3rem; margin-bottom: 0.75rem;" id="resStudentName">Student Name</h3>
+            <div style="background: #ffffff; border: 1px solid #dcfce7; border-radius: var(--radius-sm); padding: 0.75rem 1rem; font-size: 0.875rem; color: #374151; margin-bottom: 1.25rem; line-height: 1.7; text-align: left;">
+              <div><strong>Admission No:</strong> <span id="resAdmissionNo" style="font-family: monospace; font-weight: 700;"></span></div>
+              <div><strong>Class:</strong> <span id="resClass"></span></div>
+              <div><strong>Term &amp; Session:</strong> <span id="resTermSession"></span></div>
+            </div>
+            <a id="resDownloadBtn" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-gold btn-block" style="display: block; margin-bottom: 0.75rem; text-decoration: none; padding: 0.85rem;">
+              📥 Download / View Report Sheet (PDF)
+            </a>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              <a id="resHelpBtn" href="https://wa.me/2348123458536" target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp" style="flex: 1; min-width: 140px; font-size: 0.85rem; padding: 0.6rem 0.75rem;">
+                💬 WhatsApp Office
+              </a>
+              <button type="button" id="resResetBtn" class="btn btn-outline" style="flex: 1; min-width: 140px; font-size: 0.85rem; padding: 0.6rem 0.75rem; background: #ffffff;">
+                Check Another Result
+              </button>
+            </div>
+          </div>
 
           <form id="resultsLoginForm">
             <div class="form-group">
@@ -192,7 +215,7 @@
 
           <div style="margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--color-border); font-size: 0.8rem; color: var(--color-text-muted); text-align: center;">
             <p style="margin-bottom: 0.5rem;">
-              🔒 <strong>Security Guarantee:</strong> Student report sheets are private records stored securely in Cloudflare R2 storage and verified via Cloudflare Pages serverless functions.
+              🔒 <strong>Verified Records:</strong> Official end-of-term student report sheets are verified securely against school examination records.
             </p>
             <p>
               Forgot your PIN or experiencing difficulty? Call the school office on <a href="tel:08123458536" style="font-weight: 700;">08123458536</a> or <a href="https://wa.me/2348123458536" target="_blank" rel="noopener noreferrer">WhatsApp</a>.

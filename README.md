@@ -79,69 +79,30 @@ Open `about.html` in Notepad or VS Code:
 
 ---
 
-## 🔒 Student Results Portal Administration Guide
+## 🔒 Student Results Portal Administration Guide (Google Sheets & Drive)
 
-### Why Server-Side Authentication is Necessary
-Student report sheets contain private child records and personal grades. Any password check performed in client-side JavaScript can be easily bypassed by viewing browser developer tools or viewing the public directory.
+The Student Results Portal runs on a simple, 100% no-code Google Sheets & Google Drive integration. School staff do not need to use command lines or Cloudflare storage dashboards.
 
-DeenImpact Academy uses **Cloudflare Pages Functions** paired with private **Cloudflare R2 storage** and **Cloudflare KV**:
-- Report PDFs are stored **privately** in Cloudflare R2 (not in the public web folder).
-- PINs are stored as salted SHA-256 cryptographic hashes in Cloudflare KV.
-- A PDF is only streamed after the server confirms that both the Admission Number and PIN match.
-- Failed attempts are rate-limited (maximum 5 attempts per 15 minutes) to protect against brute-force guessing.
+### Quick Workflow:
+1. **Report Cards in Google Drive:** Staff upload PDF report cards to a Google Drive folder and copy each file's shareable link.
+2. **Details in Google Sheets:** Staff enter rows with:
+   - `Admission Number` (e.g. `DIA/2026/001`)
+   - `PIN` (e.g. `1234` or parent's phone number)
+   - `Student Name` (e.g. `Zaynab Adeyemo`)
+   - `Class` (e.g. `Basic 4`)
+   - `Term` (e.g. `1st Term`)
+   - `Session` (e.g. `2026/2027`)
+   - `Report Link` (Google Drive PDF link)
+3. **Connect to Cloudflare Pages (One-Time Setup):**
+   - In Google Sheets: **File > Share > Publish to web > Select CSV format > Publish**.
+   - Copy the CSV URL.
+   - In Cloudflare Dashboard: **Pages Project > Settings > Environment variables > Add `RESULTS_SHEET_URL`** and paste the CSV link.
+   - Click Save.
 
-### Step 1: Setting up Cloudflare KV and R2 in Cloudflare Dashboard
-1. Log in to your [Cloudflare Dashboard](https://dash.cloudflare.com/).
-2. **Create a KV Namespace:**
-   - Go to **Workers & Pages** &rarr; **KV**.
-   - Click **Create a Namespace** and name it `deenimpact-results-kv`.
-3. **Create an R2 Bucket:**
-   - Go to **Workers & Pages** &rarr; **R2**.
-   - Click **Create bucket** and name it `deenimpact-results-bucket`. Set the bucket to **Private** (do not enable public URL access).
-4. **Bind them to your Cloudflare Pages Project:**
-   - Go to your Pages project &rarr; **Settings** &rarr; **Functions**.
-   - Under **KV namespace bindings**, add:
-     - Variable name: `RESULTS_KV`
-     - KV namespace: select `deenimpact-results-kv`
-   - Under **R2 bucket bindings**, add:
-     - Variable name: `RESULTS_BUCKET`
-     - R2 bucket: select `deenimpact-results-bucket`
+Whenever teachers add or update rows in Google Sheets, the website reflects it instantly!
 
-### Step 2: Uploading Student Report PDFs to R2
-When end-of-term results are compiled:
-1. Save each student's report sheet as a PDF.
-2. Use the strict file naming convention:
-   ```text
-   ADMISSIONNUMBER_TERM_YEAR.pdf
-   ```
-   *Any non-alphanumeric characters in the admission number (like `/`) should be replaced with underscores `_`.*
-   - Example for Admission No `DIA/2026/001`, Term 1, 2026/2027 Session:
-     `DIA_2026_001_TERM1_2026-2027.pdf`
-   - Example for Admission No `DIA/2026/042`, Term 2, 2026/2027 Session:
-     `DIA_2026_042_TERM2_2026-2027.pdf`
-3. Upload the PDF file directly into your `deenimpact-results-bucket` in the Cloudflare dashboard (or via Wrangler CLI).
+*For complete details, see `RESULTS_SETUP_GUIDE.md`.*
 
-### Step 3: Setting Up Student PINs in Cloudflare KV
-To generate the secure salted PIN record, use the provided Python CLI tool:
-```bash
-python tools/hash-pin.py <ADMISSION_NUMBER> <PIN>
-```
-**Example:**
-```bash
-python tools/hash-pin.py DIA/2026/001 542190
-```
-**Output:**
-```text
-Cloudflare KV Key:   student:DIA/2026/001
-Cloudflare KV Value: {"salt": "0eb84cb89d9e6e9b", "hash": "4ab67b56663277c3f712ccc0d15363bdca6237dc4e150767e60de0eea3e45e6c"}
-```
-In your Cloudflare KV dashboard for `deenimpact-results-kv`:
-- Click **Add entry**.
-- Paste the Key (e.g. `student:DIA/2026/001`).
-- Paste the Value JSON.
-- Click **Save**.
-
-The student can now enter `DIA/2026/001` and PIN `542190` on `results.html` to download their report card securely.
 
 ---
 
