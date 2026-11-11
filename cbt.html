@@ -232,8 +232,29 @@
           </div>
         </div>
 
-        <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid #e2e8f0; font-size: 0.85rem; color: #475569; margin-bottom: 1.5rem;">
-          ⏱ <strong>JAMB Mock Format:</strong> 40 questions total (10 per subject) &bull; 40 minutes countdown &bull; Authentic 8-key keyboard controls enabled.
+        <!-- Question Count & Multi-Year Selector -->
+        <div class="grid grid-2" style="gap: 1.25rem; margin-bottom: 1.5rem; background: #f8fafc; padding: 1.25rem; border-radius: 12px; border: 1px solid #e2e8f0;">
+          <div>
+            <label for="jambQuestionCountSelect" class="form-label">Questions per Subject</label>
+            <select id="jambQuestionCountSelect" class="form-control" style="font-weight: 600;">
+              <option value="10" selected>10 Questions per Subject (40 Questions Total - 40 Mins)</option>
+              <option value="15">15 Questions per Subject (60 Questions Total - 60 Mins)</option>
+              <option value="20">20 Questions per Subject (80 Questions Total - 80 Mins)</option>
+              <option value="25">25 Questions per Subject (100 Questions Total - 100 Mins)</option>
+            </select>
+          </div>
+          <div style="display: flex; flex-direction: column; justify-content: center;">
+            <div style="font-size: 0.85rem; font-weight: 700; color: #065f46; display: flex; align-items: center; gap: 0.4rem;">
+              <span>🎲 Multi-Year Dynamic Shuffling (2018–2024)</span>
+            </div>
+            <p style="font-size: 0.775rem; color: #64748b; margin-top: 0.25rem;">
+              Questions are drawn from official JAMB UTME &amp; WAEC syllabi across past years. Both questions and option orders (A-D) vary randomly for every student session.
+            </p>
+          </div>
+        </div>
+
+        <div style="background: #ecfdf5; padding: 0.85rem 1rem; border-radius: 8px; border: 1px solid #a7f3d0; font-size: 0.85rem; color: #065f46; margin-bottom: 1.5rem;">
+          ⏱ <strong>JAMB Mock Format:</strong> 1 minute per question &bull; Scaled score out of 400 &bull; Authentic 8-key keyboard controls enabled.
         </div>
 
         <button type="button" class="btn btn-primary btn-block btn-start-cbt" onclick="startExam('jamb')" style="padding: 1rem; font-size: 1.1rem;">
@@ -255,14 +276,26 @@
         <!-- Practice Options -->
         <div class="grid grid-2" style="gap: 1.25rem; margin-bottom: 1.75rem; background: #f8fafc; padding: 1.25rem; border-radius: 12px; border: 1px solid #e2e8f0;">
           <div>
+            <label for="singleQuestionCountSelect" class="form-label">Number of Practice Questions</label>
+            <select id="singleQuestionCountSelect" class="form-control" style="font-weight: 600; margin-bottom: 0.85rem;">
+              <option value="10">10 Questions (Speed Drill)</option>
+              <option value="15" selected>15 Questions (Standard Practice)</option>
+              <option value="20">20 Questions (Extended Drill)</option>
+              <option value="25">25 Questions (Full Multi-Year Question Pool)</option>
+            </select>
+
             <label for="singleDurationSelect" class="form-label">Practice Timer</label>
             <select id="singleDurationSelect" class="form-control" style="font-weight: 600;">
               <option value="10">10 Minutes (Quick Quiz)</option>
               <option value="15" selected>15 Minutes (Standard Speed)</option>
               <option value="25">25 Minutes (Relaxed Timing)</option>
+              <option value="0">Untimed / Self-Paced Practice</option>
             </select>
           </div>
           <div style="display: flex; flex-direction: column; justify-content: center;">
+            <div style="font-size: 0.85rem; font-weight: 700; color: #065f46; display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.35rem;">
+              <span>🎲 Dynamic Shuffling Across Years (2018–2024)</span>
+            </div>
             <label style="display: flex; align-items: center; gap: 0.6rem; cursor: pointer; font-weight: 700; color: #1e293b; margin-top: 0.5rem;">
               <input type="checkbox" id="studyModeCheck" style="width: 18px; height: 18px;">
               <span>Enable "Study Mode" (Show instant explanation after each question)</span>
@@ -307,9 +340,10 @@
         <div class="cbt-question-card">
           <div class="cbt-q-meta">
             <span id="qNumberDisplay" class="cbt-q-number">Question 1 of 10</span>
-            <div style="display: flex; gap: 0.5rem;">
+            <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+              <span id="qYearDisplay" class="badge" style="background: #fef3c7; color: #92400e; font-weight: 700;">Year 2024</span>
+              <span id="qExamDisplay" class="badge" style="background: var(--cbt-primary-light); color: var(--cbt-primary); font-weight: 700;">JAMB UTME</span>
               <span id="qTopicDisplay" class="badge" style="background: #f1f5f9; color: #475569; font-weight: 600;">General</span>
-              <span id="qExamDisplay" class="badge" style="background: var(--cbt-primary-light); color: var(--cbt-primary); font-weight: 700;">JAMB</span>
             </div>
           </div>
 
@@ -413,6 +447,13 @@
           Performance by Subject
         </h3>
         <div id="resSubjectBreakdown" class="cbt-breakdown-grid"></div>
+
+        <!-- Curriculum Topic Breakdown -->
+        <h3 style="font-size: 1.15rem; color: #0f172a; border-top: 1px solid #e2e8f0; padding-top: 1.5rem; margin-bottom: 0.5rem;">
+          Syllabus &amp; Past Years Topic Performance
+        </h3>
+        <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 1rem;">Performance breakdown across official curriculum modules and past exam years (2018–2024).</p>
+        <div id="resTopicBreakdown" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.75rem; text-align: left; margin-bottom: 1.5rem;"></div>
 
         <!-- Action Buttons -->
         <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem;">

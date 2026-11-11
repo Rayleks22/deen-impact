@@ -1,142 +1,402 @@
 [
   {
-    "id": 1,
-    "question": "Which soil component has the finest particles and the highest water-holding capacity?",
+    "question": "Which soil physical property refers to the relative proportions of sand, silt, and clay particles in a soil sample?",
     "options": {
-      "A": "Sand",
-      "B": "Silt",
-      "C": "Clay",
-      "D": "Gravel"
+      "A": "Soil texture",
+      "B": "Soil structure",
+      "C": "Soil profile",
+      "D": "Soil porosity"
     },
-    "answer": "C",
-    "explanation": "Clay particles are less than 0.002 mm in diameter, giving clay high surface area, micropores, and maximum moisture retention.",
-    "topic": "Soil Science",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "Soil texture is the permanent physical distribution of mineral particles (sand, silt, clay), determining drainage, aeration, and cation exchange capacity.",
+    "topic": "Soil Science / Physical Properties",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 2,
-    "question": "The main fertilizer element required by crops for vigorous vegetative leaf growth and dark green foliage is:",
+    "question": "In crop husbandry, legumes are valued in crop rotation systems primarily because they:",
     "options": {
-      "A": "Phosphorus",
-      "B": "Potassium",
-      "C": "Nitrogen",
+      "A": "fix atmospheric nitrogen into soil via symbiotic Rhizobium root nodules",
+      "B": "deplete soil moisture completely",
+      "C": "increase soil acidity rapidly",
+      "D": "repel all flying insect pests"
+    },
+    "answer": "A",
+    "explanation": "Legumes harbor nitrogen-fixing Rhizobium bacteria in root nodules, replenishing soil nitrates and improving fertility for subsequent cereal crops.",
+    "topic": "Agronomy / Crop Rotation & Soil Fertility",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The fungal disease characterized by black, mummified pods in Theobroma cacao (cocoa) plantations is:",
+    "options": {
+      "A": "Black pod disease (Phytophthora palmivora)",
+      "B": "Swollen shoot disease",
+      "C": "Coffee rust",
+      "D": "Bacterial blight"
+    },
+    "answer": "A",
+    "explanation": "Black pod disease is caused by Phytophthora fungi, spreading rapidly during humid rainy seasons and controlled by copper fungicide sprays.",
+    "topic": "Crop Protection / Plant Pathology",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A farm implement designed for secondary tillage to pulverize clods, level seedbeds, and incorporate fertilizers is the:",
+    "options": {
+      "A": "Disc harrow",
+      "B": "Disc plough",
+      "C": "Mouldboard plough",
+      "D": "Subsoiler"
+    },
+    "answer": "A",
+    "explanation": "Ploughs perform primary tillage (inverting heavy soil), while harrows pulverize clods and create fine tilth for sowing seeds.",
+    "topic": "Agricultural Engineering / Farm Implements",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The practice of growing crops in alternating strips along the contour of a slope to reduce water erosion is called:",
+    "options": {
+      "A": "Strip cropping",
+      "B": "Terracing",
+      "C": "Shifting cultivation",
+      "D": "Monocropping"
+    },
+    "answer": "A",
+    "explanation": "Strip cropping alternates erosion-prone row crops (like maize) with soil-conserving dense crops (like legumes or grasses) across contours.",
+    "topic": "Soil Conservation / Erosion Control",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following macronutrients is primarily responsible for promoting vigorous vegetative leaf growth and dark green foliage in crops?",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Phosphorus",
+      "C": "Potassium",
       "D": "Calcium"
     },
-    "answer": "C",
-    "explanation": "Nitrogen (N) stimulates rapid vegetative growth, leafy development, and chlorophyll formation.",
-    "topic": "Plant Nutrients & Soil Fertility",
-    "exam": "WAEC"
-  },
-  {
-    "id": 3,
-    "question": "Leguminous cover crops are important in crop rotation because their root nodules host:",
-    "options": {
-      "A": "Mycorrhiza fungi",
-      "B": "Rhizobium bacteria that fix atmospheric nitrogen",
-      "C": "Parasitic nematodes",
-      "D": "Earthworms"
-    },
-    "answer": "B",
-    "explanation": "Rhizobium bacteria in the root nodules of legumes fix free atmospheric nitrogen into soil nitrates, enhancing fertility.",
-    "topic": "Crop Rotation & Soil Biology",
-    "exam": "JAMB"
-  },
-  {
-    "id": 4,
-    "question": "Which of the following farm tools is used for turning soil, digging trenches, and lifting root tubers?",
-    "options": {
-      "A": "Spade",
-      "B": "Sickle",
-      "C": "Secateurs",
-      "D": "Rake"
-    },
     "answer": "A",
-    "explanation": "A spade has a flat rectangular blade designed for digging, turning soil, and harvesting tubers.",
-    "topic": "Simple Farm Tools",
-    "exam": "WAEC"
-  },
-  {
-    "id": 5,
-    "question": "The propagation of cassava is predominantly achieved through:",
-    "options": {
-      "A": "Seeds",
-      "B": "Stem cuttings",
-      "C": "Leaf buds",
-      "D": "Tubers"
-    },
-    "answer": "B",
-    "explanation": "Cassava is vegetatively propagated using mature woody stem cuttings planted angled or flat in ridges.",
-    "topic": "Crop Production (Root Crops)",
-    "exam": "JAMB"
-  },
-  {
+    "explanation": "Nitrogen is a core constituent of amino acids and chlorophyll; adequate nitrogen stimulates leafy vegetative vigor, while deficiency causes chlorosis.",
+    "topic": "Plant Nutrition / Macronutrients",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 6,
-    "question": "The artificial application of water to agricultural land to supplement rainfall is termed:",
-    "options": {
-      "A": "Drainage",
-      "B": "Irrigation",
-      "C": "Mulching",
-      "D": "Infiltration"
-    },
-    "answer": "B",
-    "explanation": "Irrigation is the artificial conveyance and application of water to farm plots for crop growth during dry spells.",
-    "topic": "Water Management in Agriculture",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 7,
-    "question": "A devastating fungal disease affecting Cocoa pods in West Africa characterized by blackened rotting pods is:",
+    "question": "The Land Use Act of 1978 in Nigeria vested the ownership of all land in each state in the:",
     "options": {
-      "A": "Black pod disease",
-      "B": "Swollen shoot virus",
-      "C": "Panama disease",
-      "D": "Rust"
+      "A": "State Governor (held in trust for the people)",
+      "B": "Traditional paramount rulers",
+      "C": "Local government chairmen",
+      "D": "Federal Minister of Agriculture"
     },
     "answer": "A",
-    "explanation": "Black pod disease caused by the fungus Phytophthora palmivora is a severe threat to cocoa farms in Nigeria.",
-    "topic": "Plant Pathology & Crop Protection",
-    "exam": "JAMB"
+    "explanation": "Under the 1978 Land Use Act, all land within a state is vested in the Governor, who administers it in trust for public benefit through Certificates of Occupancy (C of O).",
+    "topic": "Agricultural Economics / Land Tenure Systems",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which plant propagation method involves rooting a stem while it is still attached to the parent plant?",
+    "options": {
+      "A": "Layering (e.g. marcottage/air layering)",
+      "B": "Stem cutting",
+      "C": "Budding (T-budding)",
+      "D": "Grafting"
+    },
+    "answer": "A",
+    "explanation": "Layering induces adventitious root formation on an aerial stem before detaching it from the parent stock.",
+    "topic": "Horticulture & Plant Propagation",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 8,
-    "question": "The practice of growing crops and raising livestock concurrently on the same farm is known as:",
-    "options": {
-      "A": "Monoculture",
-      "B": "Mixed farming",
-      "C": "Shifting cultivation",
-      "D": "Pastoral nomadism"
-    },
-    "answer": "B",
-    "explanation": "Mixed farming integrates both arable crop cultivation and livestock husbandry on the same land.",
-    "topic": "Farming Systems",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The insect pest that attacks cereal crops by drilling into stems and feeding internally, causing deadhearts in young maize plants, is the:",
+    "options": {
+      "A": "Maize stem borer (Busseola fusca)",
+      "B": "Weevil",
+      "C": "Variegated grasshopper",
+      "D": "Aphid"
+    },
+    "answer": "A",
+    "explanation": "Stem borer larvae tunnel into maize whorls and stalks, disrupting vascular transport and killing the central shoot ('deadheart').",
+    "topic": "Crop Pests & Pest Control",
+    "exam": "WAEC SSCE",
+    "year": "2020",
     "id": 9,
-    "question": "Soil erosion can be prevented on steep sloping farmlands by:",
-    "options": {
-      "A": "Overgrazing",
-      "B": "Terracing and contour plowing",
-      "C": "Clean clearing",
-      "D": "Deforestation"
-    },
-    "answer": "B",
-    "explanation": "Terracing and contour ridges break the velocity of runoff on slopes, preventing topsoil erosion.",
-    "topic": "Soil Conservation",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "The major environmental factor that determines the distribution of vegetation and farming zones in Nigeria is:",
+    "question": "A complete fertilizer with grade NPK 15:15:15 contains:",
     "options": {
-      "A": "Soil pH",
-      "B": "Rainfall pattern and duration",
-      "C": "Wind velocity",
-      "D": "Atmospheric pressure"
+      "A": "15% Nitrogen, 15% Phosphorus (P₂O₅), and 15% Potassium (K₂O)",
+      "B": "15 kg of pure sulfur and trace iron",
+      "C": "45% elemental calcium",
+      "D": "Zero potassium"
     },
-    "answer": "B",
-    "explanation": "Annual rainfall volume and duration determine Nigeria's agro-ecological zones (Mangrove, Rainforest, Guinea Savanna, Sudan/Sahel).",
-    "topic": "Environmental Factors in Agriculture",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "NPK 15-15-15 is a balanced inorganic fertilizer supplying 15% by weight of elemental N, available phosphate, and soluble potash.",
+    "topic": "Fertilizers & Soil Amendments",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which method of irrigation applies water drop-by-drop directly to the root zone of crops, minimizing evaporation losses?",
+    "options": {
+      "A": "Drip (trickle) irrigation",
+      "B": "Sprinkler irrigation",
+      "C": "Flood irrigation",
+      "D": "Furrow irrigation"
+    },
+    "answer": "A",
+    "explanation": "Drip irrigation delivers regulated water and soluble nutrients directly to plant roots via micro-emitters, achieving up to 95% water efficiency.",
+    "topic": "Irrigation & Water Management",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The process of removing excess, overcrowded seedlings from a nursery bed to provide adequate spacing is called:",
+    "options": {
+      "A": "Thinning",
+      "B": "Pricking out",
+      "C": "Supplying",
+      "D": "Mulching"
+    },
+    "answer": "A",
+    "explanation": "Thinning removes weak or densely clustered seedlings to avoid competition for light, space, and nutrients. Supplying is replanting un-germinated stands.",
+    "topic": "Agronomic Practices / Nursery Operations",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a symptom of viral Swollen Shoot Disease in cocoa trees?",
+    "options": {
+      "A": "Swelling of nodes, fan branches, and red vein-banding on leaves",
+      "B": "Yellow powder on the underside of pods",
+      "C": "Rotting of the taproot",
+      "D": "White powdery fungal growth on trunk"
+    },
+    "answer": "A",
+    "explanation": "Cocoa Swollen Shoot Virus (CSSV), transmitted by mealybugs, produces characteristic branch and chupon swellings and mosaic leaf discoloration.",
+    "topic": "Plant Pathology / Cocoa Diseases",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The economic law stating that as additional units of a variable input are added to fixed land, the addition to total output eventually declines is the:",
+    "options": {
+      "A": "Law of Diminishing Returns",
+      "B": "Law of Demand and Supply",
+      "C": "Law of Comparative Cost",
+      "D": "Law of Elasticity"
+    },
+    "answer": "A",
+    "explanation": "The Law of Diminishing Marginal Returns states that beyond a certain point, successive additions of variable labor/fertilizer yield smaller output increments.",
+    "topic": "Agricultural Economics / Production Principles",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which agricultural extension teaching method involves demonstrating a new farming technique step-by-step before a small group of farmers?",
+    "options": {
+      "A": "Method demonstration",
+      "B": "Radio broadcast",
+      "C": "Result demonstration",
+      "D": "Circular letter"
+    },
+    "answer": "A",
+    "explanation": "Method demonstration trains farmers in procedural execution (e.g. how to calibrate a knapsack sprayer or graft a seedling) through direct live instruction.",
+    "topic": "Agricultural Extension & Rural Sociology",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An acid soil with a pH of 4.5 can be neutralized and improved for arable crop production by applying:",
+    "options": {
+      "A": "Agricultural lime (calcium carbonate or dolomite)",
+      "B": "Ammonium sulfate fertilizer",
+      "C": "Urea",
+      "D": "Sulfur dust"
+    },
+    "answer": "A",
+    "explanation": "Liming materials (CaCO₃, Ca(OH)₂, dolomite) neutralize excess hydrogen and aluminium ions, raising soil pH to the optimal 6.0-6.8 range.",
+    "topic": "Soil Management / Liming & Soil Acidity",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which parasitic weed attaches to the roots of cereals like sorghum and maize in the savanna regions, stunting plant growth?",
+    "options": {
+      "A": "Striga hermonthica (witchweed)",
+      "B": "Spear grass (Imperata cylindrica)",
+      "C": "Siam weed (Chromolaena odorata)",
+      "D": "Water hyacinth"
+    },
+    "answer": "A",
+    "explanation": "Striga is an obligate parasitic flowering plant that penetrates cereal root systems, siphoning nutrients and releasing phytotoxins causing severe stunting.",
+    "topic": "Weed Science / Parasitic Weeds",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The financial statement that lists all farm assets and liabilities on a specific date to determine the farmer's net worth is the:",
+    "options": {
+      "A": "Balance Sheet (Net Worth Statement)",
+      "B": "Cash Flow Budget",
+      "C": "Income Statement",
+      "D": "Enterprise Budget"
+    },
+    "answer": "A",
+    "explanation": "A farm balance sheet establishes solvency and liquidity at a specific calendar date: Net Worth = Total Farm Assets - Total Farm Liabilities.",
+    "topic": "Farm Records & Accounting",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In fish farming, the practice of stocking fish species with different feeding habits together in the same pond to utilize all ecological food niches is:",
+    "options": {
+      "A": "Polyculture",
+      "B": "Monoculture",
+      "C": "Integrated farming",
+      "D": "Aquaponics"
+    },
+    "answer": "A",
+    "explanation": "Polyculture combines surface, column, and bottom feeders (e.g. Catfish and Tilapia) to maximize feed utilization without trophic competition.",
+    "topic": "Fisheries / Aquaculture Systems",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A fungal disease of cereal crops where grain heads are replaced by powdery black masses of chlamydospores is:",
+    "options": {
+      "A": "Smut (e.g. loose smut of sorghum/maize)",
+      "B": "Blight",
+      "C": "Mosaic",
+      "D": "Anthracnose"
+    },
+    "answer": "A",
+    "explanation": "Smuts (Ustilago species) transform floral organs and developing kernels into soot-like masses of dark spores enclosed in delicate membranes.",
+    "topic": "Crop Pathology / Cereal Smuts",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which silvicultural practice involves felling mature trees while leaving young trees and stumps that regenerate shoots from coppicing?",
+    "options": {
+      "A": "Coppice system",
+      "B": "Clear felling",
+      "C": "Shelterwood system",
+      "D": "Afforestation"
+    },
+    "answer": "A",
+    "explanation": "Coppicing utilizes vegetative regeneration from cut stump stools to produce successive crops of poles, firewood, or timber.",
+    "topic": "Forestry Management / Regeneration",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a symptom of phosphorus deficiency in young crop plants?",
+    "options": {
+      "A": "Purple or reddish-bronze pigmentation on leaves and stunted root systems",
+      "B": "Excessive dark green soft vegetative growth",
+      "C": "Marginal scorching on mature leaves",
+      "D": "Yellowing of terminal buds only"
+    },
+    "answer": "A",
+    "explanation": "Phosphorus is vital for ATP energy transfer and nucleic acids; deficiency impairs root elongation and induces purple anthocyanin accumulation.",
+    "topic": "Plant Nutrition / Phosphorus Deficiency",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary function of a carburetor or fuel injector in a farm tractor's internal combustion engine?",
+    "options": {
+      "A": "Atomizing and mixing air with fuel in correct proportions for combustion",
+      "B": "Cooling the engine cylinder block",
+      "C": "Regulating electrical battery voltage",
+      "D": "Lubricating the crankshaft bearings"
+    },
+    "answer": "A",
+    "explanation": "Fuel injection/carburetion systems meter and vaporize fuel with incoming air into an optimal stoichiometric ratio for compression ignition.",
+    "topic": "Farm Power & Machinery / Tractor Engines",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The ecological agro-forestry system where food crops are cultivated between hedgerows of planted fast-growing leguminous trees is called:",
+    "options": {
+      "A": "Alley cropping",
+      "B": "Pastoral nomadism",
+      "C": "Shifting cultivation",
+      "D": "Monoculture"
+    },
+    "answer": "A",
+    "explanation": "Alley cropping (hedgerow intercropping) prunes trees like Leucaena to mulch crop alleys, suppressing weeds and conserving organic matter.",
+    "topic": "Agro-Forestry / Alley Cropping",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In marketing agricultural produce, the middleman who purchases in large wholesale quantities from farm gates and sells to retailers is a:",
+    "options": {
+      "A": "Wholesaler",
+      "B": "Commission broker",
+      "C": "Consumer",
+      "D": "Retailer"
+    },
+    "answer": "A",
+    "explanation": "Wholesalers assemble bulk farm harvests, provide storage/grading, break bulk into smaller lots, and distribute to retail merchants.",
+    "topic": "Agricultural Marketing / Marketing Channels",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

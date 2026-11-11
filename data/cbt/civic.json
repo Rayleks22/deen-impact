@@ -1,142 +1,402 @@
 [
   {
+    "question": "Which of the following best defines 'Integrity' as a national civic value?",
+    "options": {
+      "A": "Consistently adhering to sound moral and ethical principles even when unobserved",
+      "B": "Amassing wealth through shrewd bureaucratic transactions",
+      "C": "Blind obedience to partisan political directives",
+      "D": "Seeking personal advantage during national elections"
+    },
+    "answer": "A",
+    "explanation": "Integrity entails honesty, strong moral uprightness, and wholeness of character in both private conduct and public duty.",
+    "topic": "National Values / Integrity",
+    "exam": "WAEC SSCE",
+    "year": "2024",
     "id": 1,
-    "question": "The highest law of the Federal Republic of Nigeria to which all other laws must conform is the:",
-    "options": {
-      "A": "Acts of the National Assembly",
-      "B": "The Constitution",
-      "C": "Customary Law",
-      "D": "Supreme Court Circular"
-    },
-    "answer": "B",
-    "explanation": "The Constitution is supreme and binding on all authorities and persons throughout Nigeria (Section 1 of the 1999 Constitution).",
-    "topic": "The Nigerian Constitution",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "A key responsibility of a responsible citizen in a democratic society is:",
+    "options": {
+      "A": "Payment of legitimate taxes and rates to the government",
+      "B": "Refusing to accept police summons",
+      "C": "Forming armed vigilance militias without government registration",
+      "D": "Promoting ethnic chauvinism on social media"
+    },
+    "answer": "A",
+    "explanation": "Civic duties include obeying laws, paying taxes promptly, voting, protecting public property, and defending the sovereignty of the nation.",
+    "topic": "Citizenship / Duties & Obligations",
+    "exam": "JAMB UTME",
+    "year": "2023",
     "id": 2,
-    "question": "Which of the following values promotes peaceful coexistence and national integration in a multicultural society?",
-    "options": {
-      "A": "Ethnocentrism",
-      "B": "Tolerance",
-      "C": "Nepotism",
-      "D": "Fanaticism"
-    },
-    "answer": "B",
-    "explanation": "Tolerance and mutual respect are essential civic values for unity in diverse societies.",
-    "topic": "National Values",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The Universal Declaration of Human Rights (UDHR) was formally adopted by the United Nations General Assembly in:",
+    "options": {
+      "A": "December 10, 1948",
+      "B": "October 1, 1960",
+      "C": "January 1, 1914",
+      "D": "May 29, 1999"
+    },
+    "answer": "A",
+    "explanation": "The historic UDHR was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 as a common standard of achievements for all peoples.",
+    "topic": "Human Rights / UDHR",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 3,
-    "question": "The agency established in Nigeria to combat human trafficking and child exploitation is:",
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a direct negative consequence of cultism in Nigerian tertiary and secondary institutions?",
+    "options": {
+      "A": "Violence, breakdown of law and order, and loss of young lives",
+      "B": "Higher academic distinction rates in university degrees",
+      "C": "Rapid infrastructural development on campuses",
+      "D": "Strengthening of peaceful fraternal student unions"
+    },
+    "answer": "A",
+    "explanation": "Cultism fosters thuggery, extortion, ritual killings, drug abuse, emotional trauma, and disruption of academic calendars.",
+    "topic": "Social Problems / Cultism",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The National Drug Law Enforcement Agency (NDLEA) is statutorily mandated to:",
+    "options": {
+      "A": "eliminate the illicit trafficking, manufacture, and consumption of narcotic substances",
+      "B": "issue driver's licenses and vehicle inspection certificates",
+      "C": "manage the federal highway safety patrols",
+      "D": "inspect imported canned foods for expired dates"
+    },
+    "answer": "A",
+    "explanation": "NDLEA was established by Decree No. 48 of 1989 to eradicate drug trafficking, dismantle cartels, and rehabilitate substance abuse victims.",
+    "topic": "Regulatory Agencies / NDLEA",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which agency in Nigeria is primarily tasked with combating human trafficking, especially of women and children?",
     "options": {
       "A": "NAPTIP",
-      "B": "NDLEA",
-      "C": "EFCC",
-      "D": "FRSC"
+      "B": "NAFDAC",
+      "C": "FRSC",
+      "D": "EFCC"
     },
     "answer": "A",
-    "explanation": "NAPTIP (National Agency for the Prohibition of Trafficking in Persons) specifically tackles human trafficking and child abuse.",
-    "topic": "Law Enforcement & Human Rights",
-    "exam": "WAEC"
-  },
-  {
-    "id": 4,
-    "question": "A major responsibility of a good citizen towards national defense and safety is:",
-    "options": {
-      "A": "Reporting criminal activities and threats to security agencies",
-      "B": "Taking the law into one's own hands",
-      "C": "Harbouring illegal immigrants",
-      "D": "Avoiding civic duties"
-    },
-    "answer": "A",
-    "explanation": "Citizens have a duty to report suspicious activities and collaborate with lawful security forces.",
-    "topic": "Citizenship Obligations",
-    "exam": "WAEC"
-  },
-  {
-    "id": 5,
-    "question": "The political apathy observed during elections can be reduced through:",
-    "options": {
-      "A": "Sensitization and civic voter education",
-      "B": "Electoral violence",
-      "C": "Underage voting",
-      "D": "Disenfranchising rural communities"
-    },
-    "answer": "A",
-    "explanation": "Civic education enlightens voters on the importance of their franchise, thereby reducing apathy.",
-    "topic": "Political Apathy & Participation",
-    "exam": "WAEC"
-  },
-  {
+    "explanation": "The National Agency for the Prohibition of Trafficking in Persons (NAPTIP) addresses human trafficking, organ harvesting, and child labour.",
+    "topic": "Social Vices / Human Trafficking & NAPTIP",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 6,
-    "question": "Which of the following is a fundamental human right recognized internationally and constitutionally in Nigeria?",
-    "options": {
-      "A": "Right to evade taxes",
-      "B": "Right to life and dignity of the human person",
-      "C": "Right to carry unregistered firearms",
-      "D": "Right to disobey lawful court orders"
-    },
-    "answer": "B",
-    "explanation": "Section 33 of the 1999 Constitution guarantees the right to life as a supreme fundamental human right.",
-    "topic": "Human Rights",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 7,
-    "question": "The National Drug Law Enforcement Agency (NDLEA) is charged with the responsibility of:",
+    "question": "Which of the following is a pillar of constitutional democracy?",
     "options": {
-      "A": "Regulating packaged food products",
-      "B": "Eradicating illicit drug manufacturing and trafficking",
-      "C": "Preventing road traffic crashes",
-      "D": "Prosecuting financial internet scams"
-    },
-    "answer": "B",
-    "explanation": "NDLEA enforces laws against illicit cultivation, production, trafficking, and consumption of narcotic drugs.",
-    "topic": "Social Vices & Enforcement",
-    "exam": "WAEC"
-  },
-  {
-    "id": 8,
-    "question": "Rule of Law guarantees all the following EXCEPT:",
-    "options": {
-      "A": "Equality before the law",
-      "B": "Arbitrary arrest and detention without trial",
-      "C": "Right to fair hearing",
-      "D": "Supremacy of the constitution"
-    },
-    "answer": "B",
-    "explanation": "Arbitrary arrests violate the rule of law; the rule of law guarantees due process and protection against arbitrary state power.",
-    "topic": "Rule of Law",
-    "exam": "WAEC"
-  },
-  {
-    "id": 9,
-    "question": "Cultism in educational institutions is harmful primarily because it:",
-    "options": {
-      "A": "Promotes academic debate",
-      "B": "Leads to violence, loss of life, and moral decay",
-      "C": "Encourages sportsmanship",
-      "D": "Enhances community leadership"
-    },
-    "answer": "B",
-    "explanation": "Cultism breeds destructive violent behaviors, insecurity, and tragic loss of promising youth lives.",
-    "topic": "Cultism & Youth Crimes",
-    "exam": "WAEC"
-  },
-  {
-    "id": 10,
-    "question": "The arms of government established to ensure checks and balances are:",
-    "options": {
-      "A": "Executive, Legislature, and Judiciary",
-      "B": "Military, Police, and Civil Defense",
-      "C": "Federal, State, and Local governments",
-      "D": "President, Senate, and Governors"
+      "A": "Periodic, free, fair, and credible elections",
+      "B": "Indefinite suspension of national constitutions",
+      "C": "Military tribunals for civilian criminal trials",
+      "D": "Imposition of an official state party"
     },
     "answer": "A",
-    "explanation": "The tripartite separation of powers divides governance between Executive, Legislature, and Judiciary to prevent tyranny.",
-    "topic": "Democratic Institutions",
-    "exam": "WAEC"
+    "explanation": "Pillars of democracy comprise periodic competitive elections, rule of law, independent judiciary, multi-party system, and free press.",
+    "topic": "Democracy & Rule of Law",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Nigeria, the agency responsible for coordinating traffic safety and reducing highway casualties is the:",
+    "options": {
+      "A": "Federal Road Safety Corps (FRSC)",
+      "B": "Nigeria Customs Service",
+      "C": "Civil Defence Corps",
+      "D": "VIO only"
+    },
+    "answer": "A",
+    "explanation": "The FRSC is the federal agency established to prevent road accidents, educate drivers, inspect roadworthiness, and enforce speed limits.",
+    "topic": "Public Agencies / FRSC",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary role of the Independent National Electoral Commission (INEC)?",
+    "options": {
+      "A": "Organizing, conducting, and supervising elections into federal and state offices",
+      "B": "Appointing state governors and local council chairmen directly",
+      "C": "Passing fiscal budgets in the National Assembly",
+      "D": "Adjudicating election petition appeals"
+    },
+    "answer": "A",
+    "explanation": "INEC is the autonomous constitutional body responsible for conducting elections for President, Governors, National and State Assembly seats.",
+    "topic": "Democratic Institutions / INEC",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Orderliness in society can be fostered effectively through:",
+    "options": {
+      "A": "cultivating the habit of queuing patiently in public places",
+      "B": "disregarding traffic signal lights at intersections",
+      "C": "jumping customer service lines in banks",
+      "D": "bribing public officials for expedited services"
+    },
+    "answer": "A",
+    "explanation": "Orderliness represents systematic, respectful, and disciplined public conduct, exemplified by decorous queuing in public spaces.",
+    "topic": "National Values / Orderliness",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a fundamental civic skill needed for constructive citizen engagement?",
+    "options": {
+      "A": "Critical thinking, negotiation, and peaceful advocacy",
+      "B": "Violent street demonstrations that destroy public property",
+      "C": "Apathy toward local government affairs",
+      "D": "Refusal to verify social media misinformation"
+    },
+    "answer": "A",
+    "explanation": "Civic competence requires rational policy analysis, diplomatic negotiation, consensus building, and non-violent civic advocacy.",
+    "topic": "Civic Skills & Engagement",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Independent Corrupt Practices and Other Related Offences Commission (ICPC) was established primarily to:",
+    "options": {
+      "A": "prohibit, investigate, and prosecute corrupt practices in public offices",
+      "B": "manage the external national debt profile",
+      "C": "settle international boundary conflicts",
+      "D": "audit private non-governmental charities only"
+    },
+    "answer": "A",
+    "explanation": "The Corrupt Practices and Other Related Offences Act 2000 established the ICPC to receive complaints, investigate, and prosecute bribery and corruption in public bodies.",
+    "topic": "Anti-Corruption Institutions / ICPC",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which category of human rights guarantees individuals freedom from torture and arbitrary imprisonment?",
+    "options": {
+      "A": "Civil and political rights",
+      "B": "Economic rights only",
+      "C": "Environmental solidarity rights",
+      "D": "Cultural heritage rights"
+    },
+    "answer": "A",
+    "explanation": "Civil and political rights (first-generation rights) protect individual physical integrity, liberty, fair trial, and procedural justice against arbitrary state power.",
+    "topic": "Human Rights Categories",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "HIV/AIDS stigmatization in public communities is harmful because it:",
+    "options": {
+      "A": "drives infected persons underground, discouraging testing and medical treatment",
+      "B": "accelerates the industrial production of antiretroviral drugs",
+      "C": "eliminates virus transmission instantly",
+      "D": "boosts voluntary blood donation across clinics"
+    },
+    "answer": "A",
+    "explanation": "Stigma breeds silence, fear, and social ostracization, which prevents individuals from knowing their status or seeking lifesaving antiretroviral therapy.",
+    "topic": "Public Health & Social Stigma",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary objective of community development projects undertaken by youth organizations?",
+    "options": {
+      "A": "Fostering collective self-reliance, local infrastructure, and social cohesion",
+      "B": "Replacing commercial banking enterprises in towns",
+      "C": "Generating speculative wealth for community elders",
+      "D": "Opposing state educational policies"
+    },
+    "answer": "A",
+    "explanation": "Community self-help projects pool local human and material resources to solve pressing municipal challenges (e.g. sanitation, road grading, clean water).",
+    "topic": "Community Development & Self-Reliance",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A citizen who discovers a dangerous illegal arms cache in their neighborhood demonstrates positive civic duty by:",
+    "options": {
+      "A": "promptly notifying the lawful security agencies in confidence",
+      "B": "concealing the weapons for personal self-defense",
+      "C": "selling the arms to neighborhood youths",
+      "D": "taking photos and broadcasting without alerting law enforcement"
+    },
+    "answer": "A",
+    "explanation": "Responsible citizenship demands proactive cooperation with lawful security forces to protect public peace and preserve national security.",
+    "topic": "Citizenship & National Security",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which document serves as the supreme legal foundation of the Federal Republic of Nigeria?",
+    "options": {
+      "A": "The Constitution of the Federal Republic of Nigeria",
+      "B": "The Police Act",
+      "C": "The Companies and Allied Matters Act",
+      "D": "The Civil Service Rules Manual"
+    },
+    "answer": "A",
+    "explanation": "Section 1 of the 1999 Constitution affirms that the Constitution is supreme and its provisions have binding force on all authorities and persons throughout Nigeria.",
+    "topic": "Constitution & Rule of Law",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is political apathy?",
+    "options": {
+      "A": "A lack of interest, indifference, and refusal to participate in political and civic activities",
+      "B": "Active membership in multiple opposition parties",
+      "C": "Enthusiastic registration of prospective voters",
+      "D": "Contesting for local government council elections"
+    },
+    "answer": "A",
+    "explanation": "Political apathy manifests as public alienation, refusal to register or vote, and disengagement from democratic governance.",
+    "topic": "Political Apathy",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following can prevent electoral malpractice during general elections?",
+    "options": {
+      "A": "Adoption of transparent biometric verification and electronic result transmission",
+      "B": "Snatching and stuffing of ballot boxes in remote polling units",
+      "C": "Inducing voters with cash and food gifts at voting centers",
+      "D": "Intimidating electoral officers with armed thugs"
+    },
+    "answer": "A",
+    "explanation": "Modern biometric authentication (like BVAS) and automated digital transmission of results enhance transparency and eliminate phantom votes.",
+    "topic": "Electoral Integrity & Malpractice Prevention",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "National consciousness is best described as:",
+    "options": {
+      "A": "a deep sense of loyalty, unity, and shared love for one's country above ethnic divisions",
+      "B": "blind promotion of one's tribal language above all other groups",
+      "C": "preferential treatment of individuals based on state of origin",
+      "D": "emigrating permanently to foreign nations"
+    },
+    "answer": "A",
+    "explanation": "National consciousness transcends parochial tribal or religious allegiances, cultivating patriotism, mutual respect, and national integration.",
+    "topic": "National Identity & Consciousness",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The primary agency in Nigeria tasked with ensuring food and drug safety, standards, and registration is:",
+    "options": {
+      "A": "NAFDAC",
+      "B": "SON",
+      "C": "NURTW",
+      "D": "NERDC"
+    },
+    "answer": "A",
+    "explanation": "The National Agency for Food and Drug Administration and Control (NAFDAC) regulates the manufacture, importation, advertisement, and distribution of foods, drugs, and cosmetics.",
+    "topic": "Regulatory Agencies / NAFDAC",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following acts promotes peaceful coexistence in a diverse multi-ethnic country like Nigeria?",
+    "options": {
+      "A": "Tolerance, inter-cultural dialogue, and religious understanding",
+      "B": "Hate speeches and religious intolerance",
+      "C": "Marginalization of minority cultural traditions",
+      "D": "Stereotyping neighboring ethnic groups"
+    },
+    "answer": "A",
+    "explanation": "Pluralistic democracies thrive on mutual accommodation, tolerance of religious differences, inter-ethnic marriages, and respectful civic dialogue.",
+    "topic": "Peace & Conflict Resolution",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Consumer rights include the right to:",
+    "options": {
+      "A": "safety, information, choice, and fair hearing for substandard goods",
+      "B": "unilaterally withhold payment after consuming goods",
+      "C": "defame merchants without purchase receipts",
+      "D": "evade retail sales taxes"
+    },
+    "answer": "A",
+    "explanation": "Under consumer protection frameworks (FCCPC), consumers have the fundamental right to safety, accurate product labeling, choices, and compensation for defects.",
+    "topic": "Consumer Rights & Responsibilities",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The National Youth Service Corps (NYSC) scheme was established in 1973 primarily to:",
+    "options": {
+      "A": "foster national unity, reconciliation, and integration among Nigerian youths",
+      "B": "provide combat troops for external peacekeeping wars",
+      "C": "eliminate university degree tuition fees",
+      "D": "replace the federal civil service cadre"
+    },
+    "answer": "A",
+    "explanation": "General Yakubu Gowon instituted NYSC in May 1973 (Decree No. 24) following the civil war to deploy graduates outside their native states to promote national unity.",
+    "topic": "National Integration / NYSC",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A major way by which individuals can develop self-reliance and reduce unemployment is through:",
+    "options": {
+      "A": "Vocational and technical skills acquisition (entrepreneurship)",
+      "B": "Relying exclusively on civil service appointments",
+      "C": "Waiting for political patronage handouts",
+      "D": "Borrowing funds for lavish social ceremonies"
+    },
+    "answer": "A",
+    "explanation": "Acquiring practical vocational skills (ICT, crafts, agriculture, fabrication) empowers youths to establish viable businesses, creating self-employment and jobs.",
+    "topic": "Youth Empowerment & Self-Reliance",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe commissioner made an <u>ephemeral</u> remark during the press briefing.",
     "options": {
       "A": "permanent",
@@ -11,10 +10,12 @@
     "answer": "B",
     "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' is its closest synonym.",
     "topic": "Synonyms & Lexis",
-    "exam": "JAMB"
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 2,
     "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nHer <u>audacious</u> approach to the dispute shocked the entire committee.",
     "options": {
       "A": "timid",
@@ -23,12 +24,14 @@
       "D": "insolent"
     },
     "answer": "A",
-    "explanation": "'Audacious' means showing a willingness to take bold risks or being insolent. The direct opposite is 'timid' (fearful or lacking courage).",
+    "explanation": "'Audacious' means bold, daring, or insolent. The direct opposite is 'timid' (fearful, hesitant).",
     "topic": "Antonyms",
-    "exam": "JAMB"
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 3,
     "question": "From the options lettered A to D, choose the word that has the SAME VOWEL SOUND as the one represented by the underlined letter(s):\nb<u>ir</u>d",
     "options": {
       "A": "heart",
@@ -39,10 +42,12 @@
     "answer": "B",
     "explanation": "The word 'bird' has the vowel sound /ɜː/. The word 'word' also has the /ɜː/ vowel sound.",
     "topic": "Oral Forms / Vowel Sounds",
-    "exam": "WAEC"
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 4,
     "question": "Choose the option that best completes the sentence:\nNeither the teacher nor the students _______ present at the orientation.",
     "options": {
       "A": "was",
@@ -53,90 +58,345 @@
     "answer": "B",
     "explanation": "When two subjects are joined by 'neither... nor', the verb agrees in number with the subject closer to it ('the students' is plural, hence 'were').",
     "topic": "Grammar & Concord",
-    "exam": "JAMB"
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 5,
     "question": "Choose the option that best explains the idiom:\nTo <u>cut corners</u> in project execution often leads to catastrophe.",
     "options": {
-      "A": "To follow safety guidelines strictly",
-      "B": "To do something perfunctorily to save money or time",
-      "C": "To trim excess wood at corners",
-      "D": "To seek professional counsel"
+      "A": "to turn sharp bends quickly",
+      "B": "to do something poorly in order to save time or money",
+      "C": "to divide into equal segments",
+      "D": "to recruit unqualified engineers"
     },
     "answer": "B",
-    "explanation": "'To cut corners' is an idiom meaning to undertake something in an easy, cheap, or careless way.",
-    "topic": "Idioms & Figurative Expressions",
-    "exam": "WAEC"
+    "explanation": "'To cut corners' means to undertake a task in the easiest, cheapest, or fastest way, often at the expense of quality and safety.",
+    "topic": "Idioms & Figures of Speech",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Identify the option with the primary STRESS on the second syllable:",
+    "options": {
+      "A": "photograph",
+      "B": "photographer",
+      "C": "photographic",
+      "D": "photocopy"
+    },
+    "answer": "B",
+    "explanation": "pho-TOG-ra-pher /fəˈtɒɡrəfə/ has its primary stress on the second syllable.",
+    "topic": "Oral Forms / Stress Patterns",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 6,
-    "question": "Identify the word with the correct primary stress placement:",
-    "options": {
-      "A": "pho-TO-gra-pher",
-      "B": "PHO-to-gra-pher",
-      "C": "pho-to-GRA-pher",
-      "D": "pho-to-gra-PHER"
-    },
-    "answer": "A",
-    "explanation": "In 'photographer', the primary stress falls on the second syllable: pho-TO-gra-pher /fəˈtɒɡrəfə/.",
-    "topic": "Oral Stress Patterns",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Choose the correct preposition to complete the sentence:\nThe committee members could not agree _______ a date for the upcoming summit.",
+    "options": {
+      "A": "on",
+      "B": "with",
+      "C": "to",
+      "D": "for"
+    },
+    "answer": "A",
+    "explanation": "One 'agrees on' a plan, date, or decision with others; one 'agrees with' a person, and 'agrees to' a proposal.",
+    "topic": "Prepositions & Phrasal Verbs",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 7,
-    "question": "Choose the option that best completes the sentence:\nThe committee insisted that every candidate _______ by the rules.",
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe accountant was fired for <u>embezzling</u> company funds.",
     "options": {
-      "A": "abide",
-      "B": "abides",
-      "C": "abided",
-      "D": "is abiding"
+      "A": "misappropriating",
+      "B": "borrowing",
+      "C": "investing",
+      "D": "auditing"
     },
     "answer": "A",
-    "explanation": "Verbs expressing insistence, demand, or resolution take the subjunctive mood (base form of verb), so 'abide' is grammatically correct.",
-    "topic": "Subjunctive Mood",
-    "exam": "JAMB"
-  },
-  {
+    "explanation": "'Embezzle' means to secretly and illegally take funds entrusted to one's care. 'Misappropriating' is the accurate synonym.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 8,
-    "question": "Choose the correct spelling:",
-    "options": {
-      "A": "Accomodation",
-      "B": "Accommodation",
-      "C": "Acommodation",
-      "D": "Acomodation"
-    },
-    "answer": "B",
-    "explanation": "'Accommodation' is spelled with double 'c' and double 'm'.",
-    "topic": "Spelling",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Choose the option that correctly completes the sentence:\nIf Musa had prepared adequately, he _______ the scholarship exam.",
+    "options": {
+      "A": "would pass",
+      "B": "would have passed",
+      "C": "will pass",
+      "D": "passed"
+    },
+    "answer": "B",
+    "explanation": "Third conditional rule: 'If + past perfect (had prepared) ... would have + past participle (passed)'.",
+    "topic": "Conditional Clauses & Tenses",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 9,
-    "question": "Choose the interpretation that best describes the statement:\n'Had I known earlier, I would have intervened.' This implies that:",
-    "options": {
-      "A": "The speaker knew and intervened",
-      "B": "The speaker did not know and did not intervene",
-      "C": "The speaker knew but refused to intervene",
-      "D": "The speaker intervened without knowing"
-    },
-    "answer": "B",
-    "explanation": "Third conditional constructions express unfulfilled past hypotheses. The speaker didn't know in advance, hence did not intervene.",
-    "topic": "Conditionals & Sentence Interpretation",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "Fill in the blank with the appropriate preposition:\nThe principal congratulated the debate team _______ their outstanding victory.",
+    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nThe juvenile judge delivered a very <u>stringent</u> penalty to the offender.",
     "options": {
-      "A": "for",
-      "B": "on",
-      "C": "at",
-      "D": "with"
+      "A": "lenient",
+      "B": "harsh",
+      "C": "strict",
+      "D": "severe"
+    },
+    "answer": "A",
+    "explanation": "'Stringent' means rigorous, strict, or precise. The opposite is 'lenient' (permissive, merciful).",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that has the SAME CONSONANT SOUND as the one underlined in the given word:\n<u>ch</u>emistry",
+    "options": {
+      "A": "church",
+      "B": "anchor",
+      "C": "chef",
+      "D": "charity"
     },
     "answer": "B",
-    "explanation": "The verb 'congratulate' collocates with the preposition 'on' (congratulate someone ON something).",
-    "topic": "Prepositional Collocations",
-    "exam": "WAEC"
+    "explanation": "The 'ch' in 'chemistry' is pronounced /k/. 'Anchor' also has the /k/ sound, whereas 'church' is /tʃ/ and 'chef' is /ʃ/.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Select the option that best completes the sentence:\nNeither of the suspects _______ willing to confess to the robbery.",
+    "options": {
+      "A": "were",
+      "B": "is",
+      "C": "are",
+      "D": "have been"
+    },
+    "answer": "B",
+    "explanation": "'Neither' followed by 'of the [plural noun]' takes a singular verb in formal standard English ('is').",
+    "topic": "Grammar & Concord",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe candidate gave an <u>equivocal</u> answer to the journalist's query.",
+    "options": {
+      "A": "ambiguous",
+      "B": "clear",
+      "C": "straightforward",
+      "D": "concise"
+    },
+    "answer": "A",
+    "explanation": "'Equivocal' means open to more than one interpretation; deliberately ambiguous.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nThe newly appointed manager was praised for his <u>frugal</u> lifestyle.",
+    "options": {
+      "A": "economical",
+      "B": "extravagant",
+      "C": "prudent",
+      "D": "austere"
+    },
+    "answer": "B",
+    "explanation": "'Frugal' means sparing or economical with money. Its opposite is 'extravagant' (wasteful or spending excessively).",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following sentences illustrates the correct use of a subjunctive mood?",
+    "options": {
+      "A": "I wish I was in London today.",
+      "B": "The principal demanded that each student be seated by 8:00 AM.",
+      "C": "If he comes tomorrow, he will meet us.",
+      "D": "She speaks as if she knows everything."
+    },
+    "answer": "B",
+    "explanation": "The mandative subjunctive uses the base form of the verb ('be seated') following verbs of demand, request, or recommendation.",
+    "topic": "Grammar & Moods",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option with the correct question tag:\nShe hardly ever arrives on time, _______?",
+    "options": {
+      "A": "doesn't she",
+      "B": "does she",
+      "C": "isn't it",
+      "D": "has she"
+    },
+    "answer": "B",
+    "explanation": "'Hardly' carries a negative meaning, so the question tag must be positive ('does she?').",
+    "topic": "Question Tags",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "From the words lettered A to D, choose the word that contains the sound /θ/:",
+    "options": {
+      "A": "breathe",
+      "B": "weather",
+      "C": "wrath",
+      "D": "though"
+    },
+    "answer": "C",
+    "explanation": "'Wrath' ends with the voiceless dental fricative /θ/. In 'breathe', 'weather', and 'though', 'th' is the voiced dental fricative /ð/.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\nThe car broke _______ right in the middle of the third mainland bridge.",
+    "options": {
+      "A": "up",
+      "B": "down",
+      "C": "off",
+      "D": "out"
+    },
+    "answer": "B",
+    "explanation": "'Break down' is the phrasal verb meaning to cease functioning (for a vehicle or machine).",
+    "topic": "Phrasal Verbs",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the option with the stress pattern 'da-DA-da-da' (primary stress on the second syllable):",
+    "options": {
+      "A": "refrigerator",
+      "B": "certificate",
+      "C": "democratic",
+      "D": "understanding"
+    },
+    "answer": "B",
+    "explanation": "cer-TIF-i-cate /səˈtɪfɪkət/ has four syllables with the primary stress on the second syllable.",
+    "topic": "Oral Forms / Stress Patterns",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that is NEAREST IN MEANING to the underlined phrase:\nThe politician's promises were all <u>castles in the air</u>.",
+    "options": {
+      "A": "architectural masterpieces",
+      "B": "unrealistic dreams",
+      "C": "magnificent speeches",
+      "D": "historical facts"
+    },
+    "answer": "B",
+    "explanation": "'Castles in the air' is an idiom meaning visionary schemes, daydreams, or unrealistic plans that have no foundation.",
+    "topic": "Idioms & Figures of Speech",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\nBy December next year, my sister _______ from the university.",
+    "options": {
+      "A": "will graduate",
+      "B": "will have graduated",
+      "C": "would graduate",
+      "D": "graduated"
+    },
+    "answer": "B",
+    "explanation": "The future perfect tense ('will have graduated') describes an action that will be completed before a specified point in future time.",
+    "topic": "Tenses & Aspect",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nHer arguments during the symposium were remarkably <u>cogent</u>.",
+    "options": {
+      "A": "convincing",
+      "B": "unconvincing",
+      "C": "logical",
+      "D": "persuasive"
+    },
+    "answer": "B",
+    "explanation": "'Cogent' means clear, logical, and convincing. The direct antonym is 'unconvincing'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the correct spelling:",
+    "options": {
+      "A": "accomodation",
+      "B": "accommodation",
+      "C": "acommodation",
+      "D": "acomodation"
+    },
+    "answer": "B",
+    "explanation": "The standard English spelling is 'accommodation' with double 'c' and double 'm'.",
+    "topic": "Lexis & Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the sentence 'The students were listening <u>attentively</u>', the underlined word functions as a/an:",
+    "options": {
+      "A": "adjective",
+      "B": "adverb of manner",
+      "C": "noun phrase",
+      "D": "preposition"
+    },
+    "answer": "B",
+    "explanation": "'Attentively' modifies the verb 'were listening', describing how the action was performed (adverb of manner).",
+    "topic": "Grammar & Parts of Speech",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\nHe was acquitted _______ the charges leveled against him.",
+    "options": {
+      "A": "from",
+      "B": "of",
+      "C": "with",
+      "D": "off"
+    },
+    "answer": "B",
+    "explanation": "The verb 'acquit' collocated with the preposition 'of' means to declare someone not guilty of a crime.",
+    "topic": "Prepositions & Collocations",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

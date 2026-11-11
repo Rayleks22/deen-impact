@@ -1,142 +1,402 @@
 [
   {
+    "question": "A consumer's scale of preference is best defined as a:",
+    "options": {
+      "A": "list of unsatisfied wants arranged in descending order of priority",
+      "B": "table showing quantities demanded at various prices",
+      "C": "graphical curve showing budget constraints",
+      "D": "statement of financial position of a household"
+    },
+    "answer": "A",
+    "explanation": "A scale of preference is a list of an individual's wants arranged in order of relative importance or urgency to assist rational decision-making.",
+    "topic": "Basic Economic Concepts / Scarcity & Choice",
+    "exam": "JAMB UTME",
+    "year": "2024",
     "id": 1,
-    "question": "The fundamental economic problem facing every society is:",
-    "options": {
-      "A": "Excessive taxation",
-      "B": "Scarcity of resources in relation to unlimited wants",
-      "C": "Government corruption",
-      "D": "Unstable foreign exchange rates"
-    },
-    "answer": "B",
-    "explanation": "Scarcity of productive resources relative to unlimited human needs forms the core basis of economic inquiry.",
-    "topic": "Basic Concepts of Economics",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "If the price of a commodity increases from ₦100 to ₦120 and quantity demanded drops from 50 units to 40 units, calculate the price elasticity of demand.",
+    "options": {
+      "A": "1.0",
+      "B": "0.5",
+      "C": "1.5",
+      "D": "2.0"
+    },
+    "answer": "A",
+    "explanation": "%ΔQ = (10/50) × 100 = 20%. %ΔP = (20/100) × 100 = 20%. Elasticity = 20% / 20% = 1.0 (Unitary Elasticity).",
+    "topic": "Price Theory / Elasticity of Demand",
+    "exam": "JAMB UTME",
+    "year": "2023",
     "id": 2,
-    "question": "If an increase in the price of petroleum leads to an increase in the demand for public commuter buses, both goods are:",
-    "options": {
-      "A": "Complementary goods",
-      "B": "Substitute goods",
-      "C": "Inferior goods",
-      "D": "Giffen goods"
-    },
-    "answer": "B",
-    "explanation": "Substitute goods exhibit positive cross-elasticity of demand; an increase in the price of one raises demand for the other.",
-    "topic": "Demand & Supply",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which of the following is a characteristic feature of a perfectly competitive market structure?",
+    "options": {
+      "A": "Large number of buyers and sellers with homogeneous products",
+      "B": "A single seller dominating the market with unique products",
+      "C": "Substantial barriers to market entry and exit",
+      "D": "Differentiated branded goods with advertising rivalry"
+    },
+    "answer": "A",
+    "explanation": "Perfect competition is defined by atomistic buyers/sellers, homogeneous products, perfect knowledge, and free entry/exit with price-taking firms.",
+    "topic": "Market Structures / Perfect Competition",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 3,
-    "question": "The reward for entrepreneurship as a factor of production is:",
-    "options": {
-      "A": "Wages",
-      "B": "Rent",
-      "C": "Interest",
-      "D": "Profit"
-    },
-    "answer": "D",
-    "explanation": "Land earns rent, labour earns wages, capital earns interest, and entrepreneurship earns profit.",
-    "topic": "Factors of Production",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The Law of Diminishing Marginal Returns begins to operate in a firm when:",
+    "options": {
+      "A": "Marginal Product begins to decline",
+      "B": "Total Product reaches zero",
+      "C": "Average Cost equals Marginal Revenue",
+      "D": "Fixed factors are fully replaced by variable factors"
+    },
+    "answer": "A",
+    "explanation": "Diminishing marginal returns set in at the inflection point of the Total Product curve, where Marginal Product peaks and starts diminishing.",
+    "topic": "Theory of Production / Returns to Scale",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 4,
-    "question": "When marginal utility is equal to zero, total utility is at its:",
-    "options": {
-      "A": "Minimum",
-      "B": "Maximum",
-      "C": "Zero point",
-      "D": "Decreasing stage"
-    },
-    "answer": "B",
-    "explanation": "Total utility reaches its peak (point of saturation) exactly when marginal utility equals zero.",
-    "topic": "Theory of Consumer Behaviour",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which of the following tools is used by the Central Bank of Nigeria (CBN) to contract money supply during rapid inflation?",
+    "options": {
+      "A": "Selling government treasury bills in Open Market Operations (OMO)",
+      "B": "Lowering the Cash Reserve Ratio (CRR)",
+      "C": "Reducing the Monetary Policy Rate (MPR)",
+      "D": "Printing additional banknotes"
+    },
+    "answer": "A",
+    "explanation": "Selling treasury securities in Open Market Operations soaks up liquidity from commercial banks, reducing lending and curbing inflationary pressure.",
+    "topic": "Money and Banking / Monetary Policy",
+    "exam": "WAEC SSCE",
+    "year": "2022",
     "id": 5,
-    "question": "Inflation caused by an increase in the cost of raw materials and wages is termed:",
-    "options": {
-      "A": "Demand-pull inflation",
-      "B": "Cost-push inflation",
-      "C": "Hyperinflation",
-      "D": "Creeping inflation"
-    },
-    "answer": "B",
-    "explanation": "Cost-push inflation occurs when rising production expenses (wages, raw materials) force aggregate supply downward and drive prices up.",
-    "topic": "Inflation",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Cost-push inflation is primarily caused by:",
+    "options": {
+      "A": "Increases in the cost of raw materials, wages, and energy",
+      "B": "Excessive aggregate demand exceeding aggregate supply",
+      "C": "Continuous reduction in government indirect taxation",
+      "D": "Sudden surplus in foreign exchange inflows"
+    },
+    "answer": "A",
+    "explanation": "Cost-push inflation occurs when production costs (wages, fuel, raw materials) surge, shifting the aggregate supply curve upward and raising output prices.",
+    "topic": "Macroeconomics / Inflation",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 6,
-    "question": "The institution legally empowered to issue currency and manage monetary policy in Nigeria is the:",
-    "options": {
-      "A": "Federal Ministry of Finance",
-      "B": "Central Bank of Nigeria (CBN)",
-      "C": "Nigeria Deposit Insurance Corporation (NDIC)",
-      "D": "Securities and Exchange Commission (SEC)"
-    },
-    "answer": "B",
-    "explanation": "The Central Bank of Nigeria (CBN) is Nigeria's apex monetary authority and sole currency-issuing body.",
-    "topic": "Money & Banking",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 7,
-    "question": "Price elasticity of demand is calculated as:",
+    "question": "The Gross Domestic Product (GDP) differs from Gross National Product (GNP) because GNP includes:",
     "options": {
-      "A": "% change in price / % change in quantity demanded",
-      "B": "% change in quantity demanded / % change in price",
-      "C": "Change in total revenue / Change in output",
-      "D": "Price / Quantity demanded"
-    },
-    "answer": "B",
-    "explanation": "Elasticity of demand = (% change in quantity demanded) divided by (% change in price).",
-    "topic": "Elasticity",
-    "exam": "JAMB"
-  },
-  {
-    "id": 8,
-    "question": "A market structure characterized by a single seller of a unique product with high barriers to entry is a:",
-    "options": {
-      "A": "Monopoly",
-      "B": "Duopoly",
-      "C": "Monopolistic competition",
-      "D": "Perfect competition"
+      "A": "Net factor income from abroad",
+      "B": "Depreciation allowance only",
+      "C": "Subsidies paid to domestic manufacturers",
+      "D": "Import tariffs collected by customs"
     },
     "answer": "A",
-    "explanation": "A monopoly is a market condition where a single producer controls the entire supply of a commodity without close substitutes.",
-    "topic": "Market Structures",
-    "exam": "WAEC"
-  },
-  {
-    "id": 9,
-    "question": "Gross Domestic Product (GDP) measures:",
-    "options": {
-      "A": "Total monetary value of all final goods and services produced within a country in a year",
-      "B": "Net profits of foreign companies in a country",
-      "C": "Total savings of domestic households",
-      "D": "Total revenue from oil exports"
-    },
-    "answer": "A",
-    "explanation": "GDP is the total market value of all final goods and services produced within the geographic borders of a country within a specific timeframe.",
+    "explanation": "GNP = GDP + Net Factor Income from Abroad (earnings by domestic citizens overseas minus payments to foreign nationals operating locally).",
     "topic": "National Income Accounting",
-    "exam": "JAMB"
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "A tax whose rate increases as the taxpayer's income increases is called a:",
+    "question": "David Ricardo's theory of comparative advantage emphasizes that a nation should specialize in producing commodities where it has:",
     "options": {
-      "A": "Regressive tax",
-      "B": "Proportional tax",
-      "C": "Progressive tax",
-      "D": "Value Added Tax (VAT)"
+      "A": "the lowest opportunity cost of production",
+      "B": "the highest absolute technical efficiency",
+      "C": "abundant natural minerals only",
+      "D": "the highest tariff protection"
     },
-    "answer": "C",
-    "explanation": "A progressive tax takes a higher percentage of income from higher earners than from lower earners.",
-    "topic": "Public Finance & Taxation",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "Comparative advantage dictates specialization in goods where a nation incurs a lower relative opportunity cost compared to its trading partners.",
+    "topic": "International Trade / Comparative Advantage",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An indirect tax whose burden falls more heavily on consumers when demand is:",
+    "options": {
+      "A": "Price inelastic",
+      "B": "Price elastic",
+      "C": "Perfectively elastic",
+      "D": "Unitary elastic"
+    },
+    "answer": "A",
+    "explanation": "When demand is inelastic (consumers cannot easily switch away), producers can pass almost the entire tax burden onto consumers through higher prices.",
+    "topic": "Public Finance / Incidence of Taxation",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary motive for holding money according to Lord Keynes when individuals keep cash for unforeseen emergency expenses?",
+    "options": {
+      "A": "Precautionary motive",
+      "B": "Transactions motive",
+      "C": "Speculative motive",
+      "D": "Profit motive"
+    },
+    "answer": "A",
+    "explanation": "Keynes identified three liquidity preference motives: Transactions (daily purchases), Precautionary (unforeseen emergencies), and Speculative (investment).",
+    "topic": "Money and Banking / Liquidity Preference",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A production possibility curve (PPC) that is concave to the origin reflects:",
+    "options": {
+      "A": "Increasing opportunity costs",
+      "B": "Constant opportunity costs",
+      "C": "Decreasing returns to scale",
+      "D": "Perfect mobility of labor"
+    },
+    "answer": "A",
+    "explanation": "The bowed-out (concave) shape of the PPC demonstrates the law of increasing opportunity cost as resources are imperfectly adaptable to alternative uses.",
+    "topic": "Production Possibility Frontier",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When the government fixes a legal maximum price below the equilibrium market price, the immediate economic result is:",
+    "options": {
+      "A": "Excess demand (market shortage) and black markets",
+      "B": "Excess supply (market glut)",
+      "C": "Surplus accumulation by producers",
+      "D": "Decline in consumer demand"
+    },
+    "answer": "A",
+    "explanation": "A price ceiling set below equilibrium makes the good cheaper, causing quantity demanded to exceed quantity supplied, creating shortages and rationing.",
+    "topic": "Price Theory / Price Controls",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Malthusian population theory postulated that human population grows in:",
+    "options": {
+      "A": "Geometric progression while food supply grows in arithmetic progression",
+      "B": "Arithmetic progression while food supply grows in geometric progression",
+      "C": "Logarithmic scale while agricultural land doubles",
+      "D": "Proportion to capital accumulation in factories"
+    },
+    "answer": "A",
+    "explanation": "Thomas Malthus asserted that population increases geometrically (1, 2, 4, 8, 16...) while food production only increases arithmetically (1, 2, 3, 4, 5...).",
+    "topic": "Population Economics / Malthusian Theory",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In national income determination, the Marginal Propensity to Consume (MPC) plus the Marginal Propensity to Save (MPS) is always equal to:",
+    "options": {
+      "A": "1.0",
+      "B": "0.5",
+      "C": "100",
+      "D": "Zero"
+    },
+    "answer": "A",
+    "explanation": "Any additional unit of disposable income (ΔY) must either be consumed (ΔC) or saved (ΔS). Therefore, MPC + MPS = ΔC/ΔY + ΔS/ΔY = 1.",
+    "topic": "Macroeconomics / Consumption & Savings",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a direct tax in Nigeria?",
+    "options": {
+      "A": "Personal Income Tax (PAYE)",
+      "B": "Value Added Tax (VAT)",
+      "C": "Customs Import Duty",
+      "D": "Excise Duty on beverages"
+    },
+    "answer": "A",
+    "explanation": "Direct taxes are assessed directly on the income and profits of individuals and corporations (e.g. PAYE and Company Income Tax) and cannot be shifted.",
+    "topic": "Public Finance / Taxation Types",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A situation where a single buyer dominates the market for an input factor or commodity is called a:",
+    "options": {
+      "A": "Monopsony",
+      "B": "Monopoly",
+      "C": "Oligopoly",
+      "D": "Duopoly"
+    },
+    "answer": "A",
+    "explanation": "A monopsony is a market form characterized by a single buyer who exercises market power over numerous competing sellers.",
+    "topic": "Market Structures / Monopsony",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the investment multiplier if the Marginal Propensity to Save (MPS) of an economy is 0.25.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "2.5",
+      "D": "0.75"
+    },
+    "answer": "A",
+    "explanation": "Multiplier k = 1 / MPS = 1 / 0.25 = 4. (Or k = 1 / (1 - MPC) = 1 / (1 - 0.75) = 4).",
+    "topic": "Macroeconomics / Multiplier",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Deficit financing by a national government involves:",
+    "options": {
+      "A": "Financing excess public expenditures through borrowing or central bank credit creation",
+      "B": "Balancing current tax revenues with capital budgets",
+      "C": "Accumulating budget surpluses into sovereign wealth funds",
+      "D": "Banning commercial bank lending to state enterprises"
+    },
+    "answer": "A",
+    "explanation": "Deficit financing occurs when government spending exceeds tax revenue and the deficit is funded through domestic/foreign borrowing or central bank borrowing.",
+    "topic": "Public Finance / Deficit Budgeting",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A country's terms of trade are considered favourable when the:",
+    "options": {
+      "A": "Index of export prices is higher than the index of import prices",
+      "B": "Total value of visible imports exceeds visible exports",
+      "C": "Foreign exchange reserves fall below zero",
+      "D": "Domestic currency is depreciated by 50%"
+    },
+    "answer": "A",
+    "explanation": "Terms of Trade = (Price Index of Exports / Price Index of Imports) × 100. When export prices rise relative to import prices (>100), terms of trade are favourable.",
+    "topic": "International Trade / Terms of Trade",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is an internal economy of scale for an expanding manufacturing enterprise?",
+    "options": {
+      "A": "Technical economies through the use of specialized automated machinery",
+      "B": "Improvement in government transport infrastructure surrounding the industrial zone",
+      "C": "Availability of a trained regional labor pool",
+      "D": "Emergence of specialized trade journals"
+    },
+    "answer": "A",
+    "explanation": "Internal economies of scale are cost advantages that arise directly within the individual firm due to its own growth (managerial, technical, financial).",
+    "topic": "Theory of Production / Economies of Scale",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Devaluation of a national currency under a fixed exchange rate system aims to:",
+    "options": {
+      "A": "Make exports cheaper and imports more expensive to improve balance of payments",
+      "B": "Make imports cheaper for domestic consumers",
+      "C": "Increase domestic inflation artificially",
+      "D": "Encourage citizens to purchase foreign manufactured luxury vehicles"
+    },
+    "answer": "A",
+    "explanation": "Devaluation lowers export prices in foreign currency (boosting export volume) and raises domestic import prices (reducing import demand).",
+    "topic": "International Finance / Exchange Rates",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary economic consequence of occupational immobility of labor?",
+    "options": {
+      "A": "Structural unemployment",
+      "B": "Frictional unemployment",
+      "C": "Cyclical unemployment",
+      "D": "Seasonal unemployment"
+    },
+    "answer": "A",
+    "explanation": "When workers lack the skills or training to transition from declining industries to growing industries, structural unemployment develops.",
+    "topic": "Labor Economics / Unemployment",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which curve illustrates the degree of income inequality across the households of an economy?",
+    "options": {
+      "A": "Lorenz curve",
+      "B": "Phillips curve",
+      "C": "Indifference curve",
+      "D": "Laffer curve"
+    },
+    "answer": "A",
+    "explanation": "The Lorenz curve plots cumulative percentage of national income against cumulative percentage of population; its distance from the 45° line measures inequality.",
+    "topic": "Economic Development / Income Distribution",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An inferior good is defined economically as a good whose:",
+    "options": {
+      "A": "demand decreases as consumer disposable income increases",
+      "B": "demand increases when price increases",
+      "C": "production cost exceeds its retail selling price",
+      "D": "elasticity of supply is completely zero"
+    },
+    "answer": "A",
+    "explanation": "Inferior goods have a negative income elasticity of demand (YED < 0); as consumer incomes rise, consumers substitute higher-quality superior goods.",
+    "topic": "Consumer Theory / Elasticity",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A public good possesses which two fundamental economic attributes?",
+    "options": {
+      "A": "Non-rivalry in consumption and non-excludability",
+      "B": "High marginal cost and private ownership",
+      "C": "Rivalry in consumption and price discrimination",
+      "D": "Excludability and profit maximization"
+    },
+    "answer": "A",
+    "explanation": "Pure public goods (like national defense, lighthouses) are non-excludable (cannot prevent anyone from using) and non-rival (one person's use does not diminish another's).",
+    "topic": "Public Finance / Public Goods",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

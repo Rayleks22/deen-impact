@@ -1,142 +1,402 @@
 [
   {
+    "question": "According to the Genesis creation account, what did God create on the first day?",
+    "options": {
+      "A": "Light (separating light from darkness)",
+      "B": "Firmament (the sky)",
+      "C": "Sun, moon, and stars",
+      "D": "Land animals and man"
+    },
+    "answer": "A",
+    "explanation": "Genesis 1:3-5: God said, 'Let there be light,' and He separated the light from the darkness, calling the light Day and darkness Night on Day One.",
+    "topic": "Creation / The Sovereignty of God",
+    "exam": "JAMB UTME",
+    "year": "2024",
     "id": 1,
-    "question": "According to the Gospel of Matthew, in the Sermon on the Mount, Jesus taught: 'Blessed are the peacemakers, for they shall be called:'",
-    "options": {
-      "A": "Inheritors of the earth",
-      "B": "Children of God",
-      "C": "Mighty in the kingdom",
-      "D": "Rulers of nations"
-    },
-    "answer": "B",
-    "explanation": "Matthew 5:9 declares: 'Blessed are the peacemakers, for they shall be called the children of God.'",
-    "topic": "The Synoptic Gospels & Beatitudes",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "God made an everlasting covenant with Abraham, promising that through his seed all nations would be blessed, sealed with the physical sign of:",
+    "options": {
+      "A": "Circumcision",
+      "B": "Animal sacrifice of a heifer",
+      "C": "The Rainbow",
+      "D": "Anointing with oil"
+    },
+    "answer": "A",
+    "explanation": "Genesis 17:10-14: God instituted circumcision of every male child on the eighth day as the token of the Abrahamic covenant.",
+    "topic": "Covenant / Abrahamic Faith",
+    "exam": "JAMB UTME",
+    "year": "2023",
     "id": 2,
-    "question": "Who was appointed to replace Judas Iscariot as an Apostle in Acts chapter 1?",
-    "options": {
-      "A": "Barnabas",
-      "B": "Matthias",
-      "C": "Stephen",
-      "D": "Timothy"
-    },
-    "answer": "B",
-    "explanation": "In Acts 1:26, lots were cast between Joseph Barsabbas and Matthias, and the lot fell on Matthias.",
-    "topic": "The Early Church (Acts of the Apostles)",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 3,
-    "question": "In the Old Testament, the prophet who challenged 450 prophets of Baal on Mount Carmel was:",
+    "question": "Who was the female judge and prophetess who led Israel to victory over the Canaanite general Sisera?",
     "options": {
-      "A": "Elisha",
-      "B": "Elijah",
+      "A": "Deborah",
+      "B": "Hannah",
+      "C": "Ruth",
+      "D": "Esther"
+    },
+    "answer": "A",
+    "explanation": "Judges 4: Deborah, the wife of Lappidoth, summoned Barak and delivered Israel from King Jabin and his commander Sisera.",
+    "topic": "Leadership / Judges of Israel",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Elijah challenged and defeated the 450 prophets of Baal to prove that Yahweh is the true God on Mount:",
+    "options": {
+      "A": "Carmel",
+      "B": "Sinai",
+      "C": "Nebo",
+      "D": "Horeb"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 18: Elijah assembled Israel on Mount Carmel, where fire consumed his water-soaked sacrifice while Baal remained powerless.",
+    "topic": "True Religion & Prophets / Elijah",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which Old Testament prophet married an unfaithful woman named Gomer as a symbolic demonstration of God's enduring love for unfaithful Israel?",
+    "options": {
+      "A": "Hosea",
+      "B": "Amos",
+      "C": "Micah",
+      "D": "Habakkuk"
+    },
+    "answer": "A",
+    "explanation": "Hosea 1-3: God commanded Hosea to marry Gomer to vividly illustrate Israel's spiritual adultery through idol worship and God's redeeming mercy.",
+    "topic": "Prophets & Social Justice / Hosea",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Sermon on the Mount, Jesus taught that his disciples are the:",
+    "options": {
+      "A": "Salt of the earth and light of the world",
+      "B": "Kings of earthly empires",
+      "C": "Judges of civil courts",
+      "D": "Chief priests of Jerusalem"
+    },
+    "answer": "A",
+    "explanation": "Matthew 5:13-16: Jesus taught: 'You are the salt of the earth... You are the light of the world. Let your light so shine before men.'",
+    "topic": "Ministry of Jesus / Sermon on the Mount",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Who was chosen by lot by the early apostles to replace Judas Iscariot in the book of Acts?",
+    "options": {
+      "A": "Matthias",
+      "B": "Barnabas",
+      "C": "Stephen",
+      "D": "Paul"
+    },
+    "answer": "A",
+    "explanation": "Acts 1:21-26: The disciples prayed and cast lots between Joseph called Barsabbas and Matthias; the lot fell on Matthias.",
+    "topic": "The Early Church / Acts of Apostles",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "On the Day of Pentecost in Jerusalem, the Holy Spirit descended on the gathered believers in the form of:",
+    "options": {
+      "A": "Divided tongues like fire resting on each of them and sound of a rushing mighty wind",
+      "B": "A bright rainbow spanning the sky",
+      "C": "A pillar of cloud overshadowing the room",
+      "D": "An earthquake splitting the temple veil"
+    },
+    "answer": "A",
+    "explanation": "Acts 2:1-4: The Holy Spirit manifested with a sound like a rushing violent wind and divided tongues as of fire, empowering them to speak in other tongues.",
+    "topic": "The Early Church / Pentecost",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Paul's radical conversion from persecutor of the Church to Apostle of Jesus Christ occurred on the road to:",
+    "options": {
+      "A": "Damascus",
+      "B": "Jericho",
+      "C": "Rome",
+      "D": "Antioch"
+    },
+    "answer": "A",
+    "explanation": "Acts 9: As Saul approached Damascus breathing threats against disciples, a blinding light from heaven flashed and Jesus spoke to him.",
+    "topic": "Apostle Paul's Ministry / Conversion",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to Paul in 1 Corinthians 13, which virtue is the greatest among faith, hope, and love?",
+    "options": {
+      "A": "Love (Charity)",
+      "B": "Faith",
+      "C": "Hope",
+      "D": "Prophecy"
+    },
+    "answer": "A",
+    "explanation": "1 Corinthians 13:13: 'And now abide faith, hope, love, these three; but the greatest of these is love.'",
+    "topic": "Epistles / Christian Virtues",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What test did God give to King Solomon in a dream at Gibeon, and what was Solomon's request?",
+    "options": {
+      "A": "God offered whatever he asked, and Solomon requested wisdom and an understanding heart to govern Israel",
+      "B": "God commanded him to build an altar, and he asked for silver",
+      "C": "God tested him with famine, and he asked for military horses",
+      "D": "God commanded him to fight the Philistines, and he asked for wealth"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 3:5-14: Solomon asked for wisdom to discern between good and evil; God pleased with his unselfish plea granted wisdom, riches, and honor.",
+    "topic": "Leadership / King Solomon",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Who was the first Christian martyr stoned to death in the book of Acts for proclaiming the gospel?",
+    "options": {
+      "A": "Stephen",
+      "B": "James the brother of John",
+      "C": "Philip the evangelist",
+      "D": "Nicodemus"
+    },
+    "answer": "A",
+    "explanation": "Acts 7:54-60: Stephen, full of the Holy Spirit, preached before the Sanhedrin and was stoned to death, praying for his executors.",
+    "topic": "The Early Church / Persecution & Stephen",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Parable of the Prodigal Son, what was the father's reaction when he saw his repentant younger son returning home?",
+    "options": {
+      "A": "He was filled with compassion, ran, fell on his neck, kissed him, and threw a celebratory feast",
+      "B": "He sent servants to lock the gates until restitution was made",
+      "C": "He disowned him permanently and sent him to the fields",
+      "D": "He demanded he repay all wasted inheritance first"
+    },
+    "answer": "A",
+    "explanation": "Luke 15:20-24: The father ran while the son was still far off, embracing him with unconditional love and restoring him to full sonship.",
+    "topic": "Parables of Jesus / Forgiveness",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which Old Testament prophet boldly confronted King David for his sin with Bathsheba and the murder of Uriah the Hittite?",
+    "options": {
+      "A": "Nathan",
+      "B": "Samuel",
+      "C": "Gad",
+      "D": "Ahijah"
+    },
+    "answer": "A",
+    "explanation": "2 Samuel 12: Nathan told the parable of the rich man who took the poor man's lone ewe lamb, declaring to David: 'Thou art the man!'",
+    "topic": "Leadership & Moral Accountability / David & Nathan",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to the Gospel of John, what was Jesus's first recorded miracle?",
+    "options": {
+      "A": "Turning water into wine at the wedding in Cana of Galilee",
+      "B": "Feeding the 5,000 with five loaves and two fish",
+      "C": "Healing the blind man at the pool of Siloam",
+      "D": "Raising Lazarus from the dead"
+    },
+    "answer": "A",
+    "explanation": "John 2:1-11: At Cana in Galilee, Jesus turned six stone jars of water into choice wine, manifesting His divine glory.",
+    "topic": "Miracles of Jesus / Cana of Galilee",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What was the central issue debated and resolved at the Council of Jerusalem in Acts 15?",
+    "options": {
+      "A": "Whether Gentile converts must be circumcised and follow the Law of Moses to be saved",
+      "B": "The election of a new Roman emperor",
+      "C": "The payment of temple taxes by Greek merchants",
+      "D": "The appointment of regional deacons in Antioch"
+    },
+    "answer": "A",
+    "explanation": "Acts 15: The council concluded that Gentiles are saved through the grace of the Lord Jesus Christ without bearing the ritual yoke of circumcision.",
+    "topic": "The Early Church / Council of Jerusalem",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which prophet prophesied during a severe drought that the jar of flour would not be spent and the jug of oil would not fail for the widow of Zarephath?",
+    "options": {
+      "A": "Elijah",
+      "B": "Elisha",
       "C": "Isaiah",
       "D": "Jeremiah"
     },
-    "answer": "B",
-    "explanation": "Prophet Elijah contested the prophets of Baal on Mount Carmel (1 Kings 18) to prove that the Lord is God.",
-    "topic": "Old Testament Prophets",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "1 Kings 17:8-16: God commanded Elijah to go to Zarephath, where the impoverished widow fed him first and her supplies miraculous multiplied.",
+    "topic": "Prophets & Faith / Elijah at Zarephath",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 4,
-    "question": "Paul's teaching on justification by faith rather than the works of the law is prominently detailed in his epistle to the:",
+    "question": "In the book of Exodus, through what sign did God first call Moses while tending sheep near Mount Horeb?",
     "options": {
-      "A": "Romans",
-      "B": "Corinthians",
-      "C": "Thessalonians",
-      "D": "Philemon"
+      "A": "A bush that burned with fire yet was not consumed",
+      "B": "A pillar of cloud by day",
+      "C": "A handwriting on a stone tablet",
+      "D": "A sudden solar eclipse"
     },
     "answer": "A",
-    "explanation": "The Epistle to the Romans (especially Romans 3-5) presents Paul's systematic theology on justification by faith.",
-    "topic": "Pauline Epistles",
-    "exam": "WAEC"
+    "explanation": "Exodus 3: The angel of the Lord appeared to Moses in a flame of fire out of the midst of a bush that burned without being consumed.",
+    "topic": "Call and Mission of Moses",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 5,
-    "question": "The Holy Spirit descended upon the disciples in the form of tongues of fire on the day of:",
+    "question": "What is the primary message of Prophet Amos regarding religious rituals disconnected from social justice?",
     "options": {
-      "A": "Passover",
-      "B": "Pentecost",
-      "C": "Ascension",
-      "D": "Transfiguration"
-    },
-    "answer": "B",
-    "explanation": "Acts 2:1-4 records the outpouring of the Holy Spirit on the day of Pentecost in Jerusalem.",
-    "topic": "The Early Church",
-    "exam": "JAMB"
-  },
-  {
-    "id": 6,
-    "question": "King Solomon is renowned in the biblical narrative primarily for his extraordinary:",
-    "options": {
-      "A": "Military conquest",
-      "B": "Wisdom and building the Temple",
-      "C": "Prophetic visions",
-      "D": "Agrarian reforms"
-    },
-    "answer": "B",
-    "explanation": "King Solomon asked God for wisdom to govern Israel (1 Kings 3) and constructed the First Temple in Jerusalem.",
-    "topic": "Old Testament Monarchy",
-    "exam": "WAEC"
-  },
-  {
-    "id": 7,
-    "question": "In 1 Corinthians 13, Apostle Paul identifies the greatest Christian virtue as:",
-    "options": {
-      "A": "Faith",
-      "B": "Hope",
-      "C": "Love (Charity)",
-      "D": "Knowledge"
-    },
-    "answer": "C",
-    "explanation": "1 Corinthians 13:13: 'And now abide faith, hope, love, these three; but the greatest of these is love.'",
-    "topic": "Christian Ethics & Virtues",
-    "exam": "JAMB"
-  },
-  {
-    "id": 8,
-    "question": "The first Christian martyr recorded in the Book of Acts who was stoned to death was:",
-    "options": {
-      "A": "James the brother of John",
-      "B": "Stephen",
-      "C": "Philip",
-      "D": "Peter"
-    },
-    "answer": "B",
-    "explanation": "Stephen, one of the seven deacons, was stoned outside Jerusalem after defending the gospel (Acts 7).",
-    "topic": "Early Church History",
-    "exam": "WAEC"
-  },
-  {
-    "id": 9,
-    "question": "The covenant between God and Abraham was sealed through the physical sign of:",
-    "options": {
-      "A": "Animal sacrifice at the altar",
-      "B": "Circumcision",
-      "C": "Water baptism",
-      "D": "Wearing priestly robes"
-    },
-    "answer": "B",
-    "explanation": "Genesis 17 specifies circumcision of all male offspring as the everlasting sign of God's covenant with Abraham.",
-    "topic": "Covenant Theology",
-    "exam": "JAMB"
-  },
-  {
-    "id": 10,
-    "question": "Jesus performed his first recorded public miracle by turning water into wine at:",
-    "options": {
-      "A": "Cana of Galilee",
-      "B": "Capernaum",
-      "C": "Bethlehem",
-      "D": "Jericho"
+      "A": "Rituals without justice and righteousness are offensive to God",
+      "B": "Increasing animal sacrifices guarantees military victory",
+      "C": "Temples should be adorned with pure gold statues",
+      "D": "Fasting should replace civil courts"
     },
     "answer": "A",
-    "explanation": "John 2:1-11 documents the wedding feast at Cana in Galilee where Jesus manifested his glory by turning water into wine.",
-    "topic": "Miracles of Jesus",
-    "exam": "WAEC"
+    "explanation": "Amos 5:21-24: 'I hate, I despise your feast days... But let justice run down like water, and righteousness like a mighty stream.'",
+    "topic": "Prophets & Social Justice / Amos",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to Paul's letter to the Galatians, what are the fruits of the Spirit?",
+    "options": {
+      "A": "Love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control",
+      "B": "Prophecy, miracles, speaking in tongues, interpretation",
+      "C": "Wealth, high social status, political titles",
+      "D": "Ascetic isolation, physical mortification, fasting"
+    },
+    "answer": "A",
+    "explanation": "Galatians 5:22-23 contrasts the works of the flesh with the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
+    "topic": "Epistles / Fruit of the Spirit",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Garden of Gethsemane on the night of His betrayal, Jesus prayed:",
+    "options": {
+      "A": "'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.'",
+      "B": "'Send twelve legions of angels to destroy the Roman legion.'",
+      "C": "'Let the temple guards be blinded.'",
+      "D": "'Why have the disciples forsaken their duties?'"
+    },
+    "answer": "A",
+    "explanation": "Luke 22:42: Jesus exemplified absolute submission to the divine will during deep anguish in Gethsemane.",
+    "topic": "Passion and Crucifixion of Jesus",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Who was the Roman centurion in Caesarea whose prayers and alms were heard by God, leading to Peter's visit and the Gentile baptism?",
+    "options": {
+      "A": "Cornelius",
+      "B": "Julius",
+      "C": "Felix",
+      "D": "Festus"
+    },
+    "answer": "A",
+    "explanation": "Acts 10: Cornelius was a devout God-fearing centurion. God directed Peter to his house, and the Holy Spirit fell upon all Gentiles who heard the word.",
+    "topic": "The Early Church / Cornelius & Gentile Mission",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which young king of Judah rediscovered the Book of the Law in the temple and instituted sweeping religious reforms across the nation?",
+    "options": {
+      "A": "Josiah",
+      "B": "Rehoboam",
+      "C": "Ahab",
+      "D": "Manasseh"
+    },
+    "answer": "A",
+    "explanation": "2 Kings 22-23: King Josiah tore his robes when Hilkiah the high priest found the Book of the Law, cleansed Judah of idols, and reinstated the Passover.",
+    "topic": "Religious Reforms in Judah / King Josiah",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the letter of James, the relationship between faith and works is summarized as:",
+    "options": {
+      "A": "Faith without works is dead",
+      "B": "Works alone save without believing",
+      "C": "Faith and works are contradictory",
+      "D": "Works are unnecessary once faith is spoken"
+    },
+    "answer": "A",
+    "explanation": "James 2:17-26: James argues that genuine living faith naturally expresses itself in compassionate deeds and righteous actions; faith without works is dead.",
+    "topic": "Epistles / James on Faith and Works",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to Romans 13, what is the Christian obligation toward civil governing authorities?",
+    "options": {
+      "A": "Be subject to governing authorities as servants of God for maintaining order, and pay taxes",
+      "B": "Boycott public revenues and traffic laws",
+      "C": "Refuse to pay customs duties and tribute",
+      "D": "Overthrow civilian administrations through insurgence"
+    },
+    "answer": "A",
+    "explanation": "Romans 13:1-7 instructs believers to submit to governing authorities, live peaceably, pay taxes, and give honour and respect where due.",
+    "topic": "Epistles / Civic Responsibility & Governance",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

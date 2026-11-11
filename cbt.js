@@ -1,6 +1,7 @@
 /**
  * DeenImpact Academy - CBT Examination Simulator Engine
- * Supports SSCE (WAEC/NECO) & JAMB UTME with 8-Key Navigation, Timer, On-Screen Calculator & Review
+ * Supports SSCE (WAEC/NECO) & JAMB UTME with Multi-Year Question Pools,
+ * Per-Student Randomization & Option Shuffling, Timer, Calculator, and In-Depth Topic Review.
  */
 
 const SUBJECT_CATALOG = {
@@ -48,21 +49,22 @@ const JAMB_PRESETS = {
   }
 };
 
-// Global CBT State
+// Global CBT Engine State
 const CBT = {
   mode: "jamb", // 'jamb' or 'single'
-  studyMode: false, // In single mode: true = instant explanation
+  studyMode: false,
   candidateName: "JAMB / SSCE Practice Candidate",
   selectedSubjects: ["english", "biology", "chemistry", "physics"],
   currentSubIndex: 0,
   currentQIndex: 0,
-  questionsData: {}, // { english: [...], physics: [...] }
-  userAnswers: {},   // { english: { 0: 'A', 1: 'B' } }
-  flaggedMap: {},    // { english: { 0: true } }
-  timerSeconds: 40 * 60, // Total remaining seconds
+  rawBank: {},          // Raw full question banks cached per subject
+  questionsData: {},    // Active randomized & option-scrambled questions for current student session
+  userAnswers: {},      // { english: { 0: 'A', 1: 'C' } }
+  flaggedMap: {},       // { english: { 0: true } }
+  timerSeconds: 40 * 60,
   totalExamSeconds: 40 * 60,
   timerInterval: null,
-  reviewFilter: "all" // 'all', 'wrong', 'correct'
+  reviewFilter: "all"
 };
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -72,6 +74,96 @@ document.addEventListener("DOMContentLoaded", () => {
   initCalculator();
   init8KeyNavigation();
 });
+
+/* -------------------------------------------------------------
+   Randomization & Option Shuffling Utilities (Fisher-Yates)
+   ------------------------------------------------------------- */
+function shuffleArray(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/**
+ * Scrambles options A, B, C, D for a single question per student session
+ * to prevent malpractice and ensure answer choices are not identical
+ */
+function scrambleQuestionOptions(q) {
+  const letters = ["A", "B", "C", "D"];
+  const correctText = q.options[q.answer];
+  
+  const originalValues = letters.map(l => q.options[l]).filter(Boolean);
+  const shuffledValues = shuffleArray(originalValues);
+  
+  const newOptions = {};
+  let newAnswer = "A";
+
+  letters.forEach((letter, idx) => {
+    if (idx < shuffledValues.length) {
+      newOptions[letter] = shuffledValues[idx];
+      if (shuffledValues[idx] === correctText) {
+        newAnswer = letter;
+      }
+    }
+  });
+
+  return {
+    ...q,
+    options: newOptions,
+    answer: newAnswer,
+    originalId: q.id
+  };
+}
+
+/**
+ * Samples N questions from a subject bank balancing multiple years and topics
+ */
+function selectSessionQuestions(rawBank, count) {
+  if (!rawBank || rawBank.length === 0) return [];
+  
+  // If count >= bank length, return full shuffled bank
+  if (count >= rawBank.length) {
+    return shuffleArray(rawBank).map(q => scrambleQuestionOptions(q));
+  }
+
+  // Group by past year to ensure multi-year distribution
+  const yearBuckets = {};
+  rawBank.forEach(q => {
+    const yr = q.year || "General";
+    if (!yearBuckets[yr]) yearBuckets[yr] = [];
+    yearBuckets[yr].push(q);
+  });
+
+  const selected = [];
+  const years = shuffleArray(Object.keys(yearBuckets));
+  const pickedIds = new Set();
+  let yrIdx = 0;
+
+  // Round-robin selection across different years
+  while (selected.length < count && pickedIds.size < rawBank.length) {
+    const yr = years[yrIdx % years.length];
+    const available = yearBuckets[yr].filter(q => !pickedIds.has(q.id));
+    if (available.length > 0) {
+      const pick = available[Math.floor(Math.random() * available.length)];
+      selected.push(pick);
+      pickedIds.add(pick.id);
+    }
+    yrIdx++;
+  }
+
+  // If still need more, pick randomly from remaining
+  if (selected.length < count) {
+    const remaining = rawBank.filter(q => !pickedIds.has(q.id));
+    const extra = shuffleArray(remaining).slice(0, count - selected.length);
+    selected.push(...extra);
+  }
+
+  // Final shuffle of question order and scramble options
+  return shuffleArray(selected).map(q => scrambleQuestionOptions(q));
+}
 
 /* -------------------------------------------------------------
    Setup Screen UI Handlers
@@ -103,21 +195,23 @@ function renderSubjectGrid() {
   if (!grid) return;
   grid.innerHTML = "";
 
-  Object.entries(SUBJECT_CATALOG).forEach(([key, sub], idx) => {
+  Object.entries(SUBJECT_CATALOG).forEach(([key, info], idx) => {
     const card = document.createElement("div");
     card.className = `subject-card-select ${idx === 0 ? "selected" : ""}`;
     card.dataset.subject = key;
     card.innerHTML = `
-      <div class="sub-icon">${sub.icon}</div>
+      <div class="sub-icon">${info.icon}</div>
       <div>
-        <div class="sub-badge">${sub.category}</div>
-        <div class="sub-title">${sub.title}</div>
+        <div class="sub-badge">${info.tag}</div>
+        <div class="sub-title">${info.title}</div>
       </div>
     `;
+
     card.addEventListener("click", () => {
       document.querySelectorAll(".subject-card-select").forEach(c => c.classList.remove("selected"));
       card.classList.add("selected");
     });
+
     grid.appendChild(card);
   });
 }
@@ -125,27 +219,33 @@ function renderSubjectGrid() {
 function initPresetButtons() {
   const container = document.getElementById("presetContainer");
   if (!container) return;
+  container.innerHTML = "";
 
-  Object.entries(JAMB_PRESETS).forEach(([key, p]) => {
+  Object.entries(JAMB_PRESETS).forEach(([key, preset]) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "faculty-preset-btn";
-    btn.textContent = p.name;
+    btn.className = "btn btn-outline";
+    btn.style.cssText = "font-size: 0.8rem; padding: 0.4rem 0.75rem; border-radius: 999px;";
+    btn.textContent = preset.name;
     btn.addEventListener("click", () => {
-      document.querySelectorAll(".faculty-preset-btn").forEach(b => b.style.borderColor = "#cbd5e1");
-      btn.style.borderColor = "#065f46";
-      btn.style.backgroundColor = "#ecfdf5";
-      
-      document.getElementById("jambSub2").value = p.subjects[1];
-      document.getElementById("jambSub3").value = p.subjects[2];
-      document.getElementById("jambSub4").value = p.subjects[3];
+      applyJambPreset(key);
     });
     container.appendChild(btn);
   });
 }
 
+function applyJambPreset(presetKey) {
+  const preset = JAMB_PRESETS[presetKey];
+  if (!preset) return;
+
+  const subs = preset.subjects; // [english, sub2, sub3, sub4]
+  document.getElementById("jambSub2").value = subs[1];
+  document.getElementById("jambSub3").value = subs[2];
+  document.getElementById("jambSub4").value = subs[3];
+}
+
 /* -------------------------------------------------------------
-   Start Examination & Data Fetching
+   Exam Initialization (Dynamic Randomization per Student)
    ------------------------------------------------------------- */
 async function startExam(mode) {
   const nameInput = document.getElementById("candidateName");
@@ -159,6 +259,8 @@ async function startExam(mode) {
   CBT.currentSubIndex = 0;
   CBT.currentQIndex = 0;
 
+  let questionsPerSub = 10;
+
   if (mode === "jamb") {
     const sub2 = document.getElementById("jambSub2").value;
     const sub3 = document.getElementById("jambSub3").value;
@@ -171,7 +273,13 @@ async function startExam(mode) {
     }
     CBT.selectedSubjects = ["english", sub2, sub3, sub4];
     CBT.studyMode = false;
-    CBT.timerSeconds = 40 * 60; // 40 mins for practice drill (10 per subject)
+
+    // Read question count selector if available
+    const jambCountSelect = document.getElementById("jambQuestionCountSelect");
+    questionsPerSub = jambCountSelect ? parseInt(jambCountSelect.value, 10) : 10;
+    
+    // Allocate 1 minute per question (e.g. 10 per sub = 40 mins, 20 per sub = 80 mins)
+    CBT.timerSeconds = questionsPerSub * 4 * 60;
   } else {
     const selectedEl = document.querySelector(".subject-card-select.selected");
     const chosenSub = selectedEl ? selectedEl.dataset.subject : "english";
@@ -179,25 +287,36 @@ async function startExam(mode) {
     
     const studyCheck = document.getElementById("studyModeCheck");
     CBT.studyMode = studyCheck ? studyCheck.checked : false;
+
+    const singleCountSelect = document.getElementById("singleQuestionCountSelect");
+    questionsPerSub = singleCountSelect ? parseInt(singleCountSelect.value, 10) : 15;
     
-    const timeChoice = parseInt(document.getElementById("singleDurationSelect")?.value || "15", 10);
-    CBT.timerSeconds = timeChoice * 60;
+    const timeChoice = document.getElementById("singleDurationSelect")?.value || "15";
+    if (timeChoice === "0") {
+      CBT.timerSeconds = 999 * 60; // Untimed
+    } else {
+      CBT.timerSeconds = parseInt(timeChoice, 10) * 60;
+    }
   }
 
   CBT.totalExamSeconds = CBT.timerSeconds;
 
   // Show Loading indicator
   const startBtns = document.querySelectorAll(".btn-start-cbt");
-  startBtns.forEach(b => { b.disabled = true; b.textContent = "Loading Questions..."; });
+  startBtns.forEach(b => { b.disabled = true; b.textContent = "Loading Question Bank..."; });
 
   try {
     for (const sub of CBT.selectedSubjects) {
-      if (!CBT.questionsData[sub]) {
-        const resp = await fetch(`data/cbt/${sub}.json`);
+      // Load raw full question bank if not yet cached in memory
+      if (!CBT.rawBank[sub]) {
+        const resp = await fetch(`data/cbt/${sub}.json?v=${Date.now()}`);
         if (!resp.ok) throw new Error(`Could not load ${sub}`);
         const data = await resp.json();
-        CBT.questionsData[sub] = data;
+        CBT.rawBank[sub] = data;
       }
+      
+      // Generate a fresh randomized & option-scrambled subset for this student session
+      CBT.questionsData[sub] = selectSessionQuestions(CBT.rawBank[sub], questionsPerSub);
       CBT.userAnswers[sub] = {};
       CBT.flaggedMap[sub] = {};
     }
@@ -266,10 +385,24 @@ function renderCurrentQuestion() {
 
   if (!q) return;
 
-  // Update Meta
+  // Update Meta Badges (Number, Year, Exam Body, Topic)
   document.getElementById("qNumberDisplay").textContent = `Question ${CBT.currentQIndex + 1} of ${questions.length}`;
-  document.getElementById("qTopicDisplay").textContent = q.topic || SUBJECT_CATALOG[currentSub].title;
-  document.getElementById("qExamDisplay").textContent = q.exam || "JAMB/WAEC";
+  
+  const yearEl = document.getElementById("qYearDisplay");
+  if (yearEl) {
+    yearEl.textContent = q.year ? `Year ${q.year}` : "Current Syllabus";
+  }
+
+  const examEl = document.getElementById("qExamDisplay");
+  if (examEl) {
+    examEl.textContent = q.exam || "JAMB UTME";
+  }
+
+  const topicEl = document.getElementById("qTopicDisplay");
+  if (topicEl) {
+    topicEl.textContent = q.topic ? `Topic: ${q.topic}` : SUBJECT_CATALOG[currentSub].title;
+  }
+
   document.getElementById("qTextDisplay").innerHTML = q.question.replace(/\n/g, "<br>");
 
   // Render Options
@@ -315,6 +448,9 @@ function renderCurrentQuestion() {
       <div style="font-weight: 800; font-size: 1rem; color: ${isCorrect ? '#065f46' : '#b91c1c'}; margin-bottom: 0.35rem;">
         ${isCorrect ? "✓ Correct Answer!" : `✗ Incorrect (Correct Answer is Option ${q.answer})`}
       </div>
+      <div style="font-size: 0.85rem; color: #475569; margin-bottom: 0.4rem;">
+        <strong>Exam Source:</strong> ${q.exam || 'JAMB'} ${q.year || ''} &bull; <strong>Syllabus Topic:</strong> ${q.topic || 'General'}
+      </div>
       <div>${q.explanation || 'No further explanation available.'}</div>
     `;
   } else {
@@ -352,12 +488,23 @@ function renderCurrentQuestion() {
 
 function selectAnswer(letter) {
   const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
-  if (!CBT.userAnswers[currentSub]) {
-    CBT.userAnswers[currentSub] = {};
-  }
+  if (!CBT.userAnswers[currentSub]) CBT.userAnswers[currentSub] = {};
+  
   CBT.userAnswers[currentSub][CBT.currentQIndex] = letter;
+
   renderCurrentQuestion();
-  renderPalette();
+  updatePaletteStatus();
+}
+
+function toggleFlag() {
+  const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
+  if (!CBT.flaggedMap[currentSub]) CBT.flaggedMap[currentSub] = {};
+
+  const currentFlag = CBT.flaggedMap[currentSub][CBT.currentQIndex];
+  CBT.flaggedMap[currentSub][CBT.currentQIndex] = !currentFlag;
+
+  renderCurrentQuestion();
+  updatePaletteStatus();
 }
 
 function nextQuestion() {
@@ -367,12 +514,13 @@ function nextQuestion() {
     renderCurrentQuestion();
     renderPalette();
   } else if (CBT.currentSubIndex < CBT.selectedSubjects.length - 1) {
-    // Jump to next subject
     CBT.currentSubIndex++;
     CBT.currentQIndex = 0;
     renderExamHeader();
     renderCurrentQuestion();
     renderPalette();
+  } else {
+    promptSubmitExam();
   }
 }
 
@@ -382,51 +530,32 @@ function prevQuestion() {
     renderCurrentQuestion();
     renderPalette();
   } else if (CBT.currentSubIndex > 0) {
-    // Jump to previous subject last question
     CBT.currentSubIndex--;
     const prevQuestions = getCurrentQuestions();
-    CBT.currentQIndex = Math.max(0, prevQuestions.length - 1);
+    CBT.currentQIndex = prevQuestions.length - 1;
     renderExamHeader();
     renderCurrentQuestion();
     renderPalette();
   }
 }
 
-function toggleFlag() {
-  const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
-  if (!CBT.flaggedMap[currentSub]) {
-    CBT.flaggedMap[currentSub] = {};
-  }
-  const curr = CBT.flaggedMap[currentSub][CBT.currentQIndex];
-  CBT.flaggedMap[currentSub][CBT.currentQIndex] = !curr;
-  renderCurrentQuestion();
-  renderPalette();
-}
-
 /* -------------------------------------------------------------
-   Question Palette (Grid of Numbers)
+   Question Palette (Grid Navigation)
    ------------------------------------------------------------- */
 function renderPalette() {
-  const grid = document.getElementById("paletteGrid");
+  const grid = document.getElementById("questionPaletteGrid");
   if (!grid) return;
   grid.innerHTML = "";
 
   const questions = getCurrentQuestions();
   const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
 
-  questions.forEach((_, idx) => {
+  questions.forEach((q, idx) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "cbt-palette-btn";
+    btn.className = "cbt-pal-btn";
     btn.textContent = idx + 1;
-
-    const isAnswered = CBT.userAnswers[currentSub]?.[idx] !== undefined;
-    const isFlagged = CBT.flaggedMap[currentSub]?.[idx];
-    const isCurrent = idx === CBT.currentQIndex;
-
-    if (isAnswered) btn.classList.add("answered");
-    if (isFlagged) btn.classList.add("flagged");
-    if (isCurrent) btn.classList.add("current");
+    btn.dataset.idx = idx;
 
     btn.addEventListener("click", () => {
       CBT.currentQIndex = idx;
@@ -441,53 +570,57 @@ function renderPalette() {
 }
 
 function updatePaletteStatus() {
+  const questions = getCurrentQuestions();
+  const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
+  const buttons = document.querySelectorAll(".cbt-pal-btn");
+
   let answeredCount = 0;
   let flaggedCount = 0;
-  let totalCount = 0;
 
-  CBT.selectedSubjects.forEach(sub => {
-    const qs = CBT.questionsData[sub] || [];
-    totalCount += qs.length;
-    answeredCount += Object.keys(CBT.userAnswers[sub] || {}).length;
-    flaggedCount += Object.values(CBT.flaggedMap[sub] || {}).filter(Boolean).length;
+  buttons.forEach((btn, idx) => {
+    btn.className = "cbt-pal-btn";
+
+    const isCurrent = idx === CBT.currentQIndex;
+    const hasAnswer = CBT.userAnswers[currentSub]?.[idx] !== undefined;
+    const isFlagged = CBT.flaggedMap[currentSub]?.[idx] === true;
+
+    if (isCurrent) btn.classList.add("current");
+    if (isFlagged) {
+      btn.classList.add("flagged");
+      flaggedCount++;
+    } else if (hasAnswer) {
+      btn.classList.add("answered");
+      answeredCount++;
+    }
+
+    if (hasAnswer && !isFlagged) answeredCount++;
   });
 
-  const ansEl = document.getElementById("paletteAnsweredCount");
-  const unansEl = document.getElementById("paletteUnansweredCount");
-  const flagEl = document.getElementById("paletteFlaggedCount");
+  // Unique answered count across current subject
+  const currentSubAnswered = Object.keys(CBT.userAnswers[currentSub] || {}).length;
+  const currentSubFlagged = Object.values(CBT.flaggedMap[currentSub] || {}).filter(Boolean).length;
+  const currentSubRemaining = questions.length - currentSubAnswered;
 
-  if (ansEl) ansEl.textContent = answeredCount;
-  if (unansEl) unansEl.textContent = Math.max(0, totalCount - answeredCount);
-  if (flagEl) flagEl.textContent = flaggedCount;
+  const countBadge = document.getElementById("paletteAnsweredCount");
+  if (countBadge) {
+    countBadge.textContent = `${currentSubAnswered} Answered / ${currentSubRemaining} Left`;
+  }
 }
 
 /* -------------------------------------------------------------
-   Timer & Countdown
+   Exam Timer Management
    ------------------------------------------------------------- */
 function startTimer() {
   clearInterval(CBT.timerInterval);
-  const timerBadge = document.getElementById("examTimerDisplay");
-
   updateTimerDisplay();
 
   CBT.timerInterval = setInterval(() => {
     CBT.timerSeconds--;
-
-    if (timerBadge) {
-      if (CBT.timerSeconds <= 120) {
-        timerBadge.className = "cbt-timer-badge danger";
-      } else if (CBT.timerSeconds <= 300) {
-        timerBadge.className = "cbt-timer-badge warning";
-      } else {
-        timerBadge.className = "cbt-timer-badge";
-      }
-    }
-
     updateTimerDisplay();
 
     if (CBT.timerSeconds <= 0) {
       clearInterval(CBT.timerInterval);
-      alert("Time is up! Your exam will now be automatically submitted.");
+      alert("Time is up! Your examination will now be automatically submitted.");
       submitExam();
     }
   }, 1000);
@@ -496,6 +629,17 @@ function startTimer() {
 function updateTimerDisplay() {
   const timerBadge = document.getElementById("examTimerDisplay");
   if (!timerBadge) return;
+
+  if (CBT.timerSeconds <= 5 * 60) {
+    timerBadge.classList.add("danger");
+    timerBadge.classList.remove("warning");
+  } else if (CBT.timerSeconds <= 10 * 60) {
+    timerBadge.classList.add("warning");
+    timerBadge.classList.remove("danger");
+  } else {
+    timerBadge.classList.remove("warning", "danger");
+  }
+
   const m = Math.floor(CBT.timerSeconds / 60);
   const s = CBT.timerSeconds % 60;
   timerBadge.textContent = `⏱ ${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
@@ -506,11 +650,9 @@ function updateTimerDisplay() {
    ------------------------------------------------------------- */
 function init8KeyNavigation() {
   window.addEventListener("keydown", (e) => {
-    // Only active during exam screen
     const examScreen = document.getElementById("cbtExamScreen");
     if (!examScreen || examScreen.style.display !== "block") return;
 
-    // Ignore if typing inside input/calculator
     if (["INPUT", "TEXTAREA"].includes(document.activeElement.tagName)) return;
 
     const key = e.key.toUpperCase();
@@ -563,16 +705,30 @@ function submitExam() {
   let totalQuestions = 0;
   let totalCorrect = 0;
   const subjectScores = {};
+  const topicStats = {}; // { "Topic Name": { total: X, correct: Y } }
+  const yearStats = {};  // { "2024": { total: X, correct: Y } }
 
   CBT.selectedSubjects.forEach(sub => {
     const qs = CBT.questionsData[sub] || [];
     let correct = 0;
     qs.forEach((q, idx) => {
       const userChoice = CBT.userAnswers[sub]?.[idx];
-      if (userChoice === q.answer) {
-        correct++;
-      }
+      const isCorrect = userChoice === q.answer;
+      if (isCorrect) correct++;
+
+      // Track Topic Stats
+      const topic = q.topic || "General";
+      if (!topicStats[topic]) topicStats[topic] = { total: 0, correct: 0 };
+      topicStats[topic].total++;
+      if (isCorrect) topicStats[topic].correct++;
+
+      // Track Year Stats
+      const yr = q.year || "Syllabus";
+      if (!yearStats[yr]) yearStats[yr] = { total: 0, correct: 0 };
+      yearStats[yr].total++;
+      if (isCorrect) yearStats[yr].correct++;
     });
+
     subjectScores[sub] = {
       correct,
       total: qs.length,
@@ -636,6 +792,28 @@ function submitExam() {
     `;
     breakdownGrid.appendChild(box);
   });
+
+  // Topic and Year Analysis Breakdown
+  const topicBreakdownContainer = document.getElementById("resTopicBreakdown");
+  if (topicBreakdownContainer) {
+    topicBreakdownContainer.innerHTML = "";
+    
+    // Sort topics by name
+    Object.entries(topicStats).forEach(([top, st]) => {
+      const pct = Math.round((st.correct / st.total) * 100);
+      const item = document.createElement("div");
+      item.style.cssText = "background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 0.65rem 0.85rem;";
+      item.innerHTML = `
+        <div style="font-weight: 700; font-size: 0.85rem; color: #1e293b; margin-bottom: 0.25rem;">${top}</div>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem;">
+          <span style="color: ${pct >= 70 ? '#059669' : (pct >= 50 ? '#d97706' : '#dc2626')}; font-weight: 800;">
+            ${st.correct} / ${st.total} correct (${pct}%)
+          </span>
+        </div>
+      `;
+      topicBreakdownContainer.appendChild(item);
+    });
+  }
 }
 
 /* -------------------------------------------------------------
@@ -697,7 +875,12 @@ function renderReviewQuestions() {
       card.innerHTML = `
         <div class="cbt-q-meta">
           <span class="cbt-q-number">Question ${idx + 1}</span>
-          <span style="font-weight: 700; color: ${isCorrect ? '#059669' : '#dc2626'};">
+          <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+            <span class="badge" style="background: #fef3c7; color: #92400e; font-weight: 700;">${q.year ? `Year ${q.year}` : 'Past Exam'}</span>
+            <span class="badge" style="background: var(--cbt-primary-light); color: var(--cbt-primary); font-weight: 700;">${q.exam || 'JAMB'}</span>
+            <span class="badge" style="background: #f1f5f9; color: #475569; font-weight: 600;">${q.topic || 'General'}</span>
+          </div>
+          <span style="font-weight: 700; color: ${isCorrect ? '#059669' : '#dc2626'}; margin-left: auto;">
             ${isCorrect ? "✓ Answered Correctly" : (userChoice ? "✗ Answered Incorrectly" : "⚪ Unattempted")}
           </span>
         </div>
@@ -749,27 +932,25 @@ function initCalculator() {
 }
 
 function handleCalcInput(val) {
-  const disp = document.getElementById("calcDisplay");
-  if (!disp) return;
+  const screen = document.getElementById("calcScreen");
+  if (!screen) return;
 
   if (val === "C") {
     calcBuffer = "0";
-  } else if (val === "DEL") {
-    calcBuffer = calcBuffer.length > 1 ? calcBuffer.slice(0, -1) : "0";
   } else if (val === "=") {
     try {
-      // Safe math evaluation
-      const sanitized = calcBuffer.replace(/×/g, "*").replace(/÷/g, "/");
+      // Safe sanitized eval for numbers and basic arithmetic operators
+      const sanitized = calcBuffer.replace(/[^0-9+\-*/.]/g, "");
       const res = Function(`'use strict'; return (${sanitized})`)();
-      calcBuffer = String(Number(res.toFixed(6)));
-    } catch {
+      calcBuffer = String(Math.round(res * 10000) / 10000);
+    } catch (e) {
       calcBuffer = "Error";
     }
   } else if (val === "sqrt") {
     try {
-      const num = parseFloat(calcBuffer);
-      calcBuffer = String(Math.sqrt(num));
-    } catch {
+      const n = parseFloat(calcBuffer);
+      calcBuffer = (n >= 0) ? String(Math.round(Math.sqrt(n) * 10000) / 10000) : "Error";
+    } catch (e) {
       calcBuffer = "Error";
     }
   } else {
@@ -779,5 +960,6 @@ function handleCalcInput(val) {
       calcBuffer += val;
     }
   }
-  disp.textContent = calcBuffer;
+
+  screen.textContent = calcBuffer;
 }

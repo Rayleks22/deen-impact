@@ -1,142 +1,402 @@
 [
   {
-    "id": 1,
-    "question": "Which of the following animals is classified as a ruminant?",
+    "question": "Which of the following farm animals is classified anatomically as a non-ruminant herbivore with a functional caecum for fiber fermentation?",
     "options": {
-      "A": "Pig",
+      "A": "Rabbit",
       "B": "Goat",
-      "C": "Rabbit",
-      "D": "Poultry"
-    },
-    "answer": "B",
-    "explanation": "Goats, sheep, and cattle are ruminants with four-chambered stomachs (rumen, reticulum, omasum, abomasum).",
-    "topic": "Livestock Classification & Digestive System",
-    "exam": "WAEC"
-  },
-  {
-    "id": 2,
-    "question": "Newcastle disease is a highly contagious viral infection that primarily affects:",
-    "options": {
-      "A": "Cattle",
-      "B": "Pigs",
-      "C": "Poultry (Chickens & Turkeys)",
-      "D": "Sheep"
-    },
-    "answer": "C",
-    "explanation": "Newcastle disease is a deadly viral respiratory and nervous affliction in birds and poultry.",
-    "topic": "Livestock Diseases & Health",
-    "exam": "WAEC"
-  },
-  {
-    "id": 3,
-    "question": "The gestation period of a sow (female pig) is approximately:",
-    "options": {
-      "A": "3 months, 3 weeks, and 3 days (114 days)",
-      "B": "9 months (283 days)",
-      "C": "5 months (150 days)",
-      "D": "30 days"
+      "C": "Sheep",
+      "D": "Cow"
     },
     "answer": "A",
-    "explanation": "The gestation period of pigs is traditionally remembered as 3 months, 3 weeks, and 3 days (~114 days).",
-    "topic": "Animal Reproduction & Breeding",
-    "exam": "WAEC"
+    "explanation": "Rabbits and horses are monogastric (non-ruminant) herbivores that utilize an enlarged, functional caecum (hindgut fermentation) to digest cellulose.",
+    "topic": "Animal Physiology / Digestive Systems",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The first milk secreted by a female mammal immediately following parturition, rich in maternal antibodies and immunoglobulins, is:",
+    "options": {
+      "A": "Colostrum",
+      "B": "Casein",
+      "C": "Whey",
+      "D": "Skimmed milk"
+    },
+    "answer": "A",
+    "explanation": "Colostrum provides passive immunity, essential nutrients, and acts as a mild laxative to clear meconium from the newborn's digestive tract.",
+    "topic": "Animal Reproduction / Lactation & Colostrum",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Newcastle disease in commercial poultry production is caused by a:",
+    "options": {
+      "A": "Virus (Avian paramyxovirus)",
+      "B": "Bacterium",
+      "C": "Protozoan parasite",
+      "D": "Fungal spore"
+    },
+    "answer": "A",
+    "explanation": "Newcastle is a highly contagious, deadly viral disease affecting avian respiratory, digestive, and nervous systems, prevented through timely vaccination.",
+    "topic": "Poultry Management / Viral Diseases",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a ruminant's four-chambered stomach, which compartment is referred to as the 'true stomach' where enzymatic digestion occurs?",
+    "options": {
+      "A": "Abomasum",
+      "B": "Rumen",
+      "C": "Reticulum",
+      "D": "Omasum"
+    },
+    "answer": "A",
+    "explanation": "The abomasum secretes hydrochloric acid and gastric enzymes (pepsin, rennin), functioning identically to the monogastric glandular stomach.",
+    "topic": "Ruminant Anatomy / Stomach Chambers",
+    "exam": "WAEC SSCE",
+    "year": "2022",
     "id": 4,
-    "question": "Colostrum is the first milk produced after parturition which is essential because it:",
-    "options": {
-      "A": "Is cheap and easy to dispose",
-      "B": "Is rich in maternal antibodies that confer immunity to the newborn",
-      "C": "Causes immediate weaning",
-      "D": "Prevents rumination"
-    },
-    "answer": "B",
-    "explanation": "Colostrum delivers concentrated antibodies (immunoglobulins) that protect newborns against infections in early life.",
-    "topic": "Animal Nutrition & Management",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which feed nutrient is indispensable in the diet of commercial egg-laying hens to prevent soft-shelled eggs and cage layer fatigue?",
+    "options": {
+      "A": "Calcium and Vitamin D₃",
+      "B": "Crude fiber",
+      "C": "Carbohydrates",
+      "D": "Vitamin K"
+    },
+    "answer": "A",
+    "explanation": "Eggshells consist almost entirely of calcium carbonate. Sufficient dietary calcium and vitamin D₃ are critical for shell deposition.",
+    "topic": "Animal Nutrition / Feed Formulation",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 5,
-    "question": "The removal of the testes in young male livestock to improve docility and meat quality is called:",
-    "options": {
-      "A": "Docking",
-      "B": "Castration",
-      "C": "Dehorning",
-      "D": "Culling"
-    },
-    "answer": "B",
-    "explanation": "Castration removes testicles, curbing aggression, preventing unwanted breeding, and improving meat fattening.",
-    "topic": "Routine Management Practices",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The surgical removal of the testicles in male farm animals to prevent unwanted breeding and improve meat quality is termed:",
+    "options": {
+      "A": "Castration",
+      "B": "Dehorning",
+      "C": "Docking",
+      "D": "Dubbing"
+    },
+    "answer": "A",
+    "explanation": "Castration renders males sterile, calms temperament, prevents boar/buck odor, and improves carcass fat distribution and feed conversion.",
+    "topic": "Routine Management Practices / Castration",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 6,
-    "question": "A balanced poultry layer mash is formulated with a higher proportion of which mineral for strong eggshell formation?",
-    "options": {
-      "A": "Iron",
-      "B": "Calcium",
-      "C": "Potassium",
-      "D": "Sulfur"
-    },
-    "answer": "B",
-    "explanation": "Eggshells are primarily composed of calcium carbonate; hence laying hens require diets rich in calcium and phosphorus.",
-    "topic": "Poultry Nutrition",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Coccidiosis in broilers is a protozoan disease characterized predominantly by:",
+    "options": {
+      "A": "Bloody diarrhea, ruffled feathers, and intestinal hemorrhaging",
+      "B": "Paralysis of the wings and neck",
+      "C": "Blisters on the snood and comb",
+      "D": "Swollen joints and rickets"
+    },
+    "answer": "A",
+    "explanation": "Coccidiosis (Eimeria species) attacks epithelial linings of the caeca and intestines, causing bloody droppings, emaciation, and high chick mortality.",
+    "topic": "Poultry Diseases / Protozoan Infections",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 7,
-    "question": "Which of the following is an ectoparasite in livestock production?",
-    "options": {
-      "A": "Tapeworm",
-      "B": "Liver fluke",
-      "C": "Tick",
-      "D": "Roundworm"
-    },
-    "answer": "C",
-    "explanation": "Ticks and lice are external parasites (ectoparasites) that live on the skin of livestock and transmit blood protozoans.",
-    "topic": "Livestock Parasitology",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The act of giving birth in pigs (swine) is technically called:",
+    "options": {
+      "A": "Farrowing",
+      "B": "Calving",
+      "C": "Lambing",
+      "D": "Kidding"
+    },
+    "answer": "A",
+    "explanation": "Parturition terms: Sow = Farrowing; Cow = Calving; Ewe = Lambing; Doe (goat) = Kidding; Mare = Foaling.",
+    "topic": "Animal Husbandry / Parturition Terminology",
+    "exam": "WAEC SSCE",
+    "year": "2020",
     "id": 8,
-    "question": "The true stomach in a ruminant where enzymatic digestion occurs is the:",
-    "options": {
-      "A": "Rumen",
-      "B": "Reticulum",
-      "C": "Omasum",
-      "D": "Abomasum"
-    },
-    "answer": "D",
-    "explanation": "The abomasum is the fourth compartment and the true glandular stomach of ruminants, secreting gastric juices.",
-    "topic": "Anatomy of Farm Animals",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which of the following is a major vector responsible for transmitting African trypanosomiasis (nagana) in livestock across West Africa?",
+    "options": {
+      "A": "Tsetse fly (Glossina species)",
+      "B": "Housefly",
+      "C": "Tick",
+      "D": "Blackfly"
+    },
+    "answer": "A",
+    "explanation": "Tsetse flies vector the protozoan parasite Trypanosoma brucei, causing debilitating nagana in susceptible cattle breeds.",
+    "topic": "Animal Health / Parasites & Vectors",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 9,
-    "question": "The process of removing unproductive or sick birds from a flock is known as:",
-    "options": {
-      "A": "Candling",
-      "B": "Culling",
-      "C": "Brooding",
-      "D": "Debudding"
-    },
-    "answer": "B",
-    "explanation": "Culling removes inferior, non-laying, or diseased animals from the herd/flock to conserve feed and maintain productivity.",
-    "topic": "Poultry Management",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "A deep litter housing system is most commonly utilized in the management of:",
+    "question": "Silage is preserved livestock feed produced by:",
     "options": {
-      "A": "Cattle",
-      "B": "Poultry",
-      "C": "Horses",
-      "D": "Fish"
+      "A": "anaerobic fermentation of high-moisture green forages in silos",
+      "B": "sun-drying cut grass to below 15% moisture content",
+      "C": "boiling cereal grains in molasses",
+      "D": "pelleting dry bone meal"
     },
-    "answer": "B",
-    "explanation": "Deep litter housing uses wood shavings or sawdust on concrete floors for commercial poultry production.",
-    "topic": "Housing Systems",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "Silage is made by compacting green forage in airtight silos where lactic acid bacteria conduct anaerobic fermentation, preserving nutrients for dry-season feeding.",
+    "topic": "Forage Conservation / Silage & Hay",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The artificial brooding temperature required for day-old poultry chicks during their first week of life is approximately:",
+    "options": {
+      "A": "32°C to 35°C (90°F to 95°F)",
+      "B": "20°C to 22°C",
+      "C": "40°C to 45°C",
+      "D": "15°C to 18°C"
+    },
+    "answer": "A",
+    "explanation": "Chicks cannot thermoregulate during their first week; brooding pens require 32°C-35°C, reduced by ~2.5°C weekly until full feathering.",
+    "topic": "Poultry Management / Brooding",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which breed of indigenous Nigerian cattle is renowned for its high tolerance to trypanosomiasis in the humid southern zones?",
+    "options": {
+      "A": "Ndama (and Muturu)",
+      "B": "White Fulani",
+      "C": "Red Bororo",
+      "D": "Sokoto Gudali"
+    },
+    "answer": "A",
+    "explanation": "The Ndama and Muturu (West African Shorthorn) are trypanotolerant breeds naturally adapted to the tsetse-infested rainforest and derived savanna belts.",
+    "topic": "Cattle Breeds & Adaptations",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Debeaking (beak trimming) is conducted in commercial poultry flocks primarily to:",
+    "options": {
+      "A": "prevent cannibalism, feather pecking, and egg eating",
+      "B": "enhance crowing in roosters",
+      "C": "increase water consumption",
+      "D": "stimulate comb development"
+    },
+    "answer": "A",
+    "explanation": "Trimming the sharp tip of the upper beak reduces trauma from feather pecking, vents pecking, egg eating, and feed wastage.",
+    "topic": "Poultry Management / Debeaking",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The normal gestation period of a domestic sow (pig) is approximately:",
+    "options": {
+      "A": "114 days (3 months, 3 weeks, 3 days)",
+      "B": "283 days",
+      "C": "150 days",
+      "D": "31 days"
+    },
+    "answer": "A",
+    "explanation": "Gestation periods: Sow = 114 days (3 months, 3 weeks, 3 days); Cow = 283 days; Ewe/Doe = 150 days; Rabbit = 31 days.",
+    "topic": "Animal Reproduction / Gestation Periods",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Candling of eggs during artificial incubation is done to:",
+    "options": {
+      "A": "detect fertility, dead embryos, and shell micro-cracks using light",
+      "B": "coat the eggshell with protective wax",
+      "C": "weigh the egg mass accurately",
+      "D": "determine chick gender before hatching"
+    },
+    "answer": "A",
+    "explanation": "Egg candling projects bright light through eggs on days 7 and 14 of incubation to identify infertile clears or early dead embryos for removal.",
+    "topic": "Hatchery Management / Candling",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following internal parasites infects the bile ducts and liver of sheep and cattle, causing liver rot?",
+    "options": {
+      "A": "Liver fluke (Fasciola hepatica)",
+      "B": "Tapeworm (Taenia)",
+      "C": "Roundworm (Ascaris)",
+      "D": "Hookworm"
+    },
+    "answer": "A",
+    "explanation": "Fasciola hepatica is a trematode parasite whose intermediate host is the freshwater mud snail (Lymnaea), infesting ruminant liver and bile ducts.",
+    "topic": "Animal Parasites / Endoparasites",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A balanced concentrate ration fed to lactating dairy cows to stimulate abundant milk secretion is known as:",
+    "options": {
+      "A": "Dairy meal (production ration)",
+      "B": "Maintenance ration only",
+      "C": "Broiler finisher",
+      "D": "Creep feed"
+    },
+    "answer": "A",
+    "explanation": "Production rations furnish extra energy, protein, calcium, and phosphorus beyond maintenance requirements to support milk synthesis.",
+    "topic": "Animal Nutrition / Ration Formulation",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Anthrax is a fatal zoonotic bacterial disease caused by:",
+    "options": {
+      "A": "Bacillus anthracis",
+      "B": "Brucella abortus",
+      "C": "Mycobacterium bovis",
+      "D": "Salmonella gallinarum"
+    },
+    "answer": "A",
+    "explanation": "Bacillus anthracis forms tough spores surviving decades in soil; infected dead carcasses must never be opened to prevent lethal spore release.",
+    "topic": "Animal Diseases / Bacterial Infections & Zoonoses",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The process of mating closely related animals (such as sire to daughter or brother to sister) is:",
+    "options": {
+      "A": "Inbreeding",
+      "B": "Crossbreeding",
+      "C": "Outcrossing",
+      "D": "Upgrading"
+    },
+    "answer": "A",
+    "explanation": "Inbreeding fixes desirable homozygous genetic traits but risks inbreeding depression if deleterious recessive alleles accumulate.",
+    "topic": "Animal Breeding & Genetics",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Creep feeding is the management practice of providing specialized nutritious feed to:",
+    "options": {
+      "A": "young suckling animals in an enclosure inaccessible to their mothers",
+      "B": "aged breeding bulls before slaughter",
+      "C": "culled battery cage layers",
+      "D": "broiler parent stock"
+    },
+    "answer": "A",
+    "explanation": "Creep feeding allows piglets, lambs, or calves to access highly palatable nutrient-dense rations without competition from mature dams.",
+    "topic": "Livestock Management / Creep Feeding",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is an effective biosecurity measure on a commercial poultry farm?",
+    "options": {
+      "A": "Footbaths with active disinfectants at all entrance gates and restricting unauthorized visitors",
+      "B": "Allowing wild birds free access to the chicken pens",
+      "C": "Dumping expired feed bags beside the brooding units",
+      "D": "Using untreated river water for drinking troughs"
+    },
+    "answer": "A",
+    "explanation": "Biosecurity incorporates vehicle spray-dips, footbaths, quarantine, pest exclusion, and protective footwear to keep infectious pathogens out.",
+    "topic": "Farm Biosecurity & Disease Prevention",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The gizzard (ventriculus) in avian digestive physiology performs which mechanical function?",
+    "options": {
+      "A": "Grinding and crushing ingested grains with swallowed grit and pebbles",
+      "B": "Storing unground grain temporarily",
+      "C": "Absorbing water and salts",
+      "D": "Secreting bile pigments"
+    },
+    "answer": "A",
+    "explanation": "Birds lack teeth; the muscular gizzard lined with koilin uses swallowed grit stones to physically grind seeds and hard grains.",
+    "topic": "Avian Anatomy / Gizzard",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary indicator that a dairy cow is in estrus (standing heat)?",
+    "options": {
+      "A": "Standing firmly to be mounted by other cows or a bull",
+      "B": "Refusal to drink water",
+      "C": "Sleeping continuously for 24 hours",
+      "D": "Sudden growth of horns"
+    },
+    "answer": "A",
+    "explanation": "Standing heat is the definitive behavioral sign of estrus, accompanied by clear mucous discharge, restlessness, and increased vocalization.",
+    "topic": "Animal Reproduction / Estrus Detection",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Docking in sheep husbandry refers to the practice of:",
+    "options": {
+      "A": "Shortening or removing the tail of lambs",
+      "B": "Trimming hoofs",
+      "C": "Shearing wool",
+      "D": "Branding horns"
+    },
+    "answer": "A",
+    "explanation": "Docking tails prevents fecal contamination (dagginess), which attracts blowflies causing lethal flystrike (myiasis).",
+    "topic": "Sheep Husbandry / Routine Operations",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which mineral deficiency in grazing cattle causes milk fever (parturient paresis) immediately following calving?",
+    "options": {
+      "A": "Calcium",
+      "B": "Iron",
+      "C": "Zinc",
+      "D": "Copper"
+    },
+    "answer": "A",
+    "explanation": "Milk fever is acute hypocalcemia caused by rapid calcium drain into colostrum at the onset of lactation faster than skeletal mobilization can compensate.",
+    "topic": "Nutritional Metabolic Disorders / Hypocalcemia",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

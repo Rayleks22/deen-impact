@@ -1,142 +1,402 @@
 [
   {
-    "id": 1,
-    "question": "What is the oxidation number of sulfur in H₂SO₄?",
+    "question": "What is the oxidation number of sulfur in potassium permanganate (KMnO₄)? Wait, what is the oxidation number of manganese in KMnO₄?",
     "options": {
-      "A": "+4",
+      "A": "+7",
       "B": "+6",
-      "C": "+2",
-      "D": "-2"
-    },
-    "answer": "B",
-    "explanation": "2(+1) + S + 4(-2) = 0 => 2 + S - 8 = 0 => S - 6 = 0 => S = +6.",
-    "topic": "Redox Reactions",
-    "exam": "JAMB"
-  },
-  {
-    "id": 2,
-    "question": "Which of the following hydrocarbons decolourizes acidified KMnO₄ and bromine water rapidly?",
-    "options": {
-      "A": "Methane",
-      "B": "Ethane",
-      "C": "Ethene",
-      "D": "Propane"
-    },
-    "answer": "C",
-    "explanation": "Ethene (C₂H₄) is an unsaturated alkene containing a carbon-carbon double bond, which undergoes rapid addition reactions with bromine water and cold alkaline/acidified KMnO₄.",
-    "topic": "Organic Chemistry (Alkenes)",
-    "exam": "WAEC"
-  },
-  {
-    "id": 3,
-    "question": "Calculate the volume of 0.5 mol/dm³ HCl required to neutralize 25 cm³ of 0.2 mol/dm³ NaOH.",
-    "options": {
-      "A": "10 cm³",
-      "B": "15 cm³",
-      "C": "20 cm³",
-      "D": "25 cm³"
+      "C": "+5",
+      "D": "+4"
     },
     "answer": "A",
-    "explanation": "HCl + NaOH -> NaCl + H₂O. CaVa / CbVb = na / nb => (0.5 * Va) / (0.2 * 25) = 1/1 => 0.5Va = 5 => Va = 10 cm³.",
-    "topic": "Volumetric Analysis",
-    "exam": "JAMB"
+    "explanation": "K is +1, O is -2. (+1) + Mn + 4(-2) = 0 → Mn - 7 = 0 → Mn = +7.",
+    "topic": "Redox Reactions / Oxidation States",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 4,
-    "question": "Which element has the electron configuration 1s² 2s² 2p⁶ 3s² 3p⁴?",
+    "question": "Calculate the mass of calcium carbonate (CaCO₃) required to produce 2.24 dm³ of CO₂ at standard temperature and pressure (STP). (Ca=40, C=12, O=16, Molar volume at STP = 22.4 dm³)",
     "options": {
-      "A": "Silicon",
-      "B": "Phosphorus",
-      "C": "Sulfur",
-      "D": "Chlorine"
+      "A": "10.0 g",
+      "B": "5.0 g",
+      "C": "20.0 g",
+      "D": "2.24 g"
     },
-    "answer": "C",
-    "explanation": "Total electrons = 2 + 2 + 6 + 2 + 4 = 16. The element with atomic number 16 is Sulfur (S).",
-    "topic": "Atomic Structure & Periodic Table",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "CaCO₃ → CaO + CO₂. Molar mass of CaCO₃ = 40 + 12 + 48 = 100 g/mol. Moles of CO₂ = 2.24 / 22.4 = 0.1 mol. Mass of CaCO₃ = 0.1 × 100 g = 10.0 g.",
+    "topic": "Stoichiometry & Gas Calculations",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 5,
-    "question": "The temporary hardness of water is caused by the presence of dissolved:",
+    "question": "Which of the following organic functional groups is present in ethanoic acid (CH₃COOH)?",
     "options": {
-      "A": "Calcium sulfate",
-      "B": "Calcium hydrogentrioxocarbonate(IV)",
+      "A": "Carboxyl group (-COOH)",
+      "B": "Hydroxyl group (-OH) only",
+      "C": "Carbonyl group (C=O) only",
+      "D": "Alkoxy group (-OR)"
+    },
+    "answer": "A",
+    "explanation": "Carboxylic acids contain the carboxyl group (-COOH), consisting of a carbonyl group bonded directly to a hydroxyl group.",
+    "topic": "Organic Chemistry / Functional Groups",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to Le Chatelier's principle, what is the effect of increasing pressure on the equilibrium system: N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?",
+    "options": {
+      "A": "Equilibrium shifts to the right (yield of NH₃ increases)",
+      "B": "Equilibrium shifts to the left (yield of NH₃ decreases)",
+      "C": "No effect on equilibrium position",
+      "D": "The equilibrium constant increases"
+    },
+    "answer": "A",
+    "explanation": "Reactants have 4 moles of gas; products have 2 moles. Increasing pressure shifts equilibrium toward the side with fewer gas moles (to the right).",
+    "topic": "Chemical Equilibrium / Le Chatelier",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the pH of a 0.001 M solution of hydrochloric acid (HCl), assuming complete dissociation.",
+    "options": {
+      "A": "3.0",
+      "B": "1.0",
+      "C": "4.0",
+      "D": "11.0"
+    },
+    "answer": "A",
+    "explanation": "[H⁺] = 0.001 M = 10⁻³ M. pH = -log₁₀[H⁺] = -log₁₀(10⁻³) = 3.0.",
+    "topic": "Acids, Bases & Salts / pH Concept",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "How many moles of electrons are required to deposit 1 mole of aluminium during the electrolysis of molten Al₂O₃?",
+    "options": {
+      "A": "3 moles",
+      "B": "1 mole",
+      "C": "2 moles",
+      "D": "6 moles"
+    },
+    "answer": "A",
+    "explanation": "Al³⁺ + 3e⁻ → Al(s). One mole of aluminium ions requires 3 moles of electrons (3 Faradays) for deposition.",
+    "topic": "Electrochemistry / Faraday's Laws",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following compounds exhibits geometric (cis-trans) isomerism?",
+    "options": {
+      "A": "But-2-ene",
+      "B": "But-1-ene",
+      "C": "Propene",
+      "D": "Ethene"
+    },
+    "answer": "A",
+    "explanation": "But-2-ene (CH₃-CH=CH-CH₃) has two distinct substituents on each double-bonded carbon atom, allowing cis- and trans- stereoisomers.",
+    "topic": "Organic Chemistry / Isomerism",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What type of chemical bond is formed between sodium (Na) and chlorine (Cl) in NaCl?",
+    "options": {
+      "A": "Electrovalent (ionic) bond",
+      "B": "Covalent bond",
+      "C": "Metallic bond",
+      "D": "Hydrogen bond"
+    },
+    "answer": "A",
+    "explanation": "Sodium transfers its single valence electron to chlorine, forming Na⁺ and Cl⁻ held together by strong electrostatic ionic forces.",
+    "topic": "Atomic Structure & Chemical Bonding",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the IUPAC name of the compound: CH₃-CH(CH₃)-CH₂-OH?",
+    "options": {
+      "A": "2-methylpropan-1-ol",
+      "B": "butan-2-ol",
+      "C": "2-methylpropan-2-ol",
+      "D": "3-methylpropan-1-ol"
+    },
+    "answer": "A",
+    "explanation": "The longest carbon chain containing the -OH group has 3 carbons (propan-1-ol) with a methyl group on carbon 2: 2-methylpropan-1-ol.",
+    "topic": "Organic Chemistry / IUPAC Nomenclature",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which gas is evolved when dilute hydrochloric acid reacts with calcium trioxocarbonate(IV)?",
+    "options": {
+      "A": "Carbon(IV) oxide",
+      "B": "Hydrogen gas",
+      "C": "Sulfur(IV) oxide",
+      "D": "Chlorine gas"
+    },
+    "answer": "A",
+    "explanation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂(g). Carbon(IV) oxide gas effervesces and turns lime water milky.",
+    "topic": "Acids, Bases & Salts / Gas Preparation",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "State the electronic configuration of the iron(III) ion, Fe³⁺ (Atomic number of Fe = 26).",
+    "options": {
+      "A": "[Ar] 3d⁵",
+      "B": "[Ar] 4s² 3d³",
+      "C": "[Ar] 3d⁶",
+      "D": "[Ar] 4s¹ 3d⁵"
+    },
+    "answer": "A",
+    "explanation": "Fe is [Ar] 4s² 3d⁶. When forming Fe³⁺, the two 4s electrons and one 3d electron are removed, yielding the stable half-filled d-subshell [Ar] 3d⁵.",
+    "topic": "Atomic Structure & Periodic Trends",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which catalyst is employed in the industrial Haber process for the manufacture of ammonia?",
+    "options": {
+      "A": "Finely divided iron",
+      "B": "Vanadium(V) oxide",
+      "C": "Platinum gauze",
+      "D": "Nickel"
+    },
+    "answer": "A",
+    "explanation": "Finely divided iron promoted with potassium/aluminium oxides is the catalyst used in the Haber process (N₂ + 3H₂ ⇌ 2NH₃).",
+    "topic": "Industrial Processes / Catalysis",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the product formed when ethanol is dehydrated using concentrated tetraoxosulfate(VI) acid at 170°C?",
+    "options": {
+      "A": "Ethene",
+      "B": "Ethoxyethane",
+      "C": "Ethanal",
+      "D": "Ethyne"
+    },
+    "answer": "A",
+    "explanation": "At 170°C with excess concentrated H₂SO₄, ethanol undergoes dehydration to form ethene (C₂H₄). At 140°C with excess ethanol, ethoxyethane is formed.",
+    "topic": "Organic Chemistry / Alcohols",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Temporary hardness of water is caused by the presence of:",
+    "options": {
+      "A": "Calcium hydrogentrioxocarbonate(IV)",
+      "B": "Calcium tetraoxosulfate(VI)",
       "C": "Magnesium chloride",
       "D": "Sodium trioxocarbonate(IV)"
     },
-    "answer": "B",
-    "explanation": "Temporary hardness is caused by Ca(HCO₃)₂ and Mg(HCO₃)₂, which can be removed simply by boiling.",
-    "topic": "Water & Hardness",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "Temporary hardness is caused by dissolved Ca(HCO₃)₂ and Mg(HCO₃)₂, which can be removed simply by boiling.",
+    "topic": "Water & Hardness of Water",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 6,
-    "question": "According to Le Chatelier's principle, an increase in pressure on the system N₂(g) + 3H₂(g) ⇌ 2NH₃(g) will:",
+    "question": "Which of the following elements has the highest first ionization energy?",
     "options": {
-      "A": "Shift equilibrium to the left",
-      "B": "Shift equilibrium to the right",
-      "C": "Have no effect",
-      "D": "Decrease the yield of ammonia"
-    },
-    "answer": "B",
-    "explanation": "The reactants have 4 moles of gas while the products have 2 moles. Increasing pressure favours the side with fewer gaseous moles (shifts to the right).",
-    "topic": "Chemical Equilibrium",
-    "exam": "WAEC"
-  },
-  {
-    "id": 7,
-    "question": "What is the mass of 0.25 moles of Calcium carbonate (CaCO₃)? [Ca = 40, C = 12, O = 16]",
-    "options": {
-      "A": "25 g",
-      "B": "50 g",
-      "C": "100 g",
-      "D": "12.5 g"
+      "A": "Helium",
+      "B": "Fluorine",
+      "C": "Neon",
+      "D": "Oxygen"
     },
     "answer": "A",
-    "explanation": "Molar mass of CaCO₃ = 40 + 12 + (3 * 16) = 100 g/mol. Mass = 0.25 mol * 100 g/mol = 25 g.",
-    "topic": "Stoichiometry & Mole Concept",
-    "exam": "JAMB"
+    "explanation": "Helium has the highest ionization energy in the periodic table due to its very small atomic radius and high effective nuclear charge holding its two 1s electrons.",
+    "topic": "Periodic Table / Ionization Energy",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 8,
-    "question": "Which of the following alloys is composed of copper and zinc?",
+    "question": "Calculate the volume of 0.5 M sodium hydroxide (NaOH) needed to completely neutralize 25 cm³ of 0.2 M hydrochloric acid (HCl).",
     "options": {
-      "A": "Bronze",
-      "B": "Brass",
-      "C": "Steel",
-      "D": "Duralumin"
+      "A": "10.0 cm³",
+      "B": "25.0 cm³",
+      "C": "50.0 cm³",
+      "D": "12.5 cm³"
     },
-    "answer": "B",
-    "explanation": "Brass is an alloy of Copper and Zinc. Bronze is Copper and Tin.",
-    "topic": "Metals & Alloys",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "C_a V_a / C_b V_b = 1/1 → (0.2 × 25) / (0.5 × V_b) = 1 → 5.0 = 0.5 V_b → V_b = 10.0 cm³.",
+    "topic": "Volumetric Analysis / Titration",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 9,
-    "question": "The gas responsible for global greenhouse warming produced by fossil fuel combustion is:",
+    "question": "Which of the following compounds gives a brick-red precipitate when warmed with Fehling's solution?",
     "options": {
-      "A": "Carbon(II) oxide",
-      "B": "Carbon(IV) oxide",
-      "C": "Nitrogen",
-      "D": "Sulfur(IV) oxide"
+      "A": "Ethanal",
+      "B": "Propanone",
+      "C": "Ethanol",
+      "D": "Ethanoic acid"
     },
-    "answer": "B",
-    "explanation": "Carbon(IV) oxide (CO₂) is the primary greenhouse gas contributing to global warming from combustion.",
-    "topic": "Environmental Chemistry",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "Aliphatic aldehydes like ethanal reduce Fehling's solution (Cu²⁺) to a brick-red precipitate of copper(I) oxide (Cu₂O). Ketones and alcohols do not.",
+    "topic": "Organic Chemistry / Carbonyl Compounds",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "A solution has a pH of 3.0. The solution is considered:",
+    "question": "What is the shape and bond angle of a methane (CH₄) molecule?",
     "options": {
-      "A": "Strongly alkaline",
-      "B": "Weakly alkaline",
-      "C": "Acidic",
-      "D": "Neutral"
+      "A": "Tetrahedral, 109.5°",
+      "B": "Trigonal planar, 120°",
+      "C": "Linear, 180°",
+      "D": "Pyramidal, 107°"
     },
-    "answer": "C",
-    "explanation": "pH below 7 indicates an acidic solution. pH 3.0 is definitely acidic.",
-    "topic": "Acids, Bases & Salts",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "Methane has four sp³ hybridized bonding pairs around carbon with zero lone pairs, forming a regular tetrahedral geometry with 109.5° bond angles.",
+    "topic": "Chemical Bonding / Molecular Geometry",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which law states that the rate of diffusion of a gas is inversely proportional to the square root of its molar mass?",
+    "options": {
+      "A": "Graham's Law of Diffusion",
+      "B": "Dalton's Law of Partial Pressures",
+      "C": "Charles's Law",
+      "D": "Avogadro's Law"
+    },
+    "answer": "A",
+    "explanation": "Graham's Law states that at constant temperature and pressure, R ∝ 1/√M (rate of diffusion is inversely proportional to the square root of density or molar mass).",
+    "topic": "Gas Laws / Diffusion",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An endothermic reaction is characterized by which of the following thermodynamic parameters?",
+    "options": {
+      "A": "Positive enthalpy change (ΔH > 0)",
+      "B": "Negative enthalpy change (ΔH < 0)",
+      "C": "Zero activation energy",
+      "D": "Heat released to the surroundings"
+    },
+    "answer": "A",
+    "explanation": "Endothermic reactions absorb thermal energy from the surroundings, resulting in a positive enthalpy change (ΔH > 0).",
+    "topic": "Thermochemistry / Enthalpy",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the extraction of aluminium by the Hall-Héroult process, why is molten cryolite (Na₃AlF₆) added to alumina?",
+    "options": {
+      "A": "To lower the melting point and improve electrical conductivity",
+      "B": "To oxidize the aluminium",
+      "C": "To act as an oxidizing agent at the anode",
+      "D": "To prevent corrosion of the graphite electrodes"
+    },
+    "answer": "A",
+    "explanation": "Pure alumina melts at over 2000°C. Adding cryolite lowers the melting point to around 950°C and greatly improves electrical conductivity.",
+    "topic": "Metals / Extraction of Aluminium",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the empirical formula of a compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass? (C=12, H=1, O=16)",
+    "options": {
+      "A": "CH₂O",
+      "B": "C₂H₄O₂",
+      "C": "CHO",
+      "D": "C₃H₆O₃"
+    },
+    "answer": "A",
+    "explanation": "Moles: C = 40/12 = 3.33; H = 6.7/1 = 6.7; O = 53.3/16 = 3.33. Dividing by 3.33 gives C:H:O = 1:2:1 → CH₂O.",
+    "topic": "Stoichiometry / Empirical Formula",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following reagents is used to test for unsaturation (alkenes and alkynes)?",
+    "options": {
+      "A": "Bromine water (or acidified KMnO₄)",
+      "B": "Benedict's solution",
+      "C": "Tollens' reagent",
+      "D": "Barium chloride solution"
+    },
+    "answer": "A",
+    "explanation": "Unsaturated hydrocarbons decolorize reddish-brown bromine water and purple acidified KMnO₄ via electrophilic addition reactions.",
+    "topic": "Organic Chemistry / Hydrocarbons",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which radioactive emission has the highest ionizing power?",
+    "options": {
+      "A": "Alpha particles (α)",
+      "B": "Beta particles (β)",
+      "C": "Gamma rays (γ)",
+      "D": "Positrons"
+    },
+    "answer": "A",
+    "explanation": "Alpha particles are relatively heavy helium nuclei with a +2 charge, giving them the highest ionizing power but lowest penetrating power.",
+    "topic": "Nuclear Chemistry / Radioactivity",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The substance used as a primary standard in volumetric acid-base analysis must possess which essential property?",
+    "options": {
+      "A": "High degree of purity, stable in air, and known molar mass",
+      "B": "Deliquescent and readily soluble in water",
+      "C": "Low molar mass to minimize weighing errors",
+      "D": "Strongly volatile at room temperature"
+    },
+    "answer": "A",
+    "explanation": "A primary standard (like anhydrous Na₂CO₃) must be exceptionally pure, stable, non-hygroscopic, and have a high molar mass to minimize weighing errors.",
+    "topic": "Volumetric Analysis",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

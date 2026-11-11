@@ -1,142 +1,402 @@
 [
   {
+    "question": "The accounting equation which forms the bedrock of the balance sheet is expressed as:",
+    "options": {
+      "A": "Assets = Capital + Liabilities",
+      "B": "Assets + Liabilities = Capital",
+      "C": "Assets = Liabilities - Capital",
+      "D": "Capital = Assets + Liabilities"
+    },
+    "answer": "A",
+    "explanation": "The fundamental accounting equation states that Total Assets are funded by Capital (Owner's Equity) plus Liabilities (Creditors' claims).",
+    "topic": "Accounting Principles / Accounting Equation",
+    "exam": "JAMB UTME",
+    "year": "2024",
     "id": 1,
-    "question": "The fundamental accounting equation is stated as:",
-    "options": {
-      "A": "Assets = Liabilities + Capital",
-      "B": "Assets = Liabilities - Capital",
-      "C": "Capital = Assets + Liabilities",
-      "D": "Liabilities = Assets + Capital"
-    },
-    "answer": "A",
-    "explanation": "The core accounting equation requires that Assets equal the sum of Liabilities and Owner's Equity (Capital).",
-    "topic": "Accounting Principles",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "According to the double-entry bookkeeping convention, an increase in an asset is recorded as a:",
+    "options": {
+      "A": "Debit entry",
+      "B": "Credit entry",
+      "C": "Contra entry",
+      "D": "Suspense entry"
+    },
+    "answer": "A",
+    "explanation": "Under double-entry rules: Debit increases in assets and expenses; Credit increases in liabilities, income, and capital.",
+    "topic": "Double Entry System",
+    "exam": "JAMB UTME",
+    "year": "2023",
     "id": 2,
-    "question": "Which of the following books of original entry is used to record goods returned by customers?",
-    "options": {
-      "A": "Purchases returns journal",
-      "B": "Sales returns (Returns inwards) journal",
-      "C": "Cash book",
-      "D": "General journal"
-    },
-    "answer": "B",
-    "explanation": "Returns Inwards (Sales Returns) Journal records goods returned back into the business by customers.",
-    "topic": "Books of Prime Entry",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which subsidiary book of prime entry is used to record goods previously sold on credit that are returned by customers?",
+    "options": {
+      "A": "Returns Inwards Journal (Sales Returns Book)",
+      "B": "Returns Outwards Journal",
+      "C": "Purchases Journal",
+      "D": "Cash Book"
+    },
+    "answer": "A",
+    "explanation": "Returns Inward records merchandise returned by debtors/customers, backed by credit notes issued by the firm.",
+    "topic": "Books of Prime Entry / Subsidiary Books",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 3,
-    "question": "The trial balance is prepared primarily to test the:",
-    "options": {
-      "A": "Financial profitability of the firm",
-      "B": "Arithmetical accuracy of ledger postings",
-      "C": "Cash position at the bank",
-      "D": "Valuation of inventory"
-    },
-    "answer": "B",
-    "explanation": "A trial balance ensures that total debits equal total credits, testing arithmetic accuracy under the double-entry system.",
-    "topic": "Trial Balance",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which of the following errors will NOT affect the agreement of the Trial Balance totals?",
+    "options": {
+      "A": "Error of complete omission",
+      "B": "Single entry error",
+      "C": "Casting error in the sales ledger",
+      "D": "Entering an item on only one side of an account"
+    },
+    "answer": "A",
+    "explanation": "When a transaction is completely omitted from both debit and credit sides, total debits still equal total credits, leaving trial balance totals unaffected.",
+    "topic": "Trial Balance / Errors Not Affecting Agreement",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 4,
-    "question": "An asset cost ₦100,000 with an estimated scrap value of ₦10,000 and an expected useful life of 5 years. Using straight-line depreciation, calculate the annual depreciation charge.",
-    "options": {
-      "A": "₦18,000",
-      "B": "₦20,000",
-      "C": "₦22,000",
-      "D": "₦15,000"
-    },
-    "answer": "A",
-    "explanation": "Straight-line depreciation = (Cost - Scrap Value) / Life = (100,000 - 10,000) / 5 = 90,000 / 5 = ₦18,000 per year.",
-    "topic": "Depreciation of Fixed Assets",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Calculate the annual depreciation of a delivery van costing ₦5,000,000 with an estimated scrap value of ₦500,000 and useful life of 5 years using the straight-line method.",
+    "options": {
+      "A": "₦900,000",
+      "B": "₦1,000,000",
+      "C": "₦1,100,000",
+      "D": "₦800,000"
+    },
+    "answer": "A",
+    "explanation": "Annual Depreciation = (Cost - Scrap Value) / Useful Life = (₦5,000,000 - ₦500,000) / 5 = ₦4,500,000 / 5 = ₦900,000.",
+    "topic": "Depreciation / Straight-Line Method",
+    "exam": "WAEC SSCE",
+    "year": "2022",
     "id": 5,
-    "question": "The petty cash fund is maintained on which principle?",
-    "options": {
-      "A": "Accrual concept",
-      "B": "Imprest system",
-      "C": "Prudence concept",
-      "D": "Going concern concept"
-    },
-    "answer": "B",
-    "explanation": "Under the imprest system, a fixed float is replenished periodically based on exact vouchers submitted.",
-    "topic": "Petty Cash Book",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 6,
-    "question": "In a partnership, interest on partners' capital is an:",
+    "question": "A petty cashier is given an imprest float of ₦50,000. During the week, petty expenses incurred amount to ₦38,500. How much is reimbursed to restore the float?",
     "options": {
-      "A": "Expense in the Profit & Loss Account",
-      "B": "Appropriation of profit in the Profit & Loss Appropriation Account",
-      "C": "Addition to external liabilities",
-      "D": "Direct charge on sales revenue"
-    },
-    "answer": "B",
-    "explanation": "Interest on partners' capital is not an operating business expense; it is an appropriation of net profits distributed to partners.",
-    "topic": "Partnership Accounts",
-    "exam": "WAEC"
-  },
-  {
-    "id": 7,
-    "question": "Carriage outwards is treated in the financial statements as an:",
-    "options": {
-      "A": "Addition to purchases in the trading account",
-      "B": "Operating selling and distribution expense in the profit and loss account",
-      "C": "Current asset in the balance sheet",
-      "D": "Direct deduction from capital"
-    },
-    "answer": "B",
-    "explanation": "Carriage outwards is the transport cost incurred in delivering goods to buyers, recorded as an operating expense in the P&L account.",
-    "topic": "Final Accounts of Sole Trader",
-    "exam": "JAMB"
-  },
-  {
-    "id": 8,
-    "question": "The concept that advises accountants to 'anticipate no profits, but provide for all possible losses' is the:",
-    "options": {
-      "A": "Consistency concept",
-      "B": "Prudence (Conservatism) concept",
-      "C": "Materiality concept",
-      "D": "Realization concept"
-    },
-    "answer": "B",
-    "explanation": "The prudence convention mandates that assets and income are not overstated and liabilities and potential losses are provided for.",
-    "topic": "Accounting Concepts & Conventions",
-    "exam": "WAEC"
-  },
-  {
-    "id": 9,
-    "question": "Bank reconciliation statements are prepared by:",
-    "options": {
-      "A": "The bank manager for the customer",
-      "B": "The business enterprise to reconcile its cash book with the bank statement",
-      "C": "The Central Bank auditors",
-      "D": "External tax collectors"
-    },
-    "answer": "B",
-    "explanation": "The firm prepares a bank reconciliation statement to explain discrepancies between its Cash Book bank column and the Bank Statement.",
-    "topic": "Bank Reconciliation",
-    "exam": "JAMB"
-  },
-  {
-    "id": 10,
-    "question": "Working capital is calculated as:",
-    "options": {
-      "A": "Current Assets - Current Liabilities",
-      "B": "Total Assets - Total Liabilities",
-      "C": "Fixed Assets + Current Assets",
-      "D": "Capital + Long-term Loans"
+      "A": "₦38,500",
+      "B": "₦11,500",
+      "C": "₦50,000",
+      "D": "₦88,500"
     },
     "answer": "A",
-    "explanation": "Working Capital = Current Assets - Current Liabilities. It represents short-term operational liquidity.",
-    "topic": "Accounting Ratios & Balance Sheet",
-    "exam": "WAEC"
+    "explanation": "Under the imprest system, the exact amount spent (₦38,500) is reimbursed so that the opening balance of the petty cash box returns to the agreed float of ₦50,000.",
+    "topic": "Petty Cash Book / Imprest System",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The concept that revenue should only be recognized when goods or services have been delivered and accepted by the client is the:",
+    "options": {
+      "A": "Realization Concept",
+      "B": "Going Concern Concept",
+      "C": "Prudence Concept",
+      "D": "Money Measurement Concept"
+    },
+    "answer": "A",
+    "explanation": "The Realization (Revenue Recognition) convention dictates that revenue is earned when ownership risks and rewards transfer to the buyer.",
+    "topic": "Accounting Concepts & Conventions",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A business started with capital of ₦2,000,000. At year-end, assets were ₦3,500,000 and liabilities were ₦800,000. If drawings were ₦200,000, find the net profit for the year.",
+    "options": {
+      "A": "₦900,000",
+      "B": "₦700,000",
+      "C": "₦1,500,000",
+      "D": "₦500,000"
+    },
+    "answer": "A",
+    "explanation": "Ending Capital = Assets - Liabilities = ₦3,500,000 - ₦800,000 = ₦2,700,000. Ending Capital = Opening Capital + Net Profit - Drawings → 2,700,000 = 2,000,000 + NP - 200,000 → NP = ₦900,000.",
+    "topic": "Financial Statements / Profit Calculation",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which account is credited when cash is withdrawn from the bank account for business office petty cash use?",
+    "options": {
+      "A": "Bank Account",
+      "B": "Cash Account",
+      "C": "Drawings Account",
+      "D": "Office Expense Account"
+    },
+    "answer": "A",
+    "explanation": "Debit Cash Account (cash asset increases); Credit Bank Account (bank asset decreases). This is a Contra entry (C) in a two/three-column cash book.",
+    "topic": "Cash Book / Contra Entry",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Goodwill in partnership accounting is best described as an:",
+    "options": {
+      "A": "intangible asset representing the established reputation and customer loyalty of the firm",
+      "B": "accumulated bad debt written off",
+      "C": "amount owed to commercial trade creditors",
+      "D": "undistributed partnership overdraft"
+    },
+    "answer": "A",
+    "explanation": "Goodwill is an intangible fixed asset reflecting excess earning power arising from reputation, strategic location, and established patronage.",
+    "topic": "Partnership Accounts / Goodwill",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A bank reconciliation statement is prepared primarily to:",
+    "options": {
+      "A": "reconcile differences between the cash book bank balance and the bank statement balance",
+      "B": "calculate income tax liabilities for the year",
+      "C": "determine depreciation of office equipment",
+      "D": "audit the petty cashier's vouchers"
+    },
+    "answer": "A",
+    "explanation": "Bank reconciliation identifies timing differences (unpresented cheques, uncredited lodgements) and errors between the business cash book and bank records.",
+    "topic": "Bank Reconciliation Statement",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When a provision for doubtful debts is first established, the accounting entry is:",
+    "options": {
+      "A": "Debit Profit and Loss Account; Credit Provision for Doubtful Debts Account",
+      "B": "Debit Debtors Account; Credit Cash Account",
+      "C": "Debit Provision for Doubtful Debts; Credit Sales Account",
+      "D": "Debit Cash Account; Credit Profit and Loss Account"
+    },
+    "answer": "A",
+    "explanation": "Establishing a provision charges an estimated loss to the Profit and Loss Account (Debit) and creates a contra-asset allowance (Credit Provision for Doubtful Debts).",
+    "topic": "Adjustments / Bad & Doubtful Debts",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the absence of a formal Partnership Deed, the Partnership Act provides that profits and losses must be shared:",
+    "options": {
+      "A": "Equally among all partners",
+      "B": "In proportion to capital contributed",
+      "C": "In ratio of working hours",
+      "D": "Exclusively by the senior partner"
+    },
+    "answer": "A",
+    "explanation": "Under the 1890 Partnership Act, when no written deed exists, all partners share profits and losses equally, and no interest is allowed on capital or charged on drawings.",
+    "topic": "Partnership Accounts / Partnership Act Rules",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Prudence (Conservatism) convention requires accountants to:",
+    "options": {
+      "A": "Anticipate no profits but provide for all possible foreseeable losses",
+      "B": "Record assets at their inflated market appreciation values",
+      "C": "Omit liabilities that are not yet invoiced",
+      "D": "Double the reported net profit figure"
+    },
+    "answer": "A",
+    "explanation": "Prudence ensures financial statements do not overstate assets/revenue or understate liabilities/expenses, avoiding premature optimism.",
+    "topic": "Accounting Concepts / Prudence",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is classified as Capital Expenditure?",
+    "options": {
+      "A": "Cost of purchasing and installing a new industrial manufacturing plant",
+      "B": "Wages paid to factory operators",
+      "C": "Electricity bills for the administrative headquarters",
+      "D": "Cost of fuel for executive delivery vans"
+    },
+    "answer": "A",
+    "explanation": "Capital expenditure acquires, upgrades, or installs non-current fixed assets providing economic benefits beyond one financial year.",
+    "topic": "Capital vs Revenue Expenditure",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prime cost in a manufacturing account is calculated as the sum of:",
+    "options": {
+      "A": "Direct Materials + Direct Labour + Direct Expenses",
+      "B": "Total Factory Overheads + Administrative Expenses",
+      "C": "Raw Materials Consumed + Selling Costs",
+      "D": "Depreciation of Machinery + Factory Rent"
+    },
+    "answer": "A",
+    "explanation": "Prime cost represents direct production costs: Direct Raw Materials Consumed + Direct Factory Wages + Direct Chargeable Expenses.",
+    "topic": "Manufacturing Accounts / Prime Cost",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A temporary clearing account opened to balance trial balance totals when discrepancies exist pending investigation is a:",
+    "options": {
+      "A": "Suspense Account",
+      "B": "Nominal Account",
+      "C": "Control Account",
+      "D": "Appropriation Account"
+    },
+    "answer": "A",
+    "explanation": "A Suspense Account temporarily holds one-sided bookkeeping errors until the exact causes of Trial Balance imbalance are pinpointed and rectified.",
+    "topic": "Correction of Errors / Suspense Account",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary purpose of preparing Sales Ledger and Purchases Ledger Control Accounts?",
+    "options": {
+      "A": "To provide an independent check on the arithmetical accuracy of trade debtor and creditor ledger balances",
+      "B": "To prepare employee payroll tax schedules",
+      "C": "To record petty cash vouchers",
+      "D": "To monitor inventory stock physically"
+    },
+    "answer": "A",
+    "explanation": "Control accounts serve as total self-balancing accounts summarizing individual debtor and creditor balances to prevent fraud and detect ledger errors.",
+    "topic": "Control Accounts",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In company accounts, authorized share capital denotes:",
+    "options": {
+      "A": "The maximum nominal amount of share capital a company is legally permitted by its Memorandum of Association to issue",
+      "B": "The total amount of cash collected from shareholders",
+      "C": "The annual dividend voted by the board",
+      "D": "Debentures issued to institutional financiers"
+    },
+    "answer": "A",
+    "explanation": "Authorized (nominal/registered) capital is the statutory upper limit of share capital registered with the Corporate Affairs Commission.",
+    "topic": "Company Accounts / Share Capital",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which financial statement reports the financial performance and operational profit or loss of an enterprise over a specified accounting period?",
+    "options": {
+      "A": "Statement of Profit or Loss (Income Statement)",
+      "B": "Statement of Financial Position (Balance Sheet)",
+      "C": "Trial Balance",
+      "D": "Cash Flow Statement only"
+    },
+    "answer": "A",
+    "explanation": "The Income Statement matches revenue earned against expenses incurred to determine net operating profit or loss for the trading period.",
+    "topic": "Final Accounts / Income Statement",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A credit balance in a customer's personal account in the Sales Ledger signifies that:",
+    "options": {
+      "A": "The customer has overpaid their account or made an advance payment",
+      "B": "The customer owes money to the enterprise",
+      "C": "Goods were sold on credit to the customer",
+      "D": "The customer's debt is irrecoverable"
+    },
+    "answer": "A",
+    "explanation": "Debtors normally have debit balances. A credit balance indicates overpayment, returns after full settlement, or advance deposit.",
+    "topic": "Ledgers / Debtor Balances",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate Cost of Goods Sold given: Opening Inventory ₦200,000, Purchases ₦800,000, Carriage Inwards ₦50,000, and Closing Inventory ₦150,000.",
+    "options": {
+      "A": "₦900,000",
+      "B": "₦850,000",
+      "C": "₦1,050,000",
+      "D": "₦750,000"
+    },
+    "answer": "A",
+    "explanation": "COGS = Opening Stock + Net Purchases + Carriage Inwards - Closing Stock = 200,000 + 800,000 + 50,000 - 150,000 = ₦900,000.",
+    "topic": "Trading Account / Cost of Goods Sold",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prepaid expenses at the end of a financial period are treated in the Balance Sheet as a/an:",
+    "options": {
+      "A": "Current Asset",
+      "B": "Current Liability",
+      "C": "Non-current Asset",
+      "D": "Owner's Equity"
+    },
+    "answer": "A",
+    "explanation": "Prepayments represent economic benefits paid in advance (like insurance/rent) that have not yet been consumed, creating a Current Asset.",
+    "topic": "Adjustments / Prepayments",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which accounting ratio measures the ability of a firm to settle its short-term debts immediately without relying on the sale of inventory?",
+    "options": {
+      "A": "Acid-Test (Quick) Ratio",
+      "B": "Current Ratio",
+      "C": "Gross Profit Margin",
+      "D": "Debt-to-Equity Ratio"
+    },
+    "answer": "A",
+    "explanation": "Quick Ratio = (Current Assets - Inventory) / Current Liabilities. It evaluates instant liquidity by excluding inventory, which takes time to convert to cash.",
+    "topic": "Financial Ratio Analysis / Liquidity",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The accounting principle which assumes that a business enterprise will continue operating indefinitely into the foreseeable future is the:",
+    "options": {
+      "A": "Going Concern Concept",
+      "B": "Entity Concept",
+      "C": "Periodicity Concept",
+      "D": "Consistency Concept"
+    },
+    "answer": "A",
+    "explanation": "Going Concern assumes the business has neither the intention nor the necessity to liquidate, justifying valuing fixed assets at historic cost less depreciation.",
+    "topic": "Accounting Concepts / Going Concern",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

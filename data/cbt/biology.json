@@ -1,142 +1,402 @@
 [
   {
+    "question": "Which organelle is universally referred to as the 'powerhouse of the cell' due to its role in ATP synthesis?",
+    "options": {
+      "A": "Mitochondrion",
+      "B": "Ribosome",
+      "C": "Golgi apparatus",
+      "D": "Endoplasmic reticulum"
+    },
+    "answer": "A",
+    "explanation": "The mitochondrion conducts cellular aerobic respiration (Krebs cycle and oxidative phosphorylation), synthesizing ATP.",
+    "topic": "Cell Biology & Organelles",
+    "exam": "JAMB UTME",
+    "year": "2024",
     "id": 1,
-    "question": "Which part of the mammalian brain is responsible for balance and coordination of voluntary movements?",
-    "options": {
-      "A": "Cerebrum",
-      "B": "Cerebellum",
-      "C": "Medulla oblongata",
-      "D": "Hypothalamus"
-    },
-    "answer": "B",
-    "explanation": "The cerebellum coordinates voluntary muscular movements, posture, and body balance.",
-    "topic": "Nervous System",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "In humans, a father with blood group A (genotype IᴬIᴼ) and a mother with blood group B (genotype IᴮIᴼ) can have children with which blood groups?",
+    "options": {
+      "A": "A, B, AB, and O",
+      "B": "AB only",
+      "C": "A and B only",
+      "D": "AB and O only"
+    },
+    "answer": "A",
+    "explanation": "The gametes can combine into IᴬIᴮ (group AB), IᴬIᴼ (group A), IᴮIᴼ (group B), or IᴼIᴼ (group O). All four blood groups are possible.",
+    "topic": "Genetics & Inheritance",
+    "exam": "JAMB UTME",
+    "year": "2023",
     "id": 2,
-    "question": "The process by which green plants manufacture carbohydrates using sunlight, water, and chlorophyll is known as:",
-    "options": {
-      "A": "Respiration",
-      "B": "Transpiration",
-      "C": "Photosynthesis",
-      "D": "Chemosynthesis"
-    },
-    "answer": "C",
-    "explanation": "Photosynthesis is the synthesis of organic compounds from CO₂ and H₂O using solar radiant energy trapped by chlorophyll.",
-    "topic": "Plant Nutrition",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "Which of the following blood vessels carries oxygenated blood from the lungs directly to the left atrium of the heart?",
+    "options": {
+      "A": "Pulmonary vein",
+      "B": "Pulmonary artery",
+      "C": "Vena cava",
+      "D": "Hepatic portal vein"
+    },
+    "answer": "A",
+    "explanation": "Unlike most veins which carry deoxygenated blood, the pulmonary vein carries freshly oxygenated blood from lungs to the heart.",
+    "topic": "Animal Physiology / Circulatory System",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 3,
-    "question": "A cross between a homozygous red flower (RR) and a homozygous white flower (rr) in an incomplete dominance system produces:",
-    "options": {
-      "A": "100% red flowers",
-      "B": "100% pink flowers",
-      "C": "50% red, 50% white",
-      "D": "75% red, 25% white"
-    },
-    "answer": "B",
-    "explanation": "In incomplete dominance, the heterozygous genotype (Rr) displays an intermediate phenotype (pink), yielding 100% pink offspring.",
-    "topic": "Genetics & Heredity",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 4,
-    "question": "Which blood group is known as the universal donor in the ABO blood system?",
+    "question": "The functional microscopic unit of the mammalian kidney responsible for urine formation is the:",
     "options": {
-      "A": "Group A",
-      "B": "Group B",
-      "C": "Group AB",
-      "D": "Group O"
-    },
-    "answer": "D",
-    "explanation": "Blood Group O lacks A and B antigens on red blood cells, meaning it can be donated to all other groups without immediate agglutination.",
-    "topic": "Circulatory System & Genetics",
-    "exam": "WAEC"
-  },
-  {
-    "id": 5,
-    "question": "The structural and functional unit of the human kidney is the:",
-    "options": {
-      "A": "Neuron",
-      "B": "Nephron",
+      "A": "Nephron",
+      "B": "Neuron",
       "C": "Alveolus",
       "D": "Villus"
     },
-    "answer": "B",
-    "explanation": "The nephron is the microscopic structural and functional filtering unit of the kidney.",
-    "topic": "Excretory System",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "The nephron conducts ultrafiltration, selective reabsorption, and tubular secretion to form urine.",
+    "topic": "Animal Physiology / Excretory System",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 6,
-    "question": "In an ecosystem, organisms that feed directly on primary producers are classified as:",
+    "question": "The light-dependent reaction of photosynthesis takes place in which specific part of the chloroplast?",
     "options": {
-      "A": "Primary consumers (Herbivores)",
-      "B": "Secondary consumers (Carnivores)",
-      "C": "Tertiary consumers",
-      "D": "Decomposers"
+      "A": "Thylakoid membranes (grana)",
+      "B": "Stroma",
+      "C": "Outer membrane",
+      "D": "Mitochondrial matrix"
     },
     "answer": "A",
-    "explanation": "Primary consumers feed directly on autotrophs (producers) and are known as herbivores.",
-    "topic": "Ecology (Trophic Levels)",
-    "exam": "WAEC"
+    "explanation": "Light absorption and photolysis of water occur in the thylakoid membranes (grana), while the dark Calvin cycle occurs in the stroma.",
+    "topic": "Plant Physiology / Photosynthesis",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 7,
-    "question": "Which hormone regulates the blood glucose level by stimulating glycogen synthesis in the liver?",
+    "question": "Which ecological association describes a relationship where one organism benefits while the other is neither harmed nor helped?",
     "options": {
-      "A": "Adrenaline",
-      "B": "Glucagon",
-      "C": "Insulin",
-      "D": "Thyroxine"
-    },
-    "answer": "C",
-    "explanation": "Insulin, secreted by beta cells of the islets of Langerhans in the pancreas, lowers blood glucose levels by converting excess glucose to glycogen.",
-    "topic": "Endocrine System & Homeostasis",
-    "exam": "JAMB"
-  },
-  {
-    "id": 8,
-    "question": "The deficiency of vitamin C in the human diet causes:",
-    "options": {
-      "A": "Beriberi",
-      "B": "Scurvy",
-      "C": "Rickets",
-      "D": "Pellagra"
-    },
-    "answer": "B",
-    "explanation": "Vitamin C (ascorbic acid) deficiency causes scurvy, characterized by bleeding gums and poor wound healing.",
-    "topic": "Human Nutrition",
-    "exam": "WAEC"
-  },
-  {
-    "id": 9,
-    "question": "The transfer of pollen grains from the anther to the stigma of a flower is termed:",
-    "options": {
-      "A": "Fertilization",
-      "B": "Pollination",
-      "C": "Germination",
-      "D": "Dispersal"
-    },
-    "answer": "B",
-    "explanation": "Pollination is the transfer of pollen grains from anther to stigma. Fertilization is the fusion of male and female gametes.",
-    "topic": "Reproduction in Plants",
-    "exam": "JAMB"
-  },
-  {
-    "id": 10,
-    "question": "A symbiotic relationship in which one organism benefits while the other is neither harmed nor helped is:",
-    "options": {
-      "A": "Parasitism",
+      "A": "Commensalism",
       "B": "Mutualism",
-      "C": "Commensalism",
+      "C": "Parasitism",
       "D": "Predation"
     },
-    "answer": "C",
-    "explanation": "Commensalism is a relationship where one organism benefits and the host is unaffected (e.g. remora fish and shark).",
-    "topic": "Ecological Interactions",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "Commensalism is a (+/0) relationship, such as epiphytic orchids growing on tree trunks.",
+    "topic": "Ecology / Ecological Associations",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which hormone is responsible for lowering blood glucose levels by promoting glucose uptake into body cells and glycogen storage in the liver?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Adrenaline",
+      "D": "Thyroxine"
+    },
+    "answer": "A",
+    "explanation": "Insulin is secreted by beta cells of the islets of Langerhans in the pancreas to reduce high blood sugar levels.",
+    "topic": "Animal Physiology / Endocrine System",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A sudden change in the nucleotide sequence of an organism's DNA that can be inherited by offspring is termed a:",
+    "options": {
+      "A": "Mutation",
+      "B": "Variation",
+      "C": "Crossing over",
+      "D": "Adaptation"
+    },
+    "answer": "A",
+    "explanation": "A mutation is a permanent, heritable alteration in genetic material that provides raw variation for natural selection.",
+    "topic": "Genetics / Mutation & Evolution",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which enzyme in the human digestive system initiates the breakdown of cooked starches in the mouth?",
+    "options": {
+      "A": "Salivary amylase (ptylin)",
+      "B": "Pepsin",
+      "C": "Trypsin",
+      "D": "Lipase"
+    },
+    "answer": "A",
+    "explanation": "Salivary amylase (ptyalin) hydrolyzes cooked starches into maltose in the slightly alkaline oral cavity.",
+    "topic": "Animal Physiology / Digestive System",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which structure in flowering plants develops into the fruit after successful double fertilization?",
+    "options": {
+      "A": "Ovary",
+      "B": "Ovule",
+      "C": "Stigma",
+      "D": "Style"
+    },
+    "answer": "A",
+    "explanation": "Following fertilization, the ovary walls thicken and develop into the pericarp/fruit, while the ovule matures into the seed.",
+    "topic": "Plant Biology / Reproduction",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which division of the plant kingdom contains vascular plants that reproduce via naked seeds on cones?",
+    "options": {
+      "A": "Gymnosperms",
+      "B": "Angiosperms",
+      "C": "Bryophytes",
+      "D": "Pteridophytes"
+    },
+    "answer": "A",
+    "explanation": "Gymnosperms (e.g. conifers, cycads) have vascular bundles and produce naked seeds not enclosed in an ovary.",
+    "topic": "Plant Biology / Classification",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary role of nitrogen-fixing bacteria (such as Rhizobium) in the soil and root nodules of legumes?",
+    "options": {
+      "A": "Converting atmospheric nitrogen gas into nitrates",
+      "B": "Converting ammonia into nitrites",
+      "C": "Breaking down proteins into urea",
+      "D": "Returning elemental nitrogen to the atmosphere"
+    },
+    "answer": "A",
+    "explanation": "Rhizobium has the nitrogenase enzyme system to convert gaseous dinitrogen (N₂) into usable ammonium/nitrates in symbiotic association with legumes.",
+    "topic": "Ecology / Nutrient Cycles",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which part of the mammalian brain coordinates voluntary muscular movements, posture, and body balance?",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Cerebrum",
+      "C": "Medulla oblongata",
+      "D": "Hypothalamus"
+    },
+    "answer": "A",
+    "explanation": "The cerebellum coordinates balance, posture, equilibrium, and precision in voluntary motor actions.",
+    "topic": "Animal Physiology / Nervous System",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "During which phase of meiosis does crossing over (chiasma formation) occur between non-sister chromatids?",
+    "options": {
+      "A": "Prophase I",
+      "B": "Metaphase I",
+      "C": "Anaphase II",
+      "D": "Telophase I"
+    },
+    "answer": "A",
+    "explanation": "Crossing over occurs during pachytene of Prophase I, exchanging genetic fragments between homologous chromosomes to promote genetic diversity.",
+    "topic": "Cell Biology / Meiosis",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The loss of water vapor through the stomata and lenticels of terrestrial plants is called:",
+    "options": {
+      "A": "Transpiration",
+      "B": "Guttation",
+      "C": "Osmosis",
+      "D": "Plasmolysis"
+    },
+    "answer": "A",
+    "explanation": "Transpiration is the evaporative loss of water vapor from aerial plant parts, predominantly through stomatal pores.",
+    "topic": "Plant Physiology / Water Relations",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a marine food chain: Phytoplankton → Zooplankton → Small fish → Shark, which organism represents the secondary consumer?",
+    "options": {
+      "A": "Small fish",
+      "B": "Phytoplankton",
+      "C": "Zooplankton",
+      "D": "Shark"
+    },
+    "answer": "A",
+    "explanation": "Phytoplankton = Producer; Zooplankton = Primary consumer (herbivore); Small fish = Secondary consumer (carnivore); Shark = Tertiary consumer.",
+    "topic": "Ecology / Food Webs & Trophic Levels",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which vitamin deficiency in children results in bow legs and defective bone calcification (rickets)?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Vitamin C",
+      "C": "Vitamin A",
+      "D": "Vitamin K"
+    },
+    "answer": "A",
+    "explanation": "Vitamin D (calciferol) facilitates calcium and phosphate absorption in the gut; deficiency leads to rickets in children and osteomalacia in adults.",
+    "topic": "Nutrition & Deficiency Diseases",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following blood vessels has thick muscular elastic walls and carries blood under high pressure away from the heart?",
+    "options": {
+      "A": "Artery",
+      "B": "Vein",
+      "C": "Capillary",
+      "D": "Venule"
+    },
+    "answer": "A",
+    "explanation": "Arteries have thick, muscular, and elastic tunica media to withstand and propagate pulsatile high-pressure blood pumped from the heart.",
+    "topic": "Animal Physiology / Blood Vessels",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which plant hormone is primarily responsible for apical dominance and phototropism in growing shoots?",
+    "options": {
+      "A": "Auxin (IAA)",
+      "B": "Gibberellin",
+      "C": "Ethylene",
+      "D": "Abscisic acid"
+    },
+    "answer": "A",
+    "explanation": "Auxin promotes cell elongation on the shaded side of shoots causing positive phototropic curvature and suppresses lateral bud growth.",
+    "topic": "Plant Physiology / Hormones & Tropisms",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A trait controlled by a gene located on the X chromosome but absent on the Y chromosome is called a:",
+    "options": {
+      "A": "Sex-linked trait",
+      "B": "Autosomal trait",
+      "C": "Codominant trait",
+      "D": "Polygenic trait"
+    },
+    "answer": "A",
+    "explanation": "Sex-linked traits (such as red-green color blindness and hemophilia) are governed by loci on the X chromosome.",
+    "topic": "Genetics / Sex Linkage",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which organ in the mammalian body produces bile for the emulsification of dietary fats?",
+    "options": {
+      "A": "Liver",
+      "B": "Gall bladder",
+      "C": "Pancreas",
+      "D": "Duodenum"
+    },
+    "answer": "A",
+    "explanation": "Bile is synthesized by hepatocytes in the liver and temporarily stored and concentrated in the gall bladder.",
+    "topic": "Animal Physiology / Digestion",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In which biome of Nigeria would you find tall grasses, scattered drought-resistant deciduous trees like acacia and baobab?",
+    "options": {
+      "A": "Sudan savanna",
+      "B": "Tropical rainforest",
+      "C": "Mangrove swamp",
+      "D": "Montane forest"
+    },
+    "answer": "A",
+    "explanation": "The Sudan savanna zone features continuous grassy cover with thorny, drought-adapted trees with deep taproots and thick bark.",
+    "topic": "Ecology / Nigerian Biomes",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the primary function of the contractile vacuole in freshwater protozoans like Amoeba and Paramecium?",
+    "options": {
+      "A": "Osmoregulation (expelling excess water)",
+      "B": "Digestion of engulfed food",
+      "C": "Locomotion",
+      "D": "Sexual reproduction"
+    },
+    "answer": "A",
+    "explanation": "Because freshwater protozoans are hypertonic to their dilute environment, water constantly enters via osmosis; the contractile vacuole pumps it out.",
+    "topic": "Cell Biology / Microorganisms",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which respiratory pigment is responsible for transporting oxygen in human erythrocytes?",
+    "options": {
+      "A": "Hemoglobin",
+      "B": "Hemocyanin",
+      "C": "Chlorophyll",
+      "D": "Myoglobin"
+    },
+    "answer": "A",
+    "explanation": "Hemoglobin is an iron-containing quaternary protein inside red blood cells that reversibly binds oxygen to form oxyhemoglobin.",
+    "topic": "Animal Physiology / Respiration",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The structural adaptation that allows birds to reduce body density for efficient flight is:",
+    "options": {
+      "A": "Pneumatic (hollow air-filled) bones",
+      "B": "Heavy solid limb bones",
+      "C": "Multiple stomach chambers",
+      "D": "Absence of a keel on the sternum"
+    },
+    "answer": "A",
+    "explanation": "Pneumatic hollow bones connected to air sacs significantly reduce weight without compromising mechanical strength for flight.",
+    "topic": "Evolution & Adaptive Features",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

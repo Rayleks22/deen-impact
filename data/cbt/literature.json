@@ -1,142 +1,402 @@
 [
   {
-    "id": 1,
-    "question": "A figure of speech in which a part is made to represent the whole or vice versa is known as:",
+    "question": "A literary device where inanimate objects or abstract ideas are endowed with human feelings, thoughts, and actions is called:",
     "options": {
-      "A": "Metonymy",
-      "B": "Synecdoche",
+      "A": "Personification",
+      "B": "Metaphor",
       "C": "Hyperbole",
-      "D": "Personification"
+      "D": "Synecdoche"
     },
-    "answer": "B",
-    "explanation": "Synecdoche uses a part to signify the whole (e.g. 'all hands on deck' where 'hands' represents sailors).",
-    "topic": "Literary Devices",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "Personification attributes human qualities, characteristics, or actions to non-human entities (e.g. 'The wind whispered through the trees').",
+    "topic": "Literary Appreciation / Figures of Speech",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 2,
-    "question": "In drama, a long speech delivered by a character alone on stage revealing their inner thoughts is a:",
+    "question": "In drama, a dramatic speech delivered by a character alone on stage revealing their innermost thoughts to the audience is a:",
     "options": {
-      "A": "Dialogue",
-      "B": "Soliloquy",
-      "C": "Prologue",
-      "D": "Aside"
+      "A": "Soliloquy",
+      "B": "Monologue",
+      "C": "Aside",
+      "D": "Prologue"
     },
-    "answer": "B",
-    "explanation": "A soliloquy is a monologue spoken when the actor is alone, revealing internal motives directly to the audience.",
-    "topic": "Dramatic Techniques",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "A soliloquy is spoken by a character solitary on stage, unveiling psychological dilemmas and genuine motives directly to the audience.",
+    "topic": "Drama / Dramatic Conventions",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "A regular fourteen-line poem written in iambic pentameter with a prescribed rhyme scheme is a:",
+    "options": {
+      "A": "Sonnet",
+      "B": "Ballad",
+      "C": "Elegy",
+      "D": "Ode"
+    },
+    "answer": "A",
+    "explanation": "A sonnet is a fixed poetic form of exactly 14 lines (Petrarchan octave-sestet or Shakespearean three quatrains and a heroic couplet).",
+    "topic": "Poetry / Poetic Forms",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 3,
-    "question": "The tragic flaw in the character of a protagonist that leads to their downfall is termed:",
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The purging or emotional release of pity and fear experienced by an audience at the climax of a tragic play is termed:",
     "options": {
       "A": "Catharsis",
       "B": "Hamartia",
-      "C": "Nemesis",
-      "D": "Hubris"
+      "C": "Hubris",
+      "D": "Nemesis"
     },
-    "answer": "B",
-    "explanation": "Hamartia is the fatal flaw or error of judgment in Aristotle's classical tragedy.",
-    "topic": "Tragedy & Dramatic Theory",
-    "exam": "JAMB"
-  },
-  {
+    "answer": "A",
+    "explanation": "Aristotle defined Catharsis in his Poetics as the moral cleansing or purgation of intense emotions (pity and terror) aroused by classical tragedy.",
+    "topic": "Drama / Literary Terms & Tragedy",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 4,
-    "question": "A poem of 14 lines with a formal rhyme scheme and iambic pentameter is a:",
-    "options": {
-      "A": "Ballad",
-      "B": "Sonnet",
-      "C": "Ode",
-      "D": "Elegy"
-    },
-    "answer": "B",
-    "explanation": "A sonnet is strictly a 14-line poem written in iambic pentameter (Petrarchan or Shakespearean).",
-    "topic": "Poetry & Poetic Forms",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "The fatal character defect or tragic flaw in a protagonist that precipitates their ultimate downfall is known as:",
+    "options": {
+      "A": "Hamartia",
+      "B": "Anagnorisis",
+      "C": "Peripeteia",
+      "D": "Deus ex machina"
+    },
+    "answer": "A",
+    "explanation": "Hamartia is the inherent tragic flaw, misjudgment, or error (such as excessive ambition or pride) that leads to the tragic hero's ruin.",
+    "topic": "Drama / Tragic Concepts",
+    "exam": "WAEC SSCE",
+    "year": "2022",
     "id": 5,
-    "question": "An elegy is primarily written to:",
-    "options": {
-      "A": "Celebrate a victorious military campaign",
-      "B": "Mourn the death of a person or lament the past",
-      "C": "Praise a bride on her wedding day",
-      "D": "Criticize social follies with humour"
-    },
-    "answer": "B",
-    "explanation": "An elegy is a meditative, melancholic poem expressing sorrow for the deceased.",
-    "topic": "Poetic Genres",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "An exaggerated statement or claim not meant to be taken literally is a/an:",
+    "options": {
+      "A": "Hyperbole",
+      "B": "Euphemism",
+      "C": "Litotes",
+      "D": "Paradox"
+    },
+    "answer": "A",
+    "explanation": "Hyperbole uses deliberate, extravagant exaggeration for heightened dramatic emphasis or humorous effect (e.g. 'I've told you a million times').",
+    "topic": "Literary Appreciation / Figures of Speech",
+    "exam": "JAMB UTME",
+    "year": "2021",
     "id": 6,
-    "question": "The literary device illustrated by 'The friendly sun smiled down upon our journey' is:",
-    "options": {
-      "A": "Metaphor",
-      "B": "Personification",
-      "C": "Apostrophe",
-      "D": "Oxymoron"
-    },
-    "answer": "B",
-    "explanation": "Personification attributes human qualities (smiling, friendly) to inanimate natural objects (the sun).",
-    "topic": "Figures of Speech",
-    "exam": "WAEC"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "A poem of lamentation, mourning, and sorrow composed especially for someone deceased is called a/an:",
+    "options": {
+      "A": "Elegy",
+      "B": "Dirge / Epitaph",
+      "C": "Pastoral ode",
+      "D": "Limerick"
+    },
+    "answer": "A",
+    "explanation": "An elegy is a formal lyric poem expressing sorrow, grief, and meditation upon the death of an individual or mortality generally.",
+    "topic": "Poetry / Genres",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 7,
-    "question": "In narrative fiction, the perspective from which a story is told is called the:",
-    "options": {
-      "A": "Theme",
-      "B": "Point of view",
-      "C": "Setting",
-      "D": "Plot"
-    },
-    "answer": "B",
-    "explanation": "Point of view (first-person, third-person limited, omniscient) determines the narrative lens through which events are recounted.",
-    "topic": "Prose Fiction Elements",
-    "exam": "JAMB"
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
+    "question": "When an author hints at events that will happen later in the unfolding plot of a novel, the narrative technique is called:",
+    "options": {
+      "A": "Foreshadowing",
+      "B": "Flashback (analepsis)",
+      "C": "In medias res",
+      "D": "Stream of consciousness"
+    },
+    "answer": "A",
+    "explanation": "Foreshadowing provides subtle clues, omens, or warnings anticipating future dramatic events in narrative prose or theatre.",
+    "topic": "Prose / Narrative Techniques",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 8,
-    "question": "The juxtaposition of two contradictory words side by side (e.g. 'deafening silence') is an:",
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The repetition of identical consonant sounds at the beginning of adjacent or closely connected words is:",
+    "options": {
+      "A": "Alliteration",
+      "B": "Assonance",
+      "C": "Onomatopoeia",
+      "D": "Consonance"
+    },
+    "answer": "A",
+    "explanation": "Alliteration is the repetition of initial consonant sounds in neighboring syllables (e.g. 'Peter Piper picked a peck of pickled peppers').",
+    "topic": "Poetry / Sound Devices",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The sudden reversal of fortune or circumstance from prosperity to ruin in a tragic drama is called:",
+    "options": {
+      "A": "Peripeteia",
+      "B": "Anagnorisis",
+      "C": "Denouement",
+      "D": "Epilogue"
+    },
+    "answer": "A",
+    "explanation": "Peripeteia is the decisive turning point or sudden reversal of circumstances upon which the protagonist's fortunes change irrevocably.",
+    "topic": "Drama / Classical Dramatic Terms",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A statement that seems self-contradictory on the surface yet reveals a profound underlying truth upon reflection is a:",
+    "options": {
+      "A": "Paradox",
+      "B": "Oxymoron",
+      "C": "Irony",
+      "D": "Antithesis"
+    },
+    "answer": "A",
+    "explanation": "A paradox pairs apparently contradictory terms or ideas that nonetheless express an illuminated reality (e.g. 'The child is father of the man').",
+    "topic": "Literary Appreciation / Paradox",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Chinua Achebe's 'Things Fall Apart', what is Okonkwo's tragic flaw?",
+    "options": {
+      "A": "The profound fear of failure and appearing weak like his father Unoka",
+      "B": "Excessive greed for cowries",
+      "C": "Lack of physical courage in battle",
+      "D": "Desire to convert to Western education"
+    },
+    "answer": "A",
+    "explanation": "Okonkwo was dominated by the obsessive fear of weakness and failure, which made his actions rash, violent, and ultimately self-destructive.",
+    "topic": "African Prose / Achebe's Things Fall Apart",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A comparison between two fundamentally dissimilar entities using the explicit words 'like' or 'as' is a:",
+    "options": {
+      "A": "Simile",
+      "B": "Metaphor",
+      "C": "Synecdoche",
+      "D": "Metonymy"
+    },
+    "answer": "A",
+    "explanation": "A simile creates an explicit comparison using connectives like 'as' or 'like' (e.g. 'He was as courageous as a lion').",
+    "topic": "Literary Devices / Simile",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Dramatic irony occurs when:",
+    "options": {
+      "A": "the audience possesses vital knowledge of which the characters on stage are completely unaware",
+      "B": "a speaker says the opposite of what they mean",
+      "C": "an event turns out completely contrary to all logical expectations",
+      "D": "a character forgets their dialogue during performance"
+    },
+    "answer": "A",
+    "explanation": "Dramatic irony creates suspense and tension because the spectators know the true reality or trap while the acting character remains in the dark.",
+    "topic": "Drama / Irony",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The substitution of a mild, gentle, or indirect expression for a harsh, blunt, or offensive one is termed:",
+    "options": {
+      "A": "Euphemism",
+      "B": "Hyperbole",
+      "C": "Litotes",
+      "D": "Sarcasm"
+    },
+    "answer": "A",
+    "explanation": "Euphemisms soften unpleasant realities (e.g. using 'passed away' instead of 'died', or 'let go' instead of 'fired').",
+    "topic": "Figures of Speech / Euphemism",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The running over of a sentence or thought from one poetic line to the next without terminal punctuation is called:",
+    "options": {
+      "A": "Enjambment",
+      "B": "Caesura",
+      "C": "End-stopped line",
+      "D": "Couplet"
+    },
+    "answer": "A",
+    "explanation": "Enjambment (or run-on line) occurs when a clause flows across line boundaries without syntactical pause, accelerating reading pace.",
+    "topic": "Poetry / Poetic Techniques",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The villain or principal character who opposes the central protagonist in a literary work is the:",
+    "options": {
+      "A": "Antagonist",
+      "B": "Confidant",
+      "C": "Foil",
+      "D": "Anti-hero"
+    },
+    "answer": "A",
+    "explanation": "The antagonist is the adversary or force creating the central conflict and obstacle against the protagonist.",
+    "topic": "Literary Characterization",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The resolution, untying of complications, and unraveling of mystery following the climax of a novel is the:",
+    "options": {
+      "A": "Denouement",
+      "B": "Exposition",
+      "C": "Rising action",
+      "D": "Prologue"
+    },
+    "answer": "A",
+    "explanation": "Denouement (French for 'unknotting') wraps up loose ends and settles character fates following the narrative climax.",
+    "topic": "Prose / Plot Structure",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The figure of speech that uses a part of an object to represent the whole is:",
+    "options": {
+      "A": "Synecdoche",
+      "B": "Metonymy",
+      "C": "Allusion",
+      "D": "Apostrophe"
+    },
+    "answer": "A",
+    "explanation": "Synecdoche employs a part to denote the whole (e.g. 'all hands on deck' where 'hands' represents the crew members).",
+    "topic": "Figures of Speech / Synecdoche",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A literary work that ridicules human folly, vice, and social corruptions through humor, irony, and sarcasm to inspire reform is a:",
+    "options": {
+      "A": "Satire",
+      "B": "Farce",
+      "C": "Melodrama",
+      "D": "Tragi-comedy"
+    },
+    "answer": "A",
+    "explanation": "Satire utilizes wit, irony, and parody to expose corruption, hypocrisy, or foolishness in individuals or societal institutions with intent to reform.",
+    "topic": "Literary Genres / Satire",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The pairing of two contradictory or opposing words side by side (e.g. 'deafening silence', 'cruel kindness') is an:",
     "options": {
       "A": "Oxymoron",
       "B": "Paradox",
-      "C": "Irony",
-      "D": "Alliteration"
+      "C": "Antithesis",
+      "D": "Irony"
     },
     "answer": "A",
-    "explanation": "An oxymoron joins two contradictory terms side-by-side.",
-    "topic": "Literary Devices",
-    "exam": "WAEC"
+    "explanation": "An oxymoron fuses two diametrically opposed or contradictory words in immediate conjunction for vivid poetic effect.",
+    "topic": "Figures of Speech / Oxymoron",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 9,
-    "question": "The turning point or moment of highest emotional tension in a dramatic plot is the:",
+    "question": "An address made directly to an absent person, abstract entity, or dead hero as if present and listening is called:",
     "options": {
-      "A": "Exposition",
-      "B": "Climax",
-      "C": "Denouement",
-      "D": "Foreshadowing"
+      "A": "Apostrophe",
+      "B": "Soliloquy",
+      "C": "Invocation",
+      "D": "Aside"
     },
-    "answer": "B",
-    "explanation": "The climax is the peak of crisis in a narrative plot where conflict culminates.",
-    "topic": "Plot Structure",
-    "exam": "JAMB"
+    "answer": "A",
+    "explanation": "Apostrophe is a rhetorical figure wherein the speaker breaks off to address directly an absent person, deity, or personified concept (e.g. 'O Death, where is thy sting?').",
+    "topic": "Poetry / Rhetorical Devices",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "id": 10,
-    "question": "Satire is a genre of literature designed primarily to:",
+    "question": "In narrative prose, a character whose traits sharply contrast with another character to accentuate particular qualities is a:",
     "options": {
-      "A": "Glorify royalty with mythic verse",
-      "B": "Expose and ridicule human foolishness or societal vices to inspire reform",
-      "C": "Chronicle historical genealogies accurately",
-      "D": "Entertain through slapstick physical humor alone"
+      "A": "Foil",
+      "B": "Flat character",
+      "C": "Dynamic character",
+      "D": "Stock character"
     },
-    "answer": "B",
-    "explanation": "Satire uses irony, ridicule, and wit to expose vice and follies with an aim to improve society.",
-    "topic": "Literary Genres",
-    "exam": "WAEC"
+    "answer": "A",
+    "explanation": "A foil highlights the protagonist's strengths or flaws through dramatic contrast (e.g. Banquo's prudence serves as a foil to Macbeth's unchecked ambition).",
+    "topic": "Characterization / Dramatic Foil",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A stanza of four lines in poetry, especially one having alternate rhymes, is called a:",
+    "options": {
+      "A": "Quatrain",
+      "B": "Couplet",
+      "C": "Tercet",
+      "D": "Sestet"
+    },
+    "answer": "A",
+    "explanation": "A quatrain consists of four poetic lines, commonly forming the fundamental unit of English ballads and sonnets.",
+    "topic": "Poetry / Stanzaic Forms",
+    "exam": "WAEC SSCE",
+    "year": "2024",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The underlying central message, idea, or philosophical inquiry explored throughout a literary masterpiece is its:",
+    "options": {
+      "A": "Theme",
+      "B": "Plot",
+      "C": "Setting",
+      "D": "Tone"
+    },
+    "answer": "A",
+    "explanation": "Theme is the overarching universal idea, moral conviction, or existential insight conveyed through the narrative elements of the work.",
+    "topic": "Literary Elements / Theme",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]
