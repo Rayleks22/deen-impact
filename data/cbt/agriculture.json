@@ -1,402 +1,1602 @@
 [
   {
-    "question": "Which soil physical property refers to the relative proportions of sand, silt, and clay particles in a soil sample?",
+    "question": "Agriculture is broadly defined as the art, science, and business of:",
     "options": {
-      "A": "Soil texture",
-      "B": "Soil structure",
-      "C": "Soil profile",
-      "D": "Soil porosity"
+      "A": "Cultivating crops, rearing livestock, and processing and marketing agricultural products for human benefit",
+      "B": "Mining crude petroleum and bitumen in coastal areas",
+      "C": "Operating commercial airlines and railways",
+      "D": "Constructing asphalt multi-lane motor highways"
     },
     "answer": "A",
-    "explanation": "Soil texture is the permanent physical distribution of mineral particles (sand, silt, clay), determining drainage, aeration, and cation exchange capacity.",
-    "topic": "Soil Science / Physical Properties",
+    "explanation": "Agriculture encompasses crop production, livestock husbandry, forestry, fisheries, and agro-allied commerce.",
+    "topic": "Definition & Scope of Agriculture",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In crop husbandry, legumes are valued in crop rotation systems primarily because they:",
+    "question": "Which branch of agricultural science specializes in the cultivation of fruits, vegetables, and ornamental plants?",
     "options": {
-      "A": "fix atmospheric nitrogen into soil via symbiotic Rhizobium root nodules",
-      "B": "deplete soil moisture completely",
-      "C": "increase soil acidity rapidly",
-      "D": "repel all flying insect pests"
+      "A": "Horticulture",
+      "B": "Agronomy",
+      "C": "Silviculture",
+      "D": "Apiculture"
     },
     "answer": "A",
-    "explanation": "Legumes harbor nitrogen-fixing Rhizobium bacteria in root nodules, replenishing soil nitrates and improving fertility for subsequent cereal crops.",
-    "topic": "Agronomy / Crop Rotation & Soil Fertility",
-    "exam": "JAMB UTME",
+    "explanation": "Horticulture covers pomology (fruits), olericulture (vegetables), and floriculture (ornamentals).",
+    "topic": "Horticulture",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The fungal disease characterized by black, mummified pods in Theobroma cacao (cocoa) plantations is:",
+    "question": "Agronomy is specifically concerned with the principles and practices of:",
     "options": {
-      "A": "Black pod disease (Phytophthora palmivora)",
-      "B": "Swollen shoot disease",
-      "C": "Coffee rust",
-      "D": "Bacterial blight"
+      "A": "Crop production and soil management",
+      "B": "Designing farm tractor engines",
+      "C": "Breeding marine fish species",
+      "D": "Processing raw cow hides into leather"
     },
     "answer": "A",
-    "explanation": "Black pod disease is caused by Phytophthora fungi, spreading rapidly during humid rainy seasons and controlled by copper fungicide sprays.",
-    "topic": "Crop Protection / Plant Pathology",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "explanation": "Agronomy focuses on field crop husbandry, soil physics/chemistry, and crop-soil interactions.",
+    "topic": "Agronomy",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 3,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A farm implement designed for secondary tillage to pulverize clods, level seedbeds, and incorporate fertilizers is the:",
+    "question": "The primary role of agriculture in the national economic development of Nigeria includes:",
     "options": {
-      "A": "Disc harrow",
-      "B": "Disc plough",
-      "C": "Mouldboard plough",
-      "D": "Subsoiler"
+      "A": "Providing food security, employment, industrial raw materials, and foreign exchange earnings",
+      "B": "Printing legal tender currency banknotes",
+      "C": "Regulating commercial aviation traffic",
+      "D": "Building telecommunication towers"
     },
     "answer": "A",
-    "explanation": "Ploughs perform primary tillage (inverting heavy soil), while harrows pulverize clods and create fine tilth for sowing seeds.",
-    "topic": "Agricultural Engineering / Farm Implements",
-    "exam": "JAMB UTME",
-    "year": "2022",
+    "explanation": "Agriculture feeds the populace, supplies raw materials (cotton, cocoa, oil palm), and employs over 35% of the workforce.",
+    "topic": "Economic Importance of Agriculture",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 4,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The practice of growing crops in alternating strips along the contour of a slope to reduce water erosion is called:",
+    "question": "Which of the following agricultural commodities served as Nigeria's leading foreign exchange earner prior to the 1970s oil boom?",
     "options": {
-      "A": "Strip cropping",
-      "B": "Terracing",
-      "C": "Shifting cultivation",
-      "D": "Monocropping"
+      "A": "Cocoa, groundnut, and palm oil",
+      "B": "Refined petroleum motor spirit",
+      "C": "Uranium and columbite ore",
+      "D": "Automobile spare parts"
     },
     "answer": "A",
-    "explanation": "Strip cropping alternates erosion-prone row crops (like maize) with soil-conserving dense crops (like legumes or grasses) across contours.",
-    "topic": "Soil Conservation / Erosion Control",
-    "exam": "WAEC SSCE",
-    "year": "2022",
+    "explanation": "Nigeria led the world in palm produce and groundnut pyramids, with cocoa dominating Western Region revenues.",
+    "topic": "Historical Cash Crops",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 5,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following macronutrients is primarily responsible for promoting vigorous vegetative leaf growth and dark green foliage in crops?",
+    "question": "A major land tenure system in traditional Nigerian communities where land belongs to the community or clan is:",
     "options": {
-      "A": "Nitrogen",
-      "B": "Phosphorus",
-      "C": "Potassium",
-      "D": "Calcium"
+      "A": "Communal land tenure",
+      "B": "Freehold tenure through purchase",
+      "C": "Leasehold tenure",
+      "D": "Tenant farming on state reserves"
     },
     "answer": "A",
-    "explanation": "Nitrogen is a core constituent of amino acids and chlorophyll; adequate nitrogen stimulates leafy vegetative vigor, while deficiency causes chlorosis.",
-    "topic": "Plant Nutrition / Macronutrients",
-    "exam": "JAMB UTME",
-    "year": "2021",
+    "explanation": "Communal land is held in trust by the village head/Oba, allocated to family lineages for subsistence farming.",
+    "topic": "Communal Land Tenure",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The Land Use Act of 1978 in Nigeria vested the ownership of all land in each state in the:",
+    "question": "The Land Use Act promulgated in Nigeria in 1978 vested ownership of all land within a state in the:",
     "options": {
-      "A": "State Governor (held in trust for the people)",
-      "B": "Traditional paramount rulers",
-      "C": "Local government chairmen",
-      "D": "Federal Minister of Agriculture"
+      "A": "State Governor, to be held in trust for the public benefit of the citizens",
+      "B": "Federal Minister of Agriculture",
+      "C": "Traditional Emirate Councils",
+      "D": "Commercial banks holding mortgages"
     },
     "answer": "A",
-    "explanation": "Under the 1978 Land Use Act, all land within a state is vested in the Governor, who administers it in trust for public benefit through Certificates of Occupancy (C of O).",
-    "topic": "Agricultural Economics / Land Tenure Systems",
-    "exam": "WAEC SSCE",
-    "year": "2021",
+    "explanation": "The Act aimed to ease land acquisition for development, issuing Certificates of Occupancy (C of O) through governors.",
+    "topic": "Land Use Act 1978",
+    "exam": "JAMB UTME",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which plant propagation method involves rooting a stem while it is still attached to the parent plant?",
+    "question": "Subsistence agriculture differs from commercial agriculture in that subsistence agriculture is characterized by:",
     "options": {
-      "A": "Layering (e.g. marcottage/air layering)",
-      "B": "Stem cutting",
-      "C": "Budding (T-budding)",
-      "D": "Grafting"
+      "A": "Small fragmented land holdings, crude tools, family labour, and production primarily for household consumption",
+      "B": "Heavy capital investment in combine harvesters",
+      "C": "Monoculture over thousands of contiguous hectares",
+      "D": "Massive exports to overseas trade markets"
     },
     "answer": "A",
-    "explanation": "Layering induces adventitious root formation on an aerial stem before detaching it from the parent stock.",
-    "topic": "Horticulture & Plant Propagation",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "explanation": "Subsistence focuses on family survival with minimal capital, whereas commercial agriculture is profit-driven on large acreages.",
+    "topic": "Subsistence vs Commercial",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The insect pest that attacks cereal crops by drilling into stems and feeding internally, causing deadhearts in young maize plants, is the:",
+    "question": "Shifting cultivation is a primitive agricultural farming system where:",
     "options": {
-      "A": "Maize stem borer (Busseola fusca)",
-      "B": "Weevil",
-      "C": "Variegated grasshopper",
-      "D": "Aphid"
+      "A": "A farmer cultivates a plot until soil fertility drops, then abandons it to clear fresh virgin forest elsewhere",
+      "B": "Crops are rotated in strict sequential order on the same field every year",
+      "C": "Irrigation water is shifted from one canal to another",
+      "D": "Livestock herds are confined in modern battery pens"
     },
     "answer": "A",
-    "explanation": "Stem borer larvae tunnel into maize whorls and stalks, disrupting vascular transport and killing the central shoot ('deadheart').",
-    "topic": "Crop Pests & Pest Control",
-    "exam": "WAEC SSCE",
-    "year": "2020",
+    "explanation": "Shifting cultivation relies on natural bush fallowing to regenerate soil nutrients across rotational clearings.",
+    "topic": "Shifting Cultivation",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A complete fertilizer with grade NPK 15:15:15 contains:",
+    "question": "Mixed farming is defined as a farming system where the farmer:",
     "options": {
-      "A": "15% Nitrogen, 15% Phosphorus (P₂O₅), and 15% Potassium (K₂O)",
-      "B": "15 kg of pure sulfur and trace iron",
-      "C": "45% elemental calcium",
-      "D": "Zero potassium"
+      "A": "Combines crop cultivation and livestock rearing integrated on the same farm enterprise",
+      "B": "Plants only maize on the same field continuously",
+      "C": "Produces only broiler chickens in cages",
+      "D": "Rents out tractors to other farmers"
     },
     "answer": "A",
-    "explanation": "NPK 15-15-15 is a balanced inorganic fertilizer supplying 15% by weight of elemental N, available phosphate, and soluble potash.",
-    "topic": "Fertilizers & Soil Amendments",
-    "exam": "JAMB UTME",
-    "year": "2019",
+    "explanation": "Mixed farming creates closed-loop synergy: crop residues feed livestock, and livestock dung fertilizes crops.",
+    "topic": "Mixed Farming System",
+    "exam": "WAEC SSCE",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which method of irrigation applies water drop-by-drop directly to the root zone of crops, minimizing evaporation losses?",
+    "question": "Soil formation (pedogenesis) from parent rock occurs through the continuous process of:",
     "options": {
-      "A": "Drip (trickle) irrigation",
-      "B": "Sprinkler irrigation",
-      "C": "Flood irrigation",
-      "D": "Furrow irrigation"
+      "A": "Weathering (physical, chemical, and biological breakdown of rocks)",
+      "B": "Volcanic magma eruption exclusively",
+      "C": "Acid rain dissolving sand dunes",
+      "D": "Tractor disc ploughing"
     },
     "answer": "A",
-    "explanation": "Drip irrigation delivers regulated water and soluble nutrients directly to plant roots via micro-emitters, achieving up to 95% water efficiency.",
-    "topic": "Irrigation & Water Management",
+    "explanation": "Weathering breaks parent bedrock down into mineral particles, enriched over centuries by decomposing organic humus.",
+    "topic": "Soil Formation / Weathering",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The process of removing excess, overcrowded seedlings from a nursery bed to provide adequate spacing is called:",
+    "question": "Which of the following rock types is formed from the cooling and solidification of molten magma or lava?",
     "options": {
-      "A": "Thinning",
-      "B": "Pricking out",
-      "C": "Supplying",
-      "D": "Mulching"
+      "A": "Igneous rocks (e.g., granite, basalt)",
+      "B": "Sedimentary rocks (e.g., limestone, sandstone)",
+      "C": "Metamorphic rocks (e.g., marble, slate)",
+      "D": "Organic peat deposits"
     },
     "answer": "A",
-    "explanation": "Thinning removes weak or densely clustered seedlings to avoid competition for light, space, and nutrients. Supplying is replanting un-germinated stands.",
-    "topic": "Agronomic Practices / Nursery Operations",
+    "explanation": "Igneous rocks are primary rocks originating directly from cooled molten volcanic magma.",
+    "topic": "Types of Rocks",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following is a symptom of viral Swollen Shoot Disease in cocoa trees?",
+    "question": "A vertical section through the soil showing its successive distinct horizons (A, B, C, and D) is called a:",
     "options": {
-      "A": "Swelling of nodes, fan branches, and red vein-banding on leaves",
-      "B": "Yellow powder on the underside of pods",
-      "C": "Rotting of the taproot",
-      "D": "White powdery fungal growth on trunk"
+      "A": "Soil Profile",
+      "B": "Soil Texture triangle",
+      "C": "Soil Map",
+      "D": "Soil Toposequence"
     },
     "answer": "A",
-    "explanation": "Cocoa Swollen Shoot Virus (CSSV), transmitted by mealybugs, produces characteristic branch and chupon swellings and mosaic leaf discoloration.",
-    "topic": "Plant Pathology / Cocoa Diseases",
+    "explanation": "The soil profile reveals topsoil (A), subsoil (B), weathered parent material (C), and bedrock (D).",
+    "topic": "Soil Profile",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The economic law stating that as additional units of a variable input are added to fixed land, the addition to total output eventually declines is the:",
+    "question": "Soil texture refers to the:",
     "options": {
-      "A": "Law of Diminishing Returns",
-      "B": "Law of Demand and Supply",
-      "C": "Law of Comparative Cost",
-      "D": "Law of Elasticity"
+      "A": "Relative proportions of sand, silt, and clay mineral particles present in the soil",
+      "B": "Arrangement of soil aggregates into peds",
+      "C": "Chemical pH level of the soil solution",
+      "D": "Percentage of soil moisture by weight"
     },
     "answer": "A",
-    "explanation": "The Law of Diminishing Marginal Returns states that beyond a certain point, successive additions of variable labor/fertilizer yield smaller output increments.",
-    "topic": "Agricultural Economics / Production Principles",
+    "explanation": "Texture is a permanent physical property determined by mechanical particle size distribution (sand, silt, clay).",
+    "topic": "Soil Texture",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which agricultural extension teaching method involves demonstrating a new farming technique step-by-step before a small group of farmers?",
+    "question": "Loamy soil is universally considered the best soil for arable crop production because it possesses:",
     "options": {
-      "A": "Method demonstration",
-      "B": "Radio broadcast",
-      "C": "Result demonstration",
-      "D": "Circular letter"
+      "A": "A balanced mixture of sand, silt, and clay with high organic humus, good water retention, and adequate aeration",
+      "B": "100% fine clay particles that hold water permanently",
+      "C": "Coarse sand that drains instantly within seconds",
+      "D": "Zero mineral plant nutrients"
     },
     "answer": "A",
-    "explanation": "Method demonstration trains farmers in procedural execution (e.g. how to calibrate a knapsack sprayer or graft a seedling) through direct live instruction.",
-    "topic": "Agricultural Extension & Rural Sociology",
+    "explanation": "Loam combines clay's nutrient holding capacity with sand's drainage and aeration, creating optimal root zones.",
+    "topic": "Loamy Soil Properties",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "An acid soil with a pH of 4.5 can be neutralized and improved for arable crop production by applying:",
+    "question": "Soil structure refers to the:",
     "options": {
-      "A": "Agricultural lime (calcium carbonate or dolomite)",
-      "B": "Ammonium sulfate fertilizer",
-      "C": "Urea",
-      "D": "Sulfur dust"
+      "A": "Physical arrangement and aggregation of individual soil particles into clusters or peds (e.g., granular, blocky, platy)",
+      "B": "Depth of the groundwater table",
+      "C": "Amount of earthworms in the soil",
+      "D": "Acidity of the rainwater falling on the soil"
     },
     "answer": "A",
-    "explanation": "Liming materials (CaCO₃, Ca(OH)₂, dolomite) neutralize excess hydrogen and aluminium ions, raising soil pH to the optimal 6.0-6.8 range.",
-    "topic": "Soil Management / Liming & Soil Acidity",
+    "explanation": "Structure describes how sand, silt, and clay cement together into structural aggregates, influencing porosity.",
+    "topic": "Soil Structure",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which parasitic weed attaches to the roots of cereals like sorghum and maize in the savanna regions, stunting plant growth?",
+    "question": "Soil pH is a chemical measure of the:",
     "options": {
-      "A": "Striga hermonthica (witchweed)",
-      "B": "Spear grass (Imperata cylindrica)",
-      "C": "Siam weed (Chromolaena odorata)",
-      "D": "Water hyacinth"
+      "A": "Degree of acidity or alkalinity of the soil solution based on hydrogen ion concentration",
+      "B": "Volume of air spaces inside soil pores",
+      "C": "Temperature of topsoil during midday",
+      "D": "Percentage of gravel in the field"
     },
     "answer": "A",
-    "explanation": "Striga is an obligate parasitic flowering plant that penetrates cereal root systems, siphoning nutrients and releasing phytotoxins causing severe stunting.",
-    "topic": "Weed Science / Parasitic Weeds",
+    "explanation": "pH ranges from 0 to 14; pH 7 is neutral. Values below 7 indicate acidity, affecting nutrient availability.",
+    "topic": "Soil pH",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The financial statement that lists all farm assets and liabilities on a specific date to determine the farmer's net worth is the:",
+    "question": "Agricultural lime (calcium carbonate / CaCO3) is applied to farm soils primarily to:",
     "options": {
-      "A": "Balance Sheet (Net Worth Statement)",
-      "B": "Cash Flow Budget",
-      "C": "Income Statement",
-      "D": "Enterprise Budget"
+      "A": "Neutralize soil acidity, raise soil pH, and supply calcium to crops",
+      "B": "Acidify alkaline desert soils",
+      "C": "Kill earthworms in the soil",
+      "D": "Dry up waterlogged rice paddies"
     },
     "answer": "A",
-    "explanation": "A farm balance sheet establishes solvency and liquidity at a specific calendar date: Net Worth = Total Farm Assets - Total Farm Liabilities.",
-    "topic": "Farm Records & Accounting",
+    "explanation": "Liming neutralizes toxic aluminum and hydrogen ions in acid soils, improving phosphorus uptake.",
+    "topic": "Liming Acid Soils",
     "exam": "WAEC SSCE",
-    "year": "2018",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In fish farming, the practice of stocking fish species with different feeding habits together in the same pond to utilize all ecological food niches is:",
+    "question": "Capillary water in the soil is the water that is:",
     "options": {
-      "A": "Polyculture",
-      "B": "Monoculture",
-      "C": "Integrated farming",
-      "D": "Aquaponics"
+      "A": "Held in micro-pores against gravity by surface tension and is readily available for plant root absorption",
+      "B": "Pulled deep down into groundwater by gravity immediately after rain",
+      "C": "Tightly bound as a thin film on soil particles and completely unavailable to plants (hygroscopic)",
+      "D": "Found in frozen polar soil horizons"
     },
     "answer": "A",
-    "explanation": "Polyculture combines surface, column, and bottom feeders (e.g. Catfish and Tilapia) to maximize feed utilization without trophic competition.",
-    "topic": "Fisheries / Aquaculture Systems",
+    "explanation": "Capillary water held in soil pore capillaries between field capacity and permanent wilting point nourishes plants.",
+    "topic": "Soil Water Types",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A fungal disease of cereal crops where grain heads are replaced by powdery black masses of chlamydospores is:",
+    "question": "Soil erosion by water is accelerated on sloping farm terrain primarily when:",
     "options": {
-      "A": "Smut (e.g. loose smut of sorghum/maize)",
-      "B": "Blight",
-      "C": "Mosaic",
-      "D": "Anthracnose"
+      "A": "Protective vegetative ground cover is stripped away by deforestation and overgrazing",
+      "B": "Contour ridges are built across slopes",
+      "C": "Cover crops are planted densely",
+      "D": "Organic compost manure is applied"
     },
     "answer": "A",
-    "explanation": "Smuts (Ustilago species) transform floral organs and developing kernels into soot-like masses of dark spores enclosed in delicate membranes.",
-    "topic": "Crop Pathology / Cereal Smuts",
+    "explanation": "Bare exposed topsoil is dislodged by raindrop splash and carried away as sheet or gully wash.",
+    "topic": "Soil Erosion Causes",
     "exam": "WAEC SSCE",
-    "year": "2023",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which silvicultural practice involves felling mature trees while leaving young trees and stumps that regenerate shoots from coppicing?",
+    "question": "The three primary macronutrients required in largest quantities by growing crop plants are:",
     "options": {
-      "A": "Coppice system",
-      "B": "Clear felling",
-      "C": "Shelterwood system",
-      "D": "Afforestation"
+      "A": "Nitrogen (N), Phosphorus (P), and Potassium (K)",
+      "B": "Iron (Fe), Zinc (Zn), and Copper (Cu)",
+      "C": "Boron (B), Molybdenum (Mo), and Chlorine (Cl)",
+      "D": "Sodium (Na), Silicon (Si), and Lead (Pb)"
     },
     "answer": "A",
-    "explanation": "Coppicing utilizes vegetative regeneration from cut stump stools to produce successive crops of poles, firewood, or timber.",
-    "topic": "Forestry Management / Regeneration",
+    "explanation": "NPK are primary macronutrients critical for vegetative foliage, root development/flowering, and disease resistance.",
+    "topic": "Primary Macronutrients (NPK)",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2024",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following is a symptom of phosphorus deficiency in young crop plants?",
+    "question": "A characteristic visual symptom of Nitrogen deficiency in growing maize plants is:",
     "options": {
-      "A": "Purple or reddish-bronze pigmentation on leaves and stunted root systems",
-      "B": "Excessive dark green soft vegetative growth",
-      "C": "Marginal scorching on mature leaves",
-      "D": "Yellowing of terminal buds only"
+      "A": "General chlorosis (yellowing) of older lower leaves, beginning at the tip and progressing along the midrib",
+      "B": "Purpling of leaf margins",
+      "C": "Crinkling of young upper buds",
+      "D": "Blossom end rot of mature fruit"
     },
     "answer": "A",
-    "explanation": "Phosphorus is vital for ATP energy transfer and nucleic acids; deficiency impairs root elongation and induces purple anthocyanin accumulation.",
-    "topic": "Plant Nutrition / Phosphorus Deficiency",
+    "explanation": "Nitrogen is mobile in plants; deficiency forces remobilization to new leaves, leaving older leaves chlorotic in a V-shape.",
+    "topic": "Nitrogen Deficiency",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What is the primary function of a carburetor or fuel injector in a farm tractor's internal combustion engine?",
+    "question": "Phosphorus deficiency in cereal crops typically manifests as:",
     "options": {
-      "A": "Atomizing and mixing air with fuel in correct proportions for combustion",
-      "B": "Cooling the engine cylinder block",
-      "C": "Regulating electrical battery voltage",
-      "D": "Lubricating the crankshaft bearings"
+      "A": "Stunted root growth and purple or reddish-bronze discoloration on older leaves",
+      "B": "Excessive leafy vegetative lodging",
+      "C": "Bleaching of white streaks on leaves",
+      "D": "Black necrotic spots on flowers"
     },
     "answer": "A",
-    "explanation": "Fuel injection/carburetion systems meter and vaporize fuel with incoming air into an optimal stoichiometric ratio for compression ignition.",
-    "topic": "Farm Power & Machinery / Tractor Engines",
+    "explanation": "Phosphorus drives energy transfer (ATP); deficiency stunts roots and induces purple anthocyanin pigment accumulation.",
+    "topic": "Phosphorus Deficiency",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2022",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The ecological agro-forestry system where food crops are cultivated between hedgerows of planted fast-growing leguminous trees is called:",
+    "question": "Potassium (K) is vital in plant physiology primarily for:",
     "options": {
-      "A": "Alley cropping",
-      "B": "Pastoral nomadism",
-      "C": "Shifting cultivation",
-      "D": "Monoculture"
+      "A": "Regulating stomatal opening and closing, activating enzymes, and promoting disease resistance and stem strength",
+      "B": "Synthesizing chlorophyll molecules",
+      "C": "Forming cell wall pectin",
+      "D": "Fixing atmospheric carbon dioxide"
     },
     "answer": "A",
-    "explanation": "Alley cropping (hedgerow intercropping) prunes trees like Leucaena to mulch crop alleys, suppressing weeds and conserving organic matter.",
-    "topic": "Agro-Forestry / Alley Cropping",
+    "explanation": "Potassium controls osmoregulation, guard cell turgor, drought tolerance, and translocation of starches.",
+    "topic": "Role of Potassium",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2021",
     "id": 24,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In marketing agricultural produce, the middleman who purchases in large wholesale quantities from farm gates and sells to retailers is a:",
+    "question": "Which of the following is an example of an inorganic straight fertilizer providing only nitrogen?",
     "options": {
-      "A": "Wholesaler",
-      "B": "Commission broker",
-      "C": "Consumer",
-      "D": "Retailer"
+      "A": "Urea (46% N)",
+      "B": "NPK 15:15:15",
+      "C": "Single Superphosphate (SSP)",
+      "D": "Muriate of Potash (MOP)"
     },
     "answer": "A",
-    "explanation": "Wholesalers assemble bulk farm harvests, provide storage/grading, break bulk into smaller lots, and distribute to retail merchants.",
-    "topic": "Agricultural Marketing / Marketing Channels",
+    "explanation": "Urea provides a single primary element (Nitrogen) at 46% concentration, classifying it as a straight fertilizer.",
+    "topic": "Straight vs Compound Fertilizers",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2020",
     "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The fertilizer grade 'NPK 20:10:10' indicates that the bag contains:",
+    "options": {
+      "A": "20% Nitrogen, 10% Phosphorus pentoxide (P2O5), and 10% Potassium oxide (K2O)",
+      "B": "20 kg of urea, 10 kg of sand, and 10 kg of water",
+      "C": "40% total mineral salt and 60% pesticides",
+      "D": "Equal proportions of all plant nutrients"
+    },
+    "answer": "A",
+    "explanation": "Fertilizer grades express the guaranteed percentage by weight of available N, P2O5, and K2O in order.",
+    "topic": "Fertilizer Grade",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Compost manure is prepared by:",
+    "options": {
+      "A": "Decomposing crop residues, farm weeds, and animal droppings aerobically in heaps or pits with soil",
+      "B": "Burning dry vegetation to ash in the field",
+      "C": "Grinding raw limestone rocks into powder",
+      "D": "Treating river water with chlorine"
+    },
+    "answer": "A",
+    "explanation": "Aerobic microorganisms break down stacked organic waste layers, yielding nutrient-rich humus.",
+    "topic": "Compost Preparation",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Green manuring involves:",
+    "options": {
+      "A": "Ploughing fast-growing green leguminous crops directly into the soil while still succulent to boost organic matter",
+      "B": "Painting farm tractor implements green",
+      "C": "Spraying green dye on yellowing leaves",
+      "D": "Dumping green glass bottles in drainage ditches"
+    },
+    "answer": "A",
+    "explanation": "Succulent green legumes incorporated before flowering decompose quickly, enriching soil nitrogen and humus.",
+    "topic": "Green Manuring",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Nitrogen Cycle includes which critical biological process where atmospheric nitrogen (N2) is converted into plant-absorbable ammonium?",
+    "options": {
+      "A": "Nitrogen Fixation (by Rhizobium bacteria in legume root nodules)",
+      "B": "Denitrification into nitrogen gas",
+      "C": "Volatilization of ammonia",
+      "D": "Surface runoff into streams"
+    },
+    "answer": "A",
+    "explanation": "Symbiotic Rhizobium bacteria in legume nodules possess the nitrogenase enzyme to fix inert atmospheric N2.",
+    "topic": "Nitrogen Fixation",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Crop rotation maintains soil fertility primarily because it:",
+    "options": {
+      "A": "Alternates shallow-rooted crops with deep-rooted crops and heavy feeders with legumes to balance nutrient use",
+      "B": "Involves burning the field after every harvest",
+      "C": "Keeps the soil completely submerged under water",
+      "D": "Eliminates the need for rainfall entirely"
+    },
+    "answer": "A",
+    "explanation": "Rotation breaks pest life cycles, taps different soil depths, and replenishes nitrogen through legume phases.",
+    "topic": "Principles of Crop Rotation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Maize (Zea mays) belongs to the botanical plant family:",
+    "options": {
+      "A": "Poaceae (Gramineae)",
+      "B": "Fabaceae (Leguminosae)",
+      "C": "Solanaceae",
+      "D": "Malvaceae"
+    },
+    "answer": "A",
+    "explanation": "Maize is a monocotyledonous cereal grain belonging to the grass family Poaceae.",
+    "topic": "Maize Botany",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The optimal seedbed spacing for grain maize under rainfed conditions in Southern Nigeria is approximately:",
+    "options": {
+      "A": "75 cm between rows and 25 cm within rows (1 plant per stand)",
+      "B": "2 meters between stands",
+      "C": "10 cm between rows and 5 cm within rows",
+      "D": "5 meters between ridges"
+    },
+    "answer": "A",
+    "explanation": "75 cm x 25 cm yields an optimal plant population of ~53,333 plants per hectare.",
+    "topic": "Maize Spacing & Population",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In lowland swamp rice (Oryza sativa) cultivation, the practice of transplanting seedlings from nursery beds to puddled fields is done at:",
+    "options": {
+      "A": "3 to 4 weeks after sowing (when seedlings reach 4-5 leaf stage)",
+      "B": "24 hours after germination",
+      "C": "3 months after planting",
+      "D": "When grains are already ripe"
+    },
+    "answer": "A",
+    "explanation": "Seedlings aged 21-28 days withstand transplanting shock, grow vigorously, and outcompete weed seedlings.",
+    "topic": "Rice Nursery & Transplanting",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Parboiling of paddy rice before milling is carried out to:",
+    "options": {
+      "A": "Drive thiamine (Vitamin B1) from the aleurone layer into the endosperm and reduce broken grains during hulling",
+      "B": "Turn the rice grains completely red",
+      "C": "Prevent rice from cooking in boiling water",
+      "D": "Sterilize the milling machine belts"
+    },
+    "answer": "A",
+    "explanation": "Soaking, steaming, and drying gelatinizes rice starch, hardens the grain, and preserves vital B-complex nutrients.",
+    "topic": "Rice Parboiling",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Cowpea (Vigna unguiculata) is an essential leguminous crop in Nigeria that forms a symbiotic relationship with:",
+    "options": {
+      "A": "Rhizobium bacteria in its root nodules to fix atmospheric nitrogen",
+      "B": "Tapeworm parasites in its stems",
+      "C": "Termite queens under the soil",
+      "D": "Anopheles larvae in puddles"
+    },
+    "answer": "A",
+    "explanation": "Cowpea fixes soil nitrogen, providing high dietary plant protein and acting as an excellent rotation crop.",
+    "topic": "Cowpea Agronomy",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The devastating insect pest that bores into cowpea flower buds and developing green pods in the field is the:",
+    "options": {
+      "A": "Maruca pod borer (Maruca vitrata)",
+      "B": "Variegated grasshopper",
+      "C": "Whitefly",
+      "D": "Stem borer"
+    },
+    "answer": "A",
+    "explanation": "Maruca larvae bore into flower buds and pods, causing massive yield losses without targeted spray regimes.",
+    "topic": "Cowpea Pests / Maruca",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The storage pest that destroys harvested dry cowpea seeds in warehouses is the:",
+    "options": {
+      "A": "Cowpea seed beetle / weevil (Callosobruchus maculatus)",
+      "B": "Maize weevil (Sitophilus zeamais)",
+      "C": "Larger grain borer",
+      "D": "Yam beetle"
+    },
+    "answer": "A",
+    "explanation": "Callosobruchus larvae riddle dry stored beans with exit holes, causing total powdery ruin.",
+    "topic": "Callosobruchus Weevil",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Groundnut (Arachis hypogaea) produces its fruit pods underground through a botanical process called:",
+    "options": {
+      "A": "Geocarpy (where the fertilized flower elongates a peg downward into the soil)",
+      "B": "Photosynthetic root budding",
+      "C": "Layering from side branches",
+      "D": "Hydrotropic germination"
+    },
+    "answer": "A",
+    "explanation": "After aerial pollination, the fertilized gynophore (peg) grows geotropically downward to develop pods in the soil.",
+    "topic": "Groundnut Pegging / Geocarpy",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Rosette disease of groundnut is transmitted by which insect vector?",
+    "options": {
+      "A": "Aphids (Aphis craccivora)",
+      "B": "Whiteflies (Bemisia tabaci)",
+      "C": "Mealybugs",
+      "D": "Thrips"
+    },
+    "answer": "A",
+    "explanation": "Aphis craccivora transmits the groundnut rosette virus complex, causing bushy chlorotic stunting.",
+    "topic": "Groundnut Rosette Disease",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Sorghum (guinea corn) is particularly well adapted to the dry semi-arid Sahel and Sudan savanna zones of Nigeria because:",
+    "options": {
+      "A": "It possesses an extensive fibrous root system, waxy leaves, and the ability to enter dormancy during drought",
+      "B": "It requires continuous flood water like swamp rice",
+      "C": "It grows without sunlight",
+      "D": "It produces fruit pods under the soil"
+    },
+    "answer": "A",
+    "explanation": "Sorghum's C4 metabolism, thick cuticle, and drought dormancy make it the premier cereal staple of dry savannas.",
+    "topic": "Sorghum Drought Adaptations",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Cassava (Manihot esculenta) is commercially propagated using:",
+    "options": {
+      "A": "Stem cuttings (stakes) about 20-25 cm in length",
+      "B": "Botanical true seeds",
+      "C": "Leaf bud clippings",
+      "D": "Root suckers exclusively"
+    },
+    "answer": "A",
+    "explanation": "Hardwood stem cuttings buried slanted or horizontally in ridges strike roots and sprout within days.",
+    "topic": "Cassava Propagation",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Cassava Mosaic Disease (CMD) is characterized by mottled, distorted chlorotic leaves and is transmitted by:",
+    "options": {
+      "A": "Whiteflies (Bemisia tabaci) and through infected stem cuttings",
+      "B": "Termites in the soil",
+      "C": "Stem borer caterpillars",
+      "D": "Nematode worms"
+    },
+    "answer": "A",
+    "explanation": "The geminivirus is vectored by whiteflies and spread through infected planting stakes.",
+    "topic": "Cassava Mosaic Disease",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Bitter cassava varieties contain high levels of cyanogenic glucosides (linamarin), which must be detoxified by:",
+    "options": {
+      "A": "Peeling, grating, fermenting (dewatering), and frying/cooking into gari or fufu",
+      "B": "Sun-drying without peeling",
+      "C": "Freezing in cold storage",
+      "D": "Dipping in kerosene"
+    },
+    "answer": "A",
+    "explanation": "Fermentation hydrolyzes linamarin into volatile hydrogen cyanide gas, making processed gari safe to consume.",
+    "topic": "Cassava Processing & Cyanide",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Yam (Dioscorea species) vines are trained on wooden stakes (staking) primarily to:",
+    "options": {
+      "A": "Expose leaves to maximum sunlight for photosynthesis and prevent fungal anthracnose leaf scorch",
+      "B": "Keep tubers above ground",
+      "C": "Protect tubers from earthworms",
+      "D": "Prevent the vines from flowering"
+    },
+    "answer": "A",
+    "explanation": "Staking elevates the canopy, maximizing light interception and improving aeration to deter foliar pathogens.",
+    "topic": "Yam Staking Agronomy",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The agronomic practice of 'milking' (double harvesting) in white yam (Dioscorea rotundata) refers to:",
+    "options": {
+      "A": "Carefully harvesting early food tubers mid-season while leaving rootlets intact to produce seed yams",
+      "B": "Extracting white sap from yam leaves",
+      "C": "Applying liquid cow milk on mounds",
+      "D": "Feeding boiled yam peelings to cows"
+    },
+    "answer": "A",
+    "explanation": "Early de-tubering produces table yams while allowing secondary seed yam tubers to develop before vine death.",
+    "topic": "Milking of Yam",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The commercial variety of oil palm (Elaeis guineensis) characterized by a thick shell and thin mesocarp is:",
+    "options": {
+      "A": "Dura",
+      "B": "Pisifera",
+      "C": "Tenera",
+      "D": "Maracaibo"
+    },
+    "answer": "A",
+    "explanation": "Dura has thick endocarp shells; Pisifera is shell-less; Tenera (the high-yielding commercial hybrid) is Dura x Pisifera.",
+    "topic": "Oil Palm Varieties",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Tenera variety of oil palm is widely cultivated in commercial plantations because it produces:",
+    "options": {
+      "A": "A moderately thin shell with a thick, oil-rich mesocarp (Dura x Pisifera cross)",
+      "B": "No kernels at all",
+      "C": "White palm oil",
+      "D": "Sweet edible fruit bunches without oil"
+    },
+    "answer": "A",
+    "explanation": "Tenera combines high mesocarp oil extraction rates with robust kernel yields.",
+    "topic": "Tenera Hybrid Palm",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Cocoa (Theobroma cacao) beans must undergo fermentation for 5-7 days under plantain leaves primarily to:",
+    "options": {
+      "A": "Kill the seed embryo, liquefy pulp mucilage, and develop the chocolate flavor precursors and brown color",
+      "B": "Make the beans germinate quickly",
+      "C": "Sterilize the cocoa pods with alcohol",
+      "D": "Dry the beans to zero moisture"
+    },
+    "answer": "A",
+    "explanation": "Microbial fermentation generates heat (45-50°C), triggering enzymatic reactions essential for true chocolate aroma.",
+    "topic": "Cocoa Fermentation",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The fungal disease that attacks cocoa pods, causing dark rotting lesions and total pod loss in wet humid weather, is:",
+    "options": {
+      "A": "Black Pod Disease (Phytophthora palmivora / megakarya)",
+      "B": "Swollen Shoot Disease",
+      "C": "Witches' Broom",
+      "D": "Anthracnose"
+    },
+    "answer": "A",
+    "explanation": "Phytophthora black pod spreads via rain splashes, controlled by copper-based fungicide sprays.",
+    "topic": "Cocoa Black Pod Disease",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Natural rubber (Hevea brasiliensis) latex is harvested through the skilled tree incision technique known as:",
+    "options": {
+      "A": "Tapping",
+      "B": "Pruning",
+      "C": "Staking",
+      "D": "Grafting"
+    },
+    "answer": "A",
+    "explanation": "Tapping cuts thin spirals of outer bark to sever latex vessels without damaging the vascular cambium.",
+    "topic": "Rubber Tapping",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In crop husbandry, a weed is best defined as:",
+    "options": {
+      "A": "Any plant growing where it is not desired and interfering with the agricultural value or growth of the crop",
+      "B": "A medicinal herb planted in a nursery",
+      "C": "A grass that produces green seeds",
+      "D": "Any tree exceeding five meters in height"
+    },
+    "answer": "A",
+    "explanation": "Weeds compete with crops for moisture, nutrients, sunlight, and space, harbouring pests and diseases.",
+    "topic": "Definition of Weed",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Striga hermonthica (witchweed) is an economically destructive weed of cereal crops because it is a:",
+    "options": {
+      "A": "Parasitic weed that attaches to cereal roots, drawing water, minerals, and photosynthetic assimilates",
+      "B": "Submerged aquatic weed",
+      "C": "Carnivorous insect-eating plant",
+      "D": "Nitrogen-fixing legume"
+    },
+    "answer": "A",
+    "explanation": "Striga is an obligate root parasite injecting phytotoxins that stunt sorghum, maize, and millet crops.",
+    "topic": "Striga Parasitic Weed",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A selective herbicide is a chemical weed killer that:",
+    "options": {
+      "A": "Kills specific target weeds while leaving the desired agricultural crop plant uninjured",
+      "B": "Kills every green plant on contact without exception",
+      "C": "Sterilizes the soil permanently for ten years",
+      "D": "Acts as an organic foliar fertilizer"
+    },
+    "answer": "A",
+    "explanation": "Selective herbicides (e.g., 2,4-D on broadleaf weeds in cereal grass crops) spare crop plants.",
+    "topic": "Selective Herbicides",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Insect pests of crops with piercing and sucking mouthparts include:",
+    "options": {
+      "A": "Aphids, whiteflies, mealybugs, and capsids",
+      "B": "Grasshoppers, locusts, and armyworms",
+      "C": "Yam beetles and weevils",
+      "D": "Termites and mole crickets"
+    },
+    "answer": "A",
+    "explanation": "Piercing-sucking pests pierce plant tissue with stylets, sucking sap and transmitting destructive viral pathogens.",
+    "topic": "Piercing-Sucking Pests",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Variegated Grasshopper (Zonocerus variegatus) damages crops primarily through its:",
+    "options": {
+      "A": "Biting and chewing mouthparts (mandibles), defoliating cassava leaves and green stems",
+      "B": "Piercing stylets sucking root sap",
+      "C": "Boring holes into tree trunks",
+      "D": "Laying eggs inside cereal grains"
+    },
+    "answer": "A",
+    "explanation": "Zonocerus adults and nymphs strip leaves, bark, and shoots with powerful chewing mandibles.",
+    "topic": "Zonocerus Grasshopper",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Desert Locust (Schistocerca gregaria) causes catastrophic agricultural devastation because:",
+    "options": {
+      "A": "Gregarious swarms of billions of locusts migrate rapidly, devouring all green vegetation in their path",
+      "B": "They contaminate irrigation borehole pipes",
+      "C": "They build mud nests on telephone lines",
+      "D": "They eat only tree roots beneath the soil"
+    },
+    "answer": "A",
+    "explanation": "Locust swarms cover hundreds of kilometers daily, stripping entire crops and pasture land bare.",
+    "topic": "Locust Swarms",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Biological pest control involves the:",
+    "options": {
+      "A": "Deliberate introduction or enhancement of natural predators, parasites, or pathogens to reduce pest populations",
+      "B": "Indiscriminate spraying of synthetic chemical organophosphates",
+      "C": "Burning of entire crop fields with tractor flamethrowers",
+      "D": "Application of dry wood ash on seedbeds"
+    },
+    "answer": "A",
+    "explanation": "Biological control uses natural enemies (e.g., parasitic wasps attacking cassava mealybugs) without toxic chemicals.",
+    "topic": "Biological Pest Control",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Integrated Pest Management (IPM) is a sustainable crop protection approach that:",
+    "options": {
+      "A": "Combines cultural, biological, physical, and judicious chemical control tactics to keep pests below economic threshold",
+      "B": "Relies entirely on daily chemical pesticide spraying",
+      "C": "Bans all hand weeding on farms",
+      "D": "Eliminates all insect life in a country"
+    },
+    "answer": "A",
+    "explanation": "IPM emphasizes ecological balance, using chemicals only as an economic last resort.",
+    "topic": "Integrated Pest Management",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Yam Beetle (Heteroligus meles) damages yams by:",
+    "options": {
+      "A": "Feeding on planting setts and burrowing semi-circular feeding holes in developing underground tubers",
+      "B": "Sucking sap from climbing vines",
+      "C": "Eating flowers off staking poles",
+      "D": "Laying eggs inside dry storage bags"
+    },
+    "answer": "A",
+    "explanation": "Yam beetles chew deep feeding cavities in underground tubers, causing rot and rendering them unmarketable.",
+    "topic": "Yam Beetle",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Nematodes are microscopic roundworms in the soil that damage crops like tomatoes and vegetables by:",
+    "options": {
+      "A": "Invading roots and causing swollen galls (root knot disease) that block water and nutrient uptake",
+      "B": "Chewing holes in ripe fruits",
+      "C": "Spinning webs over plant leaves",
+      "D": "Eating pollen grains from flowers"
+    },
+    "answer": "A",
+    "explanation": "Root-knot nematodes (Meloidogyne spp.) form characteristic root galls, inducing stunting and wilting.",
+    "topic": "Root-Knot Nematodes",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A primary tillage implement used for cutting, inverting, and shattering compacted soil clods is the:",
+    "options": {
+      "A": "Disc plough (or mouldboard plough)",
+      "B": "Disc harrow",
+      "C": "Seed drill planter",
+      "D": "Combine harvester"
+    },
+    "answer": "A",
+    "explanation": "Primary tillage breaks untouched ground; disc ploughs excel in hard, stumpy tropical soils.",
+    "topic": "Primary Tillage / Disc Plough",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A secondary tillage implement used for pulverizing clods, leveling seedbeds, and burying weed sprouts is the:",
+    "options": {
+      "A": "Disc harrow",
+      "B": "Subsoiler",
+      "C": "Subsurface chisel",
+      "D": "Stump puller"
+    },
+    "answer": "A",
+    "explanation": "Secondary tillage refines ploughed soil into a friable tilth ready for seed planting.",
+    "topic": "Secondary Tillage / Disc Harrow",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The tractor component used to deliver mechanical engine power to stationary or trailed machinery like grain threshers is the:",
+    "options": {
+      "A": "Power Take-Off (PTO) shaft",
+      "B": "Radiator fan belt",
+      "C": "Differential lock pedal",
+      "D": "Hydraulic three-point linkage top link"
+    },
+    "answer": "A",
+    "explanation": "The PTO shaft transfers rotational power from the tractor engine to mowers, balers, and boom sprayers.",
+    "topic": "Power Take-Off (PTO)",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Combine Harvester is a sophisticated agricultural machine that performs which three operations simultaneously?",
+    "options": {
+      "A": "Reaping (cutting), threshing (separating grain), and winnowing (cleaning grain) in one pass",
+      "B": "Ploughing, planting, and fertilizer application",
+      "C": "Irrigation, weeding, and pesticide spraying",
+      "D": "Milking cows, packaging milk, and loading crates"
+    },
+    "answer": "A",
+    "explanation": "Combines streamline cereal harvesting, slashing labor bottlenecks during peak harvest windows.",
+    "topic": "Combine Harvester",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Sprinkler irrigation delivers pressurized water to crops in the form of:",
+    "options": {
+      "A": "Artificial simulated rainfall sprayed through overhead rotating nozzles",
+      "B": "Water droplets delivered directly to the root zone via tiny drippers",
+      "C": "Flooding the entire soil surface between border strips",
+      "D": "Digging underground porous clay pipes"
+    },
+    "answer": "A",
+    "explanation": "Overhead sprinklers distribute water uniformly on rolling terrain unsuitable for surface flooding.",
+    "topic": "Sprinkler Irrigation",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Drip (trickle) irrigation is the most water-efficient irrigation method because it:",
+    "options": {
+      "A": "Applies water drop by drop directly to the plant root zone, minimizing evaporation and weed growth",
+      "B": "Floods the field with deep water channels",
+      "C": "Sprays water high into the air on windy afternoons",
+      "D": "Requires no pipes or mechanical pressure"
+    },
+    "answer": "A",
+    "explanation": "Drip achieves >90% water efficiency, delivering precise moisture and dissolved nutrients directly to roots.",
+    "topic": "Drip Irrigation Efficiency",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Drainage of waterlogged agricultural land is beneficial to crops because it:",
+    "options": {
+      "A": "Aerates the root zone, promotes root respiration, and prevents accumulation of toxic salts",
+      "B": "Dries out the soil completely into dry sand",
+      "C": "Kills beneficial mycorrhizal fungi",
+      "D": "Freezes soil temperatures during hot seasons"
+    },
+    "answer": "A",
+    "explanation": "Purging stagnant water restores soil air channels, preventing asphyxiation of crop root hairs.",
+    "topic": "Benefits of Drainage",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Three-Point Linkage of a modern farm tractor is used to:",
+    "options": {
+      "A": "Attach, support, and hydraulically lift mounted farm implements like ploughs, harrows, and ridgers",
+      "B": "Connect the tractor battery to the dashboard radio",
+      "C": "Fasten seatbelts for the driver",
+      "D": "Anchor the tractor to a tree when parking"
+    },
+    "answer": "A",
+    "explanation": "The 3-point hitch (two lower lift arms + one adjustable top link) controls implement working depth hydraulically.",
+    "topic": "Three-Point Linkage",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Daily routine maintenance of a farm tractor before starting the engine in the morning includes checking:",
+    "options": {
+      "A": "Engine oil level, radiator coolant level, tyre inflation pressure, and fuel gauge",
+      "B": "Repainting the tractor hood",
+      "C": "Draining all hydraulic fluid into a can",
+      "D": "Removing the steering wheel"
+    },
+    "answer": "A",
+    "explanation": "Checking fluids (oil, water/coolant, fuel) and tyre pressures prevents catastrophic engine seizure and accidents.",
+    "topic": "Tractor Routine Maintenance",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Knapsack Sprayer is a portable agricultural tool operated by a hand pump primarily used to apply:",
+    "options": {
+      "A": "Liquid herbicides, insecticides, and fungicides on crops",
+      "B": "Granular NPK fertilizers into soil furrows",
+      "C": "Irrigation water to ten hectares of maize",
+      "D": "Dry sand on slippery barn floors"
+    },
+    "answer": "A",
+    "explanation": "Manual lever knapsack sprayers atomize chemical wash into fine droplets for targeted crop protection.",
+    "topic": "Knapsack Sprayer",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Law of Diminishing Returns in agricultural economics states that:",
+    "options": {
+      "A": "As successive units of a variable input are added to a fixed factor, marginal physical product will eventually decline",
+      "B": "Total farm revenue drops to zero immediately after harvest",
+      "C": "Prices of agricultural products always fall over time",
+      "D": "Farmers will never earn any profit"
+    },
+    "answer": "A",
+    "explanation": "Excessive variable input (e.g., fertilizer) on fixed land eventually yields diminishing incremental returns.",
+    "topic": "Law of Diminishing Returns",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In agricultural marketing, middlemen such as wholesalers and retailers perform the vital economic function of:",
+    "options": {
+      "A": "Bridging the spatial, temporal, and processing gap between rural producers and urban consumers",
+      "B": "Hoarding goods to cause artificial famines",
+      "C": "Increasing production costs on the farm",
+      "D": "Forcing farmers to sell land"
+    },
+    "answer": "A",
+    "explanation": "Marketing intermediaries assemble, transport, grade, store, and package commodities for retail shoppers.",
+    "topic": "Agricultural Marketing Channels",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An agricultural cooperative society benefits smallholder farmers primarily by:",
+    "options": {
+      "A": "Enabling collective bargaining, bulk purchase of inputs at discounted rates, and access to low-interest credit",
+      "B": "Abolishing private property ownership on farms",
+      "C": "Forcing farmers to grow only one crop",
+      "D": "Transferring all profits to foreign banks"
+    },
+    "answer": "A",
+    "explanation": "Cooperatives pool member savings, eliminate exploitative loan sharks, and command better bulk commodity prices.",
+    "topic": "Agricultural Cooperatives",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Agricultural Extension is best defined as an educational process that:",
+    "options": {
+      "A": "Communicates scientific agricultural research findings and modern farm innovations to rural farmers to improve productivity",
+      "B": "Arrests farmers who fail to use chemical fertilizers",
+      "C": "Confiscates agricultural land for urban housing estates",
+      "D": "Subsidizes imported food over local grains"
+    },
+    "answer": "A",
+    "explanation": "Extension agents bridge research institutes and rural farmers via training, demonstrations, and field visits.",
+    "topic": "Agricultural Extension",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which agricultural extension teaching method involves demonstrating a new farming technique step-by-step on a farmer's plot?",
+    "options": {
+      "A": "Method Demonstration (or Result Demonstration)",
+      "B": "National radio broadcast",
+      "C": "Newspaper editorial column",
+      "D": "Annual academic university lecture"
+    },
+    "answer": "A",
+    "explanation": "Demonstrations allow farmers to see, practice, and evaluate practical technologies directly ('seeing is believing').",
+    "topic": "Extension Teaching Methods",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The financial statement that summarizes a farm's total assets, total liabilities, and owner's net worth on a specific date is the:",
+    "options": {
+      "A": "Balance Sheet (Net Worth Statement)",
+      "B": "Cash Flow Budget",
+      "C": "Daily Farm Diary",
+      "D": "Enterprise Labour Log"
+    },
+    "answer": "A",
+    "explanation": "Assets - Liabilities = Equity/Net Worth; the balance sheet shows overall solvency and business standing.",
+    "topic": "Farm Balance Sheet",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In agricultural pricing, when the market supply of tomatoes exceeds consumer demand during peak dry season harvest:",
+    "options": {
+      "A": "Market price falls sharply due to excess supply and product perishability",
+      "B": "Market price rises to record highs",
+      "C": "Demand curve shifts to the left",
+      "D": "Government confiscates all tomato baskets"
+    },
+    "answer": "A",
+    "explanation": "Gluts of perishable horticultural produce cause rapid price crashes unless cold storage or processing exists.",
+    "topic": "Agricultural Price Elasticity",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Opportunity Cost in farm management decision-making refers to:",
+    "options": {
+      "A": "The financial return or benefit forgone from the next best alternative use of scarce farm resources",
+      "B": "The total price paid for a diesel tractor",
+      "C": "The wages paid to farm labourers",
+      "D": "The cost of constructing irrigation canals"
+    },
+    "answer": "A",
+    "explanation": "Allocating land to maize sacrifices potential cassava earnings, representing the opportunity cost.",
+    "topic": "Opportunity Cost in Agriculture",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Agricultural credit is important to smallholder farmers because it:",
+    "options": {
+      "A": "Provides seasonal working capital to procure certified seeds, fertilizers, and mechanized hiring services",
+      "B": "Allows farmers to throw lavish parties",
+      "C": "Eliminates the need for farm labour",
+      "D": "Guarantees rainfall during droughts"
+    },
+    "answer": "A",
+    "explanation": "Credit overcomes liquidity constraints, unlocking adoption of high-yielding inputs and technology.",
+    "topic": "Agricultural Credit",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Farm Budget is an essential planning document that forecasts:",
+    "options": {
+      "A": "Expected farm revenues, anticipated production expenditures, and estimated net profit for an upcoming season",
+      "B": "Historical rainfall data over the past century",
+      "C": "Personal biographies of all farm workers",
+      "D": "Global satellite maps of shipping lanes"
+    },
+    "answer": "A",
+    "explanation": "Budgeting enables managers to project cash flows, anticipate input requirements, and appraise profitability.",
+    "topic": "Farm Budgeting",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Silviculture is the scientific branch of forestry concerned with the:",
+    "options": {
+      "A": "Establishment, growth, care, and reproduction of forest timber trees",
+      "B": "Breeding of honeybees in wooden boxes",
+      "C": "Cultivation of commercial mushroom spores",
+      "D": "Harvesting of marine crabs"
+    },
+    "answer": "A",
+    "explanation": "Silviculture applies ecological principles to manage tree regeneration, thinning, and timber yield.",
+    "topic": "Silviculture",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Afforestation refers to the practice of:",
+    "options": {
+      "A": "Planting trees to create a new forest on land that previously had no tree cover",
+      "B": "Cutting down trees indiscriminately without replacement",
+      "C": "Replanting trees in a logged forest area",
+      "D": "Burning savanna brush for cattle grazing"
+    },
+    "answer": "A",
+    "explanation": "Afforestation creates new forests; reforestation replants depleted or harvested woodland.",
+    "topic": "Afforestation vs Reforestation",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The deliberate integration of forest trees with arable food crops and/or livestock on the same land management unit is:",
+    "options": {
+      "A": "Agroforestry",
+      "B": "Deforestation",
+      "C": "Monoculture forestry",
+      "D": "Strip mining"
+    },
+    "answer": "A",
+    "explanation": "Agroforestry (e.g., alley cropping) enhances biodiversity, fixes nitrogen, and diversifies farm income.",
+    "topic": "Agroforestry",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Deforestation causes severe environmental degradation by contributing to:",
+    "options": {
+      "A": "Soil erosion, loss of biodiversity, desertification, and climate change through carbon release",
+      "B": "Rapid lowering of atmospheric temperatures",
+      "C": "Expansion of freshwater polar icecaps",
+      "D": "Increased soil mineral humus"
+    },
+    "answer": "A",
+    "explanation": "Felling trees destroys wildlife habitats, exposes fragile soils to erosion, and accelerates global warming.",
+    "topic": "Consequences of Deforestation",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which valuable indigenous hardwood timber tree species in Southern Nigerian rainforests is renowned for heavy construction and furniture?",
+    "options": {
+      "A": "Iroko (Milicia excelsa)",
+      "B": "Neem tree (Azadirachta indica)",
+      "C": "Casuarina",
+      "D": "Eucalyptus"
+    },
+    "answer": "A",
+    "explanation": "Iroko yields durable, termite-resistant, high-density timber highly prized in structural carpentry.",
+    "topic": "Forest Hardwood Species",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Forest reserves are designated parcels of land set aside and legally protected by government to:",
+    "options": {
+      "A": "Conserve biodiversity, prevent watershed erosion, preserve endangered species, and manage sustainable timber",
+      "B": "Build industrial chemical factories",
+      "C": "Allow unrestricted illegal timber logging by private companies",
+      "D": "Establish international cargo airports"
+    },
+    "answer": "A",
+    "explanation": "Protected reserves preserve forest ecologies, protect headwaters, and provide controlled sustainable timber.",
+    "topic": "Forest Reserves",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Taungya farming is a specialized agroforestry system where:",
+    "options": {
+      "A": "Farmers are permitted to cultivate food crops between young plantation tree seedlings until canopy closure",
+      "B": "Crops are grown on rooftop hydroponic gutters",
+      "C": "Livestock graze exclusively on mountain tops",
+      "D": "Timber logs are floated down rivers to seaports"
+    },
+    "answer": "A",
+    "explanation": "Taungya utilizes land efficiently: farmers tend crops and weed tree seedlings, vacating once canopies shade out undergrowth.",
+    "topic": "Taungya System",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Non-timber forest products (NTFPs) harvested from Nigerian tropical forests include:",
+    "options": {
+      "A": "Wild honey, medicinal herbs, bushmeat, chewing sticks, and mushrooms",
+      "B": "Sawn mahogany building planks",
+      "C": "Heavy steel railway tracks",
+      "D": "Crude oil drilling pipes"
+    },
+    "answer": "A",
+    "explanation": "NTFPs supply vital rural livelihoods, pharmaceuticals, and culinary delicacies without timber destruction.",
+    "topic": "Non-Timber Forest Products",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Poaching in game reserves and national parks refers to the:",
+    "options": {
+      "A": "Illegal hunting, trapping, or killing of protected wild animals in violation of wildlife conservation laws",
+      "B": "Photographing of wild elephants by tourists",
+      "C": "Feeding of zoo animals with commercial hay",
+      "D": "Counting of bird nests by ornithologists"
+    },
+    "answer": "A",
+    "explanation": "Poaching drives vulnerable fauna toward extinction, disrupting fragile ecological food webs.",
+    "topic": "Wildlife Poaching",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Shelterbelts (windbreaks) are planted in Northern Nigeria primarily to:",
+    "options": {
+      "A": "Reduce wind speed, check desert encroachment, and prevent wind erosion of topsoil and crop damage",
+      "B": "Block sunlight from reaching farm crops",
+      "C": "Provide hiding places for wild lions",
+      "D": "Stop river floods during heavy downpours"
+    },
+    "answer": "A",
+    "explanation": "Dense rows of trees perpendicular to prevailing harmattan winds shield fragile topsoils and retain microclimate moisture.",
+    "topic": "Shelterbelts & Windbreaks",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Aquaculture is the branch of agriculture that involves the:",
+    "options": {
+      "A": "Controlled breeding, rearing, and harvesting of aquatic organisms (fish, crustaceans, molluscs) in water bodies",
+      "B": "Purification of domestic drinking tap water",
+      "C": "Construction of ocean commercial cruise ships",
+      "D": "Desalination of seawater for irrigation"
+    },
+    "answer": "A",
+    "explanation": "Aquaculture cultures aquatic species under managed conditions, supplementing capture fisheries.",
+    "topic": "Definition of Aquaculture",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A fish pond constructed by excavating soil and impounding a diverted stream or borehole water is an:",
+    "options": {
+      "A": "Earthen pond",
+      "B": "Offshore marine floating cage",
+      "C": "Aquarium glass tank",
+      "D": "Recirculating fiberglass raceway"
+    },
+    "answer": "A",
+    "explanation": "Earthen ponds utilize natural soil bottoms supporting benthic organisms and natural plankton food chains.",
+    "topic": "Fish Ponds / Earthen Ponds",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In fish pond construction, the 'monk' is an engineering structure designed to:",
+    "options": {
+      "A": "Control and regulate the drainage and water level of the pond",
+      "B": "Prevent birds from diving into the water",
+      "C": "Generate electricity from falling water",
+      "D": "Feed fish pellets automatically"
+    },
+    "answer": "A",
+    "explanation": "The monk with flashboards and screens controls water outflow, retains stock, and allows total pond draining.",
+    "topic": "Pond Monk & Spillway",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Agricultural lime is applied to the bottom of newly constructed fish ponds before filling with water to:",
+    "options": {
+      "A": "Disinfect the soil, eradicate parasites, and buffer water pH to slightly alkaline (pH 7.0 - 8.5)",
+      "B": "Make the water crystal transparent",
+      "C": "Kill all plankton organisms",
+      "D": "Prevent fish from swimming"
+    },
+    "answer": "A",
+    "explanation": "Liming neutralizes soil acidity, sterilizes mud against pathogens, and promotes phosphorus availability for plankton.",
+    "topic": "Liming of Fish Ponds",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Fertilization of fish ponds with poultry manure or single superphosphate (SSP) promotes:",
+    "options": {
+      "A": "The rapid growth of phytoplankton and zooplankton as natural natural fish food",
+      "B": "Eradication of water snails",
+      "C": "Growth of heavy thorny bushes inside the water",
+      "D": "Immediate hatching of fish eggs"
+    },
+    "answer": "A",
+    "explanation": "Inorganic and organic fertilizers stimulate green algae (phytoplankton) bloom, the foundation of pond food webs.",
+    "topic": "Pond Fertilization & Plankton",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The young, newly hatched fish after absorbing their yolk sacs and developing fins are called:",
+    "options": {
+      "A": "Fry (which develop into fingerlings)",
+      "B": "Broodstock",
+      "C": "Table fish",
+      "D": "Smolt"
+    },
+    "answer": "A",
+    "explanation": "Hatchlings progress from larvae (sac fry) to fry, then to fingerlings (1-3 inches) ready for grow-out stocking.",
+    "topic": "Fish Developmental Stages",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Induced breeding (hypophysation) in Clarias catfish hatchery management involves:",
+    "options": {
+      "A": "Injecting female broodstock with pituitary gland extract or synthetic hormone (ovaprim) to induce egg ovulation",
+      "B": "Electrocution of fish in the water",
+      "C": "Feeding fish with hot maize mash",
+      "D": "Shining bright lights over the pond at night"
+    },
+    "answer": "A",
+    "explanation": "Hormone therapy stimulates final oocyte maturation and ovulation, enabling controlled stripping and artificial fertilization.",
+    "topic": "Induced Breeding / Hypophysation",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which fishing gear consists of a conical net thrown by hand that settles over fish schools before being hauled in by a drawstring?",
+    "options": {
+      "A": "Cast net",
+      "B": "Gill net",
+      "C": "Trawl net",
+      "D": "Hook and line"
+    },
+    "answer": "A",
+    "explanation": "Cast nets are weighted perimeter nets thrown by hand, sinking to trap fish beneath circular lead weights.",
+    "topic": "Fishing Gear / Cast Net",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Gill Net captures fish primarily by:",
+    "options": {
+      "A": "Allowing fish to poke their heads through mesh apertures, entangling them behind the operculum (gill covers) as they try to back out",
+      "B": "Attracting fish with bright flashing LED lights",
+      "C": "Scooping fish into an open wooden bucket",
+      "D": "Catching fish on baited barbed hooks"
+    },
+    "answer": "A",
+    "explanation": "Gill nets are size-selective walls of monofilament netting that entangle fish gills when they attempt to reverse.",
+    "topic": "Gill Net Mechanism",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The traditional fish preservation method most widely used by artisanal fishing communities across Nigeria is:",
+    "options": {
+      "A": "Smoke drying in earthen smoking kilns (chorkor smokers)",
+      "B": "Freezing in blast chillers",
+      "C": "Canning in aluminum tins",
+      "D": "Gamma radiation sterilization"
+    },
+    "answer": "A",
+    "explanation": "Smoke drying reduces water activity, deposits antimicrobial phenolic compounds, and preserves fish for months without refrigeration.",
+    "topic": "Fish Smoking & Preservation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

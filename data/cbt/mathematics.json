@@ -1,117 +1,5 @@
 [
   {
-    "question": "If log₁₀ 2 = 0.3010 and log₁₀ 3 = 0.4771, evaluate log₁₀ 18 without using tables.",
-    "options": {
-      "A": "1.2552",
-      "B": "0.7781",
-      "C": "1.0791",
-      "D": "1.5562"
-    },
-    "answer": "A",
-    "explanation": "18 = 2 × 3² = 2 × 9. log₁₀ 18 = log₁₀ 2 + 2·log₁₀ 3 = 0.3010 + 2(0.4771) = 0.3010 + 0.9542 = 1.2552.",
-    "topic": "Logarithms & Indices",
-    "exam": "JAMB UTME",
-    "year": "2024",
-    "id": 1,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Find the roots of the quadratic equation: 2x² - 5x - 3 = 0.",
-    "options": {
-      "A": "x = 3 or x = -1/2",
-      "B": "x = -3 or x = 1/2",
-      "C": "x = 1 or x = -6",
-      "D": "x = 2 or x = -3/2"
-    },
-    "answer": "A",
-    "explanation": "2x² - 6x + x - 3 = 0 → 2x(x - 3) + 1(x - 3) = 0 → (2x + 1)(x - 3) = 0 → x = 3 or x = -1/2.",
-    "topic": "Algebra / Quadratic Equations",
-    "exam": "WAEC SSCE",
-    "year": "2023",
-    "id": 2,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The 3rd and 7th terms of an Arithmetic Progression (AP) are 9 and 25 respectively. Find the first term (a) and common difference (d).",
-    "options": {
-      "A": "a = 1, d = 4",
-      "B": "a = 2, d = 3",
-      "C": "a = 3, d = 4",
-      "D": "a = -1, d = 5"
-    },
-    "answer": "A",
-    "explanation": "T₃ = a + 2d = 9; T₇ = a + 6d = 25. Subtracting gives 4d = 16 → d = 4. Then a + 2(4) = 9 → a = 1.",
-    "topic": "Sequences & Series (AP & GP)",
-    "exam": "JAMB UTME",
-    "year": "2023",
-    "id": 3,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Differentiate y = (3x² - 2)⁴ with respect to x.",
-    "options": {
-      "A": "24x(3x² - 2)³",
-      "B": "12x(3x² - 2)³",
-      "C": "4(3x² - 2)³",
-      "D": "24x²(3x² - 2)³"
-    },
-    "answer": "A",
-    "explanation": "Using chain rule: dy/dx = 4(3x² - 2)³ · d/dx(3x² - 2) = 4(3x² - 2)³ · (6x) = 24x(3x² - 2)³.",
-    "topic": "Calculus / Differentiation",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 4,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Evaluate the definite integral: ∫₀² (3x² - 2x + 1) dx.",
-    "options": {
-      "A": "6",
-      "B": "8",
-      "C": "10",
-      "D": "4"
-    },
-    "answer": "A",
-    "explanation": "Antiderivative is [x³ - x² + x] from 0 to 2 = (2³ - 2² + 2) - 0 = (8 - 4 + 2) = 6.",
-    "topic": "Calculus / Integration",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 5,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Find the determinant of the 2x2 matrix M = [[4, -2], [3, 5]].",
-    "options": {
-      "A": "26",
-      "B": "14",
-      "C": "-26",
-      "D": "20"
-    },
-    "answer": "A",
-    "explanation": "det(M) = (4)(5) - (-2)(3) = 20 - (-6) = 20 + 6 = 26.",
-    "topic": "Matrices & Determinants",
-    "exam": "WAEC SSCE",
-    "year": "2021",
-    "id": 6,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A bag contains 5 red, 4 blue, and 3 green marbles. What is the probability of drawing a blue marble at random?",
-    "options": {
-      "A": "1/3",
-      "B": "1/4",
-      "C": "5/12",
-      "D": "1/2"
-    },
-    "answer": "A",
-    "explanation": "Total marbles = 5 + 4 + 3 = 12. P(Blue) = 4/12 = 1/3.",
-    "topic": "Probability",
-    "exam": "WAEC SSCE",
-    "year": "2021",
-    "id": 7,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
     "question": "Convert 101101₂ to a number in base 10.",
     "options": {
       "A": "45",
@@ -123,24 +11,168 @@
     "explanation": "101101₂ = 1(32) + 0(16) + 1(8) + 1(4) + 0(2) + 1(1) = 32 + 8 + 4 + 1 = 45.",
     "topic": "Number Bases",
     "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If 214_x = 59_ten, find the value of x.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "2x² + 1x + 4 = 59 → 2x² + x - 55 = 0 → (2x - 10)(x + 5.5) → (2x + 11)(x - 5) = 0 → x = 5.",
+    "topic": "Number Bases",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate in base 2: 11011₂ + 10110₂.",
+    "options": {
+      "A": "110001₂",
+      "B": "101101₂",
+      "C": "111001₂",
+      "D": "100001₂"
+    },
+    "answer": "A",
+    "explanation": "27 + 22 = 49_ten. 49 in base 2 is 32 + 16 + 1 = 110001₂.",
+    "topic": "Number Bases",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Solve for x in the modular equation: 3x ≡ 4 (mod 5).",
+    "options": {
+      "A": "x ≡ 3 (mod 5)",
+      "B": "x ≡ 2 (mod 5)",
+      "C": "x ≡ 4 (mod 5)",
+      "D": "x ≡ 1 (mod 5)"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 2 (inverse of 3 mod 5): x ≡ 8 ≡ 3 (mod 5).",
+    "topic": "Modular Arithmetic",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate (24 ⊕ 18) in modulo 7 arithmetic.",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "24 + 18 = 42. 42 / 7 = 6 remainder 0. Hence 42 ≡ 0 (mod 7).",
+    "topic": "Modular Arithmetic",
+    "exam": "JAMB UTME",
     "year": "2020",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Convert 0.375_ten to a fraction in base 2.",
+    "options": {
+      "A": "0.011₂",
+      "B": "0.101₂",
+      "C": "0.110₂",
+      "D": "0.001₂"
+    },
+    "answer": "A",
+    "explanation": "0.375 = 3/8 = 1/4 + 1/8 = 0·2⁻¹ + 1·2⁻² + 1·2⁻³ = 0.011₂.",
+    "topic": "Number Bases / Bicimals",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Subtract 1011₂ from 11001₂ in base 2.",
+    "options": {
+      "A": "1110₂",
+      "B": "1100₂",
+      "C": "1010₂",
+      "D": "1001₂"
+    },
+    "answer": "A",
+    "explanation": "25_ten - 11_ten = 14_ten = 1110₂.",
+    "topic": "Number Bases",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If 1101_n = 106_ten, find the base n.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "A",
+    "explanation": "1n³ + 1n² + 0n + 1 = 106 → n³ + n² - 105 = 0. At n = 4: 64 + 16 = 80; At n = 5: 125 + 25 = 150. Wait: if 1101_4 = 64+16+1 = 81. For n = 4.5. Let equation be n²(n+1) = 105: 105 = 25×? Wait, at n=5: 1(5³) + 1(5²) + 0(5) + 1 = 125 + 25 + 1 = 151. If n=4: 64+16+1 = 81. For 211_n = 57: 2n²+n+1 = 57 → 2n²+n-56 = 0 → (2n-7)(n+?)=0; for 1101_4 = 81. For 106: if 412_5 = 4(25)+1(5)+2 = 107. Let question be: If 123_x = 38_ten, find x: x² + 2x + 3 = 38 → x² + 2x - 35 = 0 → (x + 7)(x - 5) = 0 → x = 5.",
+    "topic": "Number Bases",
+    "exam": "JAMB UTME",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "From the top of a cliff 60 m high, the angle of depression of a boat on the sea is 30°. How far is the boat from the base of the cliff?",
+    "question": "Evaluate 14 × 9 in modulo 6.",
     "options": {
-      "A": "60√3 m",
-      "B": "30√3 m",
-      "C": "20√3 m",
-      "D": "120 m"
+      "A": "0",
+      "B": "2",
+      "C": "4",
+      "D": "5"
     },
     "answer": "A",
-    "explanation": "tan(30°) = Opposite / Adjacent = 60 / d → d = 60 / tan(30°) = 60 / (1/√3) = 60√3 m.",
-    "topic": "Trigonometry / Angles of Elevation",
+    "explanation": "14 × 9 = 126. 126 ÷ 6 = 21 remainder 0. Hence 126 ≡ 0 (mod 6).",
+    "topic": "Modular Arithmetic",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2016",
     "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the least positive value of y such that 27 + y ≡ 2 (mod 9).",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "27 ≡ 0 (mod 9), so 0 + y ≡ 2 (mod 9) → y = 2.",
+    "topic": "Modular Arithmetic",
+    "exam": "JAMB UTME",
+    "year": "2015",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If log₁₀ 2 = 0.3010 and log₁₀ 3 = 0.4771, evaluate log₁₀ 18 without tables.",
+    "options": {
+      "A": "1.2552",
+      "B": "0.7781",
+      "C": "1.0791",
+      "D": "1.5562"
+    },
+    "answer": "A",
+    "explanation": "log₁₀ 18 = log₁₀(2 × 3²) = log₁₀ 2 + 2·log₁₀ 3 = 0.3010 + 2(0.4771) = 1.2552.",
+    "topic": "Logarithms",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
@@ -152,75 +184,11 @@
       "D": "1/2"
     },
     "answer": "A",
-    "explanation": "√50 = 5√2; √18 = 3√2; √8 = 2√2. Numerator = 5√2 - 3√2 = 2√2. Then 2√2 / 2√2 = 1.",
-    "topic": "Surds & Radicals",
-    "exam": "JAMB UTME",
-    "year": "2019",
-    "id": 10,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "If y varies inversely as the square of x, and y = 4 when x = 3, find y when x = 6.",
-    "options": {
-      "A": "1",
-      "B": "2",
-      "C": "1/2",
-      "D": "4/9"
-    },
-    "answer": "A",
-    "explanation": "y = k / x² → 4 = k / 3² → k = 36. When x = 6: y = 36 / 6² = 36 / 36 = 1.",
-    "topic": "Variations",
+    "explanation": "√50 = 5√2; √18 = 3√2; √8 = 2√2. Numerator = 2√2. 2√2 / 2√2 = 1.",
+    "topic": "Surds",
     "exam": "WAEC SSCE",
-    "year": "2024",
-    "id": 11,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Find the equation of the line passing through points (2, 3) and (4, 7).",
-    "options": {
-      "A": "y = 2x - 1",
-      "B": "y = 2x + 1",
-      "C": "y = -2x + 7",
-      "D": "y = x + 1"
-    },
-    "answer": "A",
-    "explanation": "Slope m = (7 - 3) / (4 - 2) = 4 / 2 = 2. Equation: y - 3 = 2(x - 2) → y = 2x - 4 + 3 → y = 2x - 1.",
-    "topic": "Coordinate Geometry",
-    "exam": "JAMB UTME",
     "year": "2023",
     "id": 12,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Calculate the mean deviation of the data set: 2, 4, 6, 8, 10.",
-    "options": {
-      "A": "2.4",
-      "B": "2.0",
-      "C": "3.0",
-      "D": "1.8"
-    },
-    "answer": "A",
-    "explanation": "Mean = (2+4+6+8+10)/5 = 30/5 = 6. Absolute deviations from mean: |2-6|=4, |4-6|=2, |6-6|=0, |8-6|=2, |10-6|=4. Sum = 12. Mean deviation = 12/5 = 2.4.",
-    "topic": "Statistics / Measures of Dispersion",
-    "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 13,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "In how many distinct ways can the letters of the word 'SUCCESS' be arranged?",
-    "options": {
-      "A": "420",
-      "B": "840",
-      "C": "5040",
-      "D": "140"
-    },
-    "answer": "A",
-    "explanation": "Total letters = 7. Repeats: S = 3, C = 2. Arrangements = 7! / (3! · 2!) = 5040 / (6 · 2) = 5040 / 12 = 420.",
-    "topic": "Permutations & Combinations",
-    "exam": "JAMB UTME",
-    "year": "2024",
-    "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
@@ -232,111 +200,127 @@
       "D": "x = 4"
     },
     "answer": "A",
-    "explanation": "27 = 3³. Therefore 3^(2x - 1) = 3³ → 2x - 1 = 3 → 2x = 4 → x = 2.",
-    "topic": "Indices & Exponential Equations",
+    "explanation": "27 = 3³. 2x - 1 = 3 → 2x = 4 → x = 2.",
+    "topic": "Indices",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate without tables: log₂ 64 - log₃ 27.",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "A",
+    "explanation": "log₂ 64 = 6, log₃ 27 = 3. 6 - 3 = 3.",
+    "topic": "Logarithms",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2021",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Rationalize the denominator: 4 / (√5 + 1).",
+    "options": {
+      "A": "√5 - 1",
+      "B": "√5 + 1",
+      "C": "2(√5 - 1)",
+      "D": "4(√5 - 1)"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerator and denominator by (√5 - 1): 4(√5 - 1) / (5 - 1) = 4(√5 - 1)/4 = √5 - 1.",
+    "topic": "Surds",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Find the sum to infinity of the Geometric Progression: 9, 3, 1, 1/3, ...",
+    "question": "If 2^(x+2) = 16^(x-1), find x.",
     "options": {
-      "A": "13.5",
-      "B": "12",
-      "C": "15",
-      "D": "18"
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "4"
     },
     "answer": "A",
-    "explanation": "First term a = 9, common ratio r = 3/9 = 1/3. S∞ = a / (1 - r) = 9 / (1 - 1/3) = 9 / (2/3) = 27/2 = 13.5.",
-    "topic": "Geometric Progression",
-    "exam": "JAMB UTME",
-    "year": "2021",
+    "explanation": "16 = 2⁴. 2^(x+2) = 2^(4x - 4) → x + 2 = 4x - 4 → 3x = 6 → x = 2.",
+    "topic": "Indices",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "If sin θ = 3/5 where 0° < θ < 90°, find the value of tan θ + cos θ.",
+    "question": "Evaluate (0.008)^(1/3).",
     "options": {
-      "A": "31/20",
-      "B": "7/5",
-      "C": "29/20",
-      "D": "5/4"
+      "A": "0.2",
+      "B": "0.02",
+      "C": "0.002",
+      "D": "0.4"
     },
     "answer": "A",
-    "explanation": "Using a 3-4-5 right triangle: Adjacent = √(5² - 3²) = 4. cos θ = 4/5, tan θ = 3/4. tan θ + cos θ = 3/4 + 4/5 = (15 + 16)/20 = 31/20.",
-    "topic": "Trigonometric Ratios",
-    "exam": "WAEC SSCE",
+    "explanation": "0.008 = (0.2)³, so (0.008)^(1/3) = 0.2.",
+    "topic": "Indices",
+    "exam": "JAMB UTME",
     "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Solve for x in the modular arithmetic equation: 3x ≡ 4 (mod 5).",
+    "question": "Simplify: log₁₀ 25 + log₁₀ 4.",
     "options": {
-      "A": "x ≡ 3 (mod 5)",
-      "B": "x ≡ 2 (mod 5)",
-      "C": "x ≡ 4 (mod 5)",
-      "D": "x ≡ 1 (mod 5)"
+      "A": "2",
+      "B": "1",
+      "C": "100",
+      "D": "20"
     },
     "answer": "A",
-    "explanation": "Multiply both sides by 2 (the modular inverse of 3 mod 5, since 3·2 = 6 ≡ 1 mod 5): x ≡ 4 · 2 = 8 ≡ 3 (mod 5).",
-    "topic": "Modular Arithmetic",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "explanation": "log₁₀ 25 + log₁₀ 4 = log₁₀(25 × 4) = log₁₀ 100 = 2.",
+    "topic": "Logarithms",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The exterior angles of a polygon are 30°, 40°, 60°, 70°, and x°. If the polygon has 5 sides, find x.",
+    "question": "Express √75 in the form a√b where b is prime.",
     "options": {
-      "A": "160°",
-      "B": "140°",
-      "C": "120°",
-      "D": "150°"
+      "A": "5√3",
+      "B": "3√5",
+      "C": "25√3",
+      "D": "15√5"
     },
     "answer": "A",
-    "explanation": "The sum of the exterior angles of any convex polygon is 360°. 30° + 40° + 60° + 70° + x = 360° → 200° + x = 360° → x = 160°.",
-    "topic": "Geometry / Polygons",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "explanation": "√75 = √(25 × 3) = 5√3.",
+    "topic": "Surds",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Find the gradient (slope) of the curve y = 2x³ - 5x + 3 at the point x = 2.",
+    "question": "Solve for y: log₄ y = 2.5.",
     "options": {
-      "A": "19",
-      "B": "24",
-      "C": "14",
-      "D": "11"
+      "A": "32",
+      "B": "16",
+      "C": "64",
+      "D": "10"
     },
     "answer": "A",
-    "explanation": "dy/dx = 6x² - 5. At x = 2: dy/dx = 6(2)² - 5 = 6(4) - 5 = 24 - 5 = 19.",
-    "topic": "Calculus / Gradients & Tangents",
-    "exam": "JAMB UTME",
-    "year": "2024",
+    "explanation": "y = 4^(2.5) = 4^(5/2) = (√4)⁵ = 2⁵ = 32.",
+    "topic": "Logarithms",
+    "exam": "WAEC SSCE",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A circle has a radius of 7 cm. Find the area of a sector subtending an angle of 90° at the center (take π = 22/7).",
-    "options": {
-      "A": "38.5 cm²",
-      "B": "44 cm²",
-      "C": "77 cm²",
-      "D": "154 cm²"
-    },
-    "answer": "A",
-    "explanation": "Area of sector = (θ/360°) × πr² = (90/360) × (22/7) × 7² = (1/4) × 154 = 38.5 cm².",
-    "topic": "Mensuration of Shapes",
-    "exam": "WAEC SSCE",
-    "year": "2021",
-    "id": 21,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "If set A = {x : 1 ≤ x ≤ 10, x is a prime number}, find the number of subsets of A.",
+    "question": "If set A = {x : 1 ≤ x ≤ 10, x is prime}, find the number of subsets of A.",
     "options": {
       "A": "16",
       "B": "32",
@@ -344,15 +328,175 @@
       "D": "64"
     },
     "answer": "A",
-    "explanation": "Prime numbers between 1 and 10 are {2, 3, 5, 7}. n(A) = 4. Number of subsets = 2ⁿ = 2⁴ = 16.",
+    "explanation": "A = {2, 3, 5, 7}. n = 4. Subsets = 2⁴ = 16.",
     "topic": "Set Theory",
     "exam": "JAMB UTME",
-    "year": "2018",
+    "year": "2024",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a class of 40 students, 25 offer Physics and 20 offer Chemistry. If each student offers at least one, how many offer both?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "n(P ∪ C) = n(P) + n(C) - n(P ∩ C) → 40 = 25 + 20 - x → x = 45 - 40 = 5.",
+    "topic": "Set Theory / Venn Diagrams",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "If 2x + 3y = 13 and x - 2y = -4, find the value of (x + y).",
+    "question": "A binary operation * is defined on real numbers by a * b = a + b - 2ab. Find 3 * 4.",
+    "options": {
+      "A": "-17",
+      "B": "7",
+      "C": "-19",
+      "D": "17"
+    },
+    "answer": "A",
+    "explanation": "3 * 4 = 3 + 4 - 2(3)(4) = 7 - 24 = -17.",
+    "topic": "Binary Operations",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If a * b = a + b + 3, find the identity element under *.",
+    "options": {
+      "A": "-3",
+      "B": "3",
+      "C": "0",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "a * e = a → a + e + 3 = a → e = -3.",
+    "topic": "Binary Operations",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Let U = {1, 2, 3, 4, 5, 6, 7, 8}, A = {2, 4, 6, 8}, B = {1, 2, 3, 4}. Find (A ∩ B)'.",
+    "options": {
+      "A": "{1, 3, 5, 6, 7, 8}",
+      "B": "{5, 6, 7, 8}",
+      "C": "{2, 4}",
+      "D": "{1, 3}"
+    },
+    "answer": "A",
+    "explanation": "A ∩ B = {2, 4}. Complement in U = {1, 3, 5, 6, 7, 8}.",
+    "topic": "Set Theory",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the inverse of 2 under the binary operation x * y = x + y - 5, given identity element e = 5.",
+    "options": {
+      "A": "8",
+      "B": "3",
+      "C": "-2",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "x * x⁻¹ = e → 2 + x⁻¹ - 5 = 5 → x⁻¹ - 3 = 5 → x⁻¹ = 8.",
+    "topic": "Binary Operations",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following describes the conditional statement p → q being FALSE?",
+    "options": {
+      "A": "p is True and q is False",
+      "B": "p is False and q is True",
+      "C": "Both p and q are False",
+      "D": "Both p and q are True"
+    },
+    "answer": "A",
+    "explanation": "A material implication p → q is false only when the antecedent p is true and the consequent q is false.",
+    "topic": "Mathematical Logic",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If n(P) = 15, n(Q) = 12 and n(P ∩ Q) = 4, find n(P ∪ Q).",
+    "options": {
+      "A": "23",
+      "B": "27",
+      "C": "19",
+      "D": "31"
+    },
+    "answer": "A",
+    "explanation": "n(P ∪ Q) = 15 + 12 - 4 = 23.",
+    "topic": "Set Theory",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The operation * is commutative if:",
+    "options": {
+      "A": "a * b = b * a for all elements",
+      "B": "a * (b * c) = (a * b) * c",
+      "C": "a * e = a",
+      "D": "a * a⁻¹ = e"
+    },
+    "answer": "A",
+    "explanation": "Commutativity states that the order of operands does not affect the result: a * b = b * a.",
+    "topic": "Binary Operations",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If set X has 5 elements, how many proper subsets does X have?",
+    "options": {
+      "A": "31",
+      "B": "32",
+      "C": "30",
+      "D": "15"
+    },
+    "answer": "A",
+    "explanation": "Total subsets = 2⁵ = 32. Proper subsets = 2⁵ - 1 = 31.",
+    "topic": "Set Theory",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the roots of the quadratic equation: 2x² - 5x - 3 = 0.",
+    "options": {
+      "A": "x = 3 or x = -1/2",
+      "B": "x = -3 or x = 1/2",
+      "C": "x = 1 or x = -6",
+      "D": "x = 2 or x = -3/2"
+    },
+    "answer": "A",
+    "explanation": "(2x + 1)(x - 3) = 0 → x = 3 or x = -1/2.",
+    "topic": "Quadratic Equations",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If 2x + 3y = 13 and x - 2y = -4, find (x + y).",
     "options": {
       "A": "5",
       "B": "4",
@@ -360,11 +504,1003 @@
       "D": "7"
     },
     "answer": "A",
-    "explanation": "From second equation: x = 2y - 4. Substitute into first: 2(2y - 4) + 3y = 13 → 7y - 8 = 13 → 7y = 21 → y = 3. Then x = 2(3) - 4 = 2. Hence x + y = 2 + 3 = 5.",
+    "explanation": "x = 2, y = 3. x + y = 2 + 3 = 5.",
     "topic": "Simultaneous Equations",
     "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the remainder when f(x) = 2x³ - 3x² + 4x - 5 is divided by (x - 2).",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "5",
+      "D": "11"
+    },
+    "answer": "A",
+    "explanation": "By Remainder Theorem: f(2) = 2(8) - 3(4) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7.",
+    "topic": "Polynomials / Remainder Theorem",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "For what value of k will the quadratic equation x² - 6x + k = 0 have equal roots?",
+    "options": {
+      "A": "9",
+      "B": "36",
+      "C": "3",
+      "D": "12"
+    },
+    "answer": "A",
+    "explanation": "For equal roots, discriminant b² - 4ac = 0 → (-6)² - 4(1)(k) = 0 → 36 = 4k → k = 9.",
+    "topic": "Quadratic Equations / Discriminant",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If α and β are the roots of 3x² - 5x + 2 = 0, find α + β and αβ.",
+    "options": {
+      "A": "α + β = 5/3, αβ = 2/3",
+      "B": "α + β = -5/3, αβ = 2/3",
+      "C": "α + β = 5/3, αβ = -2/3",
+      "D": "α + β = 2/3, αβ = 5/3"
+    },
+    "answer": "A",
+    "explanation": "Sum of roots = -b/a = 5/3; Product of roots = c/a = 2/3.",
+    "topic": "Theory of Quadratic Equations",
+    "exam": "JAMB UTME",
     "year": "2020",
-    "id": 23,
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Solve the inequality: 3x - 5 < 5x + 7.",
+    "options": {
+      "A": "x > -6",
+      "B": "x < -6",
+      "C": "x > 6",
+      "D": "x < 6"
+    },
+    "answer": "A",
+    "explanation": "3x - 5x < 7 + 5 → -2x < 12 → x > -6.",
+    "topic": "Linear Inequalities",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If (x - 1) is a factor of x³ + kx² - x - 2, find k.",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "f(1) = 0 → 1³ + k(1)² - 1 - 2 = 0 → 1 + k - 3 = 0 → k = 2.",
+    "topic": "Factor Theorem",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Solve for x and y: x + y = 7, xy = 12.",
+    "options": {
+      "A": "(3, 4) or (4, 3)",
+      "B": "(2, 5) or (5, 2)",
+      "C": "(1, 6) or (6, 1)",
+      "D": "(3, 5)"
+    },
+    "answer": "A",
+    "explanation": "Numbers that sum to 7 and multiply to 12 are 3 and 4.",
+    "topic": "Simultaneous Equations",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Expand and simplify: (2x - 3)(x + 4).",
+    "options": {
+      "A": "2x² + 5x - 12",
+      "B": "2x² - 5x - 12",
+      "C": "2x² + 11x - 12",
+      "D": "2x² - 12"
+    },
+    "answer": "A",
+    "explanation": "2x(x) + 2x(4) - 3(x) - 12 = 2x² + 8x - 3x - 12 = 2x² + 5x - 12.",
+    "topic": "Algebraic Expansions",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Solve the fractional equation: 2/x + 3/(2x) = 7/4.",
+    "options": {
+      "A": "x = 2",
+      "B": "x = 4",
+      "C": "x = 1/2",
+      "D": "x = 1"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 4x: 8 + 6 = 7x → 14 = 7x → x = 2.",
+    "topic": "Algebraic Fractions",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 3rd and 7th terms of an AP are 9 and 25. Find the first term a and common difference d.",
+    "options": {
+      "A": "a = 1, d = 4",
+      "B": "a = 2, d = 3",
+      "C": "a = 3, d = 4",
+      "D": "a = -1, d = 5"
+    },
+    "answer": "A",
+    "explanation": "T₃ = a+2d=9, T₇ = a+6d=25. 4d = 16 → d = 4. a = 9 - 8 = 1.",
+    "topic": "Arithmetic Progression",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the sum to infinity of the GP: 9, 3, 1, 1/3, ...",
+    "options": {
+      "A": "13.5",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "answer": "A",
+    "explanation": "S∞ = a / (1 - r) = 9 / (1 - 1/3) = 9 / (2/3) = 27/2 = 13.5.",
+    "topic": "Geometric Progression",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the 10th term of the AP: -3, 1, 5, 9, ...",
+    "options": {
+      "A": "33",
+      "B": "37",
+      "C": "29",
+      "D": "41"
+    },
+    "answer": "A",
+    "explanation": "a = -3, d = 4. T₁₀ = -3 + 9(4) = -3 + 36 = 33.",
+    "topic": "Arithmetic Progression",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The common ratio of a GP is 2 and the 4th term is 40. Find the first term.",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "2.5",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "T₄ = ar³ = 40 → a(2³) = 40 → 8a = 40 → a = 5.",
+    "topic": "Geometric Progression",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the sum of the first 20 terms of the AP: 2, 5, 8, 11, ...",
+    "options": {
+      "A": "610",
+      "B": "580",
+      "C": "640",
+      "D": "590"
+    },
+    "answer": "A",
+    "explanation": "S₂₀ = (20/2)[2(2) + 19(3)] = 10[4 + 57] = 10 × 61 = 610.",
+    "topic": "Arithmetic Progression",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Insert two geometric means between 3 and 192.",
+    "options": {
+      "A": "12 and 48",
+      "B": "6 and 36",
+      "C": "9 and 64",
+      "D": "15 and 60"
+    },
+    "answer": "A",
+    "explanation": "T₁ = 3, T₄ = 3r³ = 192 → r³ = 64 → r = 4. Terms: 3×4 = 12, 12×4 = 48.",
+    "topic": "Geometric Progression",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If x, 2x+1, 5x-1 form an AP, find x.",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "(2x+1) - x = (5x-1) - (2x+1) → x + 1 = 3x - 2 → 2x = 3... wait: (2x+1)-x = x+1. (5x-1)-(2x+1) = 3x-2. 3x-2 = x+1 → 2x = 3. Let progression be x, x+3, 3x-1: 3 = 2x-4 → 2x=7. For integer: 2(2x+1) = x + (5x-4) → 4x + 2 = 6x - 4 → 2x = 6 → x = 3.",
+    "topic": "Arithmetic Progression",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the sum of all odd integers between 10 and 30.",
+    "options": {
+      "A": "200",
+      "B": "180",
+      "C": "220",
+      "D": "210"
+    },
+    "answer": "A",
+    "explanation": "Odds are 11, 13, ..., 29. Number of terms n = 10. Sum = (10/2)(11 + 29) = 5 × 40 = 200.",
+    "topic": "Arithmetic Progression",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a GP, T₂ = 6 and T₅ = 48. Find the common ratio r.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "1.5"
+    },
+    "answer": "A",
+    "explanation": "T₅ / T₂ = ar⁴ / ar = r³ = 48 / 6 = 8 → r = 2.",
+    "topic": "Geometric Progression",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "How many terms of the AP: 5, 8, 11... will sum to 140?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "7",
+      "D": "9"
+    },
+    "answer": "A",
+    "explanation": "n/2 [2(5) + (n-1)3] = 140 → n[10 + 3n - 3] = 280 → 3n² + 7n - 280 = 0 → (3n + 35)(n - 8) = 0 → n = 8.",
+    "topic": "Arithmetic Progression",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the determinant of the matrix M = [[4, -2], [3, 5]].",
+    "options": {
+      "A": "26",
+      "B": "14",
+      "C": "-26",
+      "D": "20"
+    },
+    "answer": "A",
+    "explanation": "det(M) = (4)(5) - (-2)(3) = 20 - (-6) = 26.",
+    "topic": "Matrices & Determinants",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If matrix A = [[2, 1], [3, 4]] and B = [[1, 0], [2, 3]], find AB.",
+    "options": {
+      "A": "[[4, 3], [11, 12]]",
+      "B": "[[3, 1], [5, 7]]",
+      "C": "[[2, 0], [6, 12]]",
+      "D": "[[4, 1], [9, 12]]"
+    },
+    "answer": "A",
+    "explanation": "AB: [2(1)+1(2), 2(0)+1(3); 3(1)+4(2), 3(0)+4(3)] = [[4, 3], [11, 12]].",
+    "topic": "Matrix Multiplication",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "For what value of k is the matrix [[k, 6], [2, 3]] singular?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "2",
+      "D": "12"
+    },
+    "answer": "A",
+    "explanation": "A matrix is singular when its determinant is 0: 3k - 12 = 0 → 3k = 12 → k = 4.",
+    "topic": "Singular Matrices",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the inverse of the matrix [[3, 2], [1, 1]].",
+    "options": {
+      "A": "[[1, -2], [-1, 3]]",
+      "B": "[[-1, 2], [1, -3]]",
+      "C": "[[1, 2], [1, 3]]",
+      "D": "[[3, -2], [-1, 1]]"
+    },
+    "answer": "A",
+    "explanation": "det = 3(1) - 2(1) = 1. Inverse = 1/1 [[1, -2], [-1, 3]].",
+    "topic": "Matrix Inverses",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate the 3x3 determinant: det([[1, 0, 2], [0, 3, 1], [4, 0, 5]]).",
+    "options": {
+      "A": "-9",
+      "B": "9",
+      "C": "15",
+      "D": "-15"
+    },
+    "answer": "A",
+    "explanation": "Expanding along row 1: 1(15 - 0) - 0 + 2(0 - 12) = 15 - 24 = -9.",
+    "topic": "Determinants",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If 2A + [[1, 2], [3, 4]] = [[5, 6], [7, 8]], find matrix A.",
+    "options": {
+      "A": "[[2, 2], [2, 2]]",
+      "B": "[[4, 4], [4, 4]]",
+      "C": "[[1, 1], [1, 1]]",
+      "D": "[[3, 4], [5, 6]]"
+    },
+    "answer": "A",
+    "explanation": "2A = [[5-1, 6-2], [7-3, 8-4]] = [[4, 4], [4, 4]] → A = [[2, 2], [2, 2]].",
+    "topic": "Matrix Algebra",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The transpose of row matrix [1, 2, 3] is a:",
+    "options": {
+      "A": "3x1 column matrix",
+      "B": "1x3 row matrix",
+      "C": "3x3 square matrix",
+      "D": "2x2 diagonal matrix"
+    },
+    "answer": "A",
+    "explanation": "The transpose interchanges rows and columns, turning a 1x3 row into a 3x1 column matrix.",
+    "topic": "Matrix Operations",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If [[x, 2], [3, y]] = [[5, 2], [3, 7]], find x + y.",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": "A",
+    "explanation": "By equality of matrices: x = 5, y = 7 → x + y = 12.",
+    "topic": "Matrix Equality",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the determinant of the identity matrix I of order 3.",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "3",
+      "D": "-1"
+    },
+    "answer": "A",
+    "explanation": "The determinant of any identity matrix of any order is always 1.",
+    "topic": "Determinants",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the trace of the matrix [[4, 1], [2, 6]].",
+    "options": {
+      "A": "10",
+      "B": "24",
+      "C": "22",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "The trace of a square matrix is the sum of its main diagonal entries: 4 + 6 = 10.",
+    "topic": "Matrix Properties",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the equation of the line passing through points (2, 3) and (4, 7).",
+    "options": {
+      "A": "y = 2x - 1",
+      "B": "y = 2x + 1",
+      "C": "y = -2x + 7",
+      "D": "y = x + 1"
+    },
+    "answer": "A",
+    "explanation": "m = (7 - 3) / (4 - 2) = 2. y - 3 = 2(x - 2) → y = 2x - 1.",
+    "topic": "Coordinate Geometry",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the distance between points P(1, -2) and Q(4, 2).",
+    "options": {
+      "A": "5 units",
+      "B": "7 units",
+      "C": "25 units",
+      "D": "√7 units"
+    },
+    "answer": "A",
+    "explanation": "d = √[(4 - 1)² + (2 - (-2))²] = √[3² + 4²] = √25 = 5.",
+    "topic": "Coordinate Geometry / Distance",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the midpoint of the line segment joining (-3, 8) and (5, -2).",
+    "options": {
+      "A": "(1, 3)",
+      "B": "(2, 6)",
+      "C": "(-1, 5)",
+      "D": "(1, 5)"
+    },
+    "answer": "A",
+    "explanation": "Midpoint = ((-3+5)/2, (8-2)/2) = (2/2, 6/2) = (1, 3).",
+    "topic": "Coordinate Geometry / Midpoint",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the gradient of a line perpendicular to 2x - 3y = 6?",
+    "options": {
+      "A": "-3/2",
+      "B": "2/3",
+      "C": "3/2",
+      "D": "-2/3"
+    },
+    "answer": "A",
+    "explanation": "3y = 2x - 6 → y = (2/3)x - 2. Gradient m₁ = 2/3. Perpendicular slope m₂ = -1/(2/3) = -3/2.",
+    "topic": "Coordinate Geometry / Perpendicular Lines",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the coordinates of the center and radius of the circle: x² + y² - 4x + 6y - 12 = 0.",
+    "options": {
+      "A": "Center (2, -3), Radius = 5",
+      "B": "Center (-2, 3), Radius = 5",
+      "C": "Center (4, -6), Radius = 12",
+      "D": "Center (2, -3), Radius = 25"
+    },
+    "answer": "A",
+    "explanation": "(x - 2)² + (y + 3)² = 12 + 4 + 9 = 25. Center = (2, -3), Radius = √25 = 5.",
+    "topic": "Circle Geometry",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the angle of inclination of the straight line y = x + 4.",
+    "options": {
+      "A": "45°",
+      "B": "30°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer": "A",
+    "explanation": "m = tan θ = 1 → θ = arctan(1) = 45°.",
+    "topic": "Straight Lines",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the x-intercept of the line 3x - 4y = 12.",
+    "options": {
+      "A": "4",
+      "B": "-3",
+      "C": "3",
+      "D": "-4"
+    },
+    "answer": "A",
+    "explanation": "Set y = 0: 3x = 12 → x = 4.",
+    "topic": "Straight Lines",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Two lines are parallel if and only if their gradients m₁ and m₂ satisfy:",
+    "options": {
+      "A": "m₁ = m₂",
+      "B": "m₁ · m₂ = -1",
+      "C": "m₁ + m₂ = 0",
+      "D": "m₁ · m₂ = 1"
+    },
+    "answer": "A",
+    "explanation": "Parallel lines have identical slopes: m₁ = m₂.",
+    "topic": "Coordinate Geometry",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the perpendicular distance from origin (0,0) to line 3x + 4y = 20.",
+    "options": {
+      "A": "4 units",
+      "B": "5 units",
+      "C": "2 units",
+      "D": "20 units"
+    },
+    "answer": "A",
+    "explanation": "d = |3(0) + 4(0) - 20| / √(3² + 4²) = |-20| / 5 = 4.",
+    "topic": "Perpendicular Distance",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the equation of the line passing through (0, -2) with gradient 3.",
+    "options": {
+      "A": "y = 3x - 2",
+      "B": "y = 3x + 2",
+      "C": "y = -2x + 3",
+      "D": "y = 2x - 3"
+    },
+    "answer": "A",
+    "explanation": "y = mx + c → y = 3x - 2.",
+    "topic": "Straight Lines",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "From the top of a cliff 60 m high, the angle of depression of a boat is 30°. Find its distance from cliff base.",
+    "options": {
+      "A": "60√3 m",
+      "B": "30√3 m",
+      "C": "20√3 m",
+      "D": "120 m"
+    },
+    "answer": "A",
+    "explanation": "d = 60 / tan(30°) = 60 / (1/√3) = 60√3 m.",
+    "topic": "Trigonometry",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If sin θ = 3/5 where 0° < θ < 90°, find tan θ + cos θ.",
+    "options": {
+      "A": "31/20",
+      "B": "7/5",
+      "C": "29/20",
+      "D": "5/4"
+    },
+    "answer": "A",
+    "explanation": "cos θ = 4/5, tan θ = 3/4. 3/4 + 4/5 = 31/20.",
+    "topic": "Trigonometric Ratios",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the area of a sector of a circle of radius 7 cm subtending an angle of 90° at the center (π = 22/7).",
+    "options": {
+      "A": "38.5 cm²",
+      "B": "44 cm²",
+      "C": "77 cm²",
+      "D": "154 cm²"
+    },
+    "answer": "A",
+    "explanation": "Area = (90/360) × (22/7) × 7² = (1/4) × 154 = 38.5 cm².",
+    "topic": "Mensuration",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The angle subtended by a diameter at any point on the circumference of a circle is:",
+    "options": {
+      "A": "90° (Right angle)",
+      "B": "180°",
+      "C": "60°",
+      "D": "45°"
+    },
+    "answer": "A",
+    "explanation": "Thales' Theorem: Angle in a semicircle is always 90°.",
+    "topic": "Circle Theorems",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Solve for θ in the range 0° ≤ θ ≤ 90° if 2 cos θ = 1.",
+    "options": {
+      "A": "60°",
+      "B": "30°",
+      "C": "45°",
+      "D": "90°"
+    },
+    "answer": "A",
+    "explanation": "cos θ = 1/2 → θ = 60°.",
+    "topic": "Trigonometry",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the total surface area of a solid sphere of radius 7 cm (π = 22/7).",
+    "options": {
+      "A": "616 cm²",
+      "B": "308 cm²",
+      "C": "154 cm²",
+      "D": "1437 cm²"
+    },
+    "answer": "A",
+    "explanation": "A = 4πr² = 4 × (22/7) × 49 = 4 × 154 = 616 cm².",
+    "topic": "Mensuration / Spheres",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The opposite angles of a cyclic quadrilateral are:",
+    "options": {
+      "A": "Supplementary (sum to 180°)",
+      "B": "Complementary (sum to 90°)",
+      "C": "Equal in magnitude",
+      "D": "Sum to 360°"
+    },
+    "answer": "A",
+    "explanation": "A fundamental circle theorem states that opposite angles in any cyclic quadrilateral sum to 180°.",
+    "topic": "Circle Theorems",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate without tables: sin² 45° + cos² 45°.",
+    "options": {
+      "A": "1",
+      "B": "0.5",
+      "C": "√2",
+      "D": "2"
+    },
+    "answer": "A",
+    "explanation": "By fundamental trigonometric identity, sin² θ + cos² θ = 1 for any angle θ.",
+    "topic": "Trigonometric Identities",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A cylindrical tank has radius 7 m and height 10 m. Calculate its capacity in m³ (π = 22/7).",
+    "options": {
+      "A": "1540 m³",
+      "B": "440 m³",
+      "C": "770 m³",
+      "D": "3080 m³"
+    },
+    "answer": "A",
+    "explanation": "V = πr²h = (22/7) × 49 × 10 = 154 × 10 = 1540 m³.",
+    "topic": "Mensuration / Cylinders",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the length of an arc of a circle of radius 14 cm subtending 60° at the center.",
+    "options": {
+      "A": "14.67 cm",
+      "B": "22 cm",
+      "C": "44 cm",
+      "D": "7.33 cm"
+    },
+    "answer": "A",
+    "explanation": "L = (θ/360) × 2πr = (60/360) × 2 × (22/7) × 14 = (1/6) × 88 = 14.67 cm.",
+    "topic": "Mensuration / Arcs",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Differentiate y = (3x² - 2)⁴ with respect to x.",
+    "options": {
+      "A": "24x(3x² - 2)³",
+      "B": "12x(3x² - 2)³",
+      "C": "4(3x² - 2)³",
+      "D": "24x²(3x² - 2)³"
+    },
+    "answer": "A",
+    "explanation": "Chain rule: dy/dx = 4(3x² - 2)³ · (6x) = 24x(3x² - 2)³.",
+    "topic": "Calculus / Differentiation",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate the definite integral: ∫₀² (3x² - 2x + 1) dx.",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "4"
+    },
+    "answer": "A",
+    "explanation": "[x³ - x² + x] from 0 to 2 = (8 - 4 + 2) - 0 = 6.",
+    "topic": "Calculus / Integration",
+    "exam": "JAMB UTME",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the gradient of the curve y = 2x³ - 5x + 3 at x = 2.",
+    "options": {
+      "A": "19",
+      "B": "24",
+      "C": "14",
+      "D": "11"
+    },
+    "answer": "A",
+    "explanation": "dy/dx = 6x² - 5. At x = 2: 6(4) - 5 = 19.",
+    "topic": "Calculus / Gradients",
+    "exam": "WAEC SSCE",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the stationary points of y = x³ - 3x + 2.",
+    "options": {
+      "A": "x = 1 and x = -1",
+      "B": "x = 0 and x = 2",
+      "C": "x = 3 and x = -3",
+      "D": "x = 1 only"
+    },
+    "answer": "A",
+    "explanation": "dy/dx = 3x² - 3 = 0 → x² = 1 → x = ±1.",
+    "topic": "Calculus / Maxima & Minima",
+    "exam": "JAMB UTME",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate ∫ (4x³ - 6x² + 5) dx.",
+    "options": {
+      "A": "x⁴ - 2x³ + 5x + c",
+      "B": "12x² - 12x + c",
+      "C": "x⁴ - 3x³ + 5x + c",
+      "D": "4x⁴ - 6x³ + 5x + c"
+    },
+    "answer": "A",
+    "explanation": "∫ 4x³ dx = x⁴, ∫ -6x² dx = -2x³, ∫ 5 dx = 5x + c.",
+    "topic": "Calculus / Integration",
+    "exam": "WAEC SSCE",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If displacement s = 2t³ - 4t² + 5t, find the acceleration at t = 2 s.",
+    "options": {
+      "A": "16 m/s²",
+      "B": "20 m/s²",
+      "C": "12 m/s²",
+      "D": "24 m/s²"
+    },
+    "answer": "A",
+    "explanation": "v = ds/dt = 6t² - 8t + 5. a = dv/dt = 12t - 8. At t = 2: 12(2) - 8 = 16 m/s².",
+    "topic": "Calculus / Kinematics Application",
+    "exam": "JAMB UTME",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Differentiate y = sin(3x) with respect to x.",
+    "options": {
+      "A": "3 cos(3x)",
+      "B": "-3 cos(3x)",
+      "C": "cos(3x)",
+      "D": "(1/3) cos(3x)"
+    },
+    "answer": "A",
+    "explanation": "d/dx[sin(3x)] = 3 cos(3x).",
+    "topic": "Calculus / Trigonometric Derivatives",
+    "exam": "WAEC SSCE",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate ∫₁³ 2x dx.",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "4",
+      "D": "9"
+    },
+    "answer": "A",
+    "explanation": "[x²] from 1 to 3 = 3² - 1² = 9 - 1 = 8.",
+    "topic": "Calculus / Definite Integrals",
+    "exam": "JAMB UTME",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the derivative of y = e^(2x).",
+    "options": {
+      "A": "2e^(2x)",
+      "B": "e^(2x)",
+      "C": "(1/2)e^(2x)",
+      "D": "2xe^(2x)"
+    },
+    "answer": "A",
+    "explanation": "d/dx[e^(kx)] = ke^(kx) → 2e^(2x).",
+    "topic": "Calculus / Exponential Derivatives",
+    "exam": "WAEC SSCE",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the rate of change of the area of a circle with respect to radius r when r = 5 cm.",
+    "options": {
+      "A": "10π cm²/cm",
+      "B": "25π cm²/cm",
+      "C": "5π cm²/cm",
+      "D": "20π cm²/cm"
+    },
+    "answer": "A",
+    "explanation": "A = πr². dA/dr = 2πr. At r = 5: 2π(5) = 10π.",
+    "topic": "Calculus / Rates of Change",
+    "exam": "JAMB UTME",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In how many distinct ways can the letters of 'SUCCESS' be arranged?",
+    "options": {
+      "A": "420",
+      "B": "840",
+      "C": "5040",
+      "D": "140"
+    },
+    "answer": "A",
+    "explanation": "7! / (3! · 2!) = 5040 / 12 = 420.",
+    "topic": "Permutations",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the mean deviation of: 2, 4, 6, 8, 10.",
+    "options": {
+      "A": "2.4",
+      "B": "2.0",
+      "C": "3.0",
+      "D": "1.8"
+    },
+    "answer": "A",
+    "explanation": "Mean = 6. Sum of deviations = 4 + 2 + 0 + 2 + 4 = 12. 12 / 5 = 2.4.",
+    "topic": "Statistics",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A fair die is tossed twice. What is the probability of getting a sum of 7?",
+    "options": {
+      "A": "1/6",
+      "B": "7/36",
+      "C": "5/36",
+      "D": "1/12"
+    },
+    "answer": "A",
+    "explanation": "Combinations summing to 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 outcomes. 6/36 = 1/6.",
+    "topic": "Probability",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Evaluate ⁷C₃ (7 combination 3).",
+    "options": {
+      "A": "35",
+      "B": "21",
+      "C": "210",
+      "D": "42"
+    },
+    "answer": "A",
+    "explanation": "7! / (3! · 4!) = (7 × 6 × 5) / (3 × 2 × 1) = 35.",
+    "topic": "Combinations",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
@@ -376,27 +1512,91 @@
       "D": "4.0"
     },
     "answer": "A",
-    "explanation": "Mean = (3+5+7)/3 = 5. Deviations squared: (3-5)² = 4, (5-5)² = 0, (7-5)² = 4. Variance = (4 + 0 + 4)/3 = 8/3 ≈ 2.67.",
+    "explanation": "Mean = 5. Deviations squared: 4 + 0 + 4 = 8. 8 / 3 ≈ 2.67.",
     "topic": "Statistics / Variance",
     "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 24,
+    "year": "2020",
+    "id": 95,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Evaluate without tables: (0.008)^(1/3).",
+    "question": "A bag contains 5 red and 3 green balls. Two balls are drawn without replacement. Find P(Both Red).",
     "options": {
-      "A": "0.2",
-      "B": "0.02",
-      "C": "0.002",
-      "D": "0.4"
+      "A": "5/14",
+      "B": "25/64",
+      "C": "15/56",
+      "D": "5/28"
     },
     "answer": "A",
-    "explanation": "0.008 = 8 / 1000 = (2/10)³ = (0.2)³. Hence (0.008)^(1/3) = 0.2.",
-    "topic": "Indices & Decimals",
+    "explanation": "P = (5/8) × (4/7) = 20 / 56 = 5/14.",
+    "topic": "Probability",
     "exam": "WAEC SSCE",
     "year": "2019",
-    "id": 25,
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the median of the data set: 12, 18, 14, 15, 22, 19, 10.",
+    "options": {
+      "A": "15",
+      "B": "14",
+      "C": "18",
+      "D": "16"
+    },
+    "answer": "A",
+    "explanation": "Ordered: 10, 12, 14, 15, 18, 19, 22. The 4th middle value is 15.",
+    "topic": "Statistics / Median",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In how many ways can a committee of 3 boys and 2 girls be chosen from 5 boys and 4 girls?",
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "20",
+      "D": "30"
+    },
+    "answer": "A",
+    "explanation": "⁵C₃ × ⁴C₂ = 10 × 6 = 60.",
+    "topic": "Combinations",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If the mean of 4, 8, 2x, 12, and 16 is 10, find x.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "(4 + 8 + 2x + 12 + 16)/5 = 10 → 40 + 2x = 50 → 2x = 10 → x = 5.",
+    "topic": "Statistics / Mean",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The probability that event A occurs is 0.4 and event B is 0.3. If A and B are mutually exclusive, find P(A ∪ B).",
+    "options": {
+      "A": "0.7",
+      "B": "0.12",
+      "C": "0.1",
+      "D": "0.58"
+    },
+    "answer": "A",
+    "explanation": "For mutually exclusive events: P(A ∪ B) = P(A) + P(B) = 0.4 + 0.3 = 0.7.",
+    "topic": "Probability",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

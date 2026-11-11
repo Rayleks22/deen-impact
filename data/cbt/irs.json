@@ -1,182 +1,38 @@
 [
   {
-    "question": "The first revelation bestowed upon Prophet Muhammad (peace be upon him) in the Cave of Hira comprises verses 1-5 of Surah:",
+    "question": "The first revelation received by Prophet Muhammad (SAW) in the cave of Hira was from Surah:",
     "options": {
-      "A": "Al-Alaq (The Clot)",
+      "A": "Al-Alaq (Verses 1-5)",
       "B": "Al-Muddaththir",
       "C": "Al-Fatihah",
       "D": "Al-Baqarah"
     },
     "answer": "A",
-    "explanation": "The Prophet (SAW) received the first divine revelation through Angel Jibril (AS) commanding 'Iqra!' (Read!) from the opening 5 ayat of Surah Al-Alaq (Chapter 96).",
-    "topic": "Tarikh al-Quran / Revelation",
+    "explanation": "Angel Jibril commanded the Prophet: 'Iqra' bismi Rabbika alladhee khalaq...' marking the beginning of revelation.",
+    "topic": "Revelation of Qur'an",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which companion of the Prophet (SAW) spearheaded the standardized compilation of the Holy Quran into a single codex (Mushaf) distributed across the Islamic world?",
+    "question": "Makkan Surahs are generally characterized by:",
     "options": {
-      "A": "Uthman ibn Affan (RA)",
-      "B": "Abu Bakr as-Siddiq (RA)",
-      "C": "Ali ibn Abi Talib (RA)",
-      "D": "Umar ibn al-Khattab (RA)"
+      "A": "Short, rhythmic verses emphasizing Tawheed, the Day of Resurrection, and moral ethics",
+      "B": "Detailed legal rulings on inheritance, divorce, and war",
+      "C": "Addressing the hypocrites (Munafiqoon) directly",
+      "D": "Lengthy dialogues with Jewish tribes of Yathrib"
     },
     "answer": "A",
-    "explanation": "During the Caliphate of Uthman ibn Affan (RA), dialectical differences prompted him to commission Zayd ibn Thabit to produce the official standardized Uthmanic Mushaf.",
-    "topic": "History of Quran / Compilation",
-    "exam": "JAMB UTME",
+    "explanation": "Makkan revelations focus on establishing core monotheistic creed, refuting idolatry, and depicting the afterlife.",
+    "topic": "Makkan vs Madinan Surahs",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The belief in the Oneness of Allah (Tawheed) in His unique Lordship and Creation is technically called:",
-    "options": {
-      "A": "Tawheed ar-Rububiyyah",
-      "B": "Tawheed al-Uluhiyyah",
-      "C": "Tawheed al-Asma was-Sifat",
-      "D": "Shirk al-Asghar"
-    },
-    "answer": "A",
-    "explanation": "Tawheed ar-Rububiyyah is affirming that Allah alone is the Sovereign Creator, Sustainer, and Ruler of the universe without partner.",
-    "topic": "Tawheed & Aqeedah",
-    "exam": "WAEC SSCE",
-    "year": "2023",
-    "id": 3,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "What is the primary condition for the validity of tayammum (dry ablution) in Islamic jurisprudence?",
-    "options": {
-      "A": "Scarcity of clean water or medical inability to use water, using clean earth/dust",
-      "B": "The arrival of Ramadan only",
-      "C": "Reciting 100 chapters of the Quran",
-      "D": "Performing it exclusively inside a central mosque"
-    },
-    "answer": "A",
-    "explanation": "Tayammum is permissible when clean water is unavailable or when water usage would worsen illness, using pure earth or sand to wipe face and hands.",
-    "topic": "Fiqh / Taharah (Purification)",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 4,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Which of the following books is classified as one of the six canonical authentic Sunni Hadith collections (Sihah Sittah)?",
-    "options": {
-      "A": "Sahih al-Bukhari",
-      "B": "Ihya Ulum ad-Din",
-      "C": "Riyadh as-Salihin",
-      "D": "Tafsir Ibn Kathir"
-    },
-    "answer": "A",
-    "explanation": "The Sihah Sittah comprise Sahih al-Bukhari, Sahih Muslim, Sunan Abi Dawud, Jami at-Tirmidhi, Sunan an-Nasa'i, and Sunan Ibn Majah.",
-    "topic": "Hadith Sciences / Collections",
-    "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 5,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The famous pact of brotherhood established by Prophet Muhammad (SAW) between the Emigrants from Makkah and the Helpers in Madinah is known as:",
-    "options": {
-      "A": "Al-Mu'akhah",
-      "B": "Al-Hudaybiyyah",
-      "C": "Al-Aqabah",
-      "D": "Hilf al-Fudul"
-    },
-    "answer": "A",
-    "explanation": "Al-Mu'akhah (Fraternization) paired Muhajirun and Ansar in Madinah, creating an exemplary Islamic brotherhood transcending tribal lineage.",
-    "topic": "Sirah / Life in Madinah",
-    "exam": "JAMB UTME",
-    "year": "2021",
-    "id": 6,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "What is the nisab (minimum threshold) of wealth on gold before Zakat becomes obligatory at the rate of 2.5%?",
-    "options": {
-      "A": "85 grams of gold",
-      "B": "50 grams of gold",
-      "C": "200 grams of gold",
-      "D": "1 kilogram of gold"
-    },
-    "answer": "A",
-    "explanation": "The classical Nisab for gold is 20 Dinars, which equals approximately 85 grams of pure gold held for one full lunar year (Hawl).",
-    "topic": "Fiqh / Zakat",
-    "exam": "WAEC SSCE",
-    "year": "2021",
-    "id": 7,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Which of the following nullifies (invalidates) the ritual fast (Sawm) according to Islamic law?",
-    "options": {
-      "A": "Deliberately eating, drinking, or engaging in conjugal relations during fasting hours",
-      "B": "Inadvertently swallowing dust while sweeping",
-      "C": "Applying kohl (surma) to the eyes",
-      "D": "Taking a cooling bath without swallowing water"
-    },
-    "answer": "A",
-    "explanation": "Intentionally eating, drinking, or sexual intercourse between dawn and sunset invalidates the fast and necessitates qada (and kaffarah for marital intercourse).",
-    "topic": "Fiqh / Sawm (Fasting)",
-    "exam": "JAMB UTME",
-    "year": "2020",
-    "id": 8,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The historic Treaty of Hudaybiyyah was signed in which year of the Hijrah?",
-    "options": {
-      "A": "6 AH",
-      "B": "2 AH",
-      "C": "8 AH",
-      "D": "10 AH"
-    },
-    "answer": "A",
-    "explanation": "The Sulh al-Hudaybiyyah was negotiated between the Prophet (SAW) and Quraysh in 6 AH, recognized by the Quran as 'Fathan Mubeena' (a clear victory).",
-    "topic": "Sirah / Treaty of Hudaybiyyah",
-    "exam": "WAEC SSCE",
-    "year": "2020",
-    "id": 9,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "What is the primary spiritual theme emphasized in Surah Al-Ikhlas (Chapter 112)?",
-    "options": {
-      "A": "Pure monotheism and absolute transcendence of Allah without parent, child, or equal",
-      "B": "The detailed rules of inheritance",
-      "C": "The historical description of the Battle of Badr",
-      "D": "The obligations of the annual Hajj pilgrimage"
-    },
-    "answer": "A",
-    "explanation": "Surah Al-Ikhlas encapsulates pure Tawheed: Allah is the One, the Eternal Refuge, He neither begets nor is born, and there is none like unto Him.",
-    "topic": "Tafseer / Surah Al-Ikhlas",
-    "exam": "JAMB UTME",
-    "year": "2019",
-    "id": 10,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The chain of narrators who transmit a Hadith from the source to the compiler is technically called the:",
-    "options": {
-      "A": "Isnad (Sanad)",
-      "B": "Matn",
-      "C": "Tafseer",
-      "D": "Qiyas"
-    },
-    "answer": "A",
-    "explanation": "The Isnad is the unbroken chronological chain of transmitters, while the Matn is the actual textual narration of the Prophet's statement, action, or approval.",
-    "topic": "Hadith Sciences / Isnad & Matn",
-    "exam": "JAMB UTME",
-    "year": "2024",
-    "id": 11,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Which caliph succeeded Prophet Muhammad (SAW) as the first Rightly-Guided Caliph (Khalifat ar-Rasul)?",
+    "question": "The first official compilation of the Qur'an into a single manuscript (Mushaf) was commissioned during the Caliphate of:",
     "options": {
       "A": "Abu Bakr as-Siddiq (RA)",
       "B": "Umar ibn al-Khattab (RA)",
@@ -184,219 +40,1563 @@
       "D": "Ali ibn Abi Talib (RA)"
     },
     "answer": "A",
-    "explanation": "Abu Bakr as-Siddiq (RA) was chosen at Saqifah Bani Sa'idah in 11 AH, steering the Ummah through the Riddah (apostasy) challenges.",
-    "topic": "Khulafa ar-Rashidun / Abu Bakr",
+    "explanation": "Following the Battle of Yamama where many Huffaz were martyred, Abu Bakr commissioned Zayd ibn Thabit to compile the Mushaf.",
+    "topic": "Compilation of the Qur'an",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Caliph Uthman ibn Affan (RA) is famously commemorated regarding the Qur'an for:",
+    "options": {
+      "A": "Standardizing the dialect into Qurayshi Arabic and dispatching master copies across the Islamic empire",
+      "B": "Translating the Qur'an into Persian and Roman Latin",
+      "C": "Introducing the first printed version with modern press",
+      "D": "Writing the first book of Hadith"
+    },
+    "answer": "A",
+    "explanation": "Uthman unified Muslims upon the canonical Quraish dialect, earning the title 'Jami' al-Qur'an'.",
+    "topic": "Uthmanic Standardization",
     "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Surah Al-Fatihah, the phrase 'Iyyaka na'budu wa iyyaka nasta'een' exemplifies:",
+    "options": {
+      "A": "Direct commitment to worship Allah alone and seek assistance exclusively from Him",
+      "B": "Seeking blessings from ancestral shrines",
+      "C": "A historical narrative of past ancient prophets",
+      "D": "Commercial guidelines for trade contracts"
+    },
+    "answer": "A",
+    "explanation": "It encapsulates Tawheed al-Ibadah (dedicating pure worship and supplication solely to Allah).",
+    "topic": "Surah Al-Fatihah",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Surah Al-Ikhlas is described in authentic Hadith as being equivalent to what fraction of the Qur'an?",
+    "options": {
+      "A": "One-third",
+      "B": "One-half",
+      "C": "One-quarter",
+      "D": "The entire Qur'an"
+    },
+    "answer": "A",
+    "explanation": "The Prophet (SAW) affirmed it equals one-third of the Qur'an because it expounds pure monotheistic Tawheed.",
+    "topic": "Surah Al-Ikhlas",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 'Mu'awwidhatayn' (two Surahs of refuge) recited for spiritual protection against evil are:",
+    "options": {
+      "A": "Surah Al-Falaq and Surah An-Nas",
+      "B": "Surah Al-Baqarah and Surah Al-Imran",
+      "C": "Surah Ya-Sin and Surah Ar-Rahman",
+      "D": "Surah Al-Mulk and Surah Al-Waqi'ah"
+    },
+    "answer": "A",
+    "explanation": "Al-Falaq protects against external harms/sorcery and An-Nas protects against whispers of devils and men.",
+    "topic": "Al-Mu'awwidhatayn",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Surah Al-Ma'un, worshippers who are denounced are those who:",
+    "options": {
+      "A": "Perform their prayers heedlessly for show and refuse basic acts of neighborly kindness",
+      "B": "Pray five times daily on journey",
+      "C": "Engage in honest commercial trade in the marketplace",
+      "D": "Give charity secretly at night"
+    },
+    "answer": "A",
+    "explanation": "Surah Al-Ma'un warns those who neglect prayer, show off (Riya), and withhold small household kindnesses.",
+    "topic": "Surah Al-Ma'un",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Surah Al-Qadr reveals that the Glorious Qur'an was sent down during:",
+    "options": {
+      "A": "Laylat al-Qadr (The Night of Decree/Power) in Ramadan",
+      "B": "The Day of Arafah during Dhu al-Hijjah",
+      "C": "The 10th of Muharram (Ashura)",
+      "D": "The middle night of Sha'ban"
+    },
+    "answer": "A",
+    "explanation": "'Inna anzalnahu fee laylatil qadr' affirms the Qur'an's revelation from the Preserved Tablet during Laylat al-Qadr.",
+    "topic": "Surah Al-Qadr",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The science of correct Qur'anic recitation according to precise pronunciation and rules is known as:",
+    "options": {
+      "A": "Tajweed",
+      "B": "Tafseer",
+      "C": "Tasawwuf",
+      "D": "Fiqh"
+    },
+    "answer": "A",
+    "explanation": "Tajweed governs the correct articulation points (Makharij) and attributes (Sifat) of Arabic letters.",
+    "topic": "Tajweed",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the science of Hadith, the chain of narrators who transmit the text is termed:",
+    "options": {
+      "A": "Isnad (or Sanad)",
+      "B": "Matn",
+      "C": "Takhrij",
+      "D": "Dirayah"
+    },
+    "answer": "A",
+    "explanation": "Isnad is the unbroken chain of authorities tracing back to the Prophet (SAW), while Matn is the actual text.",
+    "topic": "Hadith Terminology",
+    "exam": "JAMB UTME",
     "year": "2024",
+    "id": 11,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Hadith whose chain of transmission is fully continuous through upright and precise narrators without defects is:",
+    "options": {
+      "A": "Sahih (Authentic)",
+      "B": "Hasan (Good)",
+      "C": "Da'if (Weak)",
+      "D": "Mawdu' (Fabricated)"
+    },
+    "answer": "A",
+    "explanation": "A Sahih Hadith satisfies continuous sanad, uprightness ('Adalah), precision (Dabt), and absence of anomalies.",
+    "topic": "Classification of Hadith",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What is the legal ruling (Hukm) on interest and usurious transactions (Riba) in Islamic finance?",
+    "question": "The compilation known as 'Sahih al-Bukhari' was compiled by Imam:",
     "options": {
-      "A": "Strictly forbidden (Haram)",
-      "B": "Permissible (Halal)",
-      "C": "Makruh (Disliked)",
-      "D": "Recommended (Mustahabb)"
+      "A": "Muhammad ibn Isma'il al-Bukhari",
+      "B": "Muslim ibn al-Hajjaj",
+      "C": "Ahmad ibn Hanbal",
+      "D": "Malik ibn Anas"
     },
     "answer": "A",
-    "explanation": "The Holy Quran (Surah Al-Baqarah 2:275) explicitly declares: 'Allah has permitted trade and forbidden usury (Riba).' It is strictly Haram.",
-    "topic": "Mu'amalat / Islamic Economics",
+    "explanation": "Imam Al-Bukhari compiled the most authoritative collection of authentic prophetic traditions.",
+    "topic": "Kutub al-Sittah / Bukhari",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The standing at the Plain of Arafah on the 9th day of Dhul-Hijjah constitutes:",
+    "question": "Which of the following is NOT one of the six canonical Sunni Hadith collections (Al-Kutub al-Sittah)?",
     "options": {
-      "A": "The essential pillar (Rukn) without which Hajj is invalid",
-      "B": "A voluntary sunnah ritual",
-      "C": "A replacement for tawaf al-ifadah",
-      "D": "A ritual reserved exclusively for senior scholars"
+      "A": "Al-Muwatta of Imam Malik",
+      "B": "Sunan Abu Dawood",
+      "C": "Jami' at-Tirmidhi",
+      "D": "Sunan an-Nasa'i"
     },
     "answer": "A",
-    "explanation": "The Prophet (SAW) stated: 'Al-Hajj 'Arafah' (Hajj is Arafah). Being present at Arafah on the 9th of Dhul-Hijjah is an indispensable pillar of Hajj.",
-    "topic": "Fiqh / Hajj (Pilgrimage)",
+    "explanation": "The Six Books are Bukhari, Muslim, Abu Dawood, Tirmidhi, Nasa'i, and Ibn Majah (Al-Muwatta is earlier).",
+    "topic": "Al-Kutub al-Sittah",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following represents an example of Minor Shirk (Shirk al-Asghar)?",
+    "question": "The celebrated first Hadith in Sahih al-Bukhari states: 'Innama al-a'malu bin-niyyat', meaning:",
     "options": {
-      "A": "Riya (showing off in acts of worship to seek human admiration)",
-      "B": "Worshipping carved idols directly",
-      "C": "Denying the Day of Resurrection",
-      "D": "Claiming divinity like Pharaoh"
+      "A": "Actions are judged only by intentions",
+      "B": "Purity is half of faith",
+      "C": "Paradise lies under the feet of mothers",
+      "D": "The strong believer is beloved to Allah"
     },
     "answer": "A",
-    "explanation": "The Prophet (SAW) cautioned: 'The thing I fear most for you is minor shirk: Ar-Riya (ostentation or showing off in good deeds).' (Ahmad).",
-    "topic": "Aqeedah / Shirk and its Categories",
+    "explanation": "This fundamental Hadith narrated by Umar (RA) establishes sincerity of intention as the prerequisite of all deeds.",
+    "topic": "Hadith on Intention",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the Quran, who were the two sons of Prophet Adam mentioned in Surah Al-Ma'idah regarding the first murder?",
+    "question": "A Hadith Qudsi is distinguished from ordinary Hadith Nabawi because in Hadith Qudsi:",
     "options": {
-      "A": "Qabil and Habil (Cain and Abel)",
-      "B": "Ishaq and Ismail",
-      "C": "Harun and Musa",
-      "D": "Yusuf and Binyamin"
+      "A": "The meaning is directly from Allah while the wording is phrased by the Prophet (SAW)",
+      "B": "It is read in place of Surah Al-Fatihah during Salah",
+      "C": "It is narrated exclusively by angel Mika'il",
+      "D": "It has no chain of transmission"
     },
     "answer": "A",
-    "explanation": "Surah Al-Ma'idah (5:27-31) details the sacrifices of Qabil and Habil, where Habil's righteous offering was accepted, prompting envious Qabil to murder him.",
-    "topic": "Quranic Stories / Prophets",
+    "explanation": "Hadith Qudsi contains divine meaning revealed to the Prophet, distinct from the miraculous recited Qur'an.",
+    "topic": "Hadith Qudsi",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which battle is referred to in the Quran as 'Yawm al-Furqan' (The Day of Criterion) in 2 AH?",
+    "question": "The Hadith of Jibril (Gabriel) famously outlines the three ascending levels of the religion as:",
     "options": {
-      "A": "Battle of Badr",
-      "B": "Battle of Uhud",
-      "C": "Battle of the Trench (Khandaq)",
-      "D": "Battle of Hunayn"
+      "A": "Islam, Iman, and Ihsan",
+      "B": "Salah, Sawm, and Hajj",
+      "C": "Sharia, Tariqa, and Haqiqa",
+      "D": "Tawheed, Risalah, and Akhirah"
     },
     "answer": "A",
-    "explanation": "The decisive victory at Badr (17 Ramadan 2 AH) distinguished truth from falsehood and established the nascent Muslim state's security.",
-    "topic": "Sirah / Battle of Badr",
+    "explanation": "Angel Jibril questioned the Prophet about outward submission (Islam), inner faith (Iman), and spiritual excellence (Ihsan).",
+    "topic": "Hadith of Jibril",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What is the meaning of the Quranic term 'Zakat al-Fitr'?",
+    "question": "Ihsan was defined by the Prophet (SAW) in the Hadith of Jibril as:",
     "options": {
-      "A": "The charity of food grains distributed to the needy at the conclusion of Ramadan prior to Eid prayer",
-      "B": "The voluntary charity given on Fridays",
-      "C": "The annual levy on commercial merchandise",
-      "D": "The tax on agricultural harvest"
+      "A": "Worshipping Allah as though you see Him, for if you do not see Him, He truly sees you",
+      "B": "Giving all your wealth to the destitute",
+      "C": "Fasting continuously for three full months",
+      "D": "Performing Hajj on foot from Madinah"
     },
     "answer": "A",
-    "explanation": "Zakat al-Fitr is mandatory upon every Muslim before the Eid al-Fitr prayer to purify the fasting person and feed the poor on celebration day.",
-    "topic": "Fiqh / Zakat al-Fitr",
+    "explanation": "Ihsan represents supreme spiritual mindfulness and sincere devotion in the conscious presence of Allah.",
+    "topic": "Concept of Ihsan",
     "exam": "WAEC SSCE",
-    "year": "2018",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which Surah of the Quran does NOT begin with 'Bismillah ar-Rahman ar-Rahim'?",
+    "question": "A Hadith that is fabricated or forged and falsely attributed to the Prophet (SAW) is classified as:",
     "options": {
-      "A": "Surah At-Tawbah (Chapter 9)",
-      "B": "Surah An-Nur",
-      "C": "Surah Yasin",
-      "D": "Surah Al-Anfal"
+      "A": "Mawdu'",
+      "B": "Mashhoor",
+      "C": "Mutawatir",
+      "D": "Aziz"
     },
     "answer": "A",
-    "explanation": "Surah At-Tawbah (Bara'ah) begins without the Basmalah because it carries a stern declaration of disassociation from the treaty-breaking polytheists.",
-    "topic": "Sciences of the Quran",
+    "explanation": "Mawdu' denotes forged narrations rejected by Hadith scholars as completely invalid.",
+    "topic": "Spurious Hadith / Mawdu'",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The Islamic concept of 'Shura' primarily translates into:",
+    "question": "According to the 40 Hadith of An-Nawawi, the Prophet (SAW) taught: 'None of you truly believes until he:",
     "options": {
-      "A": "Mutual consultation in public governance and decision-making",
-      "B": "Unilateral dictatorial decrees",
-      "C": "Military conquest of foreign lands",
-      "D": "Levying tolls on passing merchant caravans"
+      "A": "Loves for his brother what he loves for himself",
+      "B": "Builds a grand mosque in his hometown",
+      "C": "Memorizes the entire text of the Torah",
+      "D": "Travels across the seven continents"
     },
     "answer": "A",
-    "explanation": "Surah Ash-Shura (42:38) praises believers 'whose affairs are conducted by mutual consultation' (Shura), fostering transparent consensus.",
-    "topic": "Islamic Political System / Shura",
+    "explanation": "Hadith 13 emphasizes universal brotherhood, empathy, and genuine goodwill toward fellow humans.",
+    "topic": "Hadith on Brotherhood",
     "exam": "WAEC SSCE",
-    "year": "2023",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following wives of Prophet Muhammad (SAW) was famously acclaimed for her prolific scholarship in narrating over 2,000 authentic Hadiths?",
+    "question": "Tawheed ar-Rububiyyah signifies belief in:",
     "options": {
-      "A": "Aisha bint Abi Bakr (RA)",
-      "B": "Khadijah bint Khuwaylid (RA)",
-      "C": "Hafsah bint Umar (RA)",
-      "D": "Sawdah bint Zam'ah (RA)"
+      "A": "Allah's exclusive Lordship as the sole Creator, Provider, and Sustainer of the universe",
+      "B": "Directing all acts of worship like prayer and sacrifice to Allah alone",
+      "C": "Allah's divine names and attributes without distortion",
+      "D": "The leadership of the Muslim Caliph"
     },
     "answer": "A",
-    "explanation": "Umm al-Mu'minin Aisha (RA) was a preeminent jurist, teacher, and scholar who narrated 2,210 Hadiths and instructed leading companions.",
-    "topic": "Hadith Transmitters & Islamic Scholarship",
+    "explanation": "Rububiyyah affirms Allah alone creates, sustains, owns, and manages all existing creation.",
+    "topic": "Tawheed ar-Rububiyyah",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2024",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "According to Islamic moral ethics, the sin of 'Gheebah' refers to:",
+    "question": "Tawheed al-Uluhiyyah (or Ibadah) requires a Muslim to:",
     "options": {
-      "A": "Backbiting (speaking ill of a person in their absence)",
-      "B": "False accusations of unchastity (Qadhf)",
-      "C": "Hoarding goods to inflate market prices",
-      "D": "Breaking contractual promises"
+      "A": "Direct all acts of worship (dua, salah, vows, slaughter) exclusively to Allah",
+      "B": "Acknowledge that Allah created the skies and mountains",
+      "C": "Appoint judges in Sharia courts",
+      "D": "Study Arabic grammar and rhetoric"
     },
     "answer": "A",
-    "explanation": "Gheebah is defined by the Prophet (SAW) as mentioning something about your brother that he would dislike. Surah Al-Hujurat compares it to eating the flesh of a dead brother.",
-    "topic": "Islamic Moral & Social Values",
+    "explanation": "Uluhiyyah is the practical dedication of worship solely to Allah without associating any partners.",
+    "topic": "Tawheed al-Uluhiyyah",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The primary sources of Islamic Shari'ah jurisprudence unanimously agreed upon by all orthodox scholars are:",
+    "question": "Shirk al-Akbar (major polytheism) is the gravest sin in Islam because:",
     "options": {
-      "A": "The Holy Quran and the Sunnah of the Prophet (SAW)",
-      "B": "Customary cultural traditions only",
-      "C": "Philosophical reasoning exclusively",
-      "D": "Decisions of civil legislative parliaments"
+      "A": "Allah will never forgive it if a person dies in that state without repentance",
+      "B": "It invalidates only minor prayers",
+      "C": "It can be expiated by paying a cash fine",
+      "D": "It applies only to non-Arab tribes"
     },
     "answer": "A",
-    "explanation": "The Quran (divine revelation) and authentic Sunnah (prophetic tradition) form the two primary, immutable foundations of Islamic jurisprudence.",
-    "topic": "Usul al-Fiqh / Sources of Law",
+    "explanation": "Surah An-Nisa (4:48) affirms Allah forgives anything except associating partners with Him.",
+    "topic": "Major Shirk",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2022",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What is the waiting period observed by a divorced woman in Islamic family law termed?",
+    "question": "Riya (showing off in acts of worship to seek praise of people) is classified as:",
     "options": {
-      "A": "Iddah",
-      "B": "Mahr",
-      "C": "Khul'",
-      "D": "Li'an"
+      "A": "Shirk al-Asghar (minor shirk)",
+      "B": "Tawheed al-Asma' was-Sifat",
+      "C": "Kufr al-Akbar",
+      "D": "Permissible social etiquette"
     },
     "answer": "A",
-    "explanation": "The Iddah is the prescribed waiting period (normally 3 menstrual cycles, or until delivery if pregnant) before a divorced woman may remarry.",
-    "topic": "Islamic Family Law / Nikah & Talaq",
+    "explanation": "The Prophet (SAW) described Riya as the hidden or minor polytheism that corrupts righteous deeds.",
+    "topic": "Minor Shirk / Riya",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2021",
     "id": 24,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The Night Journey and Heavenly Ascension of Prophet Muhammad (SAW) is commemorated as:",
+    "question": "Which angel is tasked with conveying divine revelations from Allah to the Prophets?",
     "options": {
-      "A": "Al-Isra wal-Mi'raj",
-      "B": "Laylat al-Qadr",
-      "C": "Yawm Arafah",
-      "D": "Hijrah to Madinah"
+      "A": "Jibril (Gabriel)",
+      "B": "Mika'il (Michael)",
+      "C": "Israfil",
+      "D": "Malik"
     },
     "answer": "A",
-    "explanation": "Al-Isra wal-Mi'raj refers to the miraculous night journey from Makkah to Jerusalem (Al-Aqsa) and ascension through the heavens where the five daily prayers were ordained.",
-    "topic": "Sirah / Al-Isra wal-Mi'raj",
+    "explanation": "Jibril is the trustworthy spirit (Ar-Rooh al-Ameen) entrusted with delivering divine messages.",
+    "topic": "Angels in Islam",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The two angels appointed to question the deceased person in the grave regarding their Lord, religion, and prophet are:",
+    "options": {
+      "A": "Munkar and Nakir",
+      "B": "Harut and Marut",
+      "C": "Raqib and Atid",
+      "D": "Malik and Ridwan"
+    },
+    "answer": "A",
+    "explanation": "Munkar and Nakir conduct the trial of the grave (Fitnat al-Qabr) regarding fundamental faith.",
+    "topic": "Angels / Munkar and Nakir",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The divine scripture revealed to Prophet Dawood (David) (AS) was the:",
+    "options": {
+      "A": "Zabur (Psalms)",
+      "B": "Tawrat (Torah)",
+      "C": "Injeel (Gospel)",
+      "D": "Suhuf (Scrolls of Ibrahim)"
+    },
+    "answer": "A",
+    "explanation": "Surah An-Nisa (4:163) states: 'And to Dawood We gave the Zabur.'",
+    "topic": "Revealed Scriptures",
     "exam": "JAMB UTME",
     "year": "2018",
-    "id": 25,
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The five greatest Messengers of Firm Resolve known as 'Ulul-Azm' are:",
+    "options": {
+      "A": "Nuh, Ibrahim, Musa, Isa, and Muhammad (peace be upon them)",
+      "B": "Adam, Idris, Hud, Salih, and Lut",
+      "C": "Yusuf, Ya'qub, Ishaq, Isma'il, and Ayyub",
+      "D": "Dawud, Sulayman, Zakariyya, Yahya, and Yunus"
+    },
+    "answer": "A",
+    "explanation": "These five prophets demonstrated unparalleled perseverance and steadfastness in delivering divine truth.",
+    "topic": "Ulul-Azm Prophets",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Belief in Al-Qadar (Divine Predestination) encompasses which four foundational levels?",
+    "options": {
+      "A": "Knowledge (Ilm), Writing (Kitabah), Will (Mashee'ah), and Creation (Khalq)",
+      "B": "Birth, Marriage, Wealth, and Death",
+      "C": "Heaven, Hell, Purgatory, and Limbo",
+      "D": "Intention, Utterance, Deed, and Remorse"
+    },
+    "answer": "A",
+    "explanation": "Al-Qadar requires believing in Allah's eternal knowledge, recording in the Preserved Tablet, divine will, and creation of all deeds.",
+    "topic": "Pillars of Al-Qadar",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The narrow bridge stretching over Hellfire on the Day of Resurrection that all mankind must cross is called:",
+    "options": {
+      "A": "As-Sirat",
+      "B": "Al-Mizan",
+      "C": "Al-Kawthar",
+      "D": "Al-Barzakh"
+    },
+    "answer": "A",
+    "explanation": "As-Sirat is the bridge over Jahannam; the righteous traverse it with ease into Paradise, while the wicked fall.",
+    "topic": "Eschatology / As-Sirat",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Taharah (ritual purity) is an indispensable prerequisite for the validity of:",
+    "options": {
+      "A": "Salah (ritual prayer) and Tawaf around the Ka'bah",
+      "B": "Payment of Zakatul Fitr",
+      "C": "Engaging in agricultural trade",
+      "D": "Travelling on interstate journeys"
+    },
+    "answer": "A",
+    "explanation": "Salah cannot be accepted without ritual purification from minor and major impurities.",
+    "topic": "Taharah",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ghusl (full ritual bath) is mandatory following:",
+    "options": {
+      "A": "Janabah (sexual discharge), completion of menstruation (Hayd), and post-natal bleeding (Nifas)",
+      "B": "Eating cooked camel meat",
+      "C": "Sleeping lightly on an office chair",
+      "D": "Touching the leather cover of a translated book"
+    },
+    "answer": "A",
+    "explanation": "Major ritual impurity requires full immersion of the body in pure water with intention.",
+    "topic": "Mandatory Ghusl",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Tayammum (dry ablution using clean earth/dust) is legally permissible when:",
+    "options": {
+      "A": "Water is genuinely unavailable or when its use would aggravate a severe medical illness",
+      "B": "A person feels slightly sleepy in the morning",
+      "C": "A person dislikes cold tap water",
+      "D": "There are only 30 minutes left before sunset"
+    },
+    "answer": "A",
+    "explanation": "Tayammum provides a divine dispensation (Rukhsa) when water cannot be found or medically tolerated.",
+    "topic": "Tayammum",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following invalidates (nullifies) Wudu (minor ablution)?",
+    "options": {
+      "A": "Passing gas, urination, defecation, and deep sleep",
+      "B": "Drinking sweet fruit juice",
+      "C": "Clipping fingernails or trimming a beard",
+      "D": "Smiling during non-prayer conversation"
+    },
+    "answer": "A",
+    "explanation": "Discharge of wind or bodily waste, unconsciousness, or deep sleep breaks the state of Wudu.",
+    "topic": "Nullifiers of Wudu",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "How many obligatory daily prayers are ordained for Muslims?",
+    "options": {
+      "A": "Five (Fajr, Dhuhr, Asr, Maghrib, and Isha)",
+      "B": "Three",
+      "C": "Seven",
+      "D": "Ten"
+    },
+    "answer": "A",
+    "explanation": "The five daily prayers were ordained during the miraculous journey of Al-Isra' wal-Mi'raj.",
+    "topic": "Five Daily Prayers",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The call to prayer recited to proclaim the arrival of prayer time is the:",
+    "options": {
+      "A": "Adhan",
+      "B": "Iqamah",
+      "C": "Tasbeeh",
+      "D": "Tahmeed"
+    },
+    "answer": "A",
+    "explanation": "The Adhan was instituted in Madinah to summon the faithful, first called by Bilal ibn Rabah (RA).",
+    "topic": "Adhan",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Salat al-Janazah (the funeral prayer for a deceased Muslim) is classified as:",
+    "options": {
+      "A": "Fard Kifayah (communal collective obligation)",
+      "B": "Fard Ayn (individual compulsory duty on every single Muslim)",
+      "C": "Sunnah Mu'akkadah",
+      "D": "Nafl Mustahabb"
+    },
+    "answer": "A",
+    "explanation": "If a sufficient group of the community performs it, the obligation is discharged for the rest.",
+    "topic": "Salat al-Janazah",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The shortening of four-rak'ah prayers (Dhuhr, Asr, Isha) to two rak'ahs by a traveler is known as:",
+    "options": {
+      "A": "Qasr",
+      "B": "Jam'",
+      "C": "Khasoof",
+      "D": "Istisqa'"
+    },
+    "answer": "A",
+    "explanation": "Qasr is the divine travel concession shortening four-unit prayers to two.",
+    "topic": "Traveler's Prayer / Qasr",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Salat al-Jumu'ah (Friday congregational prayer) consists of:",
+    "options": {
+      "A": "Two Khutbahs (sermons) delivered by the Imam followed by two obligatory rak'ahs",
+      "B": "Four rak'ahs without any spoken sermon",
+      "C": "Eight rak'ahs performed in absolute silence",
+      "D": "One rak'ah followed by a feast"
+    },
+    "answer": "A",
+    "explanation": "Friday congregational service replaces Dhuhr with two sermons and a two-rak'ah congregational prayer.",
+    "topic": "Salat al-Jumu'ah",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Sujud as-Sahw (prostration of forgetfulness) is performed to:",
+    "options": {
+      "A": "Compensate for minor omissions or additions made unintentionally during Salah",
+      "B": "Celebrate winning a sports tournament",
+      "C": "Pray for rainfall during severe drought",
+      "D": "Ask for forgiveness at the cemetery"
+    },
+    "answer": "A",
+    "explanation": "Two prostrations rectify honest mistakes or doubt regarding prayer units or essential Sunan.",
+    "topic": "Sujud as-Sahw",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Zakah is the third pillar of Islam and is levied on qualifying wealth that has reached the:",
+    "options": {
+      "A": "Nisab (minimum statutory threshold held for one lunar year / Hawl)",
+      "B": "Total annual turnover without deducting debts",
+      "C": "Value of ten luxury motor vehicles",
+      "D": "Amount of one million US dollars"
+    },
+    "answer": "A",
+    "explanation": "Nisab ensures that Zakah is collected only from wealth exceeding basic necessities after one lunar year.",
+    "topic": "Zakah & Nisab",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The standard Zakah rate payable on accumulated surplus gold, silver, and monetary cash balances is:",
+    "options": {
+      "A": "2.5% (one-fortieth)",
+      "B": "5.0%",
+      "C": "10.0%",
+      "D": "20.0%"
+    },
+    "answer": "A",
+    "explanation": "Cash and monetary equivalents meeting the gold/silver nisab incur 2.5% annual Zakah.",
+    "topic": "Zakah Rates",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Surah At-Tawbah (9:60) specifies how many legitimate categories of Zakah recipients?",
+    "options": {
+      "A": "Eight categories (e.g., the poor, the needy, administrators, debtors)",
+      "B": "Four categories",
+      "C": "Twelve categories",
+      "D": "Unlimited categories at the discretion of the king"
+    },
+    "answer": "A",
+    "explanation": "The Quran strictly delineates 8 beneficiary groups, prohibiting diversion of Zakah to general state budgets.",
+    "topic": "Recipients of Zakah",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Zakatul Fitr is an obligatory charity given at the end of Ramadan before the Eid prayer to:",
+    "options": {
+      "A": "Purify the fasting person from idle talk and provide food for the poor on Eid day",
+      "B": "Pay the salary of the mosque muezzin",
+      "C": "Construct hospital general wards",
+      "D": "Fund international business flights"
+    },
+    "answer": "A",
+    "explanation": "Given as staple food (one Sa' per person) before Eid prayer so the destitute celebrate comfortably.",
+    "topic": "Zakatul Fitr",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Fasting in the month of Ramadan is obligatory upon every:",
+    "options": {
+      "A": "Sane, adult, healthy, resident Muslim who is free from menstruation or post-natal bleeding",
+      "B": "Person who visits an Arabian country",
+      "C": "Individual regardless of religion or mental sanity",
+      "D": "Infant over the age of two years"
+    },
+    "answer": "A",
+    "explanation": "Puberty, sanity, health, residence, and purity from menses/lochia are conditions of obligation.",
+    "topic": "Conditions of Fasting",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following invalidates the Ramadan fast and requires making up the day (Qada)?",
+    "options": {
+      "A": "Eating, drinking, or sexual intercourse deliberately during daylight hours",
+      "B": "Taking a shower or swimming to cool the body",
+      "C": "Using a miswak or toothbrush without swallowing paste",
+      "D": "Having a wet dream involuntarily during afternoon sleep"
+    },
+    "answer": "A",
+    "explanation": "Intentional ingestion of food/drink or marital relations breaks the fast.",
+    "topic": "Nullifiers of Fasting",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A chronically ill person or an elderly person who cannot fast Ramadan due to permanent weakness must pay:",
+    "options": {
+      "A": "Fidyah (feeding one poor person for each missed day)",
+      "B": "Kaffarah (fasting 60 consecutive days)",
+      "C": "Nisab on their family home",
+      "D": "Ghusl twice daily"
+    },
+    "answer": "A",
+    "explanation": "Permanent inability exempts from Qada, substituting Fidyah (feeding a needy person per day).",
+    "topic": "Fidyah in Fasting",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The pivotal supreme pillar of the Hajj pilgrimage without which Hajj is entirely invalid is:",
+    "options": {
+      "A": "Standing at the plain of Arafah on the 9th of Dhu al-Hijjah (Wuqoof)",
+      "B": "Buying souvenirs in the markets of Jeddah",
+      "C": "Visiting the historical battlefield of Uhud",
+      "D": "Drinking camel milk in Taif"
+    },
+    "answer": "A",
+    "explanation": "The Prophet (SAW) declared: 'Al-Hajju Arafah' (Hajj is Arafah); missing Arafah invalidates Hajj.",
+    "topic": "Pillars of Hajj / Arafah",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The act of walking and jogging seven times between the hills of Safa and Marwah during Hajj commemorates:",
+    "options": {
+      "A": "Hajar's desperate search for water for her infant son Isma'il (AS)",
+      "B": "Ibrahim's building of the Ka'bah",
+      "C": "Prophet Muhammad's arrival in Madinah",
+      "D": "Musa's dialogue with Allah at Mount Sinai"
+    },
+    "answer": "A",
+    "explanation": "Sa'y honors Lady Hajar's faith and perseverance before the miraculous spring of Zamzam burst forth.",
+    "topic": "Sa'y at Safa and Marwah",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The designated geographical boundaries where pilgrims must enter the state of Ihram before proceeding to Makkah are called:",
+    "options": {
+      "A": "Miqat",
+      "B": "Muzdalifah",
+      "C": "Mina",
+      "D": "Maqam Ibrahim"
+    },
+    "answer": "A",
+    "explanation": "The Prophet (SAW) fixed specific stations (Mawaqeet, like Dhu al-Hulayfah, Yalamlam) for donning Ihram.",
+    "topic": "Miqat in Hajj",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Muhammad (SAW) was born in Makkah in the Year of the Elephant, which corresponds to:",
+    "options": {
+      "A": "570 CE",
+      "B": "610 CE",
+      "C": "622 CE",
+      "D": "632 CE"
+    },
+    "answer": "A",
+    "explanation": "He was born on 12th Rabi' al-Awwal in the Year of the Elephant (570 CE) when Abraha's army attacked Makkah.",
+    "topic": "Birth of the Prophet",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prior to receiving prophecy, the Prophet (SAW) was universally known among the Quraysh by the title:",
+    "options": {
+      "A": "As-Sadiq Al-Ameen (The Truthful, The Trustworthy)",
+      "B": "Al-Faruq",
+      "C": "Dhun-Nurayn",
+      "D": "Sayf Allah"
+    },
+    "answer": "A",
+    "explanation": "His unblemished honesty, integrity, and fair commercial dealing earned him this honorific.",
+    "topic": "Character of the Prophet",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The wealthy noble merchant lady who hired Muhammad (SAW) to lead her trading caravan and later married him was:",
+    "options": {
+      "A": "Khadijah bint Khuwaylid (RA)",
+      "B": "Aisha bint Abi Bakr (RA)",
+      "C": "Hafsah bint Umar (RA)",
+      "D": "Sawdah bint Zam'ah (RA)"
+    },
+    "answer": "A",
+    "explanation": "Khadijah was his first wife, mother of his children, and the first human being to embrace Islam.",
+    "topic": "Marriage to Khadijah",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The early secret propagation of Islam (Da'wah) in Makkah was hosted primarily at the house of:",
+    "options": {
+      "A": "Al-Arqam ibn Abi al-Arqam (Dar al-Arqam)",
+      "B": "Abu Lahab",
+      "C": "Abu Sufyan ibn Harb",
+      "D": "Amr ibn al-Aas"
+    },
+    "answer": "A",
+    "explanation": "Dar al-Arqam served as the covert teaching sanctuary where early companions studied revelation.",
+    "topic": "Dar al-Arqam",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first martyr in Islam, who was tortured and killed by Abu Jahl for refusing to renounce Tawheed, was:",
+    "options": {
+      "A": "Sumayyah bint Khayyat (RA)",
+      "B": "Yasir ibn Amir (RA)",
+      "C": "Bilal ibn Rabah (RA)",
+      "D": "Ammar ibn Yasir (RA)"
+    },
+    "answer": "A",
+    "explanation": "Sumayyah was martyred by Abu Jahl, bearing steadfast witness to the Oneness of Allah.",
+    "topic": "First Martyr in Islam",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first migration of persecuted early Muslims from Makkah in 615 CE was to:",
+    "options": {
+      "A": "Abyssinia (Ethiopia) ruled by the just Christian King An-Najashi (Negus)",
+      "B": "Yathrib (Madinah)",
+      "C": "Damascus in Syria",
+      "D": "Cairo in Egypt"
+    },
+    "answer": "A",
+    "explanation": "The Prophet directed them to Abyssinia because its righteous ruler sheltered refugees from persecution.",
+    "topic": "Migration to Abyssinia",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Year of Sorrow ('Am al-Huzn) in 619 CE is named because of the deaths of:",
+    "options": {
+      "A": "The Prophet's beloved wife Khadijah (RA) and his protective uncle Abu Talib",
+      "B": "Hamza and Mus'ab ibn Umayr",
+      "C": "Abu Bakr and Umar",
+      "D": "The seven infant sons of the Prophet"
+    },
+    "answer": "A",
+    "explanation": "Losing Khadijah's emotional solace and Abu Talib's clan protection exposed the Prophet to intense Qurayshi malice.",
+    "topic": "Year of Sorrow",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When the Prophet (SAW) visited the city of Ta'if to invite its leaders to Islam, the people responded by:",
+    "options": {
+      "A": "Stoning him through street ruffians until his shoes were filled with blood",
+      "B": "Welcoming him with royal banquets",
+      "C": "Embracing Islam immediately",
+      "D": "Building a grand mosque for him"
+    },
+    "answer": "A",
+    "explanation": "Despite their brutal assault, the Prophet mercifully prayed for their guidance rather than their destruction.",
+    "topic": "Journey to Ta'if",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The miraculous night journey from the Sacred Mosque in Makkah to Al-Aqsa Mosque in Jerusalem is called:",
+    "options": {
+      "A": "Al-Isra'",
+      "B": "Al-Mi'raj",
+      "C": "Al-Hijrah",
+      "D": "Al-Badr"
+    },
+    "answer": "A",
+    "explanation": "Al-Isra' is the nocturnal journey to Jerusalem; Al-Mi'raj is the subsequent ascension into the heavens.",
+    "topic": "Al-Isra' wal-Mi'raj",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The two Pledges of Aqabah were sworn between the Prophet (SAW) and delegates from the city of:",
+    "options": {
+      "A": "Yathrib (later named Madinah)",
+      "B": "Ta'if",
+      "C": "Najran",
+      "D": "Sana'a in Yemen"
+    },
+    "answer": "A",
+    "explanation": "The pledges of loyalty and defense by Yathrib tribes paved the way for the historic Hijrah.",
+    "topic": "Pledges of Aqabah",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Hijrah (migration) of the Prophet (SAW) from Makkah to Madinah took place in the year:",
+    "options": {
+      "A": "622 CE (marking Year 1 of the Islamic Hijri calendar)",
+      "B": "610 CE",
+      "C": "630 CE",
+      "D": "570 CE"
+    },
+    "answer": "A",
+    "explanation": "Caliph Umar instituted 622 CE as the starting epoch of the Islamic lunar calendar.",
+    "topic": "The Hijrah",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Upon arriving in Madinah, the first structure established by the Prophet (SAW) was:",
+    "options": {
+      "A": "Al-Masjid an-Nabawi (The Prophet's Mosque)",
+      "B": "A royal administrative palace",
+      "C": "A military fortress wall",
+      "D": "A central commercial gold mint"
+    },
+    "answer": "A",
+    "explanation": "The mosque served as a center of worship, education, community consultation, and social welfare.",
+    "topic": "Establishment of the Mosque",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The bond of Mu'akhah established by the Prophet in Madinah paired each Muhajir (migrant) with an:",
+    "options": {
+      "A": "Ansari (Madinan helper) in fraternal brotherhood and material sharing",
+      "B": "Expatriate Roman trader",
+      "C": "Armed cavalry bodyguard",
+      "D": "Abyssinian missionary"
+    },
+    "answer": "A",
+    "explanation": "Mu'akhah integrated penniless Makkan refugees through brotherly solidarity with Madinan residents.",
+    "topic": "Fraternity / Mu'akhah",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Constitution of Madinah (Sahifat al-Madinah) is historic because it:",
+    "options": {
+      "A": "Created a multi-ethnic, multi-faith civic commonwealth establishing mutual defense and religious freedom",
+      "B": "Expelled all non-Muslim citizens from the Arabian Peninsula",
+      "C": "Abolished private property and family inheritance",
+      "D": "Established a hereditary monarchy"
+    },
+    "answer": "A",
+    "explanation": "It guaranteed peaceful coexistence, mutual defense, and freedom of worship between Muslims and Jewish tribes.",
+    "topic": "Constitution of Madinah",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first decisive military battle between Muslims and Qurayshi pagans on 17th Ramadan, 2 AH (624 CE) was the Battle of:",
+    "options": {
+      "A": "Badr",
+      "B": "Uhud",
+      "C": "Khandaq (The Trench)",
+      "D": "Hunayn"
+    },
+    "answer": "A",
+    "explanation": "At Badr, 313 Muslims miraculously defeated a well-equipped army of 1,000 Quraysh warriors.",
+    "topic": "Battle of Badr",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The reverse suffered by Muslims at the Battle of Uhud (3 AH) was caused directly by:",
+    "options": {
+      "A": "The archers abandoning their strategic post on Mount Aynayn to collect war spoils",
+      "B": "The death of the Prophet (SAW)",
+      "C": "A sudden desert flash flood",
+      "D": "The arrival of Roman imperial legions"
+    },
+    "answer": "A",
+    "explanation": "Disobeying the Prophet's explicit command enabled Khalid ibn al-Walid's cavalry to outflank the Muslim rear.",
+    "topic": "Battle of Uhud",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At the Battle of the Trench (Al-Ahzab / Khandaq) in 5 AH, who suggested digging a defensive trench around Madinah?",
+    "options": {
+      "A": "Salman al-Farsi (RA)",
+      "B": "Abu Dharr al-Ghifari (RA)",
+      "C": "Amr ibn al-Aas (RA)",
+      "D": "Bilal ibn Rabah (RA)"
+    },
+    "answer": "A",
+    "explanation": "Salman's Persian engineering insight neutralized the besieging confederate cavalry force of 10,000.",
+    "topic": "Battle of the Trench",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Treaty of Hudaybiyyah (6 AH) was declared by Allah in Surah Al-Fath as:",
+    "options": {
+      "A": "Fathan Mubeena (A Manifest Victory)",
+      "B": "A humiliating military defeat",
+      "C": "An end to all revelations",
+      "D": "A license to abandon the pilgrimage"
+    },
+    "answer": "A",
+    "explanation": "The 10-year peace truce enabled massive peaceful propagation, doubling the Muslim population within two years.",
+    "topic": "Treaty of Hudaybiyyah",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "During the peaceful Conquest of Makkah in 8 AH (630 CE), the Prophet (SAW) treated his defeated persecutors by:",
+    "options": {
+      "A": "Granting universal general amnesty: 'Go, for you are free!'",
+      "B": "Executing all clan chieftains in public",
+      "C": "Confiscating all private residential buildings",
+      "D": "Burning the commercial markets of Makkah"
+    },
+    "answer": "A",
+    "explanation": "Displaying magnanimity, he echoed Prophet Yusuf: 'No reproach upon you today. Go, for you are free.'",
+    "topic": "Conquest of Makkah",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In his historic Farewell Sermon (Khutbat al-Wada') in 10 AH, the Prophet (SAW) declared:",
+    "options": {
+      "A": "An Arab has no superiority over a non-Arab, nor a white over a black, except by piety (Taqwa)",
+      "B": "Muslims must never trade with foreign nations",
+      "C": "Women have no financial rights in family property",
+      "D": "Riba (usury) is permissible in times of inflation"
+    },
+    "answer": "A",
+    "explanation": "The sermon proclaimed fundamental human equality, racial justice, sanctity of life and property, and women's rights.",
+    "topic": "The Farewell Sermon",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The four Rightly Guided Caliphs (Khulafa ar-Rashidoon) ruled in which historical succession?",
+    "options": {
+      "A": "Abu Bakr, Umar, Uthman, Ali",
+      "B": "Umar, Abu Bakr, Ali, Uthman",
+      "C": "Abu Bakr, Ali, Umar, Uthman",
+      "D": "Uthman, Abu Bakr, Umar, Ali"
+    },
+    "answer": "A",
+    "explanation": "Abu Bakr (632-634), Umar (634-644), Uthman (644-656), and Ali (656-661).",
+    "topic": "Caliphate Succession",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "During his brief caliphate, Abu Bakr as-Siddiq (RA) firmly suppressed:",
+    "options": {
+      "A": "The Riddah (Apostasy) wars and false claimants to prophethood like Musaylimah",
+      "B": "The Roman navy in Alexandria",
+      "C": "The Umayyad royal dynasty",
+      "D": "The Abbasid civil uprising"
+    },
+    "answer": "A",
+    "explanation": "Abu Bakr safeguarded the integrity of Islam against tribal apostates and withholding of Zakah.",
+    "topic": "Caliphate of Abu Bakr",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Caliph Umar ibn al-Khattab (RA) established which major administrative innovation?",
+    "options": {
+      "A": "The Diwan (public state treasury and welfare payroll registry) and Hijri calendar",
+      "B": "The first maritime naval battle fleet",
+      "C": "The office of the Grand Mufti in Baghdad",
+      "D": "The printing press for hadith volumes"
+    },
+    "answer": "A",
+    "explanation": "Umar introduced the Diwan registry, night patrols, pensions, and organized judicial districts.",
+    "topic": "Caliphate of Umar",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Under Caliph Umar, which two world empires were defeated and absorbed into Islamic rule?",
+    "options": {
+      "A": "The Sasanian Persian Empire and Byzantine Roman territories in the Levant and Egypt",
+      "B": "The British Empire and French Kingdom",
+      "C": "The Mongol Empire and Ottoman Empire",
+      "D": "The Axumite Empire and Spanish Realm"
+    },
+    "answer": "A",
+    "explanation": "Decisive victories at Qadisiyyah and Yarmouk brought Persia, Jerusalem, and Egypt into the Islamic state.",
+    "topic": "Islamic Expansion under Umar",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Caliph Uthman ibn Affan (RA) was married to two daughters of the Prophet (Ruqayyah and Umm Kulthum), earning the title:",
+    "options": {
+      "A": "Dhun-Nurayn (Possessor of the Two Lights)",
+      "B": "As-Siddiq",
+      "C": "Al-Faruq",
+      "D": "Asadullah"
+    },
+    "answer": "A",
+    "explanation": "His marriage to two daughters of the Prophet Muhammad (SAW) earned him this distinguished title.",
+    "topic": "Caliphate of Uthman",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first Islamic maritime naval fleet was constructed under the auspices of Caliph:",
+    "options": {
+      "A": "Uthman ibn Affan (supervised by Mu'awiyah)",
+      "B": "Abu Bakr as-Siddiq",
+      "C": "Umar ibn al-Khattab",
+      "D": "Ali ibn Abi Talib"
+    },
+    "answer": "A",
+    "explanation": "Uthman approved the naval squadron which secured Cyprus and repelled Byzantine fleets at the Battle of the Masts.",
+    "topic": "First Islamic Navy",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Caliph Ali ibn Abi Talib (RA) was renowned throughout Islamic history for his exceptional:",
+    "options": {
+      "A": "Courage, profound judicial wisdom, eloquence, and deep knowledge of the Qur'an",
+      "B": "Immense merchant shipping wealth in Yemen",
+      "C": "Invention of Arabic numerals",
+      "D": "Construction of Roman aqueducts"
+    },
+    "answer": "A",
+    "explanation": "The Prophet described him: 'I am the city of knowledge and Ali is its gate.'",
+    "topic": "Caliphate of Ali",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "During the turbulent caliphate of Ali (RA), the capital of the Islamic state was relocated from Madinah to:",
+    "options": {
+      "A": "Kufa in Iraq",
+      "B": "Damascus in Syria",
+      "C": "Cairo in Egypt",
+      "D": "Cordoba in Andalusia"
+    },
+    "answer": "A",
+    "explanation": "Ali moved the operational administrative seat to Kufa to better manage civil cohesion and logistics.",
+    "topic": "Relocation of Capital to Kufa",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Battle of Siffin (657 CE) was fought between Caliph Ali and:",
+    "options": {
+      "A": "Mu'awiyah ibn Abi Sufyan",
+      "B": "Musaylimah the Liar",
+      "C": "The Emperor of Byzantium",
+      "D": "Rustom the Persian general"
+    },
+    "answer": "A",
+    "explanation": "Disagreements over avenging Uthman's murder led to the confrontation between Ali and Mu'awiyah's forces.",
+    "topic": "Battle of Siffin",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Kharijites (Khawarij) emerged after the Battle of Siffin because they:",
+    "options": {
+      "A": "Rejected the arbitration (Tahkim), asserting: 'There is no judgment except Allah's'",
+      "B": "Demanded the reinstatement of Persian emperors",
+      "C": "Refused to pay Zakah to local governors",
+      "D": "Opposed the compilation of the Qur'an"
+    },
+    "answer": "A",
+    "explanation": "They seceded from Ali's army, condemning any human arbitration in political conflicts.",
+    "topic": "The Khawarij Schism",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Islamic jurisprudence, a valid contract of marriage (Nikah) requires which essential components?",
+    "options": {
+      "A": "Mutual consent (Ijab & Qabul), Guardian's consent (Wali), Mahr (dower), and two upright witnesses",
+      "B": "A court magistrate certificate and gold wedding rings",
+      "C": "A minimum age of 40 years for both spouses",
+      "D": "A church wedding ceremony followed by a reception"
+    },
+    "answer": "A",
+    "explanation": "Nikah is a solemn covenant requiring consent, dowry paid to the bride, wali approval, and two witnesses.",
+    "topic": "Conditions of Nikah",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Mahr (dower) in Islamic marriage belongs legally and exclusively to:",
+    "options": {
+      "A": "The bride herself as her personal property",
+      "B": "The bride's father to repay childhood upbringing",
+      "C": "The local mosque imam",
+      "D": "The groom's elder brothers"
+    },
+    "answer": "A",
+    "explanation": "Surah An-Nisa (4:4) mandates giving women their dower willingly as their exclusive private entitlement.",
+    "topic": "Mahr in Islam",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Talaq Raj'i (revocable divorce) permits the husband to:",
+    "options": {
+      "A": "Reconcile and take back his wife during her waiting period ('Iddah) without a new contract or mahr",
+      "B": "Evict the wife onto the street within 24 hours",
+      "C": "Never speak to her family again",
+      "D": "Demand refund of all gifts given during marriage"
+    },
+    "answer": "A",
+    "explanation": "For first or second talaq, the couple can reconcile within the 'Iddah period without formal re-solemnization.",
+    "topic": "Revocable Divorce / Talaq",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The prescribed waiting period ('Iddah) for a non-pregnant divorced woman who menstruates regularly is:",
+    "options": {
+      "A": "Three menstrual cycles (Quru')",
+      "B": "Four months and ten days",
+      "C": "One full calendar year",
+      "D": "Forty days"
+    },
+    "answer": "A",
+    "explanation": "Surah Al-Baqarah (2:228) sets three Quru' (menstrual periods) to confirm pregnancy status.",
+    "topic": "Iddah Period",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 'Iddah for a widow whose husband has passed away is:",
+    "options": {
+      "A": "Four months and ten days (unless pregnant)",
+      "B": "Three months",
+      "C": "Six months",
+      "D": "One week"
+    },
+    "answer": "A",
+    "explanation": "Surah Al-Baqarah (2:234) prescribes four months and ten days of mourning and waiting for a widow.",
+    "topic": "Widow's Iddah",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Birr al-Walidayn (kindness and dutifulness to parents) is placed in the Qur'an immediately after:",
+    "options": {
+      "A": "The command to worship Allah alone without associating partners",
+      "B": "The command to engage in international trade",
+      "C": "The rules of inheritance division",
+      "D": "The laws of commercial leasing"
+    },
+    "answer": "A",
+    "explanation": "Surah Al-Isra (17:23) commands: 'Worship none but Him, and show kindness to parents.'",
+    "topic": "Filial Piety / Birr al-Walidayn",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following persons is strictly barred from inheriting under Islamic law (Mawani' al-Irth)?",
+    "options": {
+      "A": "A murderer who intentionally killed the deceased relative",
+      "B": "The surviving widow",
+      "C": "A daughter who has married",
+      "D": "The elderly grandfather"
+    },
+    "answer": "A",
+    "explanation": "The Prophet stated: 'The killer inherits nothing from the person he killed.'",
+    "topic": "Inheritance Impairments",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The share of inheritance for an only surviving daughter when there are no sons is:",
+    "options": {
+      "A": "One-half (1/2) of the net estate",
+      "B": "One-third",
+      "C": "One-eighth",
+      "D": "The entire estate automatically"
+    },
+    "answer": "A",
+    "explanation": "Surah An-Nisa (4:11) establishes a half share for an only daughter without competing siblings.",
+    "topic": "Shares in Mirath",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Islamic business ethics strictly prohibit Riba, which refers to:",
+    "options": {
+      "A": "Usury, unjustified interest on loans, and exploitative financial gains",
+      "B": "Earning normal commercial trading profit",
+      "C": "Purchasing shares in ethical manufacturing firms",
+      "D": "Giving discounts to poor shoppers"
+    },
+    "answer": "A",
+    "explanation": "Riba exploits borrowers and is unequivocally banned in Surah Al-Baqarah (2:275-279).",
+    "topic": "Prohibition of Riba",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Gharar in Islamic commercial jurisprudence refers to contracts containing:",
+    "options": {
+      "A": "Excessive uncertainty, ambiguity, or deceit regarding the object of sale",
+      "B": "Detailed written terms verified by two witnesses",
+      "C": "Immediate cash payment upon delivery",
+      "D": "Fixed delivery dates for grain crops"
+    },
+    "answer": "A",
+    "explanation": "Gharar involves selling uncatchable fish in the sea or unborn calves, which leads to conflict.",
+    "topic": "Prohibition of Gharar",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Islam was first introduced to the ancient Kanem-Borno Empire primarily through:",
+    "options": {
+      "A": "Trans-Saharan Muslim traders, scholars, and diplomats from North Africa",
+      "B": "European colonial naval fleets",
+      "C": "A military conquest by Egyptian pharaohs",
+      "D": "Christian missionary schools"
+    },
+    "answer": "A",
+    "explanation": "Trade routes through Bilma and Fezzan brought Ibadi and Sunni merchants and scholars to Kanem-Borno by the 11th century.",
+    "topic": "Islam in Kanem-Borno",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Kanem-Borno monarch who embraced Islam in the late 11th century and made it the state religion was:",
+    "options": {
+      "A": "Mai Dunama I (or Mai Hummay)",
+      "B": "Idris Alooma",
+      "C": "Rabih az-Zubayr",
+      "D": "Muhammad al-Amin al-Kanemi"
+    },
+    "answer": "A",
+    "explanation": "Mai Hummay officially converted to Islam around 1086 CE, establishing the Sayfawa dynasty.",
+    "topic": "Mai Hummay of Kanem",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The celebrated 16th-century Kanem-Borno monarch who carried out major military, judicial, and Sharia reforms was:",
+    "options": {
+      "A": "Mai Idris Alooma",
+      "B": "Mai Biri",
+      "C": "Mai Dunama Dibbalemi",
+      "D": "Mai Ali Ghaji"
+    },
+    "answer": "A",
+    "explanation": "Idris Alooma procured firearms from Ottoman Turks, established qadi courts, and enforced Sharia.",
+    "topic": "Mai Idris Alooma",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Islam penetrated the Hausa states (Kano, Katsina) in the 14th century largely through the arrival of Wangarawa scholars from:",
+    "options": {
+      "A": "Mali",
+      "B": "Egypt",
+      "C": "Andalusia (Spain)",
+      "D": "Yemen"
+    },
+    "answer": "A",
+    "explanation": "The Kano Chronicle records the arrival of Wangarawa merchant-scholars from Mali during the reign of Sarki Yaji (1349-1385).",
+    "topic": "Wangarawa & Hausaland",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The renowned North African scholar who visited Kano in the 15th century and wrote a treatise on governance for Sarki Muhammad Rumfa was:",
+    "options": {
+      "A": "Muhammad al-Maghili",
+      "B": "Ibn Battuta",
+      "C": "Ibn Khaldun",
+      "D": "Al-Ghazali"
+    },
+    "answer": "A",
+    "explanation": "Al-Maghili authored 'The Obligation of Princes' for Rumfa, outlining Sharia public administration.",
+    "topic": "Al-Maghili in Kano",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Shaykh Usman dan Fodio launched the celebrated 1804 Jihad in Gobir primarily to:",
+    "options": {
+      "A": "Revive pure Islamic practice, eradicate syncretism and polytheistic innovations, and abolish un-Islamic taxation",
+      "B": "Capture gold mines in modern Ghana",
+      "C": "Enforce trade monopolies with British merchant companies",
+      "D": "Establish a hereditary sultanate for his family"
+    },
+    "answer": "A",
+    "explanation": "Dan Fodio's reform movement sought to establish genuine Sharia governance and remove oppressive customs.",
+    "topic": "1804 Sokoto Jihad",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The famous literary treatise on Islamic political administration written by Shaykh Usman dan Fodio's brother, Abdullahi dan Fodio, is:",
+    "options": {
+      "A": "Diya' al-Hukkam (Light for the Rulers)",
+      "B": "Ihya' Ulum al-Din",
+      "C": "Al-Muqaddimah",
+      "D": "Al-Risalah"
+    },
+    "answer": "A",
+    "explanation": "Diya' al-Hukkam served as the practical judicial manual for governors of the newly formed Sokoto Caliphate.",
+    "topic": "Abdullahi dan Fodio Works",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Nana Asma'u, the daughter of Usman dan Fodio, is renowned throughout West African history for establishing:",
+    "options": {
+      "A": "The Yan Taru movement, a groundbreaking network for educating Muslim women across rural villages",
+      "B": "A royal cavalry regiment",
+      "C": "The first Islamic coin mint in Gwandu",
+      "D": "The trans-Saharan camel transport guild"
+    },
+    "answer": "A",
+    "explanation": "She pioneered female literacy, public health, and spiritual education through the Yan Taru teacher network.",
+    "topic": "Nana Asma'u & Women Education",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Islam reached Yorubaland in Southwestern Nigeria through Northern trade routes and was popularly referred to in Yoruba as:",
+    "options": {
+      "A": "Esin Imale (Religion of Mali / Knowledge)",
+      "B": "Esin Ajoji",
+      "C": "Esin Odo",
+      "D": "Esin Oba"
+    },
+    "answer": "A",
+    "explanation": "Yorubas called Islam 'Esin Imale' commemorating early Malian Wangarawa scholars and merchants.",
+    "topic": "Islam in Yorubaland",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first Sharia legal court in Yorubaland was officially established in the 19th century in the town of:",
+    "options": {
+      "A": "Iwo",
+      "B": "Oyo",
+      "C": "Lagos",
+      "D": "Abeokuta"
+    },
+    "answer": "A",
+    "explanation": "During the reign of Oluwo Momodu Lamuye, a Sharia court was established in Iwo to administer Muslim personal law.",
+    "topic": "Sharia in Yorubaland / Iwo",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

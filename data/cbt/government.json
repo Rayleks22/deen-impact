@@ -1,402 +1,1602 @@
 [
   {
-    "question": "The concept of 'Rule of Law' as popularized by Professor A.V. Dicey includes all the following EXCEPT:",
+    "question": "Government as an institution of the state is best defined as:",
     "options": {
-      "A": "Arbitrary arrest and detention of political dissidents",
-      "B": "Supremacy of regular law over arbitrary power",
-      "C": "Equality before the law for all citizens",
-      "D": "Constitutional protection of fundamental human rights"
+      "A": "The machinery established by the state to organize, administer, and execute public policies",
+      "B": "A group of armed citizens maintaining territorial borders",
+      "C": "The supreme judiciary interpreting religious edicts",
+      "D": "The association of traditional rulers in a territory"
     },
     "answer": "A",
-    "explanation": "Dicey's triad consists of Supremacy of the law, Equality before the law, and Protection of individual liberties. Arbitrary detention is the antithesis of the rule of law.",
-    "topic": "Basic Concepts / Rule of Law",
+    "explanation": "Government is the administrative structure through which state authority and will are formulated and realized.",
+    "topic": "Definition & Meaning of Government",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which pre-colonial political system in Nigeria operated as a decentralized, segmentary (acephalous) society?",
+    "question": "Sovereignty in political science refers to the:",
     "options": {
-      "A": "The traditional Igbo political system",
-      "B": "The Sokoto Caliphate",
-      "C": "The Old Oyo Empire",
-      "D": "The Benin Kingdom"
+      "A": "Supreme, absolute, and uncontrollable power of a state over its territory and citizens",
+      "B": "Power of a judge to pass capital punishment",
+      "C": "Right of military officers to seize state broadcasting stations",
+      "D": "Authority granted by international donor agencies"
     },
     "answer": "A",
-    "explanation": "Pre-colonial Igbo communities operated a decentralized, egalitarian, acephalous system based on village assemblies (Amala), age grades, and title societies.",
-    "topic": "Pre-Colonial Political Systems in Nigeria",
-    "exam": "JAMB UTME",
+    "explanation": "Jean Bodin defined sovereignty as the supreme power over citizens unrestrained by positive laws.",
+    "topic": "Sovereignty",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The elective principle was first introduced in colonial Nigeria under which historical constitution?",
+    "question": "De jure sovereignty is distinct from de facto sovereignty because de jure sovereignty is based on:",
     "options": {
-      "A": "Clifford Constitution of 1922",
-      "B": "Richards Constitution of 1946",
-      "C": "Macpherson Constitution of 1951",
-      "D": "Lyttelton Constitution of 1954"
+      "A": "Constitutional and legal authority",
+      "B": "Actual physical military coercion and force",
+      "C": "Religious charisma of a spiritual leader",
+      "D": "International foreign loans"
     },
     "answer": "A",
-    "explanation": "The 1922 Hugh Clifford Constitution introduced the elective principle for 4 seats (3 for Lagos, 1 for Calabar) in the Legislative Council.",
-    "topic": "Constitutional Development in Nigeria",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "explanation": "De jure sovereignty rests on recognized legal entitlement, whereas de facto relies on actual exercise of control.",
+    "topic": "Types of Sovereignty",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 3,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Under a parliamentary cabinet system of government, who functions as the Head of Government?",
+    "question": "Political power is transformed into legitimate authority when it is:",
     "options": {
-      "A": "The Prime Minister",
-      "B": "The Ceremonial President",
-      "C": "The Monarch",
-      "D": "The Chief Justice"
+      "A": "Recognized, accepted, and obeyed voluntarily by the citizens as right and proper",
+      "B": "Enforced strictly by armed police command",
+      "C": "Backed by massive financial bribery",
+      "D": "Sanctioned by a foreign superpower"
     },
     "answer": "A",
-    "explanation": "In parliamentary democracies (such as the UK or Nigeria's First Republic), executive leadership is wielded by the Prime Minister as Head of Government.",
-    "topic": "Systems of Government / Parliamentary System",
-    "exam": "JAMB UTME",
-    "year": "2022",
+    "explanation": "Authority is institutionalized power legitimized by constitutional consensus or cultural mandate.",
+    "topic": "Power & Authority",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 4,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which organ of government is constitutionally empowered to interpret laws and adjudicate disputes?",
+    "question": "According to A. V. Dicey, the Rule of Law embodies which core principle?",
     "options": {
-      "A": "The Judiciary",
-      "B": "The Legislature",
-      "C": "The Executive",
-      "D": "The Civil Service Commission"
+      "A": "Equality of all persons before the ordinary law of the land",
+      "B": "Immunity of top politicians from judicial trial",
+      "C": "Supremacy of administrative decrees over court rulings",
+      "D": "Arbitrary detention of treason suspects without trial"
     },
     "answer": "A",
-    "explanation": "The Judiciary interprets statutory provisions, adjudicates conflicts, and conducts judicial review to preserve constitutional boundaries.",
-    "topic": "Organs of Government / Judiciary",
-    "exam": "WAEC SSCE",
-    "year": "2022",
+    "explanation": "Dicey's triad consists of supremacy of ordinary law, equality before the law, and constitutional civil liberties.",
+    "topic": "Rule of Law",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 5,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The system of Indirect Rule introduced in Nigeria by Lord Frederick Lugard succeeded most prominently in Northern Nigeria because of:",
+    "question": "Which of the following undermines the effective operation of the Rule of Law in a state?",
     "options": {
-      "A": "an existing well-organized autocratic emirate system with tax collection mechanisms",
-      "B": "the immediate adoption of English common law by the peasantry",
-      "C": "the total absence of traditional institutions",
-      "D": "the active presence of democratic ballot voting"
+      "A": "State of emergency declarations and widespread military tribunals",
+      "B": "Independence of the judiciary and open court trials",
+      "C": "Active presence of legal aid councils",
+      "D": "Vigorous investigative free press"
     },
     "answer": "A",
-    "explanation": "Indirect Rule relied on existing authoritarian hierarchies. The Sokoto Caliphate's centralized emirate structures and taxation (Jizya/Haraji) made implementation seamless.",
-    "topic": "Colonial Administration / Indirect Rule",
-    "exam": "JAMB UTME",
-    "year": "2021",
+    "explanation": "Emergency decrees, retroactive statutes, and military tribunals suspend civil liberties and judicial review.",
+    "topic": "Rule of Law Limitations",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A bicameral legislature is one that consists of:",
+    "question": "Political socialization is the lifelong process through which:",
     "options": {
-      "A": "Two legislative chambers (Senate and House of Representatives)",
-      "B": "A single national assembly",
-      "C": "Both executive and judicial officials",
-      "D": "Regional military governors"
+      "A": "Citizens acquire political beliefs, orientations, values, and attitudes",
+      "B": "Governments nationalize private companies",
+      "C": "Voters are bribed during general elections",
+      "D": "Political parties organize national conventions"
     },
     "answer": "A",
-    "explanation": "Bicameralism denotes a two-house legislature (such as the Nigerian National Assembly consisting of the Senate and the House of Representatives).",
-    "topic": "Legislature / Bicameralism",
-    "exam": "WAEC SSCE",
-    "year": "2021",
+    "explanation": "Agents like family, school, peers, and mass media transmit political culture across generations.",
+    "topic": "Political Socialization",
+    "exam": "JAMB UTME",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In a federal system of government, powers shared concurrently between the central government and the constituent state governments are listed on the:",
+    "question": "Citizenship can be acquired in Nigeria through which three constitutional avenues?",
     "options": {
-      "A": "Concurrent Legislative List",
-      "B": "Exclusive Legislative List",
-      "C": "Residual List",
-      "D": "Judicial Prerogative List"
+      "A": "Birth, registration, and naturalization",
+      "B": "Birth, employment, and political party membership",
+      "C": "Military enlistment, marriage, and wealth",
+      "D": "Conquest, immigration visa, and election victory"
     },
     "answer": "A",
-    "explanation": "The Concurrent List contains subjects upon which both Federal and State assemblies can legislate, with Federal law prevailing in the event of an inconsistency.",
-    "topic": "Federalism & Power Distribution",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "explanation": "Chapter III of the 1999 Constitution specifies acquisition by birth, registration, and naturalization.",
+    "topic": "Citizenship",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The headquarters of the Economic Community of West African States (ECOWAS) is located in:",
+    "question": "Fundamental human rights are entrenched in the written constitution primarily to:",
     "options": {
-      "A": "Abuja, Nigeria",
-      "B": "Accra, Ghana",
-      "C": "Dakar, Senegal",
-      "D": "Lomé, Togo"
+      "A": "Protect individuals against arbitrary abuses of power by the state and government",
+      "B": "Prevent citizens from taking legal actions against ministers",
+      "C": "Abolish the criminal code entirely",
+      "D": "Enable the executive to detain opposition politicians"
     },
     "answer": "A",
-    "explanation": "ECOWAS was established by the Treaty of Lagos in 1975; its administrative headquarters and Commission are situated in Abuja, Nigeria.",
-    "topic": "International Organizations / ECOWAS",
-    "exam": "WAEC SSCE",
-    "year": "2020",
+    "explanation": "Constitutional entrenchment places basic liberties beyond the reach of ordinary legislative majorities.",
+    "topic": "Fundamental Human Rights",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following historical Nigerian constitutions formally established a true federal structure by creating regional autonomy with Premiers?",
+    "question": "Separation of powers as formulated by Baron de Montesquieu aims to:",
     "options": {
-      "A": "Lyttelton Constitution of 1954",
-      "B": "Macpherson Constitution of 1951",
-      "C": "Richards Constitution of 1946",
-      "D": "Clifford Constitution of 1922"
+      "A": "Prevent tyranny and arbitrary despotism by dividing power among distinct organs",
+      "B": "Concentrate all state prerogatives in the hands of the executive",
+      "C": "Ensure the legislature appoints all judges",
+      "D": "Eliminate the need for written constitutions"
     },
     "answer": "A",
-    "explanation": "The 1954 Oliver Lyttelton Constitution established Nigerian federalism, dividing legislative powers into Exclusive and Concurrent lists and creating regional civil services.",
-    "topic": "Constitutional Development / Lyttelton 1954",
-    "exam": "JAMB UTME",
-    "year": "2019",
+    "explanation": "Montesquieu argued that dispersing legislative, executive, and judicial functions protects political liberty.",
+    "topic": "Separation of Powers",
+    "exam": "WAEC SSCE",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Sovereignty in a democratic state ultimately resides with:",
+    "question": "In a presidential system of government, the president is both:",
     "options": {
-      "A": "The electorate (the people)",
-      "B": "The armed forces",
-      "C": "The supreme court justices",
-      "D": "The civil service commission"
+      "A": "Head of State and Head of Government",
+      "B": "Head of State and Chief Justice",
+      "C": "Speaker of Parliament and Commander-in-Chief",
+      "D": "Chairman of the Electoral Commission and Prime Minister"
     },
     "answer": "A",
-    "explanation": "Popular sovereignty holds that political legitimacy and ultimate authority in a democracy derive from the consent of the governed expressed through elections.",
-    "topic": "Basic Concepts / Sovereignty",
+    "explanation": "In presidential regimes (e.g., USA, Nigeria), executive power is fused in a single elected president.",
+    "topic": "Presidential System",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the pre-colonial Oyo Empire, which body functioned as the supreme council of kingmakers with constitutional power to check the Alaafin?",
+    "question": "A fundamental feature of the parliamentary (Cabinet) system of government is:",
     "options": {
-      "A": "The Oyomesi led by the Bashorun",
-      "B": "The Ogboni fraternity only",
-      "C": "The Aremo",
-      "D": "The Ilari envoys"
+      "A": "Collective responsibility of cabinet ministers to the legislature",
+      "B": "Clear separation of personnel between executive and parliament",
+      "C": "A fixed non-removable tenure for the prime minister",
+      "D": "Absence of official parliamentary opposition"
     },
     "answer": "A",
-    "explanation": "The Oyomesi, a council of seven noble chiefs headed by the Bashorun, acted as kingmakers and held the constitutional check of rejecting an autocratic Alaafin.",
-    "topic": "Pre-Colonial Oyo Empire Checks and Balances",
+    "explanation": "Ministers in cabinet must publicly support cabinet decisions or resign, falling together on a no-confidence vote.",
+    "topic": "Parliamentary System",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A fundamental characteristic of fascism as a political ideology is:",
+    "question": "In a federal system of government, constitutional powers are divided between:",
     "options": {
-      "A": "Totalitarian control, aggressive nationalism, and suppression of opposition",
-      "B": "Decentralization of political power to municipal councils",
-      "C": "Absolute protection of free speech and independent press",
-      "D": "Abolition of the standing national army"
+      "A": "The central government and the component federating units (states/provinces)",
+      "B": "The ruling party and the opposition parties",
+      "C": "Civilian governors and military general officers",
+      "D": "Urban city councils and rural village heads"
     },
     "answer": "A",
-    "explanation": "Fascism is an authoritarian, ultranationalist political ideology characterized by dictatorial power, militarism, and forcible suppression of opposition.",
-    "topic": "Political Ideologies / Fascism",
+    "explanation": "Federalism constitutionally distributes sovereign powers between central and regional tiers.",
+    "topic": "Federalism",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which constitutional conference directly laid the groundwork for Nigeria's independence in October 1960?",
+    "question": "In the Nigerian federal system, powers listed on the Exclusive Legislative List are reserved solely for:",
     "options": {
-      "A": "The London Constitutional Conferences of 1957 and 1958",
-      "B": "The Ibadan General Conference of 1950",
-      "C": "The Berlin West Africa Conference of 1884",
-      "D": "The Lancaster House Conference of 1966"
+      "A": "The Federal (National) Assembly",
+      "B": "The 36 State Houses of Assembly",
+      "C": "Local Government Legislative Councils",
+      "D": "The National Council of Traditional Rulers"
     },
     "answer": "A",
-    "explanation": "The 1957/1958 London Constitutional Conferences granted internal self-government to regions and fixed October 1, 1960 as Nigeria's independence date.",
-    "topic": "Constitutional Development / Independence Conferences",
+    "explanation": "Exclusive items (defense, foreign affairs, currency, customs) are strictly within federal jurisdiction.",
+    "topic": "Division of Powers",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The primary function of the civil service in a modern democratic state is to:",
+    "question": "Residual powers in a federation belong to matters:",
     "options": {
-      "A": "implement government policies and provide administrative continuity",
-      "B": "enact constitutional amendments",
-      "C": "pronounce judicial verdicts on political treason",
-      "D": "sponsor candidates for gubernatorial elections"
+      "A": "Not listed in either the exclusive or concurrent lists, usually handled by states",
+      "B": "Administered exclusively by the Supreme Court",
+      "C": "Surrendered to international military alliances",
+      "D": "Shared equally between all three tiers of government"
     },
     "answer": "A",
-    "explanation": "The civil service constitutes the permanent, politically neutral administrative apparatus that executes policies and advises political executives.",
-    "topic": "Public Administration / Civil Service",
+    "explanation": "Unlisted residual topics are retained by regional/state units under federal constitutional doctrine.",
+    "topic": "Federal Constitutional Lists",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which international body preceded the United Nations Organization (UNO) and collapsed following World War II?",
+    "question": "A unitary system of government is characterized by:",
     "options": {
-      "A": "The League of Nations",
-      "B": "The Warsaw Pact",
-      "C": "The Non-Aligned Movement",
-      "D": "The Organization of African Unity"
+      "A": "Concentration of supreme constitutional authority in a single central national government",
+      "B": "Independent judicial branches in each province",
+      "C": "Component states having right to secede unilaterally",
+      "D": "Absence of a national capital territory"
     },
     "answer": "A",
-    "explanation": "The League of Nations was founded after WWI in 1919; its inability to prevent the aggression of Axis powers culminated in WWII and its replacement by the UN in 1945.",
-    "topic": "International Organizations / UN & League of Nations",
+    "explanation": "In a unitary state (e.g., Britain, Ghana), all power originates from the central government.",
+    "topic": "Unitary Government",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In Nigeria, the 1976 Local Government Reform was historic primarily because it:",
+    "question": "A confederation differs from a federation because in a confederation:",
     "options": {
-      "A": "introduced a standardized, single-tier local government structure as a third tier of government",
-      "B": "subordinated local councils completely to customary chiefs",
-      "C": "eliminated federal statutory allocations to councils",
-      "D": "merged all northern and southern emirates into provinces"
+      "A": "The component states retain virtually full sovereignty and can secede at will",
+      "B": "The central government is overwhelmingly powerful and supreme",
+      "C": "There is a single national army and currency",
+      "D": "Citizens pay taxes exclusively to the central authority"
     },
     "answer": "A",
-    "explanation": "The 1976 nationwide reforms made local government an autonomous third tier of government with uniform functions and direct federal revenue allocation.",
-    "topic": "Local Government Administration in Nigeria",
+    "explanation": "A confederation is a loose treaty alliance where component sovereign states hold ultimate authority.",
+    "topic": "Confederal System",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The right to vote in political elections is formally known as:",
+    "question": "Socialism as a political and economic ideology advocates for:",
     "options": {
-      "A": "Franchise (suffrage)",
-      "B": "Eminent domain",
-      "C": "Habeas corpus",
-      "D": "Plebiscite"
+      "A": "State or collective public ownership of the major means of production and distribution",
+      "B": "Laissez-faire free enterprise without state regulation",
+      "C": "Rule by hereditary royal monarchs",
+      "D": "Abolition of all public welfare and healthcare institutions"
     },
     "answer": "A",
-    "explanation": "Franchise or suffrage refers to the constitutional or statutory civil right of eligible citizens to cast ballots in public elections.",
-    "topic": "Electoral Systems / Franchise",
+    "explanation": "Socialism prioritizes state or cooperative ownership to achieve egalitarian wealth distribution.",
+    "topic": "Socialism",
     "exam": "WAEC SSCE",
-    "year": "2018",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Nigeria became a Federal Republic under the leadership of a President in:",
+    "question": "Fascism is an authoritarian ideology characterized by:",
     "options": {
-      "A": "1963",
-      "B": "1960",
-      "C": "1966",
-      "D": "1979"
+      "A": "Dictatorial autocratic power, extreme militaristic nationalism, and forcible suppression of opposition",
+      "B": "Protection of multi-party constitutional democracy",
+      "C": "Free trade and individual human rights",
+      "D": "Decentralization of executive power to community communes"
     },
     "answer": "A",
-    "explanation": "The 1963 Republican Constitution severed Nigeria's constitutional ties to the British Crown, replacing Queen Elizabeth II with Dr. Nnamdi Azikiwe as President.",
-    "topic": "Constitutional Development / 1963 Republican Constitution",
+    "explanation": "Fascism subordinates individual rights to an all-powerful totalitarian state led by a supreme dictator.",
+    "topic": "Fascism",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The veto power in the United Nations Security Council is reserved exclusively for:",
+    "question": "Representative democracy is defined primarily by:",
     "options": {
-      "A": "The five permanent members (USA, UK, France, Russia, China)",
-      "B": "All 15 members of the Security Council",
-      "C": "The President of the General Assembly",
-      "D": "The Secretary-General"
+      "A": "Citizens freely electing representatives through periodic competitive voting to make laws",
+      "B": "All citizens assembling daily in the town square to vote on bills",
+      "C": "Governance by unelected technical experts",
+      "D": "Dynastic succession within an elite political family"
     },
     "answer": "A",
-    "explanation": "Only the P5 (Permanent Five: United States, United Kingdom, France, Russia, and China) possess individual veto power over substantive resolutions.",
-    "topic": "International Organizations / UN Security Council",
+    "explanation": "Representative democracy uses elected legislators to express and enact the sovereign popular will.",
+    "topic": "Democracy",
     "exam": "WAEC SSCE",
-    "year": "2023",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A political party that advocates for public ownership of the major means of production and comprehensive state welfare is ideologically:",
+    "question": "The primary constitutional function of the legislative organ of government is to:",
     "options": {
-      "A": "Socialist",
-      "B": "Capitalist",
-      "C": "Fascist",
-      "D": "Feudal"
+      "A": "Enact laws and oversee public financial appropriations",
+      "B": "Enforce court injunctions and maintain police patrols",
+      "C": "Command armed forces during national emergencies",
+      "D": "Appoint traditional rulers in rural emirates"
     },
     "answer": "A",
-    "explanation": "Socialism advocates collective, societal, or state ownership of the means of production, distribution, and exchange to promote egalitarian welfare.",
-    "topic": "Political Ideologies / Socialism",
+    "explanation": "The legislature passes statutory legislation, levies taxes, and exercises financial oversight.",
+    "topic": "The Legislature",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2024",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following electoral systems is most effective in safeguarding minority representation in legislative assemblies?",
+    "question": "A bicameral legislature is one that consists of:",
     "options": {
-      "A": "Proportional Representation",
-      "B": "First-Past-The-Post (Plurality)",
-      "C": "Second Ballot",
-      "D": "Simple Majority"
+      "A": "Two distinct legislative chambers or houses",
+      "B": "One single assembly of representatives",
+      "C": "Judges and civil service permanent secretaries",
+      "D": "Elected governors and municipal mayors"
     },
     "answer": "A",
-    "explanation": "Proportional representation allocates parliamentary seats according to the exact percentage of total votes received, ensuring minority parties gain representation.",
-    "topic": "Electoral Systems / Proportional Representation",
+    "explanation": "Bicameralism operates with two chambers, such as the Senate and House of Representatives in Nigeria.",
+    "topic": "Bicameralism",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Public corporations are managed on a daily operational basis by a:",
+    "question": "The judicial power to declare an act of the executive or legislature unconstitutional and void is termed:",
     "options": {
-      "A": "Board of Directors and General Manager",
-      "B": "Parliamentary committee",
-      "C": "Supreme Court panel",
-      "D": "State House of Assembly clerk"
+      "A": "Judicial review",
+      "B": "Prerogative writ of mandamus",
+      "C": "Legislative veto",
+      "D": "Executive pardon"
     },
     "answer": "A",
-    "explanation": "Public statutory corporations (like NPA, NNPC) are overseen by a policy Board of Directors and managed day-to-day by a Managing Director or CEO.",
-    "topic": "Public Enterprises / Corporate Governance",
+    "explanation": "Judicial review empowers constitutional courts to invalidate laws violating constitutional provisions.",
+    "topic": "The Judiciary / Judicial Review",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2022",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "An ombudsman (known in Nigeria as the Public Complaints Commission) is established to:",
+    "question": "Judicial independence is safeguarded in a democracy through:",
     "options": {
-      "A": "investigate citizen grievances against administrative injustice and bureaucratic tyranny",
-      "B": "conduct national population censuses",
-      "C": "prosecute criminal armed robbery offenses",
-      "D": "manage external sovereign debts"
+      "A": "Security of tenure on good behavior and funding charged directly to Consolidated Revenue",
+      "B": "Direct popular election of judges by political rallies",
+      "C": "Allowing the president to sack judges at will",
+      "D": "Setting judges' salaries through monthly executive discretion"
     },
     "answer": "A",
-    "explanation": "The Ombudsman/Public Complaints Commission provides accessible redress for citizens suffering administrative oppression, maladministration, or injustice by public authorities.",
-    "topic": "Instruments of Control / Ombudsman",
+    "explanation": "Guaranteed tenure and non-deductible consolidated revenue funding shield the bench from political interference.",
+    "topic": "Judicial Independence",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2021",
     "id": 24,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Nigeria's foreign policy is centered on the principle of:",
+    "question": "The Civil Service operates under which foundational principle of political neutrality?",
     "options": {
-      "A": "Afrocentrism (Africa as the centerpiece)",
-      "B": "Isolationism",
-      "C": "Imperial expansionism",
-      "D": "Western alignment only"
+      "A": "Civil servants must serve any governing political party loyally without partisan bias",
+      "B": "Civil servants run for parliamentary seats while in active service",
+      "C": "Permanent secretaries campaign openly during national elections",
+      "D": "Civil service tenure ends whenever a new president is inaugurated"
     },
     "answer": "A",
-    "explanation": "Since independence, successive Nigerian administrations have maintained that Africa is the cornerstone and primary focus of Nigeria's foreign policy.",
-    "topic": "Foreign Policy of Nigeria",
+    "explanation": "Neutrality ensures continuity and professional advice regardless of changes in governing parties.",
+    "topic": "Civil Service Neutrality",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2020",
     "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Anonymity in the civil service implies that:",
+    "options": {
+      "A": "Ministers take political praise or blame in parliament for official acts of their departments",
+      "B": "Civil servants must never disclose their real names to colleagues",
+      "C": "Government files have no tracking serial numbers",
+      "D": "Public sector salaries are paid in secret cash"
+    },
+    "answer": "A",
+    "explanation": "Civil servants advise privately behind the scenes; the political minister bears public responsibility.",
+    "topic": "Civil Service Anonymity",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The administrative head of a government ministry is the:",
+    "options": {
+      "A": "Permanent Secretary",
+      "B": "Executive Minister",
+      "C": "Chief Whip",
+      "D": "Accountant-General"
+    },
+    "answer": "A",
+    "explanation": "The Permanent Secretary is the senior career civil servant and accounting officer of a ministry.",
+    "topic": "Civil Service Structure",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An Ombudsman (Public Complaints Commission) is established to:",
+    "options": {
+      "A": "Investigate citizen grievances against administrative injustices and bureaucratic abuse",
+      "B": "Arrest and prosecute armed highway robbers",
+      "C": "Draft government fiscal budget bills",
+      "D": "Supervise military barracks construction"
+    },
+    "answer": "A",
+    "explanation": "The Ombudsman investigates complaints of administrative unfairness, delay, or oppression.",
+    "topic": "Ombudsman / Public Complaints",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Delegated legislation refers to laws made by:",
+    "options": {
+      "A": "Ministers, administrative agencies, or local authorities under powers granted by parliamentary statute",
+      "B": "The Supreme Court in landmark constitutional rulings",
+      "C": "Foreign diplomats stationed in embassy compounds",
+      "D": "Military juntas following an unlawful coup"
+    },
+    "answer": "A",
+    "explanation": "Statutory rules, orders, and bye-laws are framed by non-legislative bodies via enabling acts.",
+    "topic": "Delegated Legislation",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A major disadvantage of delegated legislation is that it:",
+    "options": {
+      "A": "Encroaches on legislative supremacy and may lead to bureaucratic tyranny without scrutiny",
+      "B": "Takes too long to draft during sudden emergencies",
+      "C": "Cannot address complex technical scientific matters",
+      "D": "Requires national referendums before implementation"
+    },
+    "answer": "A",
+    "explanation": "Inadequate parliamentary time to scrutinize hundreds of executive statutory instruments risks administrative overreach.",
+    "topic": "Delegated Legislation Disadvantages",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The primary objective of a political party is to:",
+    "options": {
+      "A": "Contest elections to capture and exercise state political power",
+      "B": "Organize commercial trade fairs and industrial expos",
+      "C": "Lobby ministers for private business import waivers",
+      "D": "Provide free religious instruction in public secondary schools"
+    },
+    "answer": "A",
+    "explanation": "Unlike interest groups, political parties exist explicitly to contest and win control of government.",
+    "topic": "Political Parties",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A two-party system is one in which:",
+    "options": {
+      "A": "Two major parties dominate electoral competition, alternating control of government",
+      "B": "Only two parties are legally permitted to exist by constitutional decree",
+      "C": "The executive consists of two co-presidents",
+      "D": "Elections occur only once every two decades"
+    },
+    "answer": "A",
+    "explanation": "In countries like the US and UK, two dominant parties capture nearly all legislative seats and offices.",
+    "topic": "Party Systems",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A pressure group differs from a political party because a pressure group:",
+    "options": {
+      "A": "Seeks to influence government policies to benefit its members without contesting for political office",
+      "B": "Presents candidate lists during general elections",
+      "C": "Forms the official cabinet upon winning legislative majorities",
+      "D": "Operates without written membership constitutions"
+    },
+    "answer": "A",
+    "explanation": "Pressure groups (e.g., ASUU, NLC, NBA) lobby to protect sectional interests rather than capture state power.",
+    "topic": "Pressure Groups",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which method is commonly used by promotional (altruistic) pressure groups to advance their cause?",
+    "options": {
+      "A": "Public awareness campaigns, petitions, and media advocacy",
+      "B": "Fielding presidential candidates under a party banner",
+      "C": "Bribery of supreme court judges",
+      "D": "Armed insurrection against state governors"
+    },
+    "answer": "A",
+    "explanation": "Promotional groups champion wider public causes (human rights, environment) through persuasion and media campaigns.",
+    "topic": "Pressure Group Methods",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Public opinion is best described as:",
+    "options": {
+      "A": "The collective views, attitudes, and beliefs held by a significant portion of a society on public issues",
+      "B": "Official propaganda broadcasts aired by state-run radio",
+      "C": "The unanimous vote of parliamentary backbenchers",
+      "D": "Editorial columns published in academic journals"
+    },
+    "answer": "A",
+    "explanation": "Public opinion represents the aggregate perspective of citizens regarding policies and social governance.",
+    "topic": "Public Opinion",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Public opinion can be measured through:",
+    "options": {
+      "A": "Sample opinion polls, referendums, and general elections",
+      "B": "Military garrison parades",
+      "C": "National commercial bank balances",
+      "D": "Import tariff documentation"
+    },
+    "answer": "A",
+    "explanation": "Scientific opinion polling, referendums, and electoral ballots quantify public sentiments.",
+    "topic": "Measurement of Public Opinion",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Franchise (suffrage) in electoral politics means the:",
+    "options": {
+      "A": "Right of qualified citizens to vote and be voted for in public elections",
+      "B": "Granting of private commercial licenses to fuel stations",
+      "C": "Power of a governor to dissolve local government councils",
+      "D": "Immunities enjoyed by foreign ambassadors"
+    },
+    "answer": "A",
+    "explanation": "Franchise is the constitutional entitlement to participate as an elector in state ballots.",
+    "topic": "Suffrage / Franchise",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Universal adult suffrage means that:",
+    "options": {
+      "A": "All adult citizens meeting statutory age criteria have the right to vote without discrimination",
+      "B": "Only property owners and university graduates can vote",
+      "C": "Men alone participate in electing national legislators",
+      "D": "Voting is mandatory under threat of fine"
+    },
+    "answer": "A",
+    "explanation": "Universal suffrage removes property, gender, and racial hurdles for all qualifying adults.",
+    "topic": "Universal Adult Suffrage",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The electoral system where the candidate with the highest number of votes wins, even without an absolute majority, is:",
+    "options": {
+      "A": "First-Past-The-Post (Simple Plurality)",
+      "B": "Proportional Representation",
+      "C": "Alternative Vote System",
+      "D": "Second Ballot Runoff"
+    },
+    "answer": "A",
+    "explanation": "Simple plurality awards victory to whoever secures the most single votes in a single-member district.",
+    "topic": "Electoral Systems",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Proportional representation ensures that:",
+    "options": {
+      "A": "Parties receive legislative seats in proportion to their percentage of the total national vote",
+      "B": "The winning party takes all available seats in every region",
+      "C": "Independent candidates cannot run for office",
+      "D": "The oldest candidate automatically becomes Prime Minister"
+    },
+    "answer": "A",
+    "explanation": "PR distributes legislative representation in direct mathematical ratio to the popular votes secured.",
+    "topic": "Proportional Representation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The pre-colonial Hausa-Fulani political system was characterized by:",
+    "options": {
+      "A": "Highly centralized, autocratic, and hierarchical Islamic theocracy under the Sultan and Emirs",
+      "B": "Acephalous and completely egalitarian village democracy",
+      "C": "Constitutional monarchy with powerful checking bodies",
+      "D": "Direct popular democracy through age grades"
+    },
+    "answer": "A",
+    "explanation": "The Sokoto Caliphate instituted centralized emirate governance guided by Islamic Sharia law.",
+    "topic": "Hausa-Fulani Pre-colonial System",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the pre-colonial Hausa-Fulani emirate system, the chief judge who administered Sharia justice was the:",
+    "options": {
+      "A": "Alkali",
+      "B": "Waziri",
+      "C": "Madawaki",
+      "D": "Galadima"
+    },
+    "answer": "A",
+    "explanation": "The Alkali presided over the local Sharia court, with major appeals heard by the Emir.",
+    "topic": "Hausa-Fulani Officials",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The pre-colonial Oyo Empire operated as a constitutional monarchy because the power of the Alaafin was checked by the:",
+    "options": {
+      "A": "Oyomesi (Council of Kingmakers) led by the Bashorun",
+      "B": "Alkali court judges",
+      "C": "British resident commissioner",
+      "D": "Age grade warriors exclusively"
+    },
+    "answer": "A",
+    "explanation": "The Oyomesi held constitutional authority to reject a tyrannical Alaafin by presenting him with the calabash.",
+    "topic": "Oyo Empire Pre-colonial System",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the traditional Yoruba Oyo system, which secret cult acted as a mediator between the Alaafin and the Oyomesi?",
+    "options": {
+      "A": "Ogboni Society",
+      "B": "Ekpe Society",
+      "C": "Ozo Society",
+      "D": "Oro Fraternity"
+    },
+    "answer": "A",
+    "explanation": "The Ogboni cult of elders exercised judicial and spiritual checks, maintaining constitutional balance.",
+    "topic": "Oyo System Checks",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The traditional pre-colonial political system of the Igbo is widely described as:",
+    "options": {
+      "A": "Acephalous, decentralized, and segmentary republicanism",
+      "B": "An absolute hereditary divine monarchy",
+      "C": "A military junta governed by an emirate council",
+      "D": "A centralized theocracy under a grand sultan"
+    },
+    "answer": "A",
+    "explanation": "Pre-colonial Igbo society lacked centralized monarchs, relying on village assemblies (Amala) and titleholders.",
+    "topic": "Igbo Pre-colonial System",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In pre-colonial Igbo administration, the head of the family compound who held the sacred staff of authority (Ofo) was the:",
+    "options": {
+      "A": "Okpara",
+      "B": "Obi",
+      "C": "Ozo",
+      "D": "Eze"
+    },
+    "answer": "A",
+    "explanation": "The Okpara was the eldest male descendant holding the Ofo staff, presiding over family and lineage affairs.",
+    "topic": "Igbo Traditional Institutions",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which institution exercised executive and defense functions in pre-colonial Igbo societies?",
+    "options": {
+      "A": "Age grades (Uke)",
+      "B": "The Oyomesi council",
+      "C": "The Alkali magistrate",
+      "D": "The Emirate court guards"
+    },
+    "answer": "A",
+    "explanation": "Age grades performed community defense, public works, police duties, and enforcement of Amala decisions.",
+    "topic": "Igbo Age Grades",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the pre-colonial Bini (Benin) Kingdom, the monarch was known as the:",
+    "options": {
+      "A": "Oba",
+      "B": "Attah",
+      "C": "Alaafin",
+      "D": "Ooni"
+    },
+    "answer": "A",
+    "explanation": "The Oba of Benin reigned as divine monarch supported by palace and town chiefs (Uzama).",
+    "topic": "Benin Kingdom Administration",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following pre-colonial systems exhibited the highest degree of checks and balances?",
+    "options": {
+      "A": "The Yoruba political system of Oyo",
+      "B": "The Sokoto Caliphate emirate system",
+      "C": "The Bornu Empire under the Mai",
+      "D": "The Nupe Kingdom under the Etsu"
+    },
+    "answer": "A",
+    "explanation": "Oyo featured institutional checks among Alaafin, Oyomesi, Ogboni, and provincial rulers.",
+    "topic": "Comparative Pre-colonial Systems",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The commander-in-chief of the armed cavalry forces in pre-colonial Oyo was the:",
+    "options": {
+      "A": "Aare Ona Kakanfo",
+      "B": "Bashorun",
+      "C": "Otunba",
+      "D": "Balogun"
+    },
+    "answer": "A",
+    "explanation": "The Aare Ona Kakanfo served as the supreme field general responsible for external military campaigns.",
+    "topic": "Oyo Military Command",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Lord Frederick Lugard introduced the system of Indirect Rule in Nigeria primarily because:",
+    "options": {
+      "A": "Britain suffered acute shortages of British personnel and financial resources to govern directly",
+      "B": "Nigerians requested British officers not to visit rural towns",
+      "C": "The traditional rulers had acquired British university degrees",
+      "D": "International law forbade European direct rule in West Africa"
+    },
+    "answer": "A",
+    "explanation": "Shortage of European personnel, limited colonial revenue, and linguistic barriers compelled Lugard to utilize traditional rulers.",
+    "topic": "Indirect Rule Policy",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Indirect Rule was most successful in Northern Nigeria because:",
+    "options": {
+      "A": "A highly centralized, disciplined emirate system and taxation mechanism already existed",
+      "B": "Christian missionaries had converted the entire populace",
+      "C": "The northern emirs rejected all traditional customs",
+      "D": "Britain established elected local parliaments in every village"
+    },
+    "answer": "A",
+    "explanation": "Lugard easily co-opted the pre-existing autocratic hierarchy, Sharia courts, and tribute taxation.",
+    "topic": "Indirect Rule in the North",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Indirect Rule encountered severe resistance and failure in Eastern Nigeria largely due to:",
+    "options": {
+      "A": "The absence of centralized traditional monarchs and the artificial creation of 'Warrant Chiefs'",
+      "B": "The widespread presence of Fulani emirs in Igboland",
+      "C": "The complete collapse of rural agriculture",
+      "D": "The intervention of French naval forces"
+    },
+    "answer": "A",
+    "explanation": "Creating autocratic Warrant Chiefs violated the egalitarian, segmentary democratic traditions of the Igbo.",
+    "topic": "Indirect Rule in the East",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 1929 Aba Women's Riot was sparked off directly by:",
+    "options": {
+      "A": "Rumours of colonial taxation imposed on women and abuses by Warrant Chiefs",
+      "B": "A ban on palm oil exports to Britain",
+      "C": "The cancellation of missionary church services",
+      "D": "The introduction of the Clifford Constitution"
+    },
+    "answer": "A",
+    "explanation": "The census enumeration of women, livestock, and farms ignited widespread protests against Warrant Chief Mark Emeruwa.",
+    "topic": "Aba Women's Riot 1929",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Under British colonial administration, the Crown Colony of Lagos was governed directly by:",
+    "options": {
+      "A": "The Governor through executive orders, distinct from the Protectorates",
+      "B": "The Sultan of Sokoto",
+      "C": "Elected traditional ward councillors",
+      "D": "The League of Nations High Commissioner"
+    },
+    "answer": "A",
+    "explanation": "Lagos was an annexed Crown Colony with a Governor and direct colonial administration, unlike the Protectorates.",
+    "topic": "Colonial Governance Structure",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The amalgamation of the Northern and Southern Protectorates of Nigeria took place on:",
+    "options": {
+      "A": "January 1, 1914",
+      "B": "October 1, 1960",
+      "C": "May 29, 1999",
+      "D": "October 1, 1954"
+    },
+    "answer": "A",
+    "explanation": "Lord Lugard unified the Southern and Northern territories in 1914 to offset Northern fiscal deficits with Southern customs receipts.",
+    "topic": "1914 Amalgamation",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A major criticism leveled against the British policy of Indirect Rule in Nigeria was that it:",
+    "options": {
+      "A": "Preserved autocratic chiefs while deliberately alienating and sidelining educated Nigerian elites",
+      "B": "Promoted rapid university education across rural provinces",
+      "C": "Transferred heavy industrial manufacturing to local villages",
+      "D": "Enacted universal adult voting rights immediately"
+    },
+    "answer": "A",
+    "explanation": "Educated nationalists condemned Indirect Rule for entrenching feudal autocrats while excluding western-educated intellectuals.",
+    "topic": "Criticisms of Indirect Rule",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The French colonial policy of 'Assimilation' aimed to:",
+    "options": {
+      "A": "Transform educated Africans culturally into black French citizens through French language and values",
+      "B": "Rule strictly through indigenous African chiefs and customs",
+      "C": "Prepare African territories for early complete independence",
+      "D": "Preserve indigenous African religions and traditional rituals"
+    },
+    "answer": "A",
+    "explanation": "Assimilation sought to absorb subjects into the French nation by adopting French culture, language, and civil law.",
+    "topic": "French Policy of Assimilation",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The policy of 'Association' was adopted by France to replace Assimilation because:",
+    "options": {
+      "A": "Assimilation proved financially expensive, culturally impractical, and fiercely resisted by indigenous Africans",
+      "B": "African colonies demanded immediate annexation into the British Commonwealth",
+      "C": "France abolished its overseas colonial ministry",
+      "D": "French citizens rejected eating African agricultural imports"
+    },
+    "answer": "A",
+    "explanation": "Association respected indigenous traditions and treated colonies as associated dependencies rather than French extensions.",
+    "topic": "French Policy of Association",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The notorious 'Indigénat' regime in French colonial territories permitted French administrators to:",
+    "options": {
+      "A": "Inflict summary punishment, forced labour, and arrest on Africans without trial",
+      "B": "Provide free university scholarships to all peasant children",
+      "C": "Elect African governors in colonial capitals",
+      "D": "Distribute crown land to local tribal chiefs"
+    },
+    "answer": "A",
+    "explanation": "The Indigénat legal code legalized arbitrary detention, forced conscription, and summary flogging for non-assimilated subjects.",
+    "topic": "Indigénat in French Colonies",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Clifford Constitution of 1922 is historic in Nigerian constitutional history because it:",
+    "options": {
+      "A": "Introduced the elective principle for the first time in Nigeria (3 seats for Lagos, 1 for Calabar)",
+      "B": "Established Nigeria's first federal system of government",
+      "C": "Granted universal adult voting rights to women across the country",
+      "D": "Created the office of the Nigerian Prime Minister"
+    },
+    "answer": "A",
+    "explanation": "Clifford introduced legislative council elections for 4 members (3 from Lagos, 1 from Calabar), birthing political parties.",
+    "topic": "Clifford Constitution 1922",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first political party formed in Nigeria following the 1922 Clifford Constitution was the:",
+    "options": {
+      "A": "Nigerian National Democratic Party (NNDP) founded by Herbert Macaulay",
+      "B": "National Council of Nigeria and the Cameroons (NCNC)",
+      "C": "Action Group (AG)",
+      "D": "Northern People's Congress (NPC)"
+    },
+    "answer": "A",
+    "explanation": "Herbert Macaulay established the NNDP in 1923, which swept legislative council seats in Lagos.",
+    "topic": "Early Nationalist Parties",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Richards Constitution of 1946 was designed primarily to:",
+    "options": {
+      "A": "Promote unity in Nigeria and secure greater participation by Nigerians through regional councils",
+      "B": "Grant immediate sovereignty to the Nigerian armed forces",
+      "C": "Abolish the traditional chieftaincy councils",
+      "D": "Unify the currency of British West African colonies"
+    },
+    "answer": "A",
+    "explanation": "Sir Arthur Richards created Northern, Western, and Eastern Regional Councils to integrate the North with the South.",
+    "topic": "Richards Constitution 1946",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Nationalists severely criticized the Richards Constitution of 1946 because:",
+    "options": {
+      "A": "It was drafted without prior consultation or debate with the Nigerian people",
+      "B": "It granted excessive executive powers to educated university graduates",
+      "C": "It introduced a single socialist political party",
+      "D": "It dismantled the British civil service"
+    },
+    "answer": "A",
+    "explanation": "Nationalists branded it an 'arbitrary decree' imposed without popular input, sparking the NCNC nationwide protest tour.",
+    "topic": "Richards Constitution Flaws",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Macpherson Constitution of 1951 was distinctive because it was drafted after:",
+    "options": {
+      "A": "Extensive constitutional consultation from village, district, provincial to national conferences",
+      "B": "A violent military civil war in the Niger Delta",
+      "C": "A direct imperial decree issued by King George VI",
+      "D": "A resolution passed by the United Nations General Assembly"
+    },
+    "answer": "A",
+    "explanation": "Macpherson organized consultative meetings at village, provincial, and regional levels before the Ibadan 1950 conference.",
+    "topic": "Macpherson Constitution 1951",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Lyttelton Constitution of 1954 is landmark because it formally established:",
+    "options": {
+      "A": "A truly federal structure of government with regional autonomy in Nigeria",
+      "B": "A unitary government with a single parliament in Kaduna",
+      "C": "The executive presidency under an elected Nigerian general",
+      "D": "Complete independence from British imperial rule"
+    },
+    "answer": "A",
+    "explanation": "Lyttelton established federalism: distinct regional executives (Premiers), regional civil services, judiciaries, and legislative lists.",
+    "topic": "Lyttelton Constitution 1954",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Under the Lyttelton Constitution of 1954, the status of Lagos was resolved by making it:",
+    "options": {
+      "A": "A Federal Capital Territory independent of any regional government",
+      "B": "The administrative capital of the Western Region under the Action Group",
+      "C": "An overseas territory governed from London directly",
+      "D": "A joint municipality owned by the Eastern and Northern Regions"
+    },
+    "answer": "A",
+    "explanation": "Lagos was excised from the Western Region and designated neutral Federal Capital Territory.",
+    "topic": "Status of Lagos 1954",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Regional internal self-government was granted to the Western and Eastern Regions in:",
+    "options": {
+      "A": "1957",
+      "B": "1954",
+      "C": "1959",
+      "D": "1960"
+    },
+    "answer": "A",
+    "explanation": "Western and Eastern Regions attained internal self-government in 1957, while the Northern Region attained it in 1959.",
+    "topic": "Internal Self-Government",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Willink Commission was appointed by the British colonial government in 1957 to:",
+    "options": {
+      "A": "Inquire into the fears of minority ethnic groups and propose safeguards",
+      "B": "Investigate financial corruption in the commodity marketing boards",
+      "C": "Organize the 1959 federal general elections",
+      "D": "Demarcate the international border between Nigeria and Cameroon"
+    },
+    "answer": "A",
+    "explanation": "Sir Henry Willink examined minority fears of majority ethnic domination, recommending fundamental rights entrenchment.",
+    "topic": "Willink Commission 1957",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At Nigerian Independence on October 1, 1960, the Queen of England remained the ceremonial Head of State, represented by:",
+    "options": {
+      "A": "The Governor-General (Dr. Nnamdi Azikiwe)",
+      "B": "The Prime Minister (Sir Abubakar Tafawa Balewa)",
+      "C": "The Chief Justice of the Federation (Sir Adetokunbo Ademola)",
+      "D": "The President of the Senate (Dr. Nwafor Orizu)"
+    },
+    "answer": "A",
+    "explanation": "Under the 1960 Independence Constitution, Queen Elizabeth II was constitutional Head of State represented by the Governor-General.",
+    "topic": "Independence Constitution 1960",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 1963 Republican Constitution of Nigeria fundamentally replaced the British monarch with:",
+    "options": {
+      "A": "An indigenous ceremonial President as Head of State elected by parliament",
+      "B": "An executive president with supreme veto power",
+      "C": "A supreme military ruling council",
+      "D": "The traditional Emir of Kano as supreme chancellor"
+    },
+    "answer": "A",
+    "explanation": "Nigeria severed constitutional ties to the British Crown, establishing a republic with Dr. Nnamdi Azikiwe as ceremonial President.",
+    "topic": "Republican Constitution 1963",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Under the 1963 Constitution, the final court of judicial appeal for Nigeria became the:",
+    "options": {
+      "A": "Supreme Court of Nigeria, abolishing appeals to the British Privy Council",
+      "B": "Judicial Committee of the Privy Council in London",
+      "C": "Federal Court of Appeal in Kaduna",
+      "D": "International Court of Justice in The Hague"
+    },
+    "answer": "A",
+    "explanation": "Section 120 of the 1963 Constitution abolished appeals to the Privy Council, crowning the Supreme Court supreme.",
+    "topic": "Abolition of Privy Council",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Nigeria's first military coup d'état occurred on:",
+    "options": {
+      "A": "January 15, 1966",
+      "B": "July 29, 1966",
+      "C": "July 29, 1975",
+      "D": "December 31, 1983"
+    },
+    "answer": "A",
+    "explanation": "Major Chukwuma Kaduna Nzeogwu led young army majors in the January 15, 1966 coup, terminating the First Republic.",
+    "topic": "Military Rule / 1966 Coup",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "General Aguiyi-Ironsi promulgated the controversial Unification Decree No. 34 of 1966 which:",
+    "options": {
+      "A": "Abolished the federal structure and transformed Nigeria into a unitary state",
+      "B": "Created twelve new states out of the four regions",
+      "C": "Nationalized all foreign banks and oil fields",
+      "D": "Suspended all international commercial air flights"
+    },
+    "answer": "A",
+    "explanation": "Decree 34 centralized administration and unified regional civil services, provoking fierce unrest in Northern Nigeria.",
+    "topic": "Decree 34 of 1966",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "General Yakubu Gowon dissolved the four regions and created 12 states in Nigeria on:",
+    "options": {
+      "A": "May 27, 1967",
+      "B": "January 15, 1966",
+      "C": "October 1, 1970",
+      "D": "February 13, 1976"
+    },
+    "answer": "A",
+    "explanation": "Gowon created 12 states on May 27, 1967 to undermine Biafran secession and address minority agitation.",
+    "topic": "Creation of States 1967",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A standard characteristic of military governance in Nigeria was:",
+    "options": {
+      "A": "Suspension of portions of the constitution and governance by executive decrees",
+      "B": "Bicameral legislative debates and parliamentary scrutiny",
+      "C": "Total subordination of military commanders to civilian courts",
+      "D": "Periodic multi-party democratic general elections"
+    },
+    "answer": "A",
+    "explanation": "Military juntas rule by fiat decrees containing 'ouster clauses' shielding them from judicial review.",
+    "topic": "Characteristics of Military Rule",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 1979 Constitution of Nigeria was modeled after the:",
+    "options": {
+      "A": "American Presidential system, abandoning the Westminster Parliamentary model",
+      "B": "British Westminster cabinet system",
+      "C": "Swiss collegial executive council",
+      "D": "Soviet socialist supreme presidium"
+    },
+    "answer": "A",
+    "explanation": "The 1979 Constitution adopted an executive presidency directly elected by the entire federation.",
+    "topic": "1979 Constitution",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Under the 1979 and 1999 Constitutions, to be declared elected as President of Nigeria, a candidate must win:",
+    "options": {
+      "A": "The highest total votes and at least 25% of votes cast in at least two-thirds of the 36 states and FCT",
+      "B": "A simple plurality of all votes cast nationwide without geographical spread",
+      "C": "Two-thirds of all seats in the National Assembly",
+      "D": "Unanimous approval of the National Council of State"
+    },
+    "answer": "A",
+    "explanation": "Constitutional requirement mandates popular plurality plus national geographic spread (25% in 24 states).",
+    "topic": "Presidential Election Criteria",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The 1999 Constitution established the Code of Conduct Bureau primarily to:",
+    "options": {
+      "A": "Enforce high standards of public morality and prevent corruption among public officers",
+      "B": "Conduct general elections across all 774 local governments",
+      "C": "Settle disputes between political parties and trade unions",
+      "D": "Manage national foreign currency reserves"
+    },
+    "answer": "A",
+    "explanation": "The CCB receives and verifies asset declarations of public servants and refers breaches to the Code of Conduct Tribunal.",
+    "topic": "Code of Conduct Bureau",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which organ of government was dissolved completely during periods of military rule in Nigeria?",
+    "options": {
+      "A": "The Legislature (Parliament / National Assembly)",
+      "B": "The Judiciary (Ordinary Courts)",
+      "C": "The Civil Service",
+      "D": "The Police Force"
+    },
+    "answer": "A",
+    "explanation": "Military regimes suspend the legislature immediately, fusing legislative and executive powers in a Supreme Military Council.",
+    "topic": "Military Governance Impact",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The landmark 1976 Local Government Reforms in Nigeria were significant because they:",
+    "options": {
+      "A": "Introduced a uniform single-tier system of local government as the third tier of government nationwide",
+      "B": "Abolished local councils and transferred duties to traditional emirs",
+      "C": "Merged all local governments into six regional zones",
+      "D": "Privatized all local market sanitation services"
+    },
+    "answer": "A",
+    "explanation": "The 1976 reforms standardized functions, structures, and federal funding allocations across Nigeria's local councils.",
+    "topic": "1976 Local Government Reforms",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "How many recognized constitutionally listed Local Government Areas exist in Nigeria under the 1999 Constitution?",
+    "options": {
+      "A": "774",
+      "B": "650",
+      "C": "800",
+      "D": "360"
+    },
+    "answer": "A",
+    "explanation": "The First Schedule, Part I of the 1999 Constitution lists exactly 774 Local Government Areas.",
+    "topic": "Number of LGAs",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a constitutional function assigned to Local Governments in Nigeria?",
+    "options": {
+      "A": "Registration of all births, deaths, and marriages",
+      "B": "Printing of national currency banknotes and coinage",
+      "C": "Conducting international diplomatic negotiations",
+      "D": "Commanding naval and air force brigades"
+    },
+    "answer": "A",
+    "explanation": "The Fourth Schedule of the 1999 Constitution assigns vital statistics registration, markets, and waste disposal to LGAs.",
+    "topic": "Functions of Local Governments",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A major operational impediment facing Local Governments in Nigeria is:",
+    "options": {
+      "A": "Excessive interference and financial hijacking through the State Joint Local Government Account",
+      "B": "Excessive autonomy from state governors",
+      "C": "Too many university professors serving as councilors",
+      "D": "Lack of geographical territory"
+    },
+    "answer": "A",
+    "explanation": "State Joint Accounts enable governors to divert statutory allocations meant for grassroots council development.",
+    "topic": "Local Government Challenges",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Federal Character Principle was enshrined in the Nigerian Constitution to:",
+    "options": {
+      "A": "Ensure equitable representation of all states and ethnic groups in public appointments",
+      "B": "Enforce a single national religion",
+      "C": "Mandate all civil servants to speak three indigenous languages",
+      "D": "Prevent civilian politicians from contesting federal elections"
+    },
+    "answer": "A",
+    "explanation": "Section 14(3) ensures public appointments reflect national diversity, promoting national cohesion.",
+    "topic": "Federal Character Principle",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Revenue allocation formula in Nigeria addresses the distribution of the Federation Account among:",
+    "options": {
+      "A": "Federal, State, and Local governments and derivation to mineral-producing areas",
+      "B": "Registered political parties and pressure groups",
+      "C": "Foreign multinational oil consortiums",
+      "D": "Universities and tertiary polytechnics exclusively"
+    },
+    "answer": "A",
+    "explanation": "Vertical allocation shares revenue across the three government tiers, while horizontal applies derivation and equality principles.",
+    "topic": "Revenue Allocation",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The constitutional body empowered to review and advise on revenue allocation in Nigeria is the:",
+    "options": {
+      "A": "Revenue Mobilisation Allocation and Fiscal Commission (RMAFC)",
+      "B": "Central Bank of Nigeria (CBN)",
+      "C": "Independent National Electoral Commission (INEC)",
+      "D": "National Planning Commission"
+    },
+    "answer": "A",
+    "explanation": "RMAFC monitors revenue accruals and submits allocation proposals to the National Assembly.",
+    "topic": "RMAFC",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which constitutional court possesses original jurisdiction to settle disputes between the Federal Government and a State in Nigeria?",
+    "options": {
+      "A": "The Supreme Court of Nigeria",
+      "B": "The Federal High Court",
+      "C": "The Court of Appeal",
+      "D": "The National Industrial Court"
+    },
+    "answer": "A",
+    "explanation": "Under Section 232(1), the Supreme Court exercises original jurisdiction in inter-governmental disputes between Federation and States.",
+    "topic": "Supreme Court Original Jurisdiction",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The process through which voters in a constituency can dismiss an elected legislator before their tenure expires is called:",
+    "options": {
+      "A": "Recall",
+      "B": "Impeachment",
+      "C": "Referendum",
+      "D": "Plebiscite"
+    },
+    "answer": "A",
+    "explanation": "Recall allows registered constituents to petition and vote to unseat an underperforming lawmaker.",
+    "topic": "Legislative Recall",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Impeachment under the Nigerian Presidential Constitution is the formal constitutional mechanism for:",
+    "options": {
+      "A": "Removing the President or Governor from office for gross misconduct",
+      "B": "Dissolving the National Assembly during an economic crisis",
+      "C": "Sacking an incompetent traditional ruler",
+      "D": "Promoting an army general to field marshal"
+    },
+    "answer": "A",
+    "explanation": "Sections 143 and 188 prescribe legislative trial procedures for removing executive heads on grounds of gross misconduct.",
+    "topic": "Impeachment Procedure",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The centerpiece of Nigeria's foreign policy since independence has consistently been:",
+    "options": {
+      "A": "Afrocentrism (Africa as the centerpiece)",
+      "B": "Isolationism and neutrality from world trade",
+      "C": "Unconditional alignment with Warsaw Pact nations",
+      "D": "Territorial conquest of small neighbouring states"
+    },
+    "answer": "A",
+    "explanation": "Nigeria prioritizes African liberation, decolonization, regional integration, and conflict resolution.",
+    "topic": "Nigerian Foreign Policy",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Nigeria played a leading role in the liberation of Southern Africa and eradication of Apartheid by joining the:",
+    "options": {
+      "A": "Frontline States despite being thousands of miles away geographically",
+      "B": "North Atlantic Treaty Organization (NATO)",
+      "C": "Arab League diplomatic caucus",
+      "D": "Southeast Asian Treaty Alliance"
+    },
+    "answer": "A",
+    "explanation": "Nigeria gave financial, diplomatic, and logistics backing to ANC, SWAPO, and ZANU-PF, earning honorary Frontline State status.",
+    "topic": "Anti-Apartheid Diplomacy",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The ECOWAS Ceasefire Monitoring Group (ECOMOG) was spearheaded by Nigeria in 1990 to restore peace in:",
+    "options": {
+      "A": "Liberia and Sierra Leone",
+      "B": "Ethiopia and Eritrea",
+      "C": "Angola and Mozambique",
+      "D": "Rwanda and Burundi"
+    },
+    "answer": "A",
+    "explanation": "ECOMOG peacekeepers intervened decisively to halt devastating civil wars in Liberia and Sierra Leone.",
+    "topic": "ECOMOG Peacekeeping",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Organization of African Unity (OAU) transformed into the African Union (AU) in:",
+    "options": {
+      "A": "2002 at the Durban Summit, South Africa",
+      "B": "1990 at the Abuja Summit",
+      "C": "1975 in Lagos",
+      "D": "2015 in Addis Ababa"
+    },
+    "answer": "A",
+    "explanation": "The Sirte Declaration (1999) led to the formal launch of the African Union at Durban in July 2002.",
+    "topic": "African Union",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A permanent member of the United Nations Security Council possesses the exceptional power of:",
+    "options": {
+      "A": "Veto vote to block any substantive resolution",
+      "B": "Unilateral expulsion of member states from the General Assembly",
+      "C": "Appointing the UN Secretary-General without debate",
+      "D": "Dissolving the International Court of Justice"
+    },
+    "answer": "A",
+    "explanation": "The P5 (US, UK, France, Russia, China) hold negative veto power over non-procedural Security Council decisions.",
+    "topic": "United Nations Security Council",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Commonwealth of Nations is a voluntary association composed primarily of:",
+    "options": {
+      "A": "Countries that were formerly part of the British Empire",
+      "B": "English-speaking European states only",
+      "C": "Developing countries producing crude petroleum",
+      "D": "Nations bordering the Pacific Ocean"
+    },
+    "answer": "A",
+    "explanation": "The Commonwealth unites sovereign nations previously under British colonial administration.",
+    "topic": "Commonwealth of Nations",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The specialized agency of the United Nations responsible for international public health is the:",
+    "options": {
+      "A": "World Health Organization (WHO)",
+      "B": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+      "C": "International Labour Organization (ILO)",
+      "D": "United Nations Children's Fund (UNICEF)"
+    },
+    "answer": "A",
+    "explanation": "WHO coordinates global health surveillance, disease eradication campaigns, and health guidelines.",
+    "topic": "United Nations Agencies",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Non-Aligned Movement (NAM) was established during the Cold War to:",
+    "options": {
+      "A": "Enable newly independent nations to remain neutral between the Western (US) and Eastern (Soviet) military blocs",
+      "B": "Form a united military alliance against South American states",
+      "C": "Enforce nuclear proliferation across Africa and Asia",
+      "D": "Create a unified socialist global economy"
+    },
+    "answer": "A",
+    "explanation": "NAM (founded 1961 in Belgrade) ensured newly independent post-colonial states stayed free of superpower rivalries.",
+    "topic": "Non-Aligned Movement",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The judicial organ of the United Nations located in The Hague, Netherlands is the:",
+    "options": {
+      "A": "International Court of Justice (ICJ)",
+      "B": "Permanent Court of Arbitration",
+      "C": "International Criminal Tribunal for Rwanda",
+      "D": "European Court of Human Rights"
+    },
+    "answer": "A",
+    "explanation": "The ICJ adjudicates legal disputes submitted by sovereign states and gives advisory opinions to UN organs.",
+    "topic": "International Court of Justice",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Bakassi Peninsula dispute between Nigeria and Cameroon was definitively settled in 2002 by the:",
+    "options": {
+      "A": "Judgment of the International Court of Justice (ICJ) followed by the Greentree Agreement",
+      "B": "Armed intervention of ECOWAS peacekeepers",
+      "C": "Unilateral decree of the British government",
+      "D": "Direct military annexation by the Nigerian Navy"
+    },
+    "answer": "A",
+    "explanation": "The ICJ ruled in favor of Cameroon based on the 1913 Anglo-German Treaty, executed via the 2006 Greentree Agreement.",
+    "topic": "Bakassi Peninsula Dispute",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

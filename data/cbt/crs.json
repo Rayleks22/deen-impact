@@ -1,402 +1,1602 @@
 [
   {
-    "question": "According to the Genesis creation account, what did God create on the first day?",
+    "question": "In the biblical creation account in Genesis 1, light was created on the:",
     "options": {
-      "A": "Light (separating light from darkness)",
-      "B": "Firmament (the sky)",
-      "C": "Sun, moon, and stars",
-      "D": "Land animals and man"
+      "A": "First day",
+      "B": "Third day",
+      "C": "Fourth day",
+      "D": "Sixth day"
     },
     "answer": "A",
-    "explanation": "Genesis 1:3-5: God said, 'Let there be light,' and He separated the light from the darkness, calling the light Day and darkness Night on Day One.",
-    "topic": "Creation / The Sovereignty of God",
+    "explanation": "God said, 'Let there be light' on Day 1; the sun, moon, and stars were set on Day 4.",
+    "topic": "Creation Account",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "God made an everlasting covenant with Abraham, promising that through his seed all nations would be blessed, sealed with the physical sign of:",
+    "question": "According to Genesis 1:26-27, man was created:",
     "options": {
-      "A": "Circumcision",
-      "B": "Animal sacrifice of a heifer",
-      "C": "The Rainbow",
-      "D": "Anointing with oil"
+      "A": "In the image and likeness of God with dominion over creation",
+      "B": "From gold and precious stones",
+      "C": "To serve the angels as manual labourers",
+      "D": "Without free moral will"
     },
     "answer": "A",
-    "explanation": "Genesis 17:10-14: God instituted circumcision of every male child on the eighth day as the token of the Abrahamic covenant.",
-    "topic": "Covenant / Abrahamic Faith",
-    "exam": "JAMB UTME",
+    "explanation": "Being created in God's image confers unique spiritual dignity, stewardship, and creative moral agency.",
+    "topic": "Creation of Man",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Who was the female judge and prophetess who led Israel to victory over the Canaanite general Sisera?",
+    "question": "The second creation account in Genesis 2 emphasizes that man was formed from:",
     "options": {
-      "A": "Deborah",
-      "B": "Hannah",
-      "C": "Ruth",
-      "D": "Esther"
+      "A": "The dust of the ground, and God breathed into his nostrils the breath of life",
+      "B": "The waters of the deep",
+      "C": "The celestial stars",
+      "D": "The branches of the tree of life"
     },
     "answer": "A",
-    "explanation": "Judges 4: Deborah, the wife of Lappidoth, summoned Barak and delivered Israel from King Jabin and his commander Sisera.",
-    "topic": "Leadership / Judges of Israel",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "explanation": "Genesis 2:7 records: 'The Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life.'",
+    "topic": "Genesis 2 Account",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 3,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Prophet Elijah challenged and defeated the 450 prophets of Baal to prove that Yahweh is the true God on Mount:",
+    "question": "The immediate consequence of Adam and Eve's disobedience in eating the forbidden fruit was:",
     "options": {
-      "A": "Carmel",
-      "B": "Sinai",
-      "C": "Nebo",
-      "D": "Horeb"
+      "A": "Realization of their nakedness, shame, guilt, and spiritual alienation from God",
+      "B": "Instant physical annihilation",
+      "C": "Immediate elevation to equal status with God",
+      "D": "The building of the Ark"
     },
     "answer": "A",
-    "explanation": "1 Kings 18: Elijah assembled Israel on Mount Carmel, where fire consumed his water-soaked sacrifice while Baal remained powerless.",
-    "topic": "True Religion & Prophets / Elijah",
-    "exam": "JAMB UTME",
-    "year": "2022",
+    "explanation": "Their rebellion introduced sin, guilt, fear, broken fellowship with God, and expulsion from Eden.",
+    "topic": "The Fall of Man",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 4,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which Old Testament prophet married an unfaithful woman named Gomer as a symbolic demonstration of God's enduring love for unfaithful Israel?",
+    "question": "When God confronted Adam after eating the forbidden fruit, Adam attempted to excuse himself by:",
     "options": {
-      "A": "Hosea",
-      "B": "Amos",
-      "C": "Micah",
-      "D": "Habakkuk"
+      "A": "Blaming Eve and ultimately God who gave him the woman",
+      "B": "Admitting full personal responsibility and asking for mercy",
+      "C": "Blaming the serpent directly",
+      "D": "Remaining completely silent"
     },
     "answer": "A",
-    "explanation": "Hosea 1-3: God commanded Hosea to marry Gomer to vividly illustrate Israel's spiritual adultery through idol worship and God's redeeming mercy.",
-    "topic": "Prophets & Social Justice / Hosea",
-    "exam": "WAEC SSCE",
-    "year": "2022",
+    "explanation": "Adam deflected blame: 'The woman whom You gave to be with me, she gave me from the tree, and I ate.'",
+    "topic": "The Fall & Deflection",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 5,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the Sermon on the Mount, Jesus taught that his disciples are the:",
+    "question": "Cain murdered his brother Abel primarily because:",
     "options": {
-      "A": "Salt of the earth and light of the world",
-      "B": "Kings of earthly empires",
-      "C": "Judges of civil courts",
-      "D": "Chief priests of Jerusalem"
+      "A": "God had regard for Abel and his offering, provoking Cain's jealousy and wrath",
+      "B": "Abel stole his agricultural harvest",
+      "C": "Abel refused to share his cattle",
+      "D": "Their father Adam ordered them to fight"
     },
     "answer": "A",
-    "explanation": "Matthew 5:13-16: Jesus taught: 'You are the salt of the earth... You are the light of the world. Let your light so shine before men.'",
-    "topic": "Ministry of Jesus / Sermon on the Mount",
-    "exam": "JAMB UTME",
-    "year": "2021",
+    "explanation": "Abel offered in faith of the firstborn of his flock; Cain's envious pride led to fratricide.",
+    "topic": "Cain and Abel",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Who was chosen by lot by the early apostles to replace Judas Iscariot in the book of Acts?",
+    "question": "God sent the great flood in the days of Noah because:",
     "options": {
-      "A": "Matthias",
-      "B": "Barnabas",
-      "C": "Stephen",
-      "D": "Paul"
+      "A": "The wickedness of man was great upon the earth, and every intent of the thoughts of his heart was evil",
+      "B": "The earth had run out of agricultural farmland",
+      "C": "Animals had multiplied uncontrollably",
+      "D": "The builders of Babel were erecting a tower"
     },
     "answer": "A",
-    "explanation": "Acts 1:21-26: The disciples prayed and cast lots between Joseph called Barsabbas and Matthias; the lot fell on Matthias.",
-    "topic": "The Early Church / Acts of Apostles",
-    "exam": "WAEC SSCE",
-    "year": "2021",
+    "explanation": "Genesis 6 describes widespread corruption and violence provoking divine judgment via the Deluge.",
+    "topic": "Noah and the Flood",
+    "exam": "JAMB UTME",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "On the Day of Pentecost in Jerusalem, the Holy Spirit descended on the gathered believers in the form of:",
+    "question": "The sign of God's universal covenant with Noah never to destroy the earth with a flood again was the:",
     "options": {
-      "A": "Divided tongues like fire resting on each of them and sound of a rushing mighty wind",
-      "B": "A bright rainbow spanning the sky",
-      "C": "A pillar of cloud overshadowing the room",
-      "D": "An earthquake splitting the temple veil"
+      "A": "Rainbow in the clouds",
+      "B": "Circumcision of male infants",
+      "C": "Burning bush",
+      "D": "Ark of the Covenant"
     },
     "answer": "A",
-    "explanation": "Acts 2:1-4: The Holy Spirit manifested with a sound like a rushing violent wind and divided tongues as of fire, empowering them to speak in other tongues.",
-    "topic": "The Early Church / Pentecost",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "explanation": "Genesis 9:13: 'I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth.'",
+    "topic": "Noahic Covenant",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Paul's radical conversion from persecutor of the Church to Apostle of Jesus Christ occurred on the road to:",
+    "question": "The builders of the Tower of Babel were dispersed across the earth because God:",
     "options": {
-      "A": "Damascus",
-      "B": "Jericho",
-      "C": "Rome",
-      "D": "Antioch"
+      "A": "Confused their language to curb their rebellious pride and self-glorification",
+      "B": "Sent a destructive earthquake that flattened the brick tower",
+      "C": "Sent a plague of poisonous serpents",
+      "D": "Burnt the city with heavenly fire"
     },
     "answer": "A",
-    "explanation": "Acts 9: As Saul approached Damascus breathing threats against disciples, a blinding light from heaven flashed and Jesus spoke to him.",
-    "topic": "Apostle Paul's Ministry / Conversion",
-    "exam": "WAEC SSCE",
-    "year": "2020",
+    "explanation": "Babel symbolized arrogant human autonomy; God scattered them by confounding their speech.",
+    "topic": "Tower of Babel",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "According to Paul in 1 Corinthians 13, which virtue is the greatest among faith, hope, and love?",
+    "question": "God called Abram out of Ur of the Chaldees to go to a land He would show him, promising to:",
     "options": {
-      "A": "Love (Charity)",
-      "B": "Faith",
-      "C": "Hope",
-      "D": "Prophecy"
+      "A": "Make him a great nation, bless him, and bless all families of the earth through him",
+      "B": "Make him the Pharaoh of Egypt",
+      "C": "Give him all the silver mines of Babylon",
+      "D": "Build him a palace of ivory"
     },
     "answer": "A",
-    "explanation": "1 Corinthians 13:13: 'And now abide faith, hope, love, these three; but the greatest of these is love.'",
-    "topic": "Epistles / Christian Virtues",
-    "exam": "JAMB UTME",
-    "year": "2019",
+    "explanation": "Genesis 12:1-3 records the Abrahamic call and the threefold promise of land, descendants, and universal blessing.",
+    "topic": "Call of Abraham",
+    "exam": "WAEC SSCE",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What test did God give to King Solomon in a dream at Gibeon, and what was Solomon's request?",
+    "question": "The physical token of the covenant between God and Abraham's descendants was:",
     "options": {
-      "A": "God offered whatever he asked, and Solomon requested wisdom and an understanding heart to govern Israel",
-      "B": "God commanded him to build an altar, and he asked for silver",
-      "C": "God tested him with famine, and he asked for military horses",
-      "D": "God commanded him to fight the Philistines, and he asked for wealth"
+      "A": "Circumcision of every male child at eight days old",
+      "B": "Sprinkling of lamb's blood on doorposts",
+      "C": "Wearing blue tassels on garments",
+      "D": "Building stone altars on mountain peaks"
     },
     "answer": "A",
-    "explanation": "1 Kings 3:5-14: Solomon asked for wisdom to discern between good and evil; God pleased with his unselfish plea granted wisdom, riches, and honor.",
-    "topic": "Leadership / King Solomon",
+    "explanation": "Genesis 17:10-11 establishes circumcision as the permanent physical seal of the Abrahamic covenant.",
+    "topic": "Abrahamic Covenant Token",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Who was the first Christian martyr stoned to death in the book of Acts for proclaiming the gospel?",
+    "question": "Abraham demonstrated supreme faith and obedience when God commanded him to:",
     "options": {
-      "A": "Stephen",
-      "B": "James the brother of John",
-      "C": "Philip the evangelist",
-      "D": "Nicodemus"
+      "A": "Offer his only son Isaac as a burnt offering on Mount Moriah",
+      "B": "Wage war against the five kings of Sodom",
+      "C": "Return permanently to Ur of the Chaldees",
+      "D": "Sell his cattle herds in Egypt"
     },
     "answer": "A",
-    "explanation": "Acts 7:54-60: Stephen, full of the Holy Spirit, preached before the Sanhedrin and was stoned to death, praying for his executors.",
-    "topic": "The Early Church / Persecution & Stephen",
+    "explanation": "Abraham obeyed in faith; God intervened with a ram caught in a thicket, naming the place Yahweh-Yireh.",
+    "topic": "Sacrifice of Isaac",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the Parable of the Prodigal Son, what was the father's reaction when he saw his repentant younger son returning home?",
+    "question": "Esau sold his coveted birthright to his twin brother Jacob for a:",
     "options": {
-      "A": "He was filled with compassion, ran, fell on his neck, kissed him, and threw a celebratory feast",
-      "B": "He sent servants to lock the gates until restitution was made",
-      "C": "He disowned him permanently and sent him to the fields",
-      "D": "He demanded he repay all wasted inheritance first"
+      "A": "Bowl of red lentil stew and bread",
+      "B": "Herd of thirty young camels",
+      "C": "Bag of Egyptian silver coins",
+      "D": "Golden signet ring"
     },
     "answer": "A",
-    "explanation": "Luke 15:20-24: The father ran while the son was still far off, embracing him with unconditional love and restoring him to full sonship.",
-    "topic": "Parables of Jesus / Forgiveness",
+    "explanation": "Esau despised his spiritual inheritance to satisfy immediate physical hunger, selling his birthright to Jacob.",
+    "topic": "Jacob and Esau",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which Old Testament prophet boldly confronted King David for his sin with Bathsheba and the murder of Uriah the Hittite?",
+    "question": "Jacob had his name changed to 'Israel' after:",
     "options": {
-      "A": "Nathan",
-      "B": "Samuel",
-      "C": "Gad",
-      "D": "Ahijah"
+      "A": "Wrestling all night with an angel of God at Peniel",
+      "B": "Marrying Rachel at Haran",
+      "C": "Interpreting Pharaoh's seven fat cows dream",
+      "D": "Crossing the Jordan river dryshod"
     },
     "answer": "A",
-    "explanation": "2 Samuel 12: Nathan told the parable of the rich man who took the poor man's lone ewe lamb, declaring to David: 'Thou art the man!'",
-    "topic": "Leadership & Moral Accountability / David & Nathan",
+    "explanation": "Genesis 32:28: 'Your name shall no longer be Jacob, but Israel, for you have striven with God and with men and have prevailed.'",
+    "topic": "Jacob Wrestling at Peniel",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "According to the Gospel of John, what was Jesus's first recorded miracle?",
+    "question": "Joseph's jealous brothers originally conspired to kill him in Dothan, but he was sold to:",
     "options": {
-      "A": "Turning water into wine at the wedding in Cana of Galilee",
-      "B": "Feeding the 5,000 with five loaves and two fish",
-      "C": "Healing the blind man at the pool of Siloam",
-      "D": "Raising Lazarus from the dead"
+      "A": "Ishmaelite / Midianite merchants travelling to Egypt",
+      "B": "Assyrian military commanders",
+      "C": "Philistine palace guards",
+      "D": "Babylonian temple priests"
     },
     "answer": "A",
-    "explanation": "John 2:1-11: At Cana in Galilee, Jesus turned six stone jars of water into choice wine, manifesting His divine glory.",
-    "topic": "Miracles of Jesus / Cana of Galilee",
+    "explanation": "Reuben and Judah intervened to spare his life; Joseph was sold for 20 shekels of silver to traders going to Egypt.",
+    "topic": "Joseph Sold into Egypt",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What was the central issue debated and resolved at the Council of Jerusalem in Acts 15?",
+    "question": "Joseph was elevated to Prime Minister (Vizier) over all Egypt because he:",
     "options": {
-      "A": "Whether Gentile converts must be circumcised and follow the Law of Moses to be saved",
-      "B": "The election of a new Roman emperor",
-      "C": "The payment of temple taxes by Greek merchants",
-      "D": "The appointment of regional deacons in Antioch"
+      "A": "Interpreted Pharaoh's dreams of seven fat and seven lean cows with divine wisdom to avert famine",
+      "B": "Led the Egyptian army to conquer Canaan",
+      "C": "Assassinated Potiphar in the royal palace",
+      "D": "Built the great pyramids of Giza"
     },
     "answer": "A",
-    "explanation": "Acts 15: The council concluded that Gentiles are saved through the grace of the Lord Jesus Christ without bearing the ritual yoke of circumcision.",
-    "topic": "The Early Church / Council of Jerusalem",
+    "explanation": "God gave Joseph understanding of the seven years of plenty and famine, earning Pharaoh's trust.",
+    "topic": "Joseph Exalted in Egypt",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which prophet prophesied during a severe drought that the jar of flour would not be spent and the jug of oil would not fail for the widow of Zarephath?",
+    "question": "God first revealed Himself to Moses while he was tending sheep near Mount Horeb in a:",
     "options": {
-      "A": "Elijah",
-      "B": "Elisha",
-      "C": "Isaiah",
-      "D": "Jeremiah"
+      "A": "Burning bush that burned with fire yet was not consumed",
+      "B": "Violent whirlwind over the Nile river",
+      "C": "Dream of a ladder extending to heaven",
+      "D": "Golden tablet dropped from the clouds"
     },
     "answer": "A",
-    "explanation": "1 Kings 17:8-16: God commanded Elijah to go to Zarephath, where the impoverished widow fed him first and her supplies miraculous multiplied.",
-    "topic": "Prophets & Faith / Elijah at Zarephath",
+    "explanation": "Exodus 3:2 describes the burning bush where God revealed His sacred name: 'I AM WHO I AM'.",
+    "topic": "Call of Moses",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the book of Exodus, through what sign did God first call Moses while tending sheep near Mount Horeb?",
+    "question": "The final tenth plague that compelled Pharaoh to release the Israelites from Egyptian bondage was the:",
     "options": {
-      "A": "A bush that burned with fire yet was not consumed",
-      "B": "A pillar of cloud by day",
-      "C": "A handwriting on a stone tablet",
-      "D": "A sudden solar eclipse"
+      "A": "Death of all the firstborn of Egypt, both man and beast",
+      "B": "Turning of the Nile river water into blood",
+      "C": "Plague of hail and fire destroying barley crops",
+      "D": "Three days of thick darkness over Egypt"
     },
     "answer": "A",
-    "explanation": "Exodus 3: The angel of the Lord appeared to Moses in a flame of fire out of the midst of a bush that burned without being consumed.",
-    "topic": "Call and Mission of Moses",
+    "explanation": "Exodus 12: Death struck every Egyptian firstborn; Israelites were spared by the blood of the Passover lamb.",
+    "topic": "The Tenth Plague",
     "exam": "WAEC SSCE",
-    "year": "2018",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "What is the primary message of Prophet Amos regarding religious rituals disconnected from social justice?",
+    "question": "During the Passover, the Israelites were instructed to smear the blood of an unblemished lamb on their:",
     "options": {
-      "A": "Rituals without justice and righteousness are offensive to God",
-      "B": "Increasing animal sacrifices guarantees military victory",
-      "C": "Temples should be adorned with pure gold statues",
-      "D": "Fasting should replace civil courts"
+      "A": "Two side doorposts and the lintel of their houses",
+      "B": "Foreheads and right hands",
+      "C": "Cooking pots and water vessels",
+      "D": "Agricultural tools and sandals"
     },
     "answer": "A",
-    "explanation": "Amos 5:21-24: 'I hate, I despise your feast days... But let justice run down like water, and righteousness like a mighty stream.'",
-    "topic": "Prophets & Social Justice / Amos",
+    "explanation": "The blood served as a sign so the destroying angel would pass over their dwellings.",
+    "topic": "The Passover",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "According to Paul's letter to the Galatians, what are the fruits of the Spirit?",
+    "question": "God parted which body of water to enable the Israelites to escape from Pharaoh's pursuing chariots?",
     "options": {
-      "A": "Love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control",
-      "B": "Prophecy, miracles, speaking in tongues, interpretation",
-      "C": "Wealth, high social status, political titles",
-      "D": "Ascetic isolation, physical mortification, fasting"
+      "A": "The Red Sea",
+      "B": "The Jordan River",
+      "C": "The Sea of Galilee",
+      "D": "The Dead Sea"
     },
     "answer": "A",
-    "explanation": "Galatians 5:22-23 contrasts the works of the flesh with the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
-    "topic": "Epistles / Fruit of the Spirit",
+    "explanation": "Moses stretched his staff, east winds parted the Red Sea, and Pharaoh's pursuing army was drowned.",
+    "topic": "Crossing the Red Sea",
     "exam": "WAEC SSCE",
-    "year": "2023",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the Garden of Gethsemane on the night of His betrayal, Jesus prayed:",
+    "question": "God gave the Ten Commandments (Decalogue) to Moses on Mount:",
     "options": {
-      "A": "'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.'",
-      "B": "'Send twelve legions of angels to destroy the Roman legion.'",
-      "C": "'Let the temple guards be blinded.'",
-      "D": "'Why have the disciples forsaken their duties?'"
+      "A": "Sinai (Horeb)",
+      "B": "Carmel",
+      "C": "Nebo",
+      "D": "Ararat"
     },
     "answer": "A",
-    "explanation": "Luke 22:42: Jesus exemplified absolute submission to the divine will during deep anguish in Gethsemane.",
-    "topic": "Passion and Crucifixion of Jesus",
+    "explanation": "Exodus 20 records the delivery of the moral law on two stone tablets at Mount Sinai.",
+    "topic": "Ten Commandments",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2024",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Who was the Roman centurion in Caesarea whose prayers and alms were heard by God, leading to Peter's visit and the Gentile baptism?",
+    "question": "Which commandment in the Decalogue is accompanied by a specific promise of long life?",
     "options": {
-      "A": "Cornelius",
-      "B": "Julius",
-      "C": "Felix",
-      "D": "Festus"
+      "A": "Fifth Commandment ('Honor your father and your mother')",
+      "B": "First Commandment ('You shall have no other gods before Me')",
+      "C": "Seventh Commandment ('You shall not commit adultery')",
+      "D": "Tenth Commandment ('You shall not covet')"
     },
     "answer": "A",
-    "explanation": "Acts 10: Cornelius was a devout God-fearing centurion. God directed Peter to his house, and the Holy Spirit fell upon all Gentiles who heard the word.",
-    "topic": "The Early Church / Cornelius & Gentile Mission",
+    "explanation": "Exodus 20:12: 'Honor your father and mother, that your days may be prolonged in the land.'",
+    "topic": "Fifth Commandment",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which young king of Judah rediscovered the Book of the Law in the temple and instituted sweeping religious reforms across the nation?",
+    "question": "While Moses was on Mount Sinai receiving the commandments, the Israelites committed idolatry by building a:",
     "options": {
-      "A": "Josiah",
-      "B": "Rehoboam",
-      "C": "Ahab",
-      "D": "Manasseh"
+      "A": "Golden Calf fashioned by Aaron",
+      "B": "Statue of Baal with bronze horns",
+      "C": "Tower of polished limestone",
+      "D": "Temple dedicated to Pharaoh"
     },
     "answer": "A",
-    "explanation": "2 Kings 22-23: King Josiah tore his robes when Hilkiah the high priest found the Book of the Law, cleansed Judah of idols, and reinstated the Passover.",
-    "topic": "Religious Reforms in Judah / King Josiah",
+    "explanation": "Impatience led Aaron and the people to pool gold earrings to mold and worship a golden calf.",
+    "topic": "The Golden Calf",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2022",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the letter of James, the relationship between faith and works is summarized as:",
+    "question": "Out of the twelve spies sent by Moses to scout the land of Canaan, the two who brought a report of faith were:",
     "options": {
-      "A": "Faith without works is dead",
-      "B": "Works alone save without believing",
-      "C": "Faith and works are contradictory",
-      "D": "Works are unnecessary once faith is spoken"
+      "A": "Joshua the son of Nun and Caleb the son of Jephunneh",
+      "B": "Aaron and Hur",
+      "C": "Eleazar and Phinehas",
+      "D": "Korah and Dathan"
     },
     "answer": "A",
-    "explanation": "James 2:17-26: James argues that genuine living faith naturally expresses itself in compassionate deeds and righteous actions; faith without works is dead.",
-    "topic": "Epistles / James on Faith and Works",
+    "explanation": "Numbers 14: Joshua and Caleb urged trust in God's power, while the ten spread fearful despair.",
+    "topic": "The Twelve Spies",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2021",
     "id": 24,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "According to Romans 13, what is the Christian obligation toward civil governing authorities?",
+    "question": "Moses was barred from entering the Promised Land because he:",
     "options": {
-      "A": "Be subject to governing authorities as servants of God for maintaining order, and pay taxes",
-      "B": "Boycott public revenues and traffic laws",
-      "C": "Refuse to pay customs duties and tribute",
-      "D": "Overthrow civilian administrations through insurgence"
+      "A": "Struck the rock twice in anger at Meribah instead of speaking to it as God commanded",
+      "B": "Refused to lead the army against Jericho",
+      "C": "Lost the two stone tablets of the law",
+      "D": "Refused to ordain Joshua as his successor"
     },
     "answer": "A",
-    "explanation": "Romans 13:1-7 instructs believers to submit to governing authorities, live peaceably, pay taxes, and give honour and respect where due.",
-    "topic": "Epistles / Civic Responsibility & Governance",
+    "explanation": "Numbers 20: Moses failed to uphold God's holiness before Israel, viewing Canaan from Mount Nebo before dying.",
+    "topic": "Moses at Meribah",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Who succeeded Moses as the supreme leader of Israel and led them into the Promised Land across the Jordan?",
+    "options": {
+      "A": "Joshua",
+      "B": "Caleb",
+      "C": "Gideon",
+      "D": "Samson"
+    },
+    "answer": "A",
+    "explanation": "Joshua was commissioned by God: 'As I was with Moses, so I will be with you; I will not fail you or forsake you.'",
+    "topic": "Leadership of Joshua",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The walls of the fortified city of Jericho collapsed after the Israelites:",
+    "options": {
+      "A": "Marched around the city once daily for six days, and seven times on the seventh day with trumpet blasts and a loud shout",
+      "B": "Battered the gates with heavy iron rams",
+      "C": "Dug underground tunnels beneath the foundations",
+      "D": "Set fire to the outer wooden fences"
+    },
+    "answer": "A",
+    "explanation": "Joshua 6 describes the miracle of Jericho's collapse upon faithful completion of God's instructions.",
+    "topic": "Fall of Jericho",
     "exam": "JAMB UTME",
     "year": "2018",
-    "id": 25,
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Deborah the prophetess and judge delivered Israel from the oppression of Jabin King of Canaan with her general:",
+    "options": {
+      "A": "Barak",
+      "B": "Jephthah",
+      "C": "Abdon",
+      "D": "Othniel"
+    },
+    "answer": "A",
+    "explanation": "Judges 4: Deborah summoned Barak to lead troops against Sisera, Canaanite general of King Jabin.",
+    "topic": "Deborah and Barak",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Gideon defeated the massive Midianite army using an army reduced by God to only:",
+    "options": {
+      "A": "300 men who lapped water with their hands like dogs",
+      "B": "10,000 men on horses",
+      "C": "70 elders of Israel",
+      "D": "50 archers"
+    },
+    "answer": "A",
+    "explanation": "God culled Gideon's army to 300 men equipped with trumpets, pitchers, and torches to ensure the glory belonged to God.",
+    "topic": "Gideon's 300 Men",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Samson lost his supernatural physical strength when:",
+    "options": {
+      "A": "Delilah had the seven locks of his hair shaved, violating his Nazirite vow",
+      "B": "He touched the carcass of an unclean swine",
+      "C": "He drank unfermented sweet grape juice",
+      "D": "The Philistines chained him in iron shackles"
+    },
+    "answer": "A",
+    "explanation": "Judges 16: Samson's Nazirite consecration resided in his uncut hair; shaving it caused the Spirit to depart.",
+    "topic": "Samson and Delilah",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When the elders of Israel demanded a king from Prophet Samuel at Ramah, their primary motive was to:",
+    "options": {
+      "A": "Be like all the other surrounding Gentile nations and have a king lead them in battle",
+      "B": "Obey an explicit divine commandment in Deuteronomy",
+      "C": "Abolish the high priesthood in Shiloh",
+      "D": "End the payment of agricultural tithes"
+    },
+    "answer": "A",
+    "explanation": "1 Samuel 8: God told Samuel the people had rejected Yahweh as their divine King in demanding human monarchy.",
+    "topic": "Demand for a King",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first king anointed over Israel was:",
+    "options": {
+      "A": "Saul the son of Kish from the tribe of Benjamin",
+      "B": "David the son of Jesse",
+      "C": "Solomon",
+      "D": "Rehoboam"
+    },
+    "answer": "A",
+    "explanation": "Samuel anointed Saul privately, confirmed later by public lot at Mizpah.",
+    "topic": "Anointing of Saul",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "God definitively rejected Saul from being king over Israel because Saul:",
+    "options": {
+      "A": "Disobeyed God's command to utterly destroy the Amalekites by sparing King Agag and the best livestock",
+      "B": "Lost a battle against the Moabites",
+      "C": "Refused to pay gold tribute to the Phoenicians",
+      "D": "Abolished the Feast of Unleavened Bread"
+    },
+    "answer": "A",
+    "explanation": "1 Samuel 15:22: 'To obey is better than sacrifice, and to heed than the fat of rams.'",
+    "topic": "Rejection of Saul",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Young David defeated the towering Philistine champion Goliath using:",
+    "options": {
+      "A": "A sling, a smooth stone from the brook, and unwavering faith in the name of the Lord of Hosts",
+      "B": "King Saul's heavy bronze armor and iron spear",
+      "C": "A chariot driven by Jonathan",
+      "D": "A poisoned iron arrow shot from afar"
+    },
+    "answer": "A",
+    "explanation": "1 Samuel 17: David declared: 'You come to me with a sword and spear, but I come to you in the name of the Lord of hosts.'",
+    "topic": "David and Goliath",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When David committed adultery with Bathsheba and murdered Uriah the Hittite, God sent which prophet to rebuke him?",
+    "options": {
+      "A": "Nathan",
+      "B": "Gad",
+      "C": "Elijah",
+      "D": "Micaiah"
+    },
+    "answer": "A",
+    "explanation": "Nathan told the parable of the rich man who stole the poor man's ewe lamb, confronting David: 'You are the man!'",
+    "topic": "David Rebuked by Nathan",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which celebrated penitential Psalm did David compose in remorse after his sin with Bathsheba?",
+    "options": {
+      "A": "Psalm 51 ('Create in me a clean heart, O God')",
+      "B": "Psalm 23 ('The Lord is my shepherd')",
+      "C": "Psalm 91 ('He who dwells in the shelter of the Most High')",
+      "D": "Psalm 150 ('Praise the Lord')"
+    },
+    "answer": "A",
+    "explanation": "Psalm 51 expresses deep confession, repentance, and plea for spiritual restoration.",
+    "topic": "Psalm 51 & Repentance",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When God appeared to King Solomon in a dream at Gibeon asking what he desired, Solomon requested:",
+    "options": {
+      "A": "An understanding heart and wisdom to judge God's people discerningly",
+      "B": "Long life and victory over all external foes",
+      "C": "Vast hoards of gold and silver treasures",
+      "D": "A fleet of trading ships to Ophir"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 3: Solomon sought wisdom rather than wealth or vengeance; God granted wisdom plus unmatched riches and honor.",
+    "topic": "Solomon's Prayer for Wisdom",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "King Solomon demonstrated his great judicial discernment in resolving the dispute between two women who:",
+    "options": {
+      "A": "Claimed ownership of the same living infant baby boy",
+      "B": "Argued over ownership of an olive vineyard",
+      "C": "Accused each other of stealing gold bracelets",
+      "D": "Fought over a stray donkey in Jerusalem"
+    },
+    "answer": "A",
+    "explanation": "Solomon ordered the child cut in two with a sword, identifying the real mother by her willingness to give him up.",
+    "topic": "Solomon's Wise Judgment",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The magnificent First Temple in Jerusalem was built by King:",
+    "options": {
+      "A": "Solomon",
+      "B": "David",
+      "C": "Hezekiah",
+      "D": "Josiah"
+    },
+    "answer": "A",
+    "explanation": "David gathered materials, but Solomon was chosen by God to build the Temple of the Lord.",
+    "topic": "Building of the Temple",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In his later years, King Solomon's heart was turned away from wholehearted devotion to Yahweh because:",
+    "options": {
+      "A": "His numerous foreign pagan wives led him to build high places for deities like Chemosh and Molech",
+      "B": "He lost his memory due to sickness",
+      "C": "The Queen of Sheba robbed his treasury",
+      "D": "The Egyptian army captured Jerusalem"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 11: Solomon's foreign marriages seduced him into idolatry, provoking the division of the kingdom.",
+    "topic": "Solomon's Apostasy",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The United Monarchy of Israel fractured into the Northern Kingdom (Israel) and Southern Kingdom (Judah) under:",
+    "options": {
+      "A": "Rehoboam the son of Solomon",
+      "B": "Jeroboam the son of Nebat",
+      "C": "Asa",
+      "D": "Jehoshaphat"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 12: Rehoboam harshly refused tax relief ('My father chastised you with whips, I will with scorpions'), causing 10 tribes to rebel.",
+    "topic": "Division of the Kingdom",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jeroboam I, first king of the Northern Kingdom of Israel, established golden calf worship at:",
+    "options": {
+      "A": "Dan and Bethel to prevent his subjects from worshipping in Jerusalem",
+      "B": "Samaria and Megiddo",
+      "C": "Mount Carmel and Gilgal",
+      "D": "Shiloh and Shechem"
+    },
+    "answer": "A",
+    "explanation": "Jeroboam instituted shrines at Dan and Bethel, fearing Jerusalem pilgrimages would renew loyalty to the House of David.",
+    "topic": "Sins of Jeroboam",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Elijah contested the 450 prophets of Baal in a dramatic contest on Mount:",
+    "options": {
+      "A": "Carmel",
+      "B": "Sinai",
+      "C": "Hermon",
+      "D": "Gerizim"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 18: God answered Elijah's prayer by consuming the drenched sacrifice with heavenly fire, proving 'The Lord, He is God!'",
+    "topic": "Elijah on Mount Carmel",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "King Ahab and Queen Jezebel conspired to murder Naboth of Jezreel in order to seize his:",
+    "options": {
+      "A": "Family ancestral vineyard situated near the royal palace",
+      "B": "Flock of prize sacrificial sheep",
+      "C": "Golden chariot",
+      "D": "Ivory palace furnishings"
+    },
+    "answer": "A",
+    "explanation": "1 Kings 21: Jezebel hired false witnesses to stone Naboth for blasphemy, prompting Elijah's condemnation of Ahab's house.",
+    "topic": "Naboth's Vineyard",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Elijah was taken up into heaven in a:",
+    "options": {
+      "A": "Whirlwind with a chariot and horses of fire",
+      "B": "Great sea wave in the Mediterranean",
+      "C": "Cloud over the city of Damascus",
+      "D": "Fiery furnace in Babylon"
+    },
+    "answer": "A",
+    "explanation": "2 Kings 2:11: 'A chariot of fire and horses of fire appeared... and Elijah went up by a whirlwind to heaven.'",
+    "topic": "Ascension of Elijah",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Elisha received a 'double portion' of Elijah's prophetic spirit after:",
+    "options": {
+      "A": "Witnessing Elijah being taken up into heaven across the Jordan",
+      "B": "Anointing Hazael King of Syria",
+      "C": "Pouring oil on King Jehu in Ramoth-Gilead",
+      "D": "Killing fifty prophets of Baal"
+    },
+    "answer": "A",
+    "explanation": "Elisha asked for a double portion of his master's spirit, confirmed when he saw Elijah's fiery ascension.",
+    "topic": "Succession of Elisha",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Amos ministered in the Northern Kingdom of Israel, strongly condemning:",
+    "options": {
+      "A": "Social injustice, oppression of the poor, dishonest scales, and hollow hypocritical ritualism",
+      "B": "Building wooden bridges over the Jordan",
+      "C": "Planting fig trees during winter",
+      "D": "Translating scriptures into Greek"
+    },
+    "answer": "A",
+    "explanation": "Amos 5:24: 'Let justice roll down like waters, and righteousness like an ever-flowing stream.'",
+    "topic": "Amos & Social Justice",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Hosea's marriage to Gomer, an unfaithful wife, symbolized:",
+    "options": {
+      "A": "God's unconditional, redeeming, and forgiving love for unfaithful Israel",
+      "B": "The destruction of the Egyptian empire",
+      "C": "The wealth of the royal merchants of Tyre",
+      "D": "The holiness of the Temple priesthood"
+    },
+    "answer": "A",
+    "explanation": "Hosea portrayed Israel as a spiritually adulterous spouse whom Yahweh relentlessly pursues with redemptive love.",
+    "topic": "Hosea & Unfaithful Israel",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Isaiah received his grand vision and call in the year that:",
+    "options": {
+      "A": "King Uzziah died, seeing the Lord sitting on a throne, high and lifted up",
+      "B": "The Temple in Jerusalem was burnt down",
+      "C": "King Solomon completed his palace",
+      "D": "The ark was captured by the Philistines"
+    },
+    "answer": "A",
+    "explanation": "Isaiah 6: Seraphim proclaimed 'Holy, Holy, Holy is the Lord of hosts'; an angel purified Isaiah's lips with an altar coal.",
+    "topic": "Vision and Call of Isaiah",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Prophet Jeremiah is frequently referred to as the 'Weeping Prophet' because he:",
+    "options": {
+      "A": "Deeply lamented the unrepentant sins of Judah, the destruction of Jerusalem, and the impending Babylonian exile",
+      "B": "Lost all his family members in a shipwreck",
+      "C": "Was blind from childhood",
+      "D": "Was banished permanently to the desert of Sin"
+    },
+    "answer": "A",
+    "explanation": "Jeremiah endured ridicule, imprisonment, and grief as Judah rejected his warnings of Babylonian judgment.",
+    "topic": "Jeremiah & The Exile",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jesus was born in Bethlehem of Judea during the reign of:",
+    "options": {
+      "A": "Caesar Augustus (Roman Emperor) and King Herod the Great",
+      "B": "Tiberius Caesar and Pontius Pilate",
+      "C": "Nero and Felix",
+      "D": "King Cyrus of Persia"
+    },
+    "answer": "A",
+    "explanation": "Luke 2 and Matthew 2 record Jesus' birth in Bethlehem, fulfilling Micah 5:2 Messianic prophecy.",
+    "topic": "Birth of Jesus",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jesus was baptized in the Jordan River by John the Baptist, where:",
+    "options": {
+      "A": "The heavens opened, the Holy Spirit descended like a dove, and a Voice declared: 'This is My beloved Son'",
+      "B": "An angel handed Him a golden crown",
+      "C": "The waters of the Jordan ceased flowing for three hours",
+      "D": "The Pharisees bowed down in adoration"
+    },
+    "answer": "A",
+    "explanation": "Matthew 3:16-17 records the revelation of the Trinity: the Son baptized, the Spirit descending, the Father speaking.",
+    "topic": "Baptism of Jesus",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the wilderness temptations, when Satan tempted Jesus to turn stones into bread, Jesus answered:",
+    "options": {
+      "A": "'Man shall not live by bread alone, but by every word that proceeds from the mouth of God'",
+      "B": "'I will eat only after forty days have elapsed'",
+      "C": "'Bread is unnecessary for angels'",
+      "D": "'Give me bread from heaven instead'"
+    },
+    "answer": "A",
+    "explanation": "Matthew 4:4 (quoting Deuteronomy 8:3): Spiritual sustenance from God's Word supersedes physical bread.",
+    "topic": "Temptations of Jesus",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first public miracle performed by Jesus recorded in the Gospel of John was:",
+    "options": {
+      "A": "Turning water into wine at the wedding feast in Cana of Galilee",
+      "B": "Raising Lazarus from the dead",
+      "C": "Feeding the 5,000 with five loaves and two fish",
+      "D": "Healing the blind man Bartimaeus"
+    },
+    "answer": "A",
+    "explanation": "John 2:1-11: Changing water into wine manifested His glory, prompting His disciples to believe.",
+    "topic": "First Miracle at Cana",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Sermon on the Mount, the Beatitudes open with: 'Blessed are the poor in spirit, for:",
+    "options": {
+      "A": "Theirs is the kingdom of heaven",
+      "B": "They shall be comforted",
+      "C": "They shall inherit the earth",
+      "D": "They shall obtain mercy"
+    },
+    "answer": "A",
+    "explanation": "Matthew 5:3: Poverty of spirit denotes humble dependence on God, admitting spiritual bankruptcy without Him.",
+    "topic": "The Beatitudes",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Parable of the Good Samaritan, who proved to be the true neighbor to the assaulted man?",
+    "options": {
+      "A": "The Samaritan who showed mercy, bound his wounds, and paid for his inn stay",
+      "B": "The Priest who passed by on the other side",
+      "C": "The Levite who inspected him and hurried away",
+      "D": "The innkeeper who provided free lodging"
+    },
+    "answer": "A",
+    "explanation": "Luke 10: The despised Samaritan demonstrated true love and mercy, crossing racial and religious barriers.",
+    "topic": "The Good Samaritan",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Parable of the Prodigal Son in Luke 15 illustrates:",
+    "options": {
+      "A": "The boundless, forgiving love of the Father welcoming home a repentant sinner",
+      "B": "The wisdom of accumulating real estate investments",
+      "C": "The strict obedience of the elder brother",
+      "D": "How to feed swine on a famine-stricken farm"
+    },
+    "answer": "A",
+    "explanation": "The father ran, embraced, and threw a celebratory feast for the returned wayward son.",
+    "topic": "The Prodigal Son",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jesus calmed a violent storm on the Sea of Galilee by saying:",
+    "options": {
+      "A": "'Peace, be still!' and the wind ceased and there was a great calm",
+      "B": "'Row the boat to the eastern shore!'",
+      "C": "'Throw Jonah into the sea!'",
+      "D": "'Cast anchor until dawn!'"
+    },
+    "answer": "A",
+    "explanation": "Mark 4:39: Demonstrating divine authority over nature, Jesus commanded the sea: 'Peace, be still!'",
+    "topic": "Calming of the Storm",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "When Peter made his great confession in Caesarea Philippi saying: 'You are the Christ, the Son of the living God', Jesus replied that:",
+    "options": {
+      "A": "Flesh and blood did not reveal this, but His Father in heaven",
+      "B": "Peter learned this from the high priest Caiaphas",
+      "C": "Peter should write a book on Jewish law",
+      "D": "He would not go to Jerusalem"
+    },
+    "answer": "A",
+    "explanation": "Matthew 16:17: Divine revelation enabled Peter's confession of Jesus' true identity.",
+    "topic": "Peter's Confession",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At the Transfiguration on the holy mountain, which two Old Testament figures appeared talking with Jesus?",
+    "options": {
+      "A": "Moses and Elijah",
+      "B": "Abraham and Isaac",
+      "C": "David and Solomon",
+      "D": "Isaiah and Jeremiah"
+    },
+    "answer": "A",
+    "explanation": "Matthew 17: Moses (representing the Law) and Elijah (representing the Prophets) testified to Jesus' fulfillment.",
+    "topic": "The Transfiguration",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jesus entered Jerusalem triumphantly riding upon a colt of a donkey, fulfilling the prophecy of:",
+    "options": {
+      "A": "Zechariah 9:9",
+      "B": "Isaiah 53:5",
+      "C": "Malachi 3:1",
+      "D": "Joel 2:28"
+    },
+    "answer": "A",
+    "explanation": "Zechariah 9:9: 'Behold, your King comes to you, humble and mounted on a donkey, on a colt.'",
+    "topic": "Triumphal Entry",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Jesus cleansed the Temple in Jerusalem by driving out moneychangers and sellers of doves, declaring:",
+    "options": {
+      "A": "'My house shall be called a house of prayer, but you are making it a den of robbers'",
+      "B": "'This building will stand for another thousand years'",
+      "C": "'All sacrifices are henceforth forbidden'",
+      "D": "'You must build another court for the Gentiles'"
+    },
+    "answer": "A",
+    "explanation": "Matthew 21:13: Jesus cleansed the court of corrupt commercialism, citing Isaiah 56:7 and Jeremiah 7:11.",
+    "topic": "Cleansing the Temple",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At the Last Supper, Jesus instituted the Lord's Supper (Holy Communion) using bread and wine to symbolize His:",
+    "options": {
+      "A": "Body broken for believers and Blood of the New Covenant shed for remission of sins",
+      "B": "Victory over Roman military power",
+      "C": "Imminent wedding banquet in Bethany",
+      "D": "Miracle of feeding the 5,000"
+    },
+    "answer": "A",
+    "explanation": "Matthew 26:26-28: Bread represents His sacrificial body and cup signifies the blood of the New Covenant.",
+    "topic": "The Last Supper",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Garden of Gethsemane, Jesus prayed in deep agony:",
+    "options": {
+      "A": "'My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will'",
+      "B": "'Send twelve legions of angels to destroy the Sanhedrin'",
+      "C": "'Spare Judas from his betrayal'",
+      "D": "'Take me back to Galilee immediately'"
+    },
+    "answer": "A",
+    "explanation": "Matthew 26:39: Jesus demonstrated perfect submission to the Father's redemptive will.",
+    "topic": "Gethsemane Prayer",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which disciple betrayed Jesus to the chief priests for thirty pieces of silver?",
+    "options": {
+      "A": "Judas Iscariot",
+      "B": "Simon the Zealot",
+      "C": "Thomas Didymus",
+      "D": "Bartholomew"
+    },
+    "answer": "A",
+    "explanation": "Matthew 26:14-15: Judas bargained with the Sanhedrin, betraying Jesus with a kiss in Gethsemane.",
+    "topic": "Betrayal of Jesus",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Before the rooster crowed, Apostle Peter denied Jesus how many times?",
+    "options": {
+      "A": "Three times",
+      "B": "Two times",
+      "C": "Five times",
+      "D": "Seven times"
+    },
+    "answer": "A",
+    "explanation": "Luke 22:61: Peter denied knowing Jesus three times in the High Priest's courtyard, weeping bitterly.",
+    "topic": "Peter's Denial",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Roman governor who condemned Jesus to be crucified despite declaring Him innocent was:",
+    "options": {
+      "A": "Pontius Pilate",
+      "B": "Herod Antipas",
+      "C": "Felix",
+      "D": "Festus"
+    },
+    "answer": "A",
+    "explanation": "Pilate declared 'I find no guilt in this man', yet washed his hands and surrendered Jesus to crucifixion.",
+    "topic": "Trial before Pilate",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "On the cross at Golgotha, Jesus cried out in Aramaic: 'Eloi, Eloi, lema sabachthani?', meaning:",
+    "options": {
+      "A": "'My God, My God, why have You forsaken Me?'",
+      "B": "'Father, forgive them, for they know not what they do'",
+      "C": "'It is finished!'",
+      "D": "'Into Your hands I commit My spirit'"
+    },
+    "answer": "A",
+    "explanation": "Mark 15:34: Quoting Psalm 22:1, expressing the terrible weight of bearing the world's sin.",
+    "topic": "Seven Words on the Cross",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first witnesses to discover the empty tomb and receive news of Jesus' resurrection on Easter Sunday morning were:",
+    "options": {
+      "A": "Mary Magdalene and the other women (Mary mother of James, Salome)",
+      "B": "Peter and John alone",
+      "C": "The eleven disciples assembled in the upper room",
+      "D": "The Roman guards who guarded the sepulchre"
+    },
+    "answer": "A",
+    "explanation": "Matthew 28 / John 20: The women came at dawn with spices; an angel announced: 'He is not here; He has risen!'",
+    "topic": "The Resurrection",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Before ascending into heaven from the Mount of Olives, Jesus delivered the Great Commission to His disciples, commanding them to:",
+    "options": {
+      "A": "Go and make disciples of all nations, baptizing them in the name of the Father, Son, and Holy Spirit",
+      "B": "Form an army to conquer Rome",
+      "C": "Remain permanently inside Jerusalem's walls",
+      "D": "Write letters to King Herod"
+    },
+    "answer": "A",
+    "explanation": "Matthew 28:19-20: The supreme mission mandate to preach the Gospel, baptize, and teach all nations.",
+    "topic": "The Great Commission",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The promised Holy Spirit descended upon the disciples with tongues of fire and a mighty rushing wind on the Day of:",
+    "options": {
+      "A": "Pentecost (Shavuot)",
+      "B": "Passover",
+      "C": "Tabernacles",
+      "D": "Yom Kippur"
+    },
+    "answer": "A",
+    "explanation": "Acts 2: The Holy Spirit empowered the 120 disciples, speaking in diverse tongues to proclaim God's works.",
+    "topic": "Day of Pentecost",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Following Peter's powerful Pentecost sermon, how many souls were baptized and added to the church that day?",
+    "options": {
+      "A": "About three thousand souls",
+      "B": "Five hundred",
+      "C": "One hundred and twenty",
+      "D": "Ten thousand"
+    },
+    "answer": "A",
+    "explanation": "Acts 2:41: Peter's proclamation of Christ's resurrection converted about 3,000 souls.",
+    "topic": "Growth of Early Church",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Peter and John miraculously healed a man lame from birth at the gate of the Temple called:",
+    "options": {
+      "A": "The Beautiful Gate",
+      "B": "The Sheep Gate",
+      "C": "The Damascus Gate",
+      "D": "The Golden Gate"
+    },
+    "answer": "A",
+    "explanation": "Acts 3:6: Peter said: 'Silver and gold I do not have, but what I do have I give you: In the name of Jesus Christ of Nazareth, walk!'",
+    "topic": "Lame Man at Beautiful Gate",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ananias and his wife Sapphira died suddenly in the presence of Apostle Peter because they:",
+    "options": {
+      "A": "Lied to the Holy Spirit by keeping back part of the proceeds of land they sold while pretending to give all",
+      "B": "Refused to attend the Pentecost prayer gathering",
+      "C": "Insulted the Roman governor in Caesarea",
+      "D": "Sold defective wine to the disciples"
+    },
+    "answer": "A",
+    "explanation": "Acts 5: Their hypocrisy and deceit against the Holy Spirit brought immediate divine judgment.",
+    "topic": "Ananias and Sapphira",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The seven deacons in Acts 6 (including Stephen and Philip) were chosen primarily to:",
+    "options": {
+      "A": "Oversee the daily distribution of food to Hellenistic widows so the Apostles could devote themselves to prayer and preaching",
+      "B": "Guard the Temple gates against Roman centurions",
+      "C": "Collect agricultural tithes in Galilee",
+      "D": "Translate Hebrew scrolls into Latin"
+    },
+    "answer": "A",
+    "explanation": "Acts 6: The appointment of deacons solved administrative friction and preserved apostolic pastoral priorities.",
+    "topic": "Appointment of Seven Deacons",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first Christian martyr who was stoned to death by the Jewish council while praying for his killers was:",
+    "options": {
+      "A": "Stephen",
+      "B": "James the brother of John",
+      "C": "Philip",
+      "D": "Barnabas"
+    },
+    "answer": "A",
+    "explanation": "Acts 7: Stephen saw heaven opened and prayed: 'Lord, do not hold this sin against them' as stones fell on him.",
+    "topic": "Martyrdom of Stephen",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Philip the Evangelist led which foreign dignitary to Christ on the desert road from Jerusalem to Gaza?",
+    "options": {
+      "A": "The Ethiopian Eunuch, treasurer of Queen Candace, who was reading Isaiah 53",
+      "B": "The Centurion Cornelius of Caesarea",
+      "C": "The High Priest of Ephesus",
+      "D": "The Roman governor of Cyprus"
+    },
+    "answer": "A",
+    "explanation": "Acts 8: Philip explained Isaiah's suffering servant prophecy to the Ethiopian, baptizing him in roadside water.",
+    "topic": "Philip & Ethiopian Eunuch",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Saul of Tarsus had his dramatic conversion encounter with the risen Christ while travelling on the road to:",
+    "options": {
+      "A": "Damascus, intending to arrest followers of the Way",
+      "B": "Jericho to escape persecution",
+      "C": "Alexandria to study Greek philosophy",
+      "D": "Rome to appeal to Caesar"
+    },
+    "answer": "A",
+    "explanation": "Acts 9: A brilliant light flashed and Jesus spoke: 'Saul, Saul, why are you persecuting Me?'",
+    "topic": "Conversion of Saul",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Roman centurion Cornelius in Caesarea is historic in Christian history because he was the:",
+    "options": {
+      "A": "First Gentile convert baptized by Peter, demonstrating that God shows no partiality",
+      "B": "Officer who nailed Jesus to the cross",
+      "C": "Governor who sentenced Paul to prison",
+      "D": "Soldier who helped Paul escape from Damascus in a basket"
+    },
+    "answer": "A",
+    "explanation": "Acts 10: The Holy Spirit fell upon Cornelius' Gentile household, opening the church to the nations.",
+    "topic": "Conversion of Cornelius",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The disciples of Jesus were first called 'Christians' in the city of:",
+    "options": {
+      "A": "Antioch in Syria",
+      "B": "Jerusalem",
+      "C": "Rome",
+      "D": "Ephesus"
+    },
+    "answer": "A",
+    "explanation": "Acts 11:26: Barnabas and Saul taught extensively in Antioch, where believers were first termed 'Christians'.",
+    "topic": "Origin of Term 'Christian'",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Jerusalem Council in Acts 15 met to resolve whether:",
+    "options": {
+      "A": "Gentile converts to Christ were required to be circumcised and observe the Law of Moses for salvation",
+      "B": "Women should be allowed to speak Greek in church",
+      "C": "Apostle Peter should be replaced by James",
+      "D": "Christians should pay taxes to the Roman Emperor"
+    },
+    "answer": "A",
+    "explanation": "Acts 15: James and the Apostles declared Gentiles saved by grace through faith without circumcision.",
+    "topic": "Jerusalem Council (Acts 15)",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Romans 13:1-7, Apostle Paul teaches that Christians must submit to governing authorities because:",
+    "options": {
+      "A": "All authority is instituted by God to maintain public order and punish evildoers",
+      "B": "Rulers will execute all citizens who fail to praise them",
+      "C": "The Roman emperor is divine",
+      "D": "Believers cannot hold legal trials"
+    },
+    "answer": "A",
+    "explanation": "Paul instructs paying taxes, custom duties, and obeying civil magistrates as God's servants for order.",
+    "topic": "Submission to Authorities",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In 1 Corinthians 13, Apostle Paul concludes that of the three theological virtues (Faith, Hope, and Love), the greatest is:",
+    "options": {
+      "A": "Love (Agape)",
+      "B": "Faith",
+      "C": "Hope",
+      "D": "Prophecy"
+    },
+    "answer": "A",
+    "explanation": "1 Corinthians 13:13: 'Now abide faith, hope, love, these three; but the greatest of these is love.'",
+    "topic": "The Supremacy of Love",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Galatians 5:22-23, the Fruit of the Spirit is listed as:",
+    "options": {
+      "A": "Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control",
+      "B": "Tongues, prophecy, miracles, healings, and interpretation",
+      "C": "Wealth, health, long life, and earthly fame",
+      "D": "Gold, frankincense, myrrh, and silver"
+    },
+    "answer": "A",
+    "explanation": "The singular Fruit manifests Christlike character produced by the Holy Spirit in the believer.",
+    "topic": "Fruit of the Spirit",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Ephesians 6:10-18, the Whole Armor of God includes which offensive weapon?",
+    "options": {
+      "A": "The Sword of the Spirit, which is the Word of God",
+      "B": "The Helmet of Salvation",
+      "C": "The Breastplate of Righteousness",
+      "D": "The Shield of Faith"
+    },
+    "answer": "A",
+    "explanation": "The sword of the Spirit (God's spoken Word) is the primary offensive spiritual weapon.",
+    "topic": "The Whole Armor of God",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the Epistle of James, faith without works is declared to be:",
+    "options": {
+      "A": "Dead",
+      "B": "Sufficient for salvation",
+      "C": "Superior to prophecy",
+      "D": "Pleasing to angels"
+    },
+    "answer": "A",
+    "explanation": "James 2:17 & 26: Genuine saving faith inevitably produces active righteous works and compassion.",
+    "topic": "Faith and Works (James)",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Philippians 2:5-11 (the Kenosis passage), Apostle Paul exhorts believers to have the mind of Christ, who:",
+    "options": {
+      "A": "Humbled Himself, taking the form of a bondservant and becoming obedient to death on a cross",
+      "B": "Demanded golden crowns in the Temple",
+      "C": "Refused to associate with poor fishermen",
+      "D": "Built military camps in Galilee"
+    },
+    "answer": "A",
+    "explanation": "Christ's supreme humility and selfless condescension serves as the blueprint for Christian unity and service.",
+    "topic": "Humility of Christ",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Colossians 3:18-21, Paul outlines Christian household relationships, instructing children to:",
+    "options": {
+      "A": "Obey their parents in all things, for this is well-pleasing to the Lord",
+      "B": "Disregard parental guidance once they start working",
+      "C": "Command their parents to buy them chariots",
+      "D": "Leave the home at age twelve"
+    },
+    "answer": "A",
+    "explanation": "Filial obedience in the home brings divine blessing and reflects spiritual order.",
+    "topic": "Christian Family Ethics",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In 1 Thessalonians 4:13-18, Paul comforts believers concerning departed saints, assuring that at Christ's Second Coming:",
+    "options": {
+      "A": "The dead in Christ will rise first, and then the living will be caught up together in the clouds to meet the Lord",
+      "B": "Only the twelve apostles will enter heaven",
+      "C": "The world will continue without end",
+      "D": "Departed souls are reincarnated as animals"
+    },
+    "answer": "A",
+    "explanation": "The Blessed Hope assures resurrection victory for departed believers and reunion at the Parousia.",
+    "topic": "The Second Coming (Parousia)",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In 1 Peter 2:9, believers in Christ are celebrated with which elevated spiritual titles?",
+    "options": {
+      "A": "'A chosen generation, a royal priesthood, a holy nation, His own special people'",
+      "B": "'The kings of the Roman senate'",
+      "C": "'The army of the wilderness'",
+      "D": "'The elders of the Sanhedrin'"
+    },
+    "answer": "A",
+    "explanation": "1 Peter 2:9 proclaims the royal priesthood and sacred calling of the redeemed church.",
+    "topic": "Royal Priesthood",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The first Protestant Christian mission established in Badagry, Nigeria in September 1842 was founded by:",
+    "options": {
+      "A": "Rev. Thomas Birch Freeman of the Wesleyan Methodist Missionary Society",
+      "B": "Bishop Samuel Ajayi Crowther",
+      "C": "Mary Slessor",
+      "D": "Father Joseph Shanahan"
+    },
+    "answer": "A",
+    "explanation": "Freeman arrived in Badagry in 1842, establishing the Methodist mission followed closely by Henry Townsend (CMS).",
+    "topic": "Early Missions / Badagry 1842",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Samuel Ajayi Crowther is celebrated in Nigerian Christian history as the:",
+    "options": {
+      "A": "First African Anglican Bishop (consecrated in 1864) who translated the Bible into Yoruba",
+      "B": "First Methodist president in Calabar",
+      "C": "Founder of the Cherubim and Seraphim church",
+      "D": "First Governor of Lagos Colony"
+    },
+    "answer": "A",
+    "explanation": "Crowther led the Niger Mission and translated the Bible and Book of Common Prayer into Yoruba.",
+    "topic": "Bishop Samuel Ajayi Crowther",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Mary Mitchell Slessor, the Scottish Presbyterian missionary in Calabar, is famous for:",
+    "options": {
+      "A": "Eradicating the barbaric killing of twin babies and defending women's and children's rights",
+      "B": "Introducing coffee farming to Kano",
+      "C": "Building the first railway bridge over the Benue",
+      "D": "Leading the Aba women's protest against taxation"
+    },
+    "answer": "A",
+    "explanation": "She lived among the Efik and Ibibio, adopting abandoned twins and stopping human sacrifice.",
+    "topic": "Mary Slessor in Calabar",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Church Missionary Society (CMS) established Nigeria's first secondary grammar school in Lagos in 1859, known as:",
+    "options": {
+      "A": "CMS Grammar School, Lagos",
+      "B": "King's College, Lagos",
+      "C": "Hope Waddell Training Institution, Calabar",
+      "D": "Baptist Academy, Lagos"
+    },
+    "answer": "A",
+    "explanation": "CMS Grammar School was founded in June 1859 by Rev. Thomas Babington Macaulay.",
+    "topic": "CMS Grammar School 1859",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Christian missionary societies contributed immensely to socio-economic development in Nigeria through:",
+    "options": {
+      "A": "Establishing Western schools, training colleges, modern hospitals, and leper colonies",
+      "B": "Mining gold bullion exclusively for European kings",
+      "C": "Banning indigenous agricultural crops like yams",
+      "D": "Preventing Nigerians from learning reading and writing"
+    },
+    "answer": "A",
+    "explanation": "Missions built literacy, established healthcare clinics, and developed written orthographies for indigenous languages.",
+    "topic": "Missionary Contributions",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The indigenous African Independent Churches (Aladura churches) emerged in Southwestern Nigeria primarily to:",
+    "options": {
+      "A": "Incorporate African spiritual expressions, fervent prayer, divine healing, and indigenous music",
+      "B": "Promote European colonial government policies",
+      "C": "Abolish Christian baptism",
+      "D": "Enforce the Latin language in Sunday liturgy"
+    },
+    "answer": "A",
+    "explanation": "The Aladura movements (Christ Apostolic Church, Cherubim & Seraphim, Church of the Lord) met deep spiritual needs through prayer and healing.",
+    "topic": "Aladura Churches",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Apostle Joseph Ayo Babalola is celebrated as the charismatic evangelist who led the:",
+    "options": {
+      "A": "Great 1930 Revival at Oke Oye, Ilesa, leading to the rapid expansion of Christ Apostolic Church (CAC)",
+      "B": "Founding of the Roman Catholic mission in Onitsha",
+      "C": "Establishment of the Seventh-day Adventist hospital in Ile-Ife",
+      "D": "First translation of the Bible into Hausa"
+    },
+    "answer": "A",
+    "explanation": "The 1930 revival sparked unprecedented spiritual awakening, miraculous healings, and the eradication of occult shrines.",
+    "topic": "Apostle Joseph Ayo Babalola",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Father Joseph Shanahan (the Apostle of Eastern Nigeria) transformed Catholic evangelization in Igboland through:",
+    "options": {
+      "A": "Using rural primary and secondary bush schools as the primary vehicle of conversion and social advancement",
+      "B": "Imposing French language in local village courts",
+      "C": "Purchasing commercial river steamboats on River Niger",
+      "D": "Translating Latin missals into Portuguese"
+    },
+    "answer": "A",
+    "explanation": "Shanahan recognized that village schools attracted youth, educating and converting entire generations across Igboland.",
+    "topic": "Father Shanahan in Igboland",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The Christian Association of Nigeria (CAN) was established in 1976 as an umbrella ecumenical body to:",
+    "options": {
+      "A": "Promote Christian unity, defend religious freedom, and liaise with the government on national issues",
+      "B": "Form a single political party to contest general elections",
+      "C": "Abolish all denominational differences in doctrine",
+      "D": "Regulate commercial banking interest rates"
+    },
+    "answer": "A",
+    "explanation": "CAN unites Catholic, Protestant, Pentecostal, and African Indigenous churches to defend Christian welfare and advocate peace.",
+    "topic": "Christian Association of Nigeria (CAN)",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Inter-religious dialogue in a multi-faith country like Nigeria promotes:",
+    "options": {
+      "A": "Mutual respect, peaceful coexistence, and collaboration for national development",
+      "B": "The violent suppression of minority religious groups",
+      "C": "The compulsory unification of all sacred scriptures",
+      "D": "Banning of all holiday festivals"
+    },
+    "answer": "A",
+    "explanation": "Peaceful dialogue through bodies like NIREC (Nigeria Inter-Religious Council) de-escalates conflict and strengthens national unity.",
+    "topic": "Inter-religious Dialogue",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

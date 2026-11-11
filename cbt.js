@@ -276,10 +276,27 @@ async function startExam(mode) {
 
     // Read question count selector if available
     const jambCountSelect = document.getElementById("jambQuestionCountSelect");
-    questionsPerSub = jambCountSelect ? parseInt(jambCountSelect.value, 10) : 10;
-    
-    // Allocate 1 minute per question (e.g. 10 per sub = 40 mins, 20 per sub = 80 mins)
-    CBT.timerSeconds = questionsPerSub * 4 * 60;
+    const countVal = jambCountSelect ? jambCountSelect.value : "official";
+
+    if (countVal === "official") {
+      // Official Full JAMB UTME Mock: Exactly 180 Questions (60 English + 40 per elective) in 120 Minutes
+      CBT.jambQuestionsPerSub = {
+        english: 60,
+        [sub2]: 40,
+        [sub3]: 40,
+        [sub4]: 40
+      };
+      CBT.timerSeconds = 120 * 60; // 120 Minutes (2 Hours)
+    } else {
+      const qNum = parseInt(countVal, 10);
+      CBT.jambQuestionsPerSub = {
+        english: qNum,
+        [sub2]: qNum,
+        [sub3]: qNum,
+        [sub4]: qNum
+      };
+      CBT.timerSeconds = qNum * 4 * 60; // 1 min per question
+    }
   } else {
     const selectedEl = document.querySelector(".subject-card-select.selected");
     const chosenSub = selectedEl ? selectedEl.dataset.subject : "english";
@@ -289,9 +306,9 @@ async function startExam(mode) {
     CBT.studyMode = studyCheck ? studyCheck.checked : false;
 
     const singleCountSelect = document.getElementById("singleQuestionCountSelect");
-    questionsPerSub = singleCountSelect ? parseInt(singleCountSelect.value, 10) : 15;
+    questionsPerSub = singleCountSelect ? parseInt(singleCountSelect.value, 10) : 50;
     
-    const timeChoice = document.getElementById("singleDurationSelect")?.value || "15";
+    const timeChoice = document.getElementById("singleDurationSelect")?.value || "60";
     if (timeChoice === "0") {
       CBT.timerSeconds = 999 * 60; // Untimed
     } else {
@@ -315,8 +332,13 @@ async function startExam(mode) {
         CBT.rawBank[sub] = data;
       }
       
+      // Determine question count for this subject
+      const subCount = (mode === "jamb" && CBT.jambQuestionsPerSub)
+        ? (CBT.jambQuestionsPerSub[sub] || 40)
+        : questionsPerSub;
+
       // Generate a fresh randomized & option-scrambled subset for this student session
-      CBT.questionsData[sub] = selectSessionQuestions(CBT.rawBank[sub], questionsPerSub);
+      CBT.questionsData[sub] = selectSessionQuestions(CBT.rawBank[sub], subCount);
       CBT.userAnswers[sub] = {};
       CBT.flaggedMap[sub] = {};
     }

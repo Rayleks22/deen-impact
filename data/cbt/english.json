@@ -1,14 +1,14 @@
 [
   {
-    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe commissioner made an <u>ephemeral</u> remark during the press briefing.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe commissioner made an <u>ephemeral</u> remark during the press briefing.",
     "options": {
-      "A": "permanent",
-      "B": "transient",
+      "A": "transient",
+      "B": "permanent",
       "C": "lengthy",
       "D": "profound"
     },
-    "answer": "B",
-    "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' is its closest synonym.",
+    "answer": "A",
+    "explanation": "'Ephemeral' means lasting for a very short duration; transient.",
     "topic": "Synonyms & Lexis",
     "exam": "JAMB UTME",
     "year": "2024",
@@ -16,191 +16,191 @@
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nHer <u>audacious</u> approach to the dispute shocked the entire committee.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe accountant was dismissed for <u>embezzling</u> public funds.",
     "options": {
-      "A": "timid",
-      "B": "bold",
-      "C": "reckless",
-      "D": "insolent"
+      "A": "misappropriating",
+      "B": "investing",
+      "C": "borrowing",
+      "D": "auditing"
     },
     "answer": "A",
-    "explanation": "'Audacious' means bold, daring, or insolent. The direct opposite is 'timid' (fearful, hesitant).",
-    "topic": "Antonyms",
-    "exam": "JAMB UTME",
+    "explanation": "'Embezzle' means fraudulently taking money entrusted to one's care.",
+    "topic": "Synonyms & Lexis",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "From the options lettered A to D, choose the word that has the SAME VOWEL SOUND as the one represented by the underlined letter(s):\nb<u>ir</u>d",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe witness gave an <u>equivocal</u> answer to the prosecutor's question.",
     "options": {
-      "A": "heart",
-      "B": "word",
-      "C": "bread",
-      "D": "board"
+      "A": "ambiguous",
+      "B": "clear",
+      "C": "decisive",
+      "D": "truthful"
     },
-    "answer": "B",
-    "explanation": "The word 'bird' has the vowel sound /ɜː/. The word 'word' also has the /ɜː/ vowel sound.",
-    "topic": "Oral Forms / Vowel Sounds",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "answer": "A",
+    "explanation": "'Equivocal' means open to more than one interpretation; deliberately ambiguous.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 3,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that best completes the sentence:\nNeither the teacher nor the students _______ present at the orientation.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nHer <u>meticulous</u> research earned high commendation from the faculty.",
     "options": {
-      "A": "was",
-      "B": "were",
-      "C": "is",
-      "D": "has been"
+      "A": "painstaking",
+      "B": "careless",
+      "C": "hasty",
+      "D": "superficial"
     },
-    "answer": "B",
-    "explanation": "When two subjects are joined by 'neither... nor', the verb agrees in number with the subject closer to it ('the students' is plural, hence 'were').",
-    "topic": "Grammar & Concord",
-    "exam": "JAMB UTME",
-    "year": "2022",
+    "answer": "A",
+    "explanation": "'Meticulous' means showing great attention to detail; very careful and precise.",
+    "topic": "Synonyms & Lexis",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 4,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that best explains the idiom:\nTo <u>cut corners</u> in project execution often leads to catastrophe.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe president's speech was <u>lucid</u> and easily understood by all citizens.",
     "options": {
-      "A": "to turn sharp bends quickly",
-      "B": "to do something poorly in order to save time or money",
-      "C": "to divide into equal segments",
-      "D": "to recruit unqualified engineers"
+      "A": "clear",
+      "B": "complicated",
+      "C": "vague",
+      "D": "poetic"
     },
-    "answer": "B",
-    "explanation": "'To cut corners' means to undertake a task in the easiest, cheapest, or fastest way, often at the expense of quality and safety.",
-    "topic": "Idioms & Figures of Speech",
-    "exam": "WAEC SSCE",
-    "year": "2022",
+    "answer": "A",
+    "explanation": "'Lucid' means expressed clearly; easy to comprehend.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 5,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Identify the option with the primary STRESS on the second syllable:",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe military junta ruled with an <u>iron fist</u>, displaying extreme <u>tyranny</u>.",
     "options": {
-      "A": "photograph",
-      "B": "photographer",
-      "C": "photographic",
-      "D": "photocopy"
+      "A": "autocracy",
+      "B": "democracy",
+      "C": "compassion",
+      "D": "generosity"
     },
-    "answer": "B",
-    "explanation": "pho-TOG-ra-pher /fəˈtɒɡrəfə/ has its primary stress on the second syllable.",
-    "topic": "Oral Forms / Stress Patterns",
-    "exam": "JAMB UTME",
-    "year": "2021",
+    "answer": "A",
+    "explanation": "'Tyranny' denotes cruel and oppressive governmental power or despotism.",
+    "topic": "Synonyms & Lexis",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the correct preposition to complete the sentence:\nThe committee members could not agree _______ a date for the upcoming summit.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe young apprentice showed an <u>astute</u> understanding of commercial trade.",
     "options": {
-      "A": "on",
-      "B": "with",
-      "C": "to",
-      "D": "for"
+      "A": "shrewd",
+      "B": "dull",
+      "C": "naive",
+      "D": "foolish"
     },
     "answer": "A",
-    "explanation": "One 'agrees on' a plan, date, or decision with others; one 'agrees with' a person, and 'agrees to' a proposal.",
-    "topic": "Prepositions & Phrasal Verbs",
-    "exam": "WAEC SSCE",
-    "year": "2021",
+    "explanation": "'Astute' means having or showing an ability to accurately assess situations to one's advantage.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB UTME",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe accountant was fired for <u>embezzling</u> company funds.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nHis <u>belligerent</u> attitude during the dispute made a peaceful settlement impossible.",
     "options": {
-      "A": "misappropriating",
-      "B": "borrowing",
-      "C": "investing",
-      "D": "auditing"
+      "A": "hostile",
+      "B": "peaceful",
+      "C": "conciliatory",
+      "D": "friendly"
     },
     "answer": "A",
-    "explanation": "'Embezzle' means to secretly and illegally take funds entrusted to one's care. 'Misappropriating' is the accurate synonym.",
+    "explanation": "'Belligerent' means hostile, aggressive, and eager to fight.",
     "topic": "Synonyms & Lexis",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that correctly completes the sentence:\nIf Musa had prepared adequately, he _______ the scholarship exam.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe medicine gave <u>instantaneous</u> relief to the sick child.",
     "options": {
-      "A": "would pass",
-      "B": "would have passed",
-      "C": "will pass",
-      "D": "passed"
+      "A": "immediate",
+      "B": "gradual",
+      "C": "slow",
+      "D": "temporary"
     },
-    "answer": "B",
-    "explanation": "Third conditional rule: 'If + past perfect (had prepared) ... would have + past participle (passed)'.",
-    "topic": "Conditional Clauses & Tenses",
+    "answer": "A",
+    "explanation": "'Instantaneous' means occurring or done in an instant.",
+    "topic": "Synonyms & Lexis",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nThe juvenile judge delivered a very <u>stringent</u> penalty to the offender.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe magistrate granted bail on <u>stringent</u> conditions.",
     "options": {
-      "A": "lenient",
-      "B": "harsh",
-      "C": "strict",
-      "D": "severe"
+      "A": "rigorous",
+      "B": "flexible",
+      "C": "lenient",
+      "D": "unimportant"
     },
     "answer": "A",
-    "explanation": "'Stringent' means rigorous, strict, or precise. The opposite is 'lenient' (permissive, merciful).",
-    "topic": "Antonyms",
+    "explanation": "'Stringent' means strict, precise, and exacting.",
+    "topic": "Synonyms & Lexis",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that has the SAME CONSONANT SOUND as the one underlined in the given word:\n<u>ch</u>emistry",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nHe made a <u>cursory</u> glance through the document before signing.",
     "options": {
-      "A": "church",
-      "B": "anchor",
-      "C": "chef",
-      "D": "charity"
+      "A": "superficial",
+      "B": "thorough",
+      "C": "careful",
+      "D": "prolonged"
     },
-    "answer": "B",
-    "explanation": "The 'ch' in 'chemistry' is pronounced /k/. 'Anchor' also has the /k/ sound, whereas 'church' is /tʃ/ and 'chef' is /ʃ/.",
-    "topic": "Oral Forms / Consonants",
+    "answer": "A",
+    "explanation": "'Cursory' means hasty and therefore not thorough or detailed.",
+    "topic": "Synonyms & Lexis",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Select the option that best completes the sentence:\nNeither of the suspects _______ willing to confess to the robbery.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe minister was accused of <u>cronyism</u> in appointing board directors.",
     "options": {
-      "A": "were",
-      "B": "is",
-      "C": "are",
-      "D": "have been"
+      "A": "favoritism",
+      "B": "meritocracy",
+      "C": "honesty",
+      "D": "efficiency"
     },
-    "answer": "B",
-    "explanation": "'Neither' followed by 'of the [plural noun]' takes a singular verb in formal standard English ('is').",
-    "topic": "Grammar & Concord",
-    "exam": "JAMB UTME",
+    "answer": "A",
+    "explanation": "'Cronyism' is the practice of appointing friends and associates to positions without regard to qualification.",
+    "topic": "Synonyms & Lexis",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe candidate gave an <u>equivocal</u> answer to the journalist's query.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nHer <u>impeccable</u> integrity is acknowledged across the judiciary.",
     "options": {
-      "A": "ambiguous",
-      "B": "clear",
-      "C": "straightforward",
-      "D": "concise"
+      "A": "flawless",
+      "B": "doubtful",
+      "C": "questionable",
+      "D": "tarnished"
     },
     "answer": "A",
-    "explanation": "'Equivocal' means open to more than one interpretation; deliberately ambiguous.",
+    "explanation": "'Impeccable' means conforming to the highest standards; faultless.",
     "topic": "Synonyms & Lexis",
     "exam": "JAMB UTME",
     "year": "2022",
@@ -208,195 +208,1395 @@
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nThe newly appointed manager was praised for his <u>frugal</u> lifestyle.",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nThe novel is a <u>compendium</u> of traditional Yoruba folklore.",
     "options": {
-      "A": "economical",
-      "B": "extravagant",
-      "C": "prudent",
-      "D": "austere"
+      "A": "collection",
+      "B": "critique",
+      "C": "condemnation",
+      "D": "parody"
     },
-    "answer": "B",
-    "explanation": "'Frugal' means sparing or economical with money. Its opposite is 'extravagant' (wasteful or spending excessively).",
-    "topic": "Antonyms",
+    "answer": "A",
+    "explanation": "'Compendium' is a concise, comprehensive compilation or anthology.",
+    "topic": "Synonyms & Lexis",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following sentences illustrates the correct use of a subjunctive mood?",
+    "question": "Choose the option NEAREST IN MEANING to the underlined word:\nHe was praised for his <u>magnanimous</u> gesture toward his political rivals.",
     "options": {
-      "A": "I wish I was in London today.",
-      "B": "The principal demanded that each student be seated by 8:00 AM.",
-      "C": "If he comes tomorrow, he will meet us.",
-      "D": "She speaks as if she knows everything."
+      "A": "generous",
+      "B": "spiteful",
+      "C": "petty",
+      "D": "vindictive"
     },
-    "answer": "B",
-    "explanation": "The mandative subjunctive uses the base form of the verb ('be seated') following verbs of demand, request, or recommendation.",
-    "topic": "Grammar & Moods",
+    "answer": "A",
+    "explanation": "'Magnanimous' means generous or forgiving, especially toward a rival or less powerful person.",
+    "topic": "Synonyms & Lexis",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option with the correct question tag:\nShe hardly ever arrives on time, _______?",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nHer <u>audacious</u> behavior shocked the disciplinary committee.",
     "options": {
-      "A": "doesn't she",
-      "B": "does she",
-      "C": "isn't it",
-      "D": "has she"
+      "A": "timid",
+      "B": "bold",
+      "C": "insolent",
+      "D": "reckless"
     },
-    "answer": "B",
-    "explanation": "'Hardly' carries a negative meaning, so the question tag must be positive ('does she?').",
-    "topic": "Question Tags",
-    "exam": "WAEC SSCE",
-    "year": "2020",
+    "answer": "A",
+    "explanation": "'Audacious' means bold and brazen; its direct opposite is 'timid'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2024",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "From the words lettered A to D, choose the word that contains the sound /θ/:",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe principal gave a very <u>lenient</u> punishment to the remorseful student.",
     "options": {
-      "A": "breathe",
-      "B": "weather",
-      "C": "wrath",
-      "D": "though"
+      "A": "stringent",
+      "B": "mild",
+      "C": "forgiving",
+      "D": "gentle"
     },
-    "answer": "C",
-    "explanation": "'Wrath' ends with the voiceless dental fricative /θ/. In 'breathe', 'weather', and 'though', 'th' is the voiced dental fricative /ð/.",
-    "topic": "Oral Forms / Consonants",
-    "exam": "JAMB UTME",
-    "year": "2019",
+    "answer": "A",
+    "explanation": "'Lenient' means merciful and tolerant; the opposite is 'stringent' or 'severe'.",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2023",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that best completes the sentence:\nThe car broke _______ right in the middle of the third mainland bridge.",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe young man was celebrated for his <u>frugal</u> lifestyle.",
     "options": {
-      "A": "up",
-      "B": "down",
-      "C": "off",
-      "D": "out"
+      "A": "extravagant",
+      "B": "prudent",
+      "C": "economical",
+      "D": "austere"
     },
-    "answer": "B",
-    "explanation": "'Break down' is the phrasal verb meaning to cease functioning (for a vehicle or machine).",
-    "topic": "Phrasal Verbs",
-    "exam": "WAEC SSCE",
-    "year": "2023",
+    "answer": "A",
+    "explanation": "'Frugal' means sparing with money; the antonym is 'extravagant' or 'wasteful'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2022",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Identify the option with the stress pattern 'da-DA-da-da' (primary stress on the second syllable):",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nHis arguments during the debate were remarkably <u>cogent</u>.",
     "options": {
-      "A": "refrigerator",
-      "B": "certificate",
-      "C": "democratic",
-      "D": "understanding"
+      "A": "unconvincing",
+      "B": "persuasive",
+      "C": "logical",
+      "D": "sound"
     },
-    "answer": "B",
-    "explanation": "cer-TIF-i-cate /səˈtɪfɪkət/ has four syllables with the primary stress on the second syllable.",
-    "topic": "Oral Forms / Stress Patterns",
-    "exam": "JAMB UTME",
-    "year": "2018",
+    "answer": "A",
+    "explanation": "'Cogent' means clear, logical, and convincing; the antonym is 'unconvincing'.",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2021",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is NEAREST IN MEANING to the underlined phrase:\nThe politician's promises were all <u>castles in the air</u>.",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe witness gave a <u>candid</u> account of the accident.",
     "options": {
-      "A": "architectural masterpieces",
-      "B": "unrealistic dreams",
-      "C": "magnificent speeches",
-      "D": "historical facts"
+      "A": "deceitful",
+      "B": "frank",
+      "C": "honest",
+      "D": "truthful"
     },
-    "answer": "B",
-    "explanation": "'Castles in the air' is an idiom meaning visionary schemes, daydreams, or unrealistic plans that have no foundation.",
-    "topic": "Idioms & Figures of Speech",
-    "exam": "WAEC SSCE",
-    "year": "2022",
+    "answer": "A",
+    "explanation": "'Candid' means truthful and straightforward; its opposite is 'deceitful'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2020",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that best completes the sentence:\nBy December next year, my sister _______ from the university.",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThere was a <u>dearth</u> of skilled engineers in the post-war reconstruction.",
     "options": {
-      "A": "will graduate",
-      "B": "will have graduated",
-      "C": "would graduate",
-      "D": "graduated"
+      "A": "surplus",
+      "B": "scarcity",
+      "C": "shortage",
+      "D": "lack"
     },
-    "answer": "B",
-    "explanation": "The future perfect tense ('will have graduated') describes an action that will be completed before a specified point in future time.",
-    "topic": "Tenses & Aspect",
-    "exam": "JAMB UTME",
-    "year": "2024",
+    "answer": "A",
+    "explanation": "'Dearth' means scarcity or lack; its antonym is 'surplus' or 'abundance'.",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nHer arguments during the symposium were remarkably <u>cogent</u>.",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe diplomat spoke with remarkable <u>candour</u> and sincerity.",
     "options": {
-      "A": "convincing",
-      "B": "unconvincing",
-      "C": "logical",
-      "D": "persuasive"
+      "A": "hypocrisy",
+      "B": "openness",
+      "C": "frankness",
+      "D": "honesty"
     },
-    "answer": "B",
-    "explanation": "'Cogent' means clear, logical, and convincing. The direct antonym is 'unconvincing'.",
+    "answer": "A",
+    "explanation": "'Candour' is honesty and frankness; its opposite is 'hypocrisy' or 'deceit'.",
     "topic": "Antonyms",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the word with the correct spelling:",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe council took a <u>unanimous</u> decision on the building project.",
     "options": {
-      "A": "accomodation",
-      "B": "accommodation",
-      "C": "acommodation",
-      "D": "acomodation"
+      "A": "divided",
+      "B": "collective",
+      "C": "harmonious",
+      "D": "general"
     },
-    "answer": "B",
-    "explanation": "The standard English spelling is 'accommodation' with double 'c' and double 'm'.",
-    "topic": "Lexis & Spelling",
+    "answer": "A",
+    "explanation": "'Unanimous' means fully in agreement; the opposite is 'divided' or 'contentious'.",
+    "topic": "Antonyms",
     "exam": "WAEC SSCE",
-    "year": "2021",
+    "year": "2017",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In the sentence 'The students were listening <u>attentively</u>', the underlined word functions as a/an:",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe athlete made a <u>feeble</u> attempt to clear the high hurdle.",
     "options": {
-      "A": "adjective",
-      "B": "adverb of manner",
-      "C": "noun phrase",
-      "D": "preposition"
+      "A": "vigorous",
+      "B": "weak",
+      "C": "frail",
+      "D": "clumsy"
     },
-    "answer": "B",
-    "explanation": "'Attentively' modifies the verb 'were listening', describing how the action was performed (adverb of manner).",
-    "topic": "Grammar & Parts of Speech",
-    "exam": "WAEC SSCE",
-    "year": "2018",
+    "answer": "A",
+    "explanation": "'Feeble' means weak; the opposite is 'vigorous' or 'forceful'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 24,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Choose the option that best completes the sentence:\nHe was acquitted _______ the charges leveled against him.",
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe city experienced a <u>perpetual</u> drought for three years.",
     "options": {
-      "A": "from",
-      "B": "of",
-      "C": "with",
-      "D": "off"
+      "A": "intermittent",
+      "B": "ceaseless",
+      "C": "constant",
+      "D": "continuous"
     },
-    "answer": "B",
-    "explanation": "The verb 'acquit' collocated with the preposition 'of' means to declare someone not guilty of a crime.",
-    "topic": "Prepositions & Collocations",
+    "answer": "A",
+    "explanation": "'Perpetual' means never ending or continuous; the opposite is 'intermittent' or 'occasional'.",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nHer <u>arrogant</u> tone alienated most of her colleagues.",
+    "options": {
+      "A": "humble",
+      "B": "haughty",
+      "C": "proud",
+      "D": "imperious"
+    },
+    "answer": "A",
+    "explanation": "'Arrogant' means haughty; the opposite is 'humble' or 'modest'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe defendant was <u>convicted</u> by the high court judge.",
+    "options": {
+      "A": "acquitted",
+      "B": "sentenced",
+      "C": "imprisoned",
+      "D": "indicted"
+    },
+    "answer": "A",
+    "explanation": "'Convict' means declared guilty; the opposite is 'acquit' (declared innocent).",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe company's profits have been <u>soaring</u> over the past quarter.",
+    "options": {
+      "A": "plummeting",
+      "B": "rising",
+      "C": "escalating",
+      "D": "multiplying"
+    },
+    "answer": "A",
+    "explanation": "'Soaring' means rising rapidly; the opposite is 'plummeting' or 'declining'.",
+    "topic": "Antonyms",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nHis speech was full of <u>hostility</u> toward the new policies.",
+    "options": {
+      "A": "amity",
+      "B": "enmity",
+      "C": "spite",
+      "D": "animosity"
+    },
+    "answer": "A",
+    "explanation": "'Hostility' means antagonism; its antonym is 'amity' (friendship) or 'goodwill'.",
+    "topic": "Antonyms",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the underlined word:\nThe terrain was <u>treacherous</u> and full of hidden ravines.",
+    "options": {
+      "A": "safe",
+      "B": "perilous",
+      "C": "hazardous",
+      "D": "dangerous"
+    },
+    "answer": "A",
+    "explanation": "'Treacherous' means hazardous and unpredictable; the opposite is 'safe'.",
+    "topic": "Antonyms",
     "exam": "JAMB UTME",
     "year": "2020",
-    "id": 25,
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Neither the teacher nor the students _______ present at the seminar.",
+    "options": {
+      "A": "were",
+      "B": "was",
+      "C": "is",
+      "D": "has been"
+    },
+    "answer": "A",
+    "explanation": "In 'neither... nor', the verb agrees with the closer subject ('the students' is plural → 'were').",
+    "topic": "Concord",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Neither of the two suspects _______ willing to confess to the crime.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "answer": "A",
+    "explanation": "'Neither of + plural noun' takes a singular verb in standard formal English ('is').",
+    "topic": "Concord",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "If Musa had prepared adequately, he _______ the scholarship exam.",
+    "options": {
+      "A": "would have passed",
+      "B": "would pass",
+      "C": "will pass",
+      "D": "passed"
+    },
+    "answer": "A",
+    "explanation": "Third conditional: If + past perfect (had prepared) ... would have + past participle (passed).",
+    "topic": "Conditionals",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The principal demanded that every student _______ in the auditorium by 8:00 AM.",
+    "options": {
+      "A": "be",
+      "B": "is",
+      "C": "was",
+      "D": "are"
+    },
+    "answer": "A",
+    "explanation": "The mandative subjunctive uses the bare base form of the verb ('be').",
+    "topic": "Subjunctive Mood",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "By this time next year, my sister _______ from the university.",
+    "options": {
+      "A": "will have graduated",
+      "B": "will graduate",
+      "C": "graduated",
+      "D": "would graduate"
+    },
+    "answer": "A",
+    "explanation": "Future perfect tense expresses action that will be completed before a future time.",
+    "topic": "Tenses",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "She hardly ever arrives early to meetings, _______?",
+    "options": {
+      "A": "does she",
+      "B": "doesn't she",
+      "C": "isn't it",
+      "D": "has she"
+    },
+    "answer": "A",
+    "explanation": "'Hardly' carries a negative sense, requiring a positive question tag ('does she?').",
+    "topic": "Question Tags",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "One of the boys who _______ selected for the tournament has sustained an injury.",
+    "options": {
+      "A": "were",
+      "B": "was",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "A",
+    "explanation": "The relative clause 'who were selected' modifies the plural antecedent 'boys'.",
+    "topic": "Relative Concord",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The jury _______ divided in their opinions regarding the verdict.",
+    "options": {
+      "A": "were",
+      "B": "was",
+      "C": "is",
+      "D": "has been"
+    },
+    "answer": "A",
+    "explanation": "When collective nouns act as individuals in disagreement, a plural verb ('were') is used.",
+    "topic": "Collective Noun Concord",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The minister, accompanied by his directors, _______ arrived at the venue.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "are",
+      "D": "were"
+    },
+    "answer": "A",
+    "explanation": "Parenthetical expressions ('accompanied by') do not alter the singular subject 'the minister'.",
+    "topic": "Subject-Verb Concord",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "You had better _______ early before the traffic builds up.",
+    "options": {
+      "A": "leave",
+      "B": "left",
+      "C": "to leave",
+      "D": "leaving"
+    },
+    "answer": "A",
+    "explanation": "'Had better' takes a bare infinitive without 'to' ('leave').",
+    "topic": "Modal Auxiliaries",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Five kilometers _______ a long distance to walk in the scorching sun.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "answer": "A",
+    "explanation": "Expressions of measurement, distance, or time take a singular verb when considered as a single unit.",
+    "topic": "Measure Concord",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The boy told me that he _______ his assignment before going to bed.",
+    "options": {
+      "A": "had finished",
+      "B": "has finished",
+      "C": "finishes",
+      "D": "will finish"
+    },
+    "answer": "A",
+    "explanation": "Reported past speech requires the past perfect 'had finished'.",
+    "topic": "Reported Speech",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "He was accused _______ stealing the examination question papers.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "with",
+      "D": "about"
+    },
+    "answer": "A",
+    "explanation": "The verb 'accuse' takes the preposition 'of'.",
+    "topic": "Prepositions",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The girl was congratulated _______ winning the national essay contest.",
+    "options": {
+      "A": "on",
+      "B": "for",
+      "C": "with",
+      "D": "about"
+    },
+    "answer": "A",
+    "explanation": "One is 'congratulated on' an achievement or success.",
+    "topic": "Prepositions",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "I would rather you _______ now to avoid the heavy evening rain.",
+    "options": {
+      "A": "left",
+      "B": "leave",
+      "C": "to leave",
+      "D": "had left"
+    },
+    "answer": "A",
+    "explanation": "'Would rather + subject' takes the past subjunctive ('left') for present/future reference.",
+    "topic": "Subjunctive / Would Rather",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Scarcely had the president arrived _______ the national anthem began.",
+    "options": {
+      "A": "when",
+      "B": "than",
+      "C": "before",
+      "D": "then"
+    },
+    "answer": "A",
+    "explanation": "'Scarcely... when' and 'Hardly... when' are paired correlates (compared to 'No sooner... than').",
+    "topic": "Correlative Conjunctions",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "No sooner had we entered the hall _______ the lights went out.",
+    "options": {
+      "A": "than",
+      "B": "when",
+      "C": "then",
+      "D": "before"
+    },
+    "answer": "A",
+    "explanation": "'No sooner' is always correlated with 'than'.",
+    "topic": "Correlative Conjunctions",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Neither of the dresses _______ my sister properly.",
+    "options": {
+      "A": "fits",
+      "B": "fit",
+      "C": "are fitting",
+      "D": "have fitted"
+    },
+    "answer": "A",
+    "explanation": "'Neither of' takes a singular verb ('fits').",
+    "topic": "Concord",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The police _______ investigating the robbery that occurred last night.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "was",
+      "D": "has been"
+    },
+    "answer": "A",
+    "explanation": "'Police' is always plural in English and takes a plural verb ('are').",
+    "topic": "Plural Nouns Concord",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Let you and _______ settle this matter amicably.",
+    "options": {
+      "A": "me",
+      "B": "I",
+      "C": "myself",
+      "D": "we"
+    },
+    "answer": "A",
+    "explanation": "'Let' is a transitive verb that requires objective pronoun case ('let me').",
+    "topic": "Pronoun Case",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "To <u>cut corners</u> during house construction means to:",
+    "options": {
+      "A": "Do something poorly or cheaply to save time or money",
+      "B": "Round off edges smoothly",
+      "C": "Hire experienced builders",
+      "D": "Paint walls brightly"
+    },
+    "answer": "A",
+    "explanation": "'Cut corners' means doing something in an easy or cheap way at the expense of quality.",
+    "topic": "Idioms",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "His extravagant promises were all <u>castles in the air</u>, meaning they were:",
+    "options": {
+      "A": "Unrealistic daydreams",
+      "B": "Magnificent mansions",
+      "C": "Concrete plans",
+      "D": "Historical documents"
+    },
+    "answer": "A",
+    "explanation": "'Castles in the air' denotes visionary schemes that have no practical foundation.",
+    "topic": "Idioms",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The old generator finally <u>broke down</u> yesterday. 'Broke down' means:",
+    "options": {
+      "A": "Ceased functioning",
+      "B": "Fell into pieces",
+      "C": "Exploded violently",
+      "D": "Was sold cheaply"
+    },
+    "answer": "A",
+    "explanation": "'Break down' means to stop working due to a mechanical fault.",
+    "topic": "Phrasal Verbs",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "She decided to <u>turn over a new leaf</u> at the start of the academic term.",
+    "options": {
+      "A": "Change her behavior for the better",
+      "B": "Read more novel pages",
+      "C": "Plant flowers in the garden",
+      "D": "Tear her notebook"
+    },
+    "answer": "A",
+    "explanation": "'Turn over a new leaf' means to reform and start behaving in a better, more responsible way.",
+    "topic": "Idioms",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The committee decided to <u>call off</u> the strike action.",
+    "options": {
+      "A": "Cancel",
+      "B": "Postpone",
+      "C": "Accelerate",
+      "D": "Announce"
+    },
+    "answer": "A",
+    "explanation": "'Call off' means to cancel a planned event or operation.",
+    "topic": "Phrasal Verbs",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "To <u>burn the midnight oil</u> signifies:",
+    "options": {
+      "A": "To study or work late into the night",
+      "B": "To set fuel ablaze",
+      "C": "To waste energy recklessly",
+      "D": "To cook dinner at midnight"
+    },
+    "answer": "A",
+    "explanation": "'Burn the midnight oil' means working or reading late into the night.",
+    "topic": "Idioms",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The detective left no stone unturned in the murder investigation.",
+    "options": {
+      "A": "Did everything possible to uncover the truth",
+      "B": "Searched through quarries",
+      "C": "Ignored physical evidence",
+      "D": "Arrested passersby"
+    },
+    "answer": "A",
+    "explanation": "'Leave no stone unturned' means trying every possible course of action in order to achieve something.",
+    "topic": "Idioms",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The manager asked the secretary to <u>put up with</u> the temporary discomfort.",
+    "options": {
+      "A": "Tolerate",
+      "B": "Reject",
+      "C": "Complain about",
+      "D": "Increase"
+    },
+    "answer": "A",
+    "explanation": "'Put up with' means to tolerate or endure an unpleasant situation patiently.",
+    "topic": "Phrasal Verbs",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The politician was caught <u>red-handed</u> accepting a bribe.",
+    "options": {
+      "A": "In the very act of committing the crime",
+      "B": "With dyed hands",
+      "C": "After escaping to the airport",
+      "D": "In his office wearing gloves"
+    },
+    "answer": "A",
+    "explanation": "'Caught red-handed' means apprehended while actually doing something illegal.",
+    "topic": "Idioms",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "He needs to <u>brush up on</u> his French before traveling to Paris.",
+    "options": {
+      "A": "Refresh and improve his knowledge",
+      "B": "Forget",
+      "C": "Translate",
+      "D": "Teach others"
+    },
+    "answer": "A",
+    "explanation": "'Brush up on' means to review and refresh one's knowledge of something.",
+    "topic": "Phrasal Verbs",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "She shed <u>crocodile tears</u> when her rival was disqualified.",
+    "options": {
+      "A": "False, insincere display of sorrow",
+      "B": "Real tears of sadness",
+      "C": "Tears caused by reptile bites",
+      "D": "Silent tears"
+    },
+    "answer": "A",
+    "explanation": "'Crocodile tears' denotes a hypocritical or insincere display of grief.",
+    "topic": "Idioms",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The young entrepreneur had to <u>foot the bill</u> for the damaged equipment.",
+    "options": {
+      "A": "Pay the entire cost",
+      "B": "Kick the invoice",
+      "C": "Refuse to pay",
+      "D": "Divide the bill"
+    },
+    "answer": "A",
+    "explanation": "'Foot the bill' means to take financial responsibility and pay for something.",
+    "topic": "Idioms",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "They had to <u>do away with</u> the outdated manual filing system.",
+    "options": {
+      "A": "Abolish or discard",
+      "B": "Repair",
+      "C": "Store",
+      "D": "Hide"
+    },
+    "answer": "A",
+    "explanation": "'Do away with' means to abolish, discard, or eliminate.",
+    "topic": "Phrasal Verbs",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The two countries decided to <u>bury the hatchet</u> after years of war.",
+    "options": {
+      "A": "Make peace and end conflict",
+      "B": "Hide dangerous weapons",
+      "C": "Dig trenches",
+      "D": "Purchase missiles"
+    },
+    "answer": "A",
+    "explanation": "'Bury the hatchet' means to settle disagreements and become reconciled.",
+    "topic": "Idioms",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "He was <u>taken aback</u> by the sudden announcement of the resignation.",
+    "options": {
+      "A": "Surprised and shocked",
+      "B": "Pleased",
+      "C": "Pushed backwards",
+      "D": "Indifferent"
+    },
+    "answer": "A",
+    "explanation": "'Taken aback' means astonished, startled, or surprised.",
+    "topic": "Phrasal Verbs",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the SAME VOWEL SOUND as the underlined: b<u>ir</u>d",
+    "options": {
+      "A": "word",
+      "B": "heart",
+      "C": "bread",
+      "D": "board"
+    },
+    "answer": "A",
+    "explanation": "'Bird' and 'word' both share the central vowel sound /ɜː/.",
+    "topic": "Oral Forms / Vowels",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the SAME CONSONANT SOUND as the underlined: <u>ch</u>emistry",
+    "options": {
+      "A": "anchor",
+      "B": "church",
+      "C": "chef",
+      "D": "charity"
+    },
+    "answer": "A",
+    "explanation": "The 'ch' in 'chemistry' is pronounced /k/, matching 'anchor'.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the word with the PRIMARY STRESS on the second syllable:",
+    "options": {
+      "A": "pho-TOG-ra-pher",
+      "B": "PHO-to-graph",
+      "C": "pho-to-GRAPH-ic",
+      "D": "PHO-to-cop-y"
+    },
+    "answer": "A",
+    "explanation": "'Photographer' /fəˈtɒɡrəfə/ has primary stress on the second syllable.",
+    "topic": "Oral Forms / Stress",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the voiceless dental fricative sound /θ/:",
+    "options": {
+      "A": "wrath",
+      "B": "breathe",
+      "C": "weather",
+      "D": "though"
+    },
+    "answer": "A",
+    "explanation": "'Wrath' ends in /θ/; in 'breathe', 'weather', and 'though', 'th' is voiced /ð/.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word that has the vowel sound /iː/:",
+    "options": {
+      "A": "seat",
+      "B": "sit",
+      "C": "set",
+      "D": "sight"
+    },
+    "answer": "A",
+    "explanation": "'Seat' has the long vowel sound /iː/; 'sit' has short /ɪ/.",
+    "topic": "Oral Forms / Vowels",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the word where the underlined 'th' is VOICED /ð/:",
+    "options": {
+      "A": "fa<u>th</u>er",
+      "B": "<u>th</u>ink",
+      "C": "<u>th</u>ief",
+      "D": "<u>th</u>ree"
+    },
+    "answer": "A",
+    "explanation": "'Father' contains the voiced dental fricative /ð/.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the primary stress on the FIRST syllable:",
+    "options": {
+      "A": "OR-gan-ize",
+      "B": "con-TROL",
+      "C": "de-CIDE",
+      "D": "re-CEIVE"
+    },
+    "answer": "A",
+    "explanation": "'Organize' has its primary accent on the first syllable.",
+    "topic": "Oral Forms / Stress",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the silent letter 'b':",
+    "options": {
+      "A": "climb",
+      "B": "timber",
+      "C": "table",
+      "D": "robot"
+    },
+    "answer": "A",
+    "explanation": "In 'climb' /klaɪm/, the final 'b' is completely silent.",
+    "topic": "Silent Letters",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the diphthong /eɪ/:",
+    "options": {
+      "A": "face",
+      "B": "fast",
+      "C": "farm",
+      "D": "food"
+    },
+    "answer": "A",
+    "explanation": "'Face' contains the diphthong /eɪ/.",
+    "topic": "Diphthongs",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the word with the primary stress on the THIRD syllable:",
+    "options": {
+      "A": "dem-o-CRAT-ic",
+      "B": "po-LIT-i-cal",
+      "C": "ED-u-cate",
+      "D": "CON-fer-ence"
+    },
+    "answer": "A",
+    "explanation": "Words ending in '-ic' typically take stress on the penultimate (here 3rd) syllable: dem-o-CRAT-ic.",
+    "topic": "Stress Patterns",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the vowel sound /uː/:",
+    "options": {
+      "A": "pool",
+      "B": "pull",
+      "C": "pot",
+      "D": "put"
+    },
+    "answer": "A",
+    "explanation": "'Pool' has the long back vowel /uː/; 'pull' has short /ʊ/.",
+    "topic": "Oral Forms / Vowels",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the silent letter 'k':",
+    "options": {
+      "A": "knight",
+      "B": "king",
+      "C": "kettle",
+      "D": "kitten"
+    },
+    "answer": "A",
+    "explanation": "In 'knight' /naɪt/, both 'k' and 'gh' are silent.",
+    "topic": "Silent Letters",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following words has the stress pattern 'da-DA-da' (stress on second syllable)?",
+    "options": {
+      "A": "con-SID-er",
+      "B": "POS-si-ble",
+      "C": "DEL-i-cate",
+      "D": "NAT-u-ral"
+    },
+    "answer": "A",
+    "explanation": "con-SID-er has primary stress on the second syllable.",
+    "topic": "Oral Forms / Stress",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word that rhymes with 'through':",
+    "options": {
+      "A": "clue",
+      "B": "rough",
+      "C": "dough",
+      "D": "bough"
+    },
+    "answer": "A",
+    "explanation": "'Through' /θruː/ rhymes with 'clue' /kluː/.",
+    "topic": "Rhymes",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the consonant sound /ʃ/:",
+    "options": {
+      "A": "sugar",
+      "B": "suit",
+      "C": "soap",
+      "D": "sun"
+    },
+    "answer": "A",
+    "explanation": "'Sugar' is pronounced /ˈʃʊɡə/ with the initial /ʃ/ sound.",
+    "topic": "Oral Forms / Consonants",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the word where the letter 'p' is SILENT:",
+    "options": {
+      "A": "psychology",
+      "B": "party",
+      "C": "public",
+      "D": "pencil"
+    },
+    "answer": "A",
+    "explanation": "In 'psychology', 'p' before 's' is silent.",
+    "topic": "Silent Letters",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In emphatic stress: 'John bought a RED car.' What question does this answer?",
+    "options": {
+      "A": "Did John buy a blue car?",
+      "B": "Did Musa buy a red car?",
+      "C": "Did John sell a red car?",
+      "D": "Did John buy a red bicycle?"
+    },
+    "answer": "A",
+    "explanation": "Stressing RED contrasts the color of the car.",
+    "topic": "Emphatic Stress",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the vowel sound /æ/:",
+    "options": {
+      "A": "cat",
+      "B": "cart",
+      "C": "cut",
+      "D": "caught"
+    },
+    "answer": "A",
+    "explanation": "'Cat' has the short front open vowel /æ/.",
+    "topic": "Vowel Sounds",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the word with the silent letter 'w':",
+    "options": {
+      "A": "sword",
+      "B": "sweet",
+      "C": "swim",
+      "D": "swing"
+    },
+    "answer": "A",
+    "explanation": "'Sword' is pronounced /sɔːd/; the 'w' is completely silent.",
+    "topic": "Silent Letters",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Identify the word with the primary stress on the first syllable:",
+    "options": {
+      "A": "COM-fort-a-ble",
+      "B": "re-MARK-a-ble",
+      "C": "in-FLA-tion",
+      "D": "pro-DUC-tion"
+    },
+    "answer": "A",
+    "explanation": "'Comfortable' /ˈkʌmftəbl/ has its primary stress on the first syllable.",
+    "topic": "Oral Forms / Stress",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the option with the correct standard English spelling:",
+    "options": {
+      "A": "Accommodation",
+      "B": "Accomodation",
+      "C": "Acommodation",
+      "D": "Acomodation"
+    },
+    "answer": "A",
+    "explanation": "'Accommodation' has double 'c' and double 'm'.",
+    "topic": "Spelling",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Embarrassment",
+      "B": "Embarassment",
+      "C": "Embarasment",
+      "D": "Embarrassmant"
+    },
+    "answer": "A",
+    "explanation": "'Embarrassment' has double 'r' and double 's'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which sentence is correctly punctuated?",
+    "options": {
+      "A": "The teacher said, 'Be quiet and open your textbooks.'",
+      "B": "The teacher said 'Be quiet and open your textbooks.'",
+      "C": "The teacher said, Be quiet and open your textbooks.",
+      "D": "The teacher said, 'Be quiet and open your textbooks'."
+    },
+    "answer": "A",
+    "explanation": "Direct speech requires a comma before the opening quotation mark and the period inside the closing quote.",
+    "topic": "Punctuation",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Privilege",
+      "B": "Priviledge",
+      "C": "Privelege",
+      "D": "Privilige"
+    },
+    "answer": "A",
+    "explanation": "'Privilege' has no 'd' in its spelling.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In the medical register, an 'inpatient' is someone who:",
+    "options": {
+      "A": "Stays in a hospital while under treatment",
+      "B": "Visits the clinic and returns home same day",
+      "C": "Refuses to wait patiently for a doctor",
+      "D": "Undergoes laboratory tests only"
+    },
+    "answer": "A",
+    "explanation": "An inpatient is admitted to stay overnight or longer for medical care.",
+    "topic": "Registers / Medicine",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Maintenance",
+      "B": "Maintainance",
+      "C": "Maintenence",
+      "D": "Maintanance"
+    },
+    "answer": "A",
+    "explanation": "'Maintenance' changes the vowel of 'maintain' to '-ten-'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In legal terminology, an 'affidavit' is a:",
+    "options": {
+      "A": "Written statement confirmed by oath for use as judicial evidence",
+      "B": "Verdict of guilty",
+      "C": "Police warrant of arrest",
+      "D": "Summons to pay taxes"
+    },
+    "answer": "A",
+    "explanation": "An affidavit is a sworn written deposition made before a commissioner for oaths or notary public.",
+    "topic": "Registers / Law",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Harassment",
+      "B": "Harrassment",
+      "C": "Harrasment",
+      "D": "Harasment"
+    },
+    "answer": "A",
+    "explanation": "'Harassment' has a single 'r' and double 's'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In aviation register, the 'runway' is the:",
+    "options": {
+      "A": "Designated paved surface for aircraft takeoff and landing",
+      "B": "Cockpit control board",
+      "C": "Passenger lounge",
+      "D": "Luggage conveyor belt"
+    },
+    "answer": "A",
+    "explanation": "A runway is the strip of ground prepared for airplanes to land and take off.",
+    "topic": "Registers / Aviation",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Bureaucracy",
+      "B": "Beurocracy",
+      "C": "Burocracy",
+      "D": "Bureaucrasy"
+    },
+    "answer": "A",
+    "explanation": "'Bureaucracy' derives from French 'bureau' + Greek 'kratos'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which punctuation mark is used to introduce an extended list of items?",
+    "options": {
+      "A": "Colon (:)",
+      "B": "Semicolon (;)",
+      "C": "Hyphen (-)",
+      "D": "Comma (,)"
+    },
+    "answer": "A",
+    "explanation": "A colon introduces lists, summaries, or direct quotations.",
+    "topic": "Punctuation",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Questionnaire",
+      "B": "Questionaire",
+      "C": "Questionnair",
+      "D": "Questionnare"
+    },
+    "answer": "A",
+    "explanation": "'Questionnaire' has double 'n' and ends in '-aire'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In financial registers, 'collateral' refers to:",
+    "options": {
+      "A": "Pledged asset serving as security for loan repayment",
+      "B": "Interest earned on savings",
+      "C": "Bank overdraft charges",
+      "D": "Annual company dividend"
+    },
+    "answer": "A",
+    "explanation": "Collateral is property pledged by a borrower that a lender may seize if the loan is defaulted.",
+    "topic": "Registers / Banking",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Liaison",
+      "B": "Liason",
+      "C": "Liasion",
+      "D": "Liaizon"
+    },
+    "answer": "A",
+    "explanation": "'Liaison' has 'i' before and after 'a'.",
+    "topic": "Spelling",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In journalism registers, an 'editorial' is an article that:",
+    "options": {
+      "A": "Expresses the official opinion of the editor or newspaper publisher",
+      "B": "Advertises commercial products",
+      "C": "Reports raw obituary facts",
+      "D": "Publishes sports scores only"
+    },
+    "answer": "A",
+    "explanation": "An editorial presents the stance and perspective of the newspaper's editorial board on a current issue.",
+    "topic": "Registers / Journalism",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

@@ -1,6 +1,166 @@
 [
   {
-    "question": "A stone is dropped from the top of a tower 80 m high. Calculate the time it takes to reach the ground (g = 10 m/s²).",
+    "question": "Which of the following is a fundamental base quantity in the SI system?",
+    "options": {
+      "A": "Electric current",
+      "B": "Velocity",
+      "C": "Force",
+      "D": "Electric potential"
+    },
+    "answer": "A",
+    "explanation": "The 7 SI base quantities are length, mass, time, electric current (Ampere), temperature, amount of substance, and luminous intensity.",
+    "topic": "Units and Dimensions",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 1,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Derive the dimension of work (or energy) in terms of fundamental dimensions M, L, and T.",
+    "options": {
+      "A": "M L² T⁻²",
+      "B": "M L T⁻²",
+      "C": "M L⁻¹ T⁻²",
+      "D": "M L² T⁻¹"
+    },
+    "answer": "A",
+    "explanation": "Work = Force × Distance = (M L T⁻²) × L = M L² T⁻².",
+    "topic": "Dimensions of Physical Quantities",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 2,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Two forces of 6 N and 8 N act at right angles (90°) to each other. Calculate the magnitude of their resultant force.",
+    "options": {
+      "A": "10 N",
+      "B": "14 N",
+      "C": "2 N",
+      "D": "48 N"
+    },
+    "answer": "A",
+    "explanation": "R = √(6² + 8²) = √(36 + 64) = √100 = 10 N.",
+    "topic": "Vectors / Addition of Vectors",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which instrument is most suitable for measuring the diameter of a thin wire of order 0.5 mm?",
+    "options": {
+      "A": "Micrometer screw gauge",
+      "B": "Vernier calipers",
+      "C": "Meter rule",
+      "D": "Engineer's tape"
+    },
+    "answer": "A",
+    "explanation": "A micrometer screw gauge has a precision of 0.01 mm, ideal for fine wire diameters.",
+    "topic": "Measurement Instruments",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": {
+      "A": "Electric potential",
+      "B": "Electric field intensity",
+      "C": "Momentum",
+      "D": "Acceleration"
+    },
+    "answer": "A",
+    "explanation": "Electric potential is work done per unit charge (scalar). Field intensity, momentum, and acceleration have both magnitude and direction (vectors).",
+    "topic": "Scalars and Vectors",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A vector of magnitude 20 N makes an angle of 60° with the horizontal. Calculate its vertical component.",
+    "options": {
+      "A": "17.32 N",
+      "B": "10.00 N",
+      "C": "20.00 N",
+      "D": "14.14 N"
+    },
+    "answer": "A",
+    "explanation": "V_y = V · sin(60°) = 20 × (√3/2) = 10√3 ≈ 17.32 N.",
+    "topic": "Resolution of Vectors",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 6,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the dimension of pressure in SI units.",
+    "options": {
+      "A": "M L⁻¹ T⁻²",
+      "B": "M L T⁻²",
+      "C": "M L² T⁻²",
+      "D": "M L⁻² T⁻¹"
+    },
+    "answer": "A",
+    "explanation": "Pressure = Force / Area = (M L T⁻²) / L² = M L⁻¹ T⁻².",
+    "topic": "Dimensions",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 7,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the pitch of a micrometer screw gauge with 50 thimble divisions and main scale advancing 0.5 mm per revolution?",
+    "options": {
+      "A": "0.5 mm",
+      "B": "0.01 mm",
+      "C": "1.0 mm",
+      "D": "0.05 mm"
+    },
+    "answer": "A",
+    "explanation": "Pitch is the distance advanced per complete turn of the spindle = 0.5 mm (least count is 0.5/50 = 0.01 mm).",
+    "topic": "Measurement Instruments",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 8,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following pairs contains one vector and one scalar quantity?",
+    "options": {
+      "A": "Displacement and Distance",
+      "B": "Velocity and Acceleration",
+      "C": "Mass and Volume",
+      "D": "Force and Weight"
+    },
+    "answer": "A",
+    "explanation": "Displacement is vector (magnitude and direction), while distance is purely scalar (magnitude only).",
+    "topic": "Scalars and Vectors",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 9,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The zero error of a vernier caliper occurs when:",
+    "options": {
+      "A": "The zero mark on the vernier scale does not coincide with zero on the main scale when jaws touch",
+      "B": "The jaws are rusted",
+      "C": "The main scale reading is negative",
+      "D": "The object is too small"
+    },
+    "answer": "A",
+    "explanation": "Zero error is present when the zero line of the vernier does not align with the zero of the main scale when measuring jaws are fully closed.",
+    "topic": "Measurements / Systematic Errors",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 10,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A stone is dropped from a cliff 80 m high. Calculate time to hit the ground (g = 10 m/s²).",
     "options": {
       "A": "4 s",
       "B": "8 s",
@@ -8,15 +168,159 @@
       "D": "16 s"
     },
     "answer": "A",
-    "explanation": "h = ut + ½gt². Since it is dropped, u = 0. 80 = ½(10)t² → 80 = 5t² → t² = 16 → t = 4 s.",
-    "topic": "Mechanics / Motion Under Gravity",
+    "explanation": "h = ½gt² → 80 = 5t² → t² = 16 → t = 4 s.",
+    "topic": "Motion Under Gravity",
     "exam": "JAMB UTME",
     "year": "2024",
-    "id": 1,
+    "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A force of 50 N acts on a body of mass 10 kg initially at rest for 4 seconds. Calculate the final kinetic energy acquired by the body.",
+    "question": "A car accelerates uniformly from rest at 2.5 m/s² for 8 seconds. Find its final velocity.",
+    "options": {
+      "A": "20 m/s",
+      "B": "10 m/s",
+      "C": "25 m/s",
+      "D": "16 m/s"
+    },
+    "answer": "A",
+    "explanation": "v = u + at = 0 + 2.5(8) = 20 m/s.",
+    "topic": "Uniform Acceleration",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 12,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the total distance covered by the car in the previous question (accelerating from rest at 2.5 m/s² for 8 s).",
+    "options": {
+      "A": "80 m",
+      "B": "160 m",
+      "C": "40 m",
+      "D": "100 m"
+    },
+    "answer": "A",
+    "explanation": "s = ut + ½at² = 0 + ½(2.5)(64) = 1.25 × 64 = 80 m.",
+    "topic": "Kinematics",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A body is projected vertically upwards with speed 30 m/s. Find the maximum height reached (g = 10 m/s²).",
+    "options": {
+      "A": "45 m",
+      "B": "90 m",
+      "C": "30 m",
+      "D": "60 m"
+    },
+    "answer": "A",
+    "explanation": "H = u² / (2g) = 30² / 20 = 900 / 20 = 45 m.",
+    "topic": "Vertical Projectiles",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the physical quantity represented by the area under a velocity-time graph?",
+    "options": {
+      "A": "Displacement",
+      "B": "Acceleration",
+      "C": "Speed",
+      "D": "Work done"
+    },
+    "answer": "A",
+    "explanation": "Area under a velocity-time graph = v × t = displacement.",
+    "topic": "Motion Graphs",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A projectile is launched with velocity 40 m/s at 30° to horizontal. Find its time of flight (g = 10 m/s²).",
+    "options": {
+      "A": "4.0 s",
+      "B": "2.0 s",
+      "C": "8.0 s",
+      "D": "3.5 s"
+    },
+    "answer": "A",
+    "explanation": "T = 2u sin θ / g = (2 × 40 × sin 30°) / 10 = (80 × 0.5) / 10 = 4.0 s.",
+    "topic": "Projectiles",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At what projection angle is the horizontal range of a projectile maximum?",
+    "options": {
+      "A": "45°",
+      "B": "30°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer": "A",
+    "explanation": "R = (u² sin 2θ) / g. Range is maximum when sin 2θ = 1 → 2θ = 90° → θ = 45°.",
+    "topic": "Projectiles",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A bullet moving at 100 m/s penetrates 0.1 m into a wooden block before stopping. Find its average retardation.",
+    "options": {
+      "A": "50,000 m/s²",
+      "B": "10,000 m/s²",
+      "C": "5,000 m/s²",
+      "D": "1,000 m/s²"
+    },
+    "answer": "A",
+    "explanation": "v² = u² - 2as → 0 = 100² - 2a(0.1) → 0.2a = 10000 → a = 50,000 m/s².",
+    "topic": "Equations of Motion",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The slope of a displacement-time graph represents:",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Momentum",
+      "D": "Force"
+    },
+    "answer": "A",
+    "explanation": "Gradient of displacement vs time is ds/dt = velocity.",
+    "topic": "Motion Graphs",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A car traveling at 72 km/h decelerates to rest in 5 s. Convert 72 km/h to m/s.",
+    "options": {
+      "A": "20 m/s",
+      "B": "25 m/s",
+      "C": "15 m/s",
+      "D": "30 m/s"
+    },
+    "answer": "A",
+    "explanation": "72 km/h = 72 × (1000 / 3600) = 72 × (5/18) = 20 m/s.",
+    "topic": "Unit Conversion",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A force of 50 N acts on a 10 kg mass initially at rest for 4 s. Find its final kinetic energy.",
     "options": {
       "A": "2000 J",
       "B": "1000 J",
@@ -24,303 +328,495 @@
       "D": "500 J"
     },
     "answer": "A",
-    "explanation": "a = F/m = 50/10 = 5 m/s². Final velocity v = u + at = 0 + 5(4) = 20 m/s. Kinetic energy = ½mv² = ½(10)(20)² = 5 × 400 = 2000 J.",
-    "topic": "Mechanics / Work, Energy & Power",
-    "exam": "JAMB UTME",
-    "year": "2023",
-    "id": 2,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A ray of light traveling in air strikes a glass block at an angle of incidence of 30°. If the refractive index of glass is 1.5, calculate the sine of the angle of refraction.",
-    "options": {
-      "A": "0.333",
-      "B": "0.500",
-      "C": "0.750",
-      "D": "0.250"
-    },
-    "answer": "A",
-    "explanation": "Snell's Law: n = sin(i) / sin(r) → 1.5 = sin(30°) / sin(r) → 1.5 = 0.5 / sin(r) → sin(r) = 0.5 / 1.5 = 1/3 ≈ 0.333.",
-    "topic": "Optics / Refraction of Light",
-    "exam": "WAEC SSCE",
-    "year": "2023",
-    "id": 3,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "An alternating voltage is given by V = 100 sin(100πt). Find the peak voltage (V₀) and the frequency (f) of the supply.",
-    "options": {
-      "A": "V₀ = 100 V, f = 50 Hz",
-      "B": "V₀ = 100 V, f = 100 Hz",
-      "C": "V₀ = 50 V, f = 50 Hz",
-      "D": "V₀ = 141.4 V, f = 50 Hz"
-    },
-    "answer": "A",
-    "explanation": "Standard A.C. form: V = V₀ sin(2πft). Comparing: V₀ = 100 V, and 2πf = 100π → f = 50 Hz.",
-    "topic": "Electricity / Alternating Current",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 4,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The half-life of a radioactive sample is 12 days. What fraction of the original radioactive nuclei will remain undecayed after 36 days?",
-    "options": {
-      "A": "1/8",
-      "B": "1/4",
-      "C": "1/16",
-      "D": "1/2"
-    },
-    "answer": "A",
-    "explanation": "Number of half-lives n = 36 / 12 = 3. Fraction remaining = (1/2)ⁿ = (1/2)³ = 1/8.",
-    "topic": "Nuclear Physics / Radioactivity",
-    "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 5,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A sound wave has a frequency of 500 Hz and a speed of 340 m/s in air. Calculate its wavelength.",
-    "options": {
-      "A": "0.68 m",
-      "B": "1.47 m",
-      "C": "170 m",
-      "D": "0.34 m"
-    },
-    "answer": "A",
-    "explanation": "v = f · λ → λ = v / f = 340 / 500 = 0.68 m.",
-    "topic": "Waves & Sound",
-    "exam": "JAMB UTME",
-    "year": "2021",
-    "id": 6,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Which of the following electromagnetic radiations has the shortest wavelength?",
-    "options": {
-      "A": "Gamma rays",
-      "B": "Radio waves",
-      "C": "Microwaves",
-      "D": "Ultraviolet rays"
-    },
-    "answer": "A",
-    "explanation": "In the electromagnetic spectrum, gamma rays have the highest frequency and shortest wavelength.",
-    "topic": "Waves / Electromagnetic Spectrum",
-    "exam": "WAEC SSCE",
-    "year": "2021",
-    "id": 7,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Two resistors of 4 Ω and 6 Ω are connected in parallel across a 12 V battery of negligible internal resistance. Calculate the total current drawn from the battery.",
-    "options": {
-      "A": "5 A",
-      "B": "1.2 A",
-      "C": "2.4 A",
-      "D": "10 A"
-    },
-    "answer": "A",
-    "explanation": "Equivalent resistance R_eq = (4 × 6) / (4 + 6) = 24 / 10 = 2.4 Ω. Total current I = V / R_eq = 12 / 2.4 = 5 A.",
-    "topic": "Current Electricity / DC Circuits",
-    "exam": "JAMB UTME",
-    "year": "2020",
-    "id": 8,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A body undergoes simple harmonic motion with an amplitude of 0.2 m and angular velocity of 10 rad/s. Calculate its maximum speed.",
-    "options": {
-      "A": "2.0 m/s",
-      "B": "0.02 m/s",
-      "C": "50 m/s",
-      "D": "20 m/s"
-    },
-    "answer": "A",
-    "explanation": "Maximum velocity in SHM: v_max = ω · A = 10 rad/s × 0.2 m = 2.0 m/s.",
-    "topic": "Mechanics / Simple Harmonic Motion",
-    "exam": "WAEC SSCE",
-    "year": "2020",
-    "id": 9,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Calculate the heat energy required to melt 2 kg of ice at 0°C completely into water at 0°C (Specific latent heat of fusion of ice = 3.36 × 10⁵ J/kg).",
-    "options": {
-      "A": "6.72 × 10⁵ J",
-      "B": "3.36 × 10⁵ J",
-      "C": "1.68 × 10⁵ J",
-      "D": "8.40 × 10⁵ J"
-    },
-    "answer": "A",
-    "explanation": "Q = m · L_f = 2 kg × 3.36 × 10⁵ J/kg = 6.72 × 10⁵ J.",
-    "topic": "Thermal Physics / Latent Heat",
-    "exam": "JAMB UTME",
-    "year": "2019",
-    "id": 10,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A concave mirror has a focal length of 15 cm. An object is placed 30 cm in front of the mirror. Describe the nature and position of the image formed.",
-    "options": {
-      "A": "Real, inverted, same size, at 30 cm",
-      "B": "Virtual, erect, magnified, behind mirror",
-      "C": "Real, inverted, diminished, at 15 cm",
-      "D": "Virtual, inverted, magnified, at 45 cm"
-    },
-    "answer": "A",
-    "explanation": "Since u = 2f = 30 cm, the object is at the center of curvature. The image is real, inverted, of the same size, and located at the center of curvature (v = 30 cm).",
-    "topic": "Optics / Curved Mirrors",
+    "explanation": "a = 5 m/s², v = 20 m/s. KE = ½(10)(20²) = 2000 J.",
+    "topic": "Newton's Laws & Kinetic Energy",
     "exam": "JAMB UTME",
     "year": "2024",
-    "id": 11,
+    "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "State the physical quantity represented by the slope of a velocity-time graph.",
+    "question": "State Newton's second law of motion.",
     "options": {
-      "A": "Acceleration",
-      "B": "Displacement",
-      "C": "Speed",
-      "D": "Force"
+      "A": "The rate of change of momentum is directly proportional to the applied force and acts in the direction of the force",
+      "B": "Every action has an equal and opposite reaction",
+      "C": "A body remains at rest unless acted upon by a force",
+      "D": "Force equals mass times velocity"
     },
     "answer": "A",
-    "explanation": "The gradient of a velocity-time graph is Δv/Δt, which represents acceleration.",
-    "topic": "Mechanics / Graph of Motion",
+    "explanation": "Newton's 2nd law: F ∝ dp/dt; F = ma.",
+    "topic": "Newton's Laws of Motion",
     "exam": "WAEC SSCE",
-    "year": "2024",
-    "id": 12,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Calculate the work done when an electric charge of 5 C moves through a potential difference of 12 V.",
-    "options": {
-      "A": "60 J",
-      "B": "2.4 J",
-      "C": "0.42 J",
-      "D": "17 J"
-    },
-    "answer": "A",
-    "explanation": "Work done W = Q · V = 5 C × 12 V = 60 J.",
-    "topic": "Electricity / Electric Potential",
-    "exam": "JAMB UTME",
     "year": "2023",
-    "id": 13,
+    "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "An ideal gas occupies a volume of 2.0 m³ at a pressure of 100 kPa. If the temperature remains constant and pressure is increased to 250 kPa, find the new volume.",
+    "question": "A body of mass 2 kg moving at 6 m/s collides with a stationary body of mass 4 kg and they move together. Find their common velocity.",
     "options": {
-      "A": "0.8 m³",
-      "B": "1.25 m³",
-      "C": "5.0 m³",
-      "D": "0.5 m³"
+      "A": "2 m/s",
+      "B": "3 m/s",
+      "C": "1.5 m/s",
+      "D": "4 m/s"
     },
     "answer": "A",
-    "explanation": "Boyle's law: P₁V₁ = P₂V₂ → 100 × 2.0 = 250 × V₂ → V₂ = 200 / 250 = 0.8 m³.",
-    "topic": "Thermal Physics / Gas Laws",
-    "exam": "WAEC SSCE",
+    "explanation": "m₁u₁ + m₂u₂ = (m₁ + m₂)v → 2(6) + 0 = (2 + 4)v → 12 = 6v → v = 2 m/s.",
+    "topic": "Conservation of Linear Momentum",
+    "exam": "JAMB UTME",
     "year": "2022",
-    "id": 14,
+    "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which instrument is most suitable for measuring the internal diameter of a test tube accurately?",
+    "question": "A passenger jolts forward when a speeding bus applies brakes suddenly due to:",
     "options": {
-      "A": "Vernier calipers",
-      "B": "Micrometer screw gauge",
-      "C": "Meter rule",
-      "D": "Measuring cylinder"
+      "A": "Inertia of motion",
+      "B": "Friction with the seat",
+      "C": "Gravitational pull",
+      "D": "Action-reaction pair"
     },
     "answer": "A",
-    "explanation": "Vernier calipers have inside jaws specifically engineered for measuring internal diameters of hollow cylinders and tubes.",
-    "topic": "Units and Measurements",
+    "explanation": "By Newton's first law (inertia), the passenger's upper body tends to maintain its state of uniform motion.",
+    "topic": "Inertia",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the impulse produced when a force of 100 N acts on an object for 0.05 s.",
+    "options": {
+      "A": "5 N·s",
+      "B": "50 N·s",
+      "C": "0.5 N·s",
+      "D": "500 N·s"
+    },
+    "answer": "A",
+    "explanation": "Impulse = Force × time = 100 N × 0.05 s = 5 N·s.",
+    "topic": "Impulse and Momentum",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In an elastic collision between two bodies, which quantities are conserved?",
+    "options": {
+      "A": "Both momentum and total kinetic energy",
+      "B": "Momentum only, kinetic energy is lost",
+      "C": "Kinetic energy only",
+      "D": "Velocity only"
+    },
+    "answer": "A",
+    "explanation": "In perfectly elastic collisions, both linear momentum and total kinetic energy are conserved.",
+    "topic": "Collisions",
     "exam": "WAEC SSCE",
     "year": "2019",
-    "id": 15,
+    "id": 26,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The threshold wavelength for photoelectric emission in a metal is 500 nm. What is the work function of the metal in Joules? (h = 6.63 × 10⁻³⁴ J·s, c = 3.0 × 10⁸ m/s)",
+    "question": "A horizontal force of 20 N pulls a 5 kg block at constant velocity on a rough floor. What is the coefficient of dynamic friction (g = 10 m/s²)?",
     "options": {
-      "A": "3.98 × 10⁻¹⁹ J",
-      "B": "1.33 × 10⁻¹⁹ J",
-      "C": "6.63 × 10⁻¹⁹ J",
-      "D": "9.95 × 10⁻¹⁹ J"
+      "A": "0.4",
+      "B": "0.2",
+      "C": "0.5",
+      "D": "0.25"
     },
     "answer": "A",
-    "explanation": "W₀ = hc / λ₀ = (6.63 × 10⁻³⁴ × 3.0 × 10⁸) / (500 × 10⁻⁹) = 1.989 × 10⁻²⁵ / 5 × 10⁻⁷ = 3.978 × 10⁻¹⁹ J.",
-    "topic": "Modern Physics / Photoelectric Effect",
-    "exam": "JAMB UTME",
-    "year": "2021",
-    "id": 16,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A step-down transformer has 1000 turns in the primary coil and 100 turns in the secondary coil. If the primary voltage is 240 V, what is the secondary voltage?",
-    "options": {
-      "A": "24 V",
-      "B": "2400 V",
-      "C": "120 V",
-      "D": "12 V"
-    },
-    "answer": "A",
-    "explanation": "V_s / V_p = N_s / N_p → V_s / 240 = 100 / 1000 → V_s = 240 × 0.1 = 24 V.",
-    "topic": "Electromagnetism / Transformers",
-    "exam": "WAEC SSCE",
-    "year": "2020",
-    "id": 17,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Which of the following statements correctly distinguishes mass from weight?",
-    "options": {
-      "A": "Mass is a scalar quantity while weight is a vector quantity.",
-      "B": "Mass varies from planet to planet while weight remains constant.",
-      "C": "Mass is measured in Newtons while weight is measured in kilograms.",
-      "D": "Mass depends on gravitational acceleration while weight does not."
-    },
-    "answer": "A",
-    "explanation": "Mass is the fundamental measure of matter (scalar, in kg); weight is the gravitational force acting on that mass (vector, in N).",
-    "topic": "Mechanics / Mass and Weight",
+    "explanation": "R = mg = 50 N. Constant velocity implies F = F_friction = μR → 20 = μ(50) → μ = 0.4.",
+    "topic": "Friction",
     "exam": "JAMB UTME",
     "year": "2018",
-    "id": 18,
+    "id": 27,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A capacitor of capacitance 20 μF is charged to a potential difference of 50 V. Calculate the energy stored in the capacitor.",
+    "question": "Why are vehicle tires manufactured with deep treads?",
     "options": {
-      "A": "0.025 J",
-      "B": "0.050 J",
-      "C": "0.500 J",
-      "D": "1.000 J"
+      "A": "To increase friction with the wet road surface and prevent skidding",
+      "B": "To reduce tire mass",
+      "C": "To decrease air resistance",
+      "D": "To look fashionable"
     },
     "answer": "A",
-    "explanation": "Energy E = ½CV² = ½(20 × 10⁻⁶ F)(50 V)² = 10⁻⁵ × 2500 = 0.025 J.",
-    "topic": "Electricity / Capacitors",
-    "exam": "JAMB UTME",
-    "year": "2023",
-    "id": 19,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "Under what condition will total internal reflection occur?",
-    "options": {
-      "A": "Light travels from an optically denser medium to a less dense medium at an angle of incidence greater than the critical angle.",
-      "B": "Light travels from an optically rarer medium to a denser medium at an angle greater than critical angle.",
-      "C": "Angle of refraction equals 0°.",
-      "D": "Light strikes normally on a plane mirror."
-    },
-    "answer": "A",
-    "explanation": "Total internal reflection requires: (1) light travels from a denser to a rarer optical medium, and (2) the angle of incidence exceeds the critical angle.",
-    "topic": "Optics / Total Internal Reflection",
+    "explanation": "Treads channel water away, maintaining tire-road contact and preventing aquaplaning/skidding.",
+    "topic": "Friction in Daily Life",
     "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 20,
+    "year": "2017",
+    "id": 28,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Calculate the upthrust experienced by a metal cube of volume 0.002 m³ completely immersed in water (Density of water = 1000 kg/m³, g = 10 m/s²).",
+    "question": "A rocket operates on the principle of conservation of:",
+    "options": {
+      "A": "Linear momentum",
+      "B": "Angular momentum",
+      "C": "Mass only",
+      "D": "Potential energy"
+    },
+    "answer": "A",
+    "explanation": "The backward momentum of expelled high-velocity exhaust gases equals the forward momentum gained by the rocket.",
+    "topic": "Conservation of Momentum",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A man of mass 70 kg stands in a lift accelerating upwards at 2 m/s². What is his apparent weight (g = 10 m/s²)?",
+    "options": {
+      "A": "840 N",
+      "B": "700 N",
+      "C": "560 N",
+      "D": "140 N"
+    },
+    "answer": "A",
+    "explanation": "R - mg = ma → R = m(g + a) = 70(10 + 2) = 70 × 12 = 840 N.",
+    "topic": "Apparent Weight in a Lift",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A machine with a velocity ratio of 5 lifts a load of 400 N using an effort of 100 N. Calculate the efficiency of the machine.",
+    "options": {
+      "A": "80%",
+      "B": "75%",
+      "C": "90%",
+      "D": "85%"
+    },
+    "answer": "A",
+    "explanation": "MA = Load / Effort = 400 / 100 = 4. Efficiency = (MA / VR) × 100 = (4 / 5) × 100 = 80%.",
+    "topic": "Machines / Mechanical Advantage",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the power of an electric crane that lifts a 500 kg mass through a vertical height of 12 m in 10 s (g = 10 m/s²).",
+    "options": {
+      "A": "6 kW",
+      "B": "60 kW",
+      "C": "0.6 kW",
+      "D": "5 kW"
+    },
+    "answer": "A",
+    "explanation": "Work = mgh = 500 × 10 × 12 = 60,000 J. Power = Work / time = 60,000 / 10 = 6,000 W = 6 kW.",
+    "topic": "Power",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A body of mass 4 kg is positioned 15 m above the ground. What is its gravitational potential energy (g = 10 m/s²)?",
+    "options": {
+      "A": "600 J",
+      "B": "60 J",
+      "C": "300 J",
+      "D": "150 J"
+    },
+    "answer": "A",
+    "explanation": "PE = mgh = 4 × 10 × 15 = 600 J.",
+    "topic": "Potential Energy",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a wheel and axle system, the radius of the wheel is 20 cm and axle radius is 4 cm. What is the velocity ratio?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "80",
+      "D": "0.2"
+    },
+    "answer": "A",
+    "explanation": "VR = Radius of wheel / Radius of axle = 20 / 4 = 5.",
+    "topic": "Machines / Wheel and Axle",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following is a second-class lever?",
+    "options": {
+      "A": "Wheelbarrow",
+      "B": "Crowbar",
+      "C": "Pair of scissors",
+      "D": "Sugar tongs"
+    },
+    "answer": "A",
+    "explanation": "In a second-class lever, the Load lies between the Fulcrum and Effort (e.g. wheelbarrow, nutcracker).",
+    "topic": "Simple Machines / Levers",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "How much work is done against gravity when a 20 kg sack of rice is carried horizontally across a 10 m room?",
+    "options": {
+      "A": "0 J",
+      "B": "2000 J",
+      "C": "200 J",
+      "D": "20 J"
+    },
+    "answer": "A",
+    "explanation": "Work against gravity = F · d · cos(90°) = 0 J (displacement is perpendicular to gravity).",
+    "topic": "Work Done",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the kinetic energy of an electron (mass = 9.1 × 10⁻³¹ kg) moving at 2.0 × 10⁶ m/s.",
+    "options": {
+      "A": "1.82 × 10⁻¹⁸ J",
+      "B": "3.64 × 10⁻¹⁸ J",
+      "C": "9.1 × 10⁻²⁵ J",
+      "D": "1.82 × 10⁻²⁴ J"
+    },
+    "answer": "A",
+    "explanation": "KE = ½mv² = 0.5 × (9.1 × 10⁻³¹) × (4.0 × 10¹²) = 1.82 × 10⁻¹⁸ J.",
+    "topic": "Kinetic Energy",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The velocity ratio of a system of 4 pulleys arranged in block and tackle is:",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "8",
+      "D": "16"
+    },
+    "answer": "A",
+    "explanation": "In a block and tackle system, the velocity ratio equals the number of pulleys (sheaves) = 4.",
+    "topic": "Pulley Systems",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which energy transformation takes place in a hydroelectric dam turbine?",
+    "options": {
+      "A": "Potential → Kinetic → Electrical energy",
+      "B": "Chemical → Thermal → Electrical",
+      "C": "Nuclear → Electrical",
+      "D": "Sound → Electrical"
+    },
+    "answer": "A",
+    "explanation": "Gravitational potential energy of reservoir water converts to kinetic energy through penstocks, driving turbines that generate electrical energy.",
+    "topic": "Energy Transformations",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Can a real machine ever achieve 100% mechanical efficiency?",
+    "options": {
+      "A": "No, because some energy is always lost overcoming friction and lifting machine parts",
+      "B": "Yes, if lubricated thoroughly",
+      "C": "Yes, if it has a high velocity ratio",
+      "D": "Yes, in a vacuum"
+    },
+    "answer": "A",
+    "explanation": "Frictional resistance and the weight of movable parts always cause energy dissipation, making efficiency strictly less than 100%.",
+    "topic": "Efficiency of Machines",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A 2 kg mass rotates in a horizontal circle of radius 0.5 m at 4 rad/s. Calculate the centripetal force.",
+    "options": {
+      "A": "16 N",
+      "B": "8 N",
+      "C": "4 N",
+      "D": "32 N"
+    },
+    "answer": "A",
+    "explanation": "F = mω²r = 2 × (4²) × 0.5 = 2 × 16 × 0.5 = 16 N.",
+    "topic": "Circular Motion",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "State Hooke's law of elasticity.",
+    "options": {
+      "A": "Within the elastic limit, extension is directly proportional to applied force",
+      "B": "Stress is inversely proportional to strain",
+      "C": "Force equals spring constant divided by extension",
+      "D": "Breaking point occurs at twice the elastic limit"
+    },
+    "answer": "A",
+    "explanation": "Hooke's law: F = ke, valid provided the elastic limit of the material is not exceeded.",
+    "topic": "Elasticity & Hooke's Law",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Newton's universal law of gravitation states that gravitational force between two masses is inversely proportional to:",
+    "options": {
+      "A": "The square of the distance between their centers",
+      "B": "The distance between their centers",
+      "C": "The sum of their masses",
+      "D": "The product of their masses"
+    },
+    "answer": "A",
+    "explanation": "F = G(m₁m₂) / r². Force is inversely proportional to distance squared (inverse square law).",
+    "topic": "Gravitational Law",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A spring extends by 4 cm under a load of 10 N. Calculate the work done in stretching the spring.",
+    "options": {
+      "A": "0.2 J",
+      "B": "0.4 J",
+      "C": "2.0 J",
+      "D": "40 J"
+    },
+    "answer": "A",
+    "explanation": "Work = ½Fe = 0.5 × 10 N × 0.04 m = 0.2 J.",
+    "topic": "Elastic Potential Energy",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The time period of a simple pendulum is 2.0 s on Earth. What will it be if its length is quadrupled?",
+    "options": {
+      "A": "4.0 s",
+      "B": "8.0 s",
+      "C": "1.0 s",
+      "D": "2.0 s"
+    },
+    "answer": "A",
+    "explanation": "T = 2π√(L/g). If L increases by factor 4, T increases by factor √4 = 2 → T' = 2 × 2.0 = 4.0 s.",
+    "topic": "Simple Harmonic Motion",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the escape velocity from Earth (Radius = 6.4 × 10⁶ m, g = 9.8 m/s²).",
+    "options": {
+      "A": "11.2 km/s",
+      "B": "7.9 km/s",
+      "C": "22.4 km/s",
+      "D": "1.12 km/s"
+    },
+    "answer": "A",
+    "explanation": "v_esc = √(2gR) = √(2 × 9.8 × 6.4 × 10⁶) = √(1.2544 × 10⁸) ≈ 11,200 m/s = 11.2 km/s.",
+    "topic": "Gravitation / Escape Velocity",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In simple harmonic motion, maximum acceleration occurs at:",
+    "options": {
+      "A": "The extreme displacement positions (amplitude)",
+      "B": "The equilibrium central position",
+      "C": "Halfway to amplitude",
+      "D": "Any random point"
+    },
+    "answer": "A",
+    "explanation": "a = -ω²x. Acceleration is maximized at maximum displacement x = ±A.",
+    "topic": "Simple Harmonic Motion",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Why are roads banked at sharp curved bends?",
+    "options": {
+      "A": "To provide the necessary centripetal force and prevent vehicles from skidding outward",
+      "B": "To drain rain water",
+      "C": "To slow vehicles down",
+      "D": "To increase tire wear"
+    },
+    "answer": "A",
+    "explanation": "Banking tilts the normal reaction force so that its horizontal component provides centripetal force without relying solely on friction.",
+    "topic": "Circular Motion / Banking of Roads",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Young's modulus of a wire is defined as the ratio of:",
+    "options": {
+      "A": "Tensile stress to tensile strain",
+      "B": "Force to extension",
+      "C": "Work done to volume",
+      "D": "Strain to stress"
+    },
+    "answer": "A",
+    "explanation": "Young's modulus E = Stress / Strain = (F/A) / (e/L).",
+    "topic": "Elastic Properties",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the acceleration due to gravity at the center of the Earth?",
+    "options": {
+      "A": "0 m/s²",
+      "B": "9.8 m/s²",
+      "C": "Infinite",
+      "D": "4.9 m/s²"
+    },
+    "answer": "A",
+    "explanation": "At Earth's center, the surrounding mass pulls equally in all directions, yielding zero net gravitational field.",
+    "topic": "Gravitation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the hydrostatic pressure at a depth of 20 m in water (Density = 1000 kg/m³, g = 10 m/s²).",
+    "options": {
+      "A": "200,000 N/m²",
+      "B": "20,000 N/m²",
+      "C": "2,000 N/m²",
+      "D": "100,000 N/m²"
+    },
+    "answer": "A",
+    "explanation": "P = hρg = 20 × 1000 × 10 = 200,000 N/m² (200 kPa).",
+    "topic": "Hydrostatic Pressure",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the upthrust on a metal sphere of volume 0.002 m³ fully submerged in water (Density = 1000 kg/m³, g = 10 m/s²).",
     "options": {
       "A": "20 N",
       "B": "2 N",
@@ -328,75 +824,779 @@
       "D": "0.2 N"
     },
     "answer": "A",
-    "explanation": "Archimedes' Principle: Upthrust = Weight of fluid displaced = V · ρ · g = 0.002 m³ × 1000 kg/m³ × 10 m/s² = 20 N.",
-    "topic": "Fluids / Archimedes' Principle",
-    "exam": "JAMB UTME",
-    "year": "2019",
-    "id": 21,
+    "explanation": "Upthrust = Vρg = 0.002 × 1000 × 10 = 20 N.",
+    "topic": "Archimedes' Principle",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A spring extends by 4 cm when a load of 10 N is hung from it. Calculate the spring constant (k).",
+    "question": "The hydraulic lift operates on which physical principle?",
     "options": {
-      "A": "250 N/m",
-      "B": "2.5 N/m",
-      "C": "40 N/m",
-      "D": "0.4 N/m"
+      "A": "Pascal's Principle",
+      "B": "Bernoulli's Principle",
+      "C": "Archimedes' Principle",
+      "D": "Hooke's Law"
     },
     "answer": "A",
-    "explanation": "Hooke's Law: F = k · e → k = F / e = 10 N / 0.04 m = 250 N/m.",
-    "topic": "Mechanics / Elasticity & Hooke's Law",
+    "explanation": "Pascal's Principle: Pressure applied to an enclosed incompressible fluid is transmitted undiminished in all directions.",
+    "topic": "Pascal's Principle",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A hydrometer is used for measuring:",
+    "options": {
+      "A": "Relative density of liquids",
+      "B": "Atmospheric pressure",
+      "C": "Humidity of air",
+      "D": "Viscosity"
+    },
+    "answer": "A",
+    "explanation": "Hydrometers float deeper in less dense liquids, calibrated to read relative density directly.",
+    "topic": "Density and Flotation",
     "exam": "WAEC SSCE",
     "year": "2021",
-    "id": 22,
+    "id": 54,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Which of the following thermometer types is best suited for measuring rapidly changing temperatures?",
+    "question": "Why can a small steel sewing needle float on undisturbed water surface despite steel being denser than water?",
     "options": {
-      "A": "Thermoelectric thermometer (thermocouple)",
-      "B": "Mercury-in-glass thermometer",
-      "C": "Alcohol-in-glass thermometer",
-      "D": "Bimetallic strip thermometer"
+      "A": "Surface tension of water supports the needle",
+      "B": "Buoyant upthrust",
+      "C": "Viscosity of water",
+      "D": "Osmotic pressure"
     },
     "answer": "A",
-    "explanation": "Thermocouples have a very low thermal heat capacity and respond almost instantaneously to rapid temperature fluctuations.",
-    "topic": "Thermal Physics / Thermometry",
+    "explanation": "Surface tension creates an elastic skin on the water surface capable of supporting light objects.",
+    "topic": "Surface Tension",
     "exam": "JAMB UTME",
     "year": "2020",
-    "id": 23,
+    "id": 55,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The time period of a simple pendulum on Earth is 2.0 s. What would be its period on the Moon where gravitational acceleration is 1/6 that of Earth?",
+    "question": "What happens to the terminal velocity of a steel ball bearing falling through glycerin if the glycerin is heated?",
     "options": {
-      "A": "2√6 s",
-      "B": "2/√6 s",
-      "C": "12 s",
-      "D": "1/3 s"
+      "A": "Terminal velocity increases because viscosity decreases",
+      "B": "Terminal velocity decreases",
+      "C": "Remains unchanged",
+      "D": "Becomes zero"
     },
     "answer": "A",
-    "explanation": "T = 2π√(L/g). If g' = g/6, T' = T · √(g / g') = 2 · √6 = 2√6 s ≈ 4.90 s.",
-    "topic": "Mechanics / Pendulum & Gravity",
+    "explanation": "Viscosity of liquids drops with temperature, reducing drag resistance and increasing terminal velocity.",
+    "topic": "Viscosity",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Bernoulli's principle states that in a flowing fluid, an increase in velocity is accompanied by:",
+    "options": {
+      "A": "A decrease in static pressure",
+      "B": "An increase in pressure",
+      "C": "A decrease in temperature only",
+      "D": "Constant density"
+    },
+    "answer": "A",
+    "explanation": "Bernoulli's principle: P + ½ρv² + ρgh = constant. Higher flow speed produces lower pressure (aerodynamic lift).",
+    "topic": "Fluid Dynamics / Bernoulli",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the reading on a standard mercury barometer at sea level under standard atmospheric conditions?",
+    "options": {
+      "A": "760 mm Hg",
+      "B": "76 mm Hg",
+      "C": "100 mm Hg",
+      "D": "1013 mm Hg"
+    },
+    "answer": "A",
+    "explanation": "Standard atmospheric pressure supports a mercury column of 760 mm Hg (101.3 kPa).",
+    "topic": "Atmospheric Pressure",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Soap reduces the surface tension of water primarily to:",
+    "options": {
+      "A": "Allow water to penetrate fabric fibers and loosen dirt",
+      "B": "Create bubbles",
+      "C": "Increase water density",
+      "D": "Evaporate water faster"
+    },
+    "answer": "A",
+    "explanation": "Surfactants in soap disrupt hydrogen bonding, reducing surface tension and enhancing wetting action.",
+    "topic": "Surface Tension Applications",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A piece of wood floats in water with 3/4 of its volume submerged. What is the relative density of the wood?",
+    "options": {
+      "A": "0.75",
+      "B": "1.33",
+      "C": "0.25",
+      "D": "0.50"
+    },
+    "answer": "A",
+    "explanation": "By law of floatation: Relative density = Submerged volume / Total volume = 3/4 = 0.75.",
+    "topic": "Flotation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the heat needed to melt 2 kg of ice at 0°C into water at 0°C (L_f = 3.36 × 10⁵ J/kg).",
+    "options": {
+      "A": "6.72 × 10⁵ J",
+      "B": "3.36 × 10⁵ J",
+      "C": "1.68 × 10⁵ J",
+      "D": "8.40 × 10⁵ J"
+    },
+    "answer": "A",
+    "explanation": "Q = mL_f = 2 × 3.36 × 10⁵ = 6.72 × 10⁵ J.",
+    "topic": "Latent Heat",
     "exam": "JAMB UTME",
     "year": "2024",
-    "id": 24,
+    "id": 61,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Two parallel conductors carrying electric currents in the SAME direction will:",
+    "question": "A metal rod of length 2 m at 20°C is heated to 70°C. If linear expansivity is 1.2 × 10⁻⁵ K⁻¹, find its expansion.",
     "options": {
-      "A": "attract each other",
-      "B": "repel each other",
-      "C": "have no magnetic interaction",
-      "D": "rotate perpendicular to each other"
+      "A": "1.2 mm",
+      "B": "2.4 mm",
+      "C": "0.6 mm",
+      "D": "12 mm"
     },
     "answer": "A",
-    "explanation": "By Ampère's force law, parallel conductors carrying currents in the same direction produce magnetic fields that result in mutual attraction.",
-    "topic": "Magnetism / Magnetic Force",
+    "explanation": "ΔL = L₀ · α · Δθ = 2 × (1.2 × 10⁻⁵) × 50 = 1.2 × 10⁻³ m = 1.2 mm.",
+    "topic": "Thermal Expansion",
     "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "According to Charles's Law, for a fixed mass of gas at constant pressure, volume is directly proportional to:",
+    "options": {
+      "A": "Absolute temperature in Kelvin",
+      "B": "Temperature in Celsius",
+      "C": "Pressure",
+      "D": "Density"
+    },
+    "answer": "A",
+    "explanation": "Charles's law: V ∝ T (in Kelvin) at constant pressure.",
+    "topic": "Gas Laws / Charles's Law",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An ideal gas has volume 2.0 m³ at 100 kPa. If pressure increases to 250 kPa at constant temperature, find new volume.",
+    "options": {
+      "A": "0.8 m³",
+      "B": "1.25 m³",
+      "C": "5.0 m³",
+      "D": "0.5 m³"
+    },
+    "answer": "A",
+    "explanation": "P₁V₁ = P₂V₂ → 100 × 2 = 250 × V₂ → V₂ = 200/250 = 0.8 m³.",
+    "topic": "Gas Laws / Boyle's Law",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which mode of heat transfer can take place across an absolute vacuum (such as space from Sun to Earth)?",
+    "options": {
+      "A": "Radiation",
+      "B": "Conduction",
+      "C": "Convection",
+      "D": "Evaporation"
+    },
+    "answer": "A",
+    "explanation": "Thermal radiation propagates as electromagnetic infrared waves requiring no physical material medium.",
+    "topic": "Heat Transfer",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Convert 27°C to thermodynamic absolute temperature in Kelvin.",
+    "options": {
+      "A": "300 K",
+      "B": "246 K",
+      "C": "373 K",
+      "D": "273 K"
+    },
+    "answer": "A",
+    "explanation": "T(K) = θ(°C) + 273 = 27 + 273 = 300 K.",
+    "topic": "Temperature Scales",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Why is gap space left between successive sections of railway steel tracks?",
+    "options": {
+      "A": "To allow linear thermal expansion during hot sunny days and prevent track buckling",
+      "B": "To drain grease",
+      "C": "To create musical clicks",
+      "D": "To reduce steel cost"
+    },
+    "answer": "A",
+    "explanation": "Without expansion gaps, seasonal thermal expansion would generate tremendous stress, causing derailment buckles.",
+    "topic": "Thermal Expansion in Construction",
+    "exam": "JAMB UTME",
     "year": "2018",
-    "id": 25,
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The clinical thermometer has a narrow constriction above its bulb to:",
+    "options": {
+      "A": "Prevent mercury from flowing back before the reading is taken",
+      "B": "Magnify the mercury thread",
+      "C": "Measure sub-zero temperatures",
+      "D": "Allow rapid sterilization"
+    },
+    "answer": "A",
+    "explanation": "The kink breaks the mercury thread when cooled, preserving the peak body temperature reading until shaken down.",
+    "topic": "Thermometry",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the heat required to raise the temperature of 1.5 kg of copper from 20°C to 60°C (Specific heat of copper = 400 J/kg·K).",
+    "options": {
+      "A": "24,000 J",
+      "B": "12,000 J",
+      "C": "36,000 J",
+      "D": "48,000 J"
+    },
+    "answer": "A",
+    "explanation": "Q = mcΔθ = 1.5 × 400 × (60 - 20) = 600 × 40 = 24,000 J.",
+    "topic": "Specific Heat Capacity",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "At what temperature does pure water exhibit its maximum density?",
+    "options": {
+      "A": "4°C",
+      "B": "0°C",
+      "C": "100°C",
+      "D": "-4°C"
+    },
+    "answer": "A",
+    "explanation": "Due to anomalous expansion, water contracts on heating from 0°C to 4°C, reaching peak density at 4°C.",
+    "topic": "Anomalous Expansion of Water",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A sound wave has frequency 500 Hz and travels at 340 m/s. Calculate its wavelength.",
+    "options": {
+      "A": "0.68 m",
+      "B": "1.47 m",
+      "C": "170 m",
+      "D": "0.34 m"
+    },
+    "answer": "A",
+    "explanation": "λ = v / f = 340 / 500 = 0.68 m.",
+    "topic": "Waves / Wave Equation",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which of the following electromagnetic waves has the highest frequency and energy?",
+    "options": {
+      "A": "Gamma rays",
+      "B": "X-rays",
+      "C": "Ultraviolet",
+      "D": "Radio waves"
+    },
+    "answer": "A",
+    "explanation": "Gamma rays have the shortest wavelength and highest frequency in the electromagnetic spectrum.",
+    "topic": "Electromagnetic Spectrum",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A ship sends a sonar signal to the seabed and detects the echo after 1.6 s. If sound speed in seawater is 1500 m/s, find water depth.",
+    "options": {
+      "A": "1200 m",
+      "B": "2400 m",
+      "C": "600 m",
+      "D": "1500 m"
+    },
+    "answer": "A",
+    "explanation": "Distance d = (v × t) / 2 = (1500 × 1.6) / 2 = 2400 / 2 = 1200 m.",
+    "topic": "Sound / Echoes",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Sound waves cannot travel through:",
+    "options": {
+      "A": "A vacuum",
+      "B": "Steel solids",
+      "C": "Seawater",
+      "D": "Dense air"
+    },
+    "answer": "A",
+    "explanation": "Sound is a mechanical longitudinal wave requiring material particle oscillations; it cannot cross a vacuum.",
+    "topic": "Sound Waves",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The pitch of a musical sound note depends primarily on its:",
+    "options": {
+      "A": "Frequency",
+      "B": "Amplitude",
+      "C": "Waveform (harmonics)",
+      "D": "Velocity"
+    },
+    "answer": "A",
+    "explanation": "Pitch corresponds to frequency, loudness corresponds to amplitude, and timbre (quality) corresponds to overtones.",
+    "topic": "Acoustics / Characteristics of Sound",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Resonance occurs in a mechanical oscillating system when:",
+    "options": {
+      "A": "The driving frequency equals the natural frequency of the system",
+      "B": "Damping force becomes zero",
+      "C": "Amplitude decreases to minimum",
+      "D": "Wave velocity reaches speed of light"
+    },
+    "answer": "A",
+    "explanation": "Resonance produces maximum amplitude transfer when forcing frequency matches natural resonant frequency.",
+    "topic": "Waves / Resonance",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which wave phenomenon distinguishes transverse waves from longitudinal waves?",
+    "options": {
+      "A": "Polarization",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Interference"
+    },
+    "answer": "A",
+    "explanation": "Only transverse waves (oscillating perpendicular to propagation) can be polarized; longitudinal waves cannot.",
+    "topic": "Wave Properties / Polarization",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In a stationary (standing) wave, points of zero displacement are called:",
+    "options": {
+      "A": "Nodes",
+      "B": "Antinodes",
+      "C": "Crests",
+      "D": "Troughs"
+    },
+    "answer": "A",
+    "explanation": "Nodes are positions of destructive interference with zero displacement; antinodes have maximum amplitude.",
+    "topic": "Stationary Waves",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The apparent change in frequency of a wave due to relative motion between source and observer is:",
+    "options": {
+      "A": "Doppler effect",
+      "B": "Tyndall effect",
+      "C": "Photoelectric effect",
+      "D": "Compton effect"
+    },
+    "answer": "A",
+    "explanation": "The Doppler effect describes pitch/frequency shifts caused by moving wave sources (e.g. siren).",
+    "topic": "Doppler Effect",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What is the speed of all electromagnetic radiation in free space (vacuum)?",
+    "options": {
+      "A": "3.0 × 10⁸ m/s",
+      "B": "3.0 × 10⁶ m/s",
+      "C": "340 m/s",
+      "D": "1.5 × 10⁸ m/s"
+    },
+    "answer": "A",
+    "explanation": "All electromagnetic waves travel at the speed of light c = 3.0 × 10⁸ m/s in vacuum.",
+    "topic": "Electromagnetic Radiation",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A ray in air strikes glass (n = 1.5) at incidence angle 30°. Find sin(r).",
+    "options": {
+      "A": "0.333",
+      "B": "0.500",
+      "C": "0.750",
+      "D": "0.250"
+    },
+    "answer": "A",
+    "explanation": "Snell's Law: 1.5 = sin(30°) / sin(r) → sin(r) = 0.5 / 1.5 = 1/3 ≈ 0.333.",
+    "topic": "Refraction / Snell's Law",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A concave mirror has focal length 15 cm. An object is placed 30 cm in front. Describe the image.",
+    "options": {
+      "A": "Real, inverted, same size, at 30 cm",
+      "B": "Virtual, erect, magnified",
+      "C": "Real, diminished, at 15 cm",
+      "D": "Virtual, at infinity"
+    },
+    "answer": "A",
+    "explanation": "Since u = 2f = 30 cm, object is at center of curvature C. Image is real, inverted, same size, located at C (v = 30 cm).",
+    "topic": "Curved Mirrors",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the critical angle for a water-air boundary if refractive index of water is 4/3.",
+    "options": {
+      "A": "48.6°",
+      "B": "41.8°",
+      "C": "60.0°",
+      "D": "30.0°"
+    },
+    "answer": "A",
+    "explanation": "sin(c) = 1/n = 1 / (4/3) = 3/4 = 0.75 → c = arcsin(0.75) ≈ 48.6°.",
+    "topic": "Total Internal Reflection",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "What type of lens is prescribed to correct myopia (short-sightedness)?",
+    "options": {
+      "A": "Diverging (concave) lens",
+      "B": "Converging (convex) lens",
+      "C": "Cylindrical lens",
+      "D": "Bifocal lens"
+    },
+    "answer": "A",
+    "explanation": "In myopia, light focuses in front of the retina. A diverging (concave) lens diverges rays slightly so they focus on the retina.",
+    "topic": "Eye Defects & Corrections",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A magnifying glass uses a convex lens with the object placed:",
+    "options": {
+      "A": "Between the optical center and principal focus (u < f)",
+      "B": "At 2f",
+      "C": "Beyond 2f",
+      "D": "At infinity"
+    },
+    "answer": "A",
+    "explanation": "When u < f, a convex lens produces an erect, magnified, virtual image acting as a simple microscope.",
+    "topic": "Lenses / Simple Microscope",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Find the power of a converging lens of focal length 25 cm.",
+    "options": {
+      "A": "+4.0 Diopters",
+      "B": "+0.25 Diopters",
+      "C": "-4.0 Diopters",
+      "D": "+2.5 Diopters"
+    },
+    "answer": "A",
+    "explanation": "Power P = 1 / f(m) = 1 / 0.25 m = +4.0 D.",
+    "topic": "Power of Lenses",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Total internal reflection occurs when light travels from:",
+    "options": {
+      "A": "Denser medium to rarer medium at incidence angle greater than critical angle",
+      "B": "Rarer to denser medium",
+      "C": "Air to glass at 45°",
+      "D": "Mirror to lens"
+    },
+    "answer": "A",
+    "explanation": "TIR requires: (1) ray travels from optically denser to rarer medium, and (2) angle of incidence > critical angle.",
+    "topic": "Optics / Total Internal Reflection",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "White light entering a triangular glass prism disperses into a spectrum because:",
+    "options": {
+      "A": "Different colors travel at different speeds in glass and refract by different amounts",
+      "B": "Glass creates colors",
+      "C": "Prism is triangular",
+      "D": "Light absorbs heat"
+    },
+    "answer": "A",
+    "explanation": "Dispersion occurs because glass refractive index varies with wavelength: violet bends most, red bends least.",
+    "topic": "Dispersion of Light",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An astronomical telescope in normal adjustment has objective focal length 100 cm and eyepiece focal length 5 cm. Calculate its magnification.",
+    "options": {
+      "A": "20",
+      "B": "500",
+      "C": "95",
+      "D": "105"
+    },
+    "answer": "A",
+    "explanation": "M = f_objective / f_eyepiece = 100 / 5 = 20.",
+    "topic": "Optical Instruments / Telescopes",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The image formed by a plane mirror is always:",
+    "options": {
+      "A": "Virtual, upright, laterally inverted, and same size",
+      "B": "Real and inverted",
+      "C": "Magnified and real",
+      "D": "Diminished and virtual"
+    },
+    "answer": "A",
+    "explanation": "Plane mirrors produce virtual images situated as far behind mirror as object is in front, same size and laterally inverted.",
+    "topic": "Reflection / Plane Mirrors",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Resistors 4 Ω and 6 Ω are connected in parallel across a 12 V battery. Find the total current.",
+    "options": {
+      "A": "5 A",
+      "B": "1.2 A",
+      "C": "2.4 A",
+      "D": "10 A"
+    },
+    "answer": "A",
+    "explanation": "R_p = (4 × 6)/(4 + 6) = 2.4 Ω. Total current I = V / R = 12 / 2.4 = 5 A.",
+    "topic": "Current Electricity / DC Circuits",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An alternating voltage is V = 100 sin(100πt). Find the peak voltage V₀ and frequency f.",
+    "options": {
+      "A": "V₀ = 100 V, f = 50 Hz",
+      "B": "V₀ = 100 V, f = 100 Hz",
+      "C": "V₀ = 50 V, f = 50 Hz",
+      "D": "V₀ = 141 V, f = 50 Hz"
+    },
+    "answer": "A",
+    "explanation": "V = V₀ sin(2πft) → V₀ = 100 V, 2πf = 100π → f = 50 Hz.",
+    "topic": "Alternating Current",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The half-life of a radioactive isotope is 12 days. What fraction remains undecayed after 36 days?",
+    "options": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "1/16",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Number of half-lives n = 36 / 12 = 3. Remaining = (1/2)³ = 1/8.",
+    "topic": "Nuclear Physics / Half-Life",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the electrical energy consumed by a 100 W lamp operating for 5 hours.",
+    "options": {
+      "A": "0.5 kWh",
+      "B": "500 kWh",
+      "C": "5.0 kWh",
+      "D": "20 kWh"
+    },
+    "answer": "A",
+    "explanation": "Energy = Power × time = 0.1 kW × 5 h = 0.5 kWh (or 100 × 18,000 = 1.8 × 10⁶ J).",
+    "topic": "Electrical Power & Energy",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Calculate the work done when an electric charge of 5 C moves through 12 V potential difference.",
+    "options": {
+      "A": "60 J",
+      "B": "2.4 J",
+      "C": "0.42 J",
+      "D": "17 J"
+    },
+    "answer": "A",
+    "explanation": "W = Q · V = 5 C × 12 V = 60 J.",
+    "topic": "Electric Potential",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A step-down transformer has 1000 turns in primary and 100 turns in secondary. If primary voltage is 240 V, find secondary voltage.",
+    "options": {
+      "A": "24 V",
+      "B": "2400 V",
+      "C": "120 V",
+      "D": "12 V"
+    },
+    "answer": "A",
+    "explanation": "V_s / 240 = 100 / 1000 → V_s = 24 V.",
+    "topic": "Transformers",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A 20 μF capacitor is charged to 50 V. Calculate the energy stored.",
+    "options": {
+      "A": "0.025 J",
+      "B": "0.050 J",
+      "C": "0.500 J",
+      "D": "1.000 J"
+    },
+    "answer": "A",
+    "explanation": "E = ½CV² = 0.5 × (20 × 10⁻⁶) × 2500 = 0.025 J.",
+    "topic": "Capacitors",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Two parallel conductors carrying currents in the SAME direction will:",
+    "options": {
+      "A": "Attract each other",
+      "B": "Repel each other",
+      "C": "Have no interaction",
+      "D": "Rotate clockwise"
+    },
+    "answer": "A",
+    "explanation": "Parallel like currents produce magnetic attraction between the wires.",
+    "topic": "Magnetic Fields / Force Between Currents",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In photoelectric emission, the kinetic energy of emitted photoelectrons depends directly on the:",
+    "options": {
+      "A": "Frequency of incident radiation",
+      "B": "Intensity of incident light",
+      "C": "Surface area of metal",
+      "D": "Duration of illumination"
+    },
+    "answer": "A",
+    "explanation": "Einstein's photoelectric equation: KE_max = hf - W₀. Energy depends strictly on radiation frequency.",
+    "topic": "Photoelectric Effect",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An alpha particle consists of:",
+    "options": {
+      "A": "2 protons and 2 neutrons (Helium-4 nucleus)",
+      "B": "1 proton and 1 electron",
+      "C": "High energy photons",
+      "D": "2 electrons"
+    },
+    "answer": "A",
+    "explanation": "An alpha particle is a helium nucleus (⁴₂He²⁺) carrying 2 protons and 2 neutrons.",
+    "topic": "Nuclear Physics / Radioactivity",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

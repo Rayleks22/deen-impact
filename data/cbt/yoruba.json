@@ -1,374 +1,406 @@
 [
   {
-    "question": "Melo ni iye konsonanti ti o wa ninu alifabeeti ede Yoruba ode-oni?",
+    "question": "Awon faweli aranmupe ede Yoruba je meloo?",
     "options": {
-      "A": "Mejidindogun (18)",
-      "B": "Meedogun (15)",
-      "C": "Meji-le-logun (22)",
-      "D": "Marundinlogun (15)"
+      "A": "Marun-un (an, en, in, on, un)",
+      "B": "Meje (a, e, e-dot, i, o, o-dot, u)",
+      "C": "Mewa",
+      "D": "Mesan-an"
     },
     "answer": "A",
-    "explanation": "Alifabeeti ede Yoruba ni konsonanti mejidindogun (18): b, d, f, g, gb, h, j, k, l, m, n, p, r, s, s, t, w, y.",
-    "topic": "Fonetiki / Konsonanti Yoruba",
+    "explanation": "Awon faweli aranmupe Yoruba marun-un ni: an, en, in, on, un (ti a n pe jade nipase iho imu).",
+    "topic": "Faweli Aranmupe",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Faweli melo lo wa ninu ede Yoruba (ranpe ati aranmupe papo)?",
+    "question": "Awon faweli airanmupe ede Yoruba je meloo?",
     "options": {
-      "A": "Mejila (7 aranpe + 5 aranmupe = 12)",
-      "B": "Mewa (10)",
-      "C": "Meeje (7)",
-      "D": "Mejidinlogun (18)"
+      "A": "Meje (a, e, e, i, o, o, u)",
+      "B": "Marun-un",
+      "C": "Mokanla",
+      "D": "Mejila"
     },
     "answer": "A",
-    "explanation": "Ede Yoruba ni faweli aranpe meje (a, e, e, i, o, o, u) ati faweli aranmupe marun-un (an, en, in, on, un), gbogbo re lapapo je mejila (12).",
-    "topic": "Fonetiki / Faweli Yoruba",
+    "explanation": "Awon faweli airanmupe meje ni: a, e, e, i, o, o, u (ti a n pe jade nipase iho enu nikan).",
+    "topic": "Faweli Airanmupe",
     "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ami ohun melo lo wa ninu ede Yoruba ti a fi n se iyato itumo oro?",
+    "question": "Konsonanti meloo lo wa ninu alifabeeti ede Yoruba ode-oni?",
     "options": {
-      "A": "Mete: Do (\\), Re (-), Mi (/)",
-      "B": "Meji: Do ati Mi",
-      "C": "Merin",
-      "D": "Marun-un"
+      "A": "Mejidindogun (18)",
+      "B": "Mogun (20)",
+      "C": "Marundinlogun (15)",
+      "D": "Meji-le-logun (22)"
     },
     "answer": "A",
-    "explanation": "Ami ohun mete lo wa ninu ede Yoruba: Ohun Isale (Do - \\), Ohun Aarin (Re - ko ni ami), ati Ohun Oke (Mi - /).",
-    "topic": "Fonetiki / Ami Ohun",
+    "explanation": "Awon konsonanti Yoruba 18 ni: b, d, f, g, gb, h, j, k, l, m, n, p, r, s, s, t, w, y.",
+    "topic": "Konsonanti Yoruba",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 3,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini itumo owe Yoruba yii: 'Ile la n wo k'a to so'mo l'oruko'?",
+    "question": "Ami ohun meloo lo wa ninu ede Yoruba?",
     "options": {
-      "A": "Ipo ati ipo ti idile wa ni a n wo ki a to so omo loruko",
-      "B": "Ki a kọkọ kọ ile nla ki a to bi omo",
-      "C": "Ki a wo orule ile boya o jo",
-      "D": "Ki a ma so omo loruko titi yoo fi dagba"
+      "A": "Mete (Do, Re, Mi)",
+      "B": "Merin",
+      "C": "Meji",
+      "D": "Marun-un"
     },
     "answer": "A",
-    "explanation": "Owe yii n so pe isele, ipo, ati aseyori idile lo n dari iru oruko amutorunwa tabi oruko abiso ti a o so omo.",
-    "topic": "Asa ati Ise / Eto Isomoloruko",
+    "explanation": "Awon ami ohun mete ni: Ohun Isale (Do - \\), Ohun Aarin (Re - ko ni ami), ati Ohun Oke (Mi - /).",
+    "topic": "Ami Ohun",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 4,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ninu eto igbeyawo ibile Yoruba, kini oruko owo ti idile oko ma n san fun idile iyawo gege bi idana?",
+    "question": "Ewo ninu awon oro wonyi lo gbe ami ohun 'Do-Re'?",
     "options": {
-      "A": "Owo Idana",
-      "B": "Owo Asanla",
-      "C": "Owo Orile-ede",
-      "D": "Owo Oja"
+      "A": "Igba (calabash)",
+      "B": "Obe",
+      "C": "Eja",
+      "D": "Ile"
     },
     "answer": "A",
-    "explanation": "Owo idana ati eru idana (bii oyin, epo, obi, iyo, ataare, oti) ni idile oko n gbe wa fun ifidimule igbeyawo ibile.",
-    "topic": "Asa ati Ise / Eto Igbeyawo",
+    "explanation": "Oro 'Igba' (calabash) ni ami ohun 'Do-Re' lori awon faweli re.",
+    "topic": "Ipele Ohun",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2020",
     "id": 5,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini ipele ti o tele 'Ewe' ninu kika ojo ori eniyan ni asa Yoruba?",
+    "question": "Konsonanti /gb/ ati /p/ je konsonanti:",
     "options": {
-      "A": "Omode / Wundia / Odo",
-      "B": "Agbalagba",
-      "C": "Arugbo",
-      "D": "Oku"
+      "A": "Apetunpe afiyegbepe (Labio-velar plosives)",
+      "B": "Afirunpe (Alveolar)",
+      "C": "Aferigipe (Dental)",
+      "D": "Afitanpe (Glottal)"
     },
     "answer": "A",
-    "explanation": "Lati ewe, eniyan a di omode, odo (wundia/omidan tabi akomona/odo-omokunrin), ki o to di agbalagba ati arugbo.",
-    "topic": "Asa ati Ise / Ipele Aye Eniyan",
+    "explanation": "A n pe /gb/ ati /p/ (ti a n pe ni kp) nipa lilo ete mejeeji ati eyin faaji lẹẹkanna.",
+    "topic": "Ipo Asunmo Konsonanti",
     "exam": "WAEC SSCE",
-    "year": "2021",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Oro-ise ninu gbolohun 'Ade <u>je</u> eba loni' je:",
+    "question": "Ewo ninu awon oro wonyi lo ni faweli aranmupe ninu?",
     "options": {
-      "A": "je",
-      "B": "Ade",
-      "C": "eba",
-      "D": "loni"
+      "A": "Omo",
+      "B": "Iwon",
+      "C": "Ade",
+      "D": "Eran"
     },
-    "answer": "A",
-    "explanation": "'Je' ni oro-ise (verb) nitori pe oun ni o n fihan ise ti oluwa (Ade) se ninu gbolohun naa.",
-    "topic": "Girama Yoruba / Eya Oro (Oro-Ise)",
+    "answer": "D",
+    "explanation": "Oro 'eran' ni faweli aranmupe /an/ ninu nitori pe a fa afefe jade nipase imu.",
+    "topic": "Idanimo Faweli Aranmupe",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Iru oruko wo ni 'Taiwo' ati 'Kehinde' ninu asa Yoruba?",
+    "question": "Oro wo ninu iwonyi ti ko ni faweli lẹyin konsonanti re to gbeyin (konsonanti aranmupe ase-oro)?",
     "options": {
-      "A": "Oruko Amutorunwa",
-      "B": "Oruko Abiso",
-      "C": "Oriki",
-      "D": "Oruko Inagije"
+      "A": "Nwon",
+      "B": "Enu",
+      "C": "Obe",
+      "D": "Iya"
     },
     "answer": "A",
-    "explanation": "Oruko amutorunwa ni oruko ti omo ba tele wa lati inu iya re, bii ibeji (Taiwo ati Kehinde), Idowu, Alaba, ati bee bee lo.",
-    "topic": "Asa ati Ise / Oruko Amutorunwa",
+    "explanation": "Ede Yoruba ko fi konsonanti pari oro ayafi konsonanti aranmu /n/ ninu ipe-oro kan pato bii 'nwon'.",
+    "topic": "Igbese Iro Ede",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ewo ninu awon wonyi kii se orisa ti a n bo ni ile Yoruba?",
+    "question": "Ipa wo ni faweli le ko ninu ebi oro Yoruba ti konsonanti ko le ko?",
     "options": {
-      "A": "Jupiter",
-      "B": "Sango",
-      "C": "Ogun",
-      "D": "Oya"
+      "A": "Faweli le da duro gege bi eyo eya oro (silabu) tabi eyo oro aladase",
+      "B": "Faweli ko le gbe ami ohun rara",
+      "C": "Konsonanti nikan lo le bere oro",
+      "D": "Faweli ko le pari oro"
     },
     "answer": "A",
-    "explanation": "Sango (orisa ara), Ogun (orisa irin), ati Oya je orisa ile Yoruba, nigba ti Jupiter je orisa awon ara Romu (Rome).",
-    "topic": "Asa ati Esin Ibile Yoruba",
+    "explanation": "Faweli nikan lo le da duro gege bi silabu tabi oro aladase ninu ede Yoruba (bii 'o', 'a', 'e').",
+    "topic": "Ipa Faweli",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini itumo akanlo-ede yii: 'O ti <u>gbabe kuro</u>'?",
+    "question": "Asunmo faweli (vowel harmony / assimilation) waye nigba ti:",
     "options": {
-      "A": "O ti ku",
-      "B": "O ti rin lo si oko",
-      "C": "O ti ra moto tuntun",
-      "D": "O n sun oorun irole"
+      "A": "Iro faweli kan ba yi pada labe ipa iro faweli to wa legbe re",
+      "B": "A ba ko oro lori iwe",
+      "C": "A ba pari gbolohun",
+      "D": "A ba lo ami idanuduro"
     },
     "answer": "A",
-    "explanation": "'Gbabe kuro' tabi 'waja' je akanlo-ede ti a n lo fun iku eniyan lona ti o bowo fun eeyan.",
-    "topic": "Akanlo Ede ati Owe",
+    "explanation": "Asunmo ni ifarape laarin awon iro to wa legbe ara won ninu oro tabi gbolohun.",
+    "topic": "Asunmo Faweli",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini oruko orin tabi ewi ti awon ode n fi s'aseyori eranko ti won pa tabi ninu apeje ode?",
+    "question": "Ewo ninu awon wonyi ni oro-ise (verb) ninu gbolohun 'Adebayo ra iwe tuntun'?",
     "options": {
-      "A": "Ijala",
-      "B": "Rara",
-      "C": "Ege",
-      "D": "Alo"
+      "A": "Ra",
+      "B": "Adebayo",
+      "C": "Iwe",
+      "D": "Tuntun"
     },
     "answer": "A",
-    "explanation": "Ijala ni ewi alohun ti awon ode ma n sun fun Ogun ati lati se ayeye eranko igbe ti won ba pa.",
-    "topic": "Litireso Alohun / Ijala Ode",
+    "explanation": "'Ra' ni oro-ise ti o fihan ohun ti oluse (Adebayo) se ninu gbolohun naa.",
+    "topic": "Oro-Ise",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ninu eto iselu ibile Oyo, olori awon Oyomesi ni a mo si:",
+    "question": "Ninu gbolohun 'Omobirin pupa naa n sun', ewo ni oro-apejuwe (adjective)?",
     "options": {
-      "A": "Bashorun",
-      "B": "Aare Ona Kakanfo",
-      "C": "Osi Efa",
-      "D": "Kakanfo"
+      "A": "Pupa",
+      "B": "Omobirin",
+      "C": "Naa",
+      "D": "Sun"
     },
     "answer": "A",
-    "explanation": "Bashorun ni alaga ati olori igbimo Oyomesi meje ti won n dari eto idena ati imoran fun Alaafin Oyo.",
-    "topic": "Asa ati Eto Iselu Ibile",
+    "explanation": "'Pupa' n se apejuwe irisi tabi awo omobirin naa, nitori naa oro-apejuwe ni.",
+    "topic": "Oro-Apejuwe",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini itumo owe yii: 'A pẹ kooto jẹun, kii jẹ ibajẹ'?",
+    "question": "Gbolohun alalaye (declarative sentence) ninu ede Yoruba n pari pelu:",
     "options": {
-      "A": "Suuru ati iforiti n so eso rere ti o daju",
-      "B": "Eniyan gbodo tete jeun ki o to tutu",
-      "C": "Ounje kii baje lori ina",
-      "D": "Ki a ma pe si ibi aseje"
+      "A": "Ami idanuduro (full stop)",
+      "B": "Ami ibeere (question mark)",
+      "C": "Ami igbe (exclamation mark)",
+      "D": "Ami asopo (hyphen)"
     },
     "answer": "A",
-    "explanation": "Owe yii n ko ni pe eni ti o ba ni suuru ati iforiti lati se nkan daradara yoo gba ere ti o dara julọ.",
-    "topic": "Owe Yoruba / Eko Iwa",
+    "explanation": "Gbolohun alalaye n so oro tabi iroyin kan lai se ibeere tabi ase, o si n pari pelu idanuduro.",
+    "topic": "Gbolohun Alalaye",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ewo ninu awon oro wonyi lo ni iro aranmupe ninu?",
+    "question": "A n seda oro-oruko lati ara oro-ise nipa lilo:",
     "options": {
-      "A": "Ibon",
-      "B": "Aba",
-      "C": "Eja",
-      "D": "Opolo"
+      "A": "Afikun iwaju (prefixation) bii a-, e-, i-, ati apetunpe (reduplication)",
+      "B": "Yiyoro oro-aponle kuro",
+      "C": "Fifi oro-asopo si opin gbolohun",
+      "D": "Yiyipada ami ohun nikan"
     },
     "answer": "A",
-    "explanation": "'Ibon' ni faweli aranmupe 'on' ninu, nigba ti awon yooku je faweli aranpe.",
-    "topic": "Fonetiki / Faweli Aranmupe",
+    "explanation": "Bii 'lo' (ise) -> 'ilo' (oruko), 'ko' -> 'eko', 'ba' -> 'iba'.",
+    "topic": "Iseda Oro",
     "exam": "WAEC SSCE",
-    "year": "2022",
+    "year": "2021",
     "id": 14,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Awon ewo ni a n pe ni 'Ibeji' ninu asa Yoruba?",
+    "question": "Aropo-oruko eeyan keta eyo (third person singular pronoun) fun oluse ninu ede Yoruba ni:",
     "options": {
-      "A": "Omo meji ti a bi leekan soso lati inu iya kan",
-      "B": "Omo ti a bi leyin Taiwo",
-      "C": "Omo ti a bi pelu ekuru",
-      "D": "Omo akobi ninu idile"
+      "A": "O (Oun)",
+      "B": "Mo (Emi)",
+      "C": "O (Iwo)",
+      "D": "Awon"
     },
     "answer": "A",
-    "explanation": "Ibeji ni awon omo meji ti a bi papo ni ojo kan naa lati inu iya kannaa; eni akoko ni Taiwo, ekeji ni Kehinde.",
-    "topic": "Asa ati Ise / Ibeji",
+    "explanation": "'O' tabi 'Oun' ni a n lo fun eeyan keta eyo (he/she/it).",
+    "topic": "Aropo-Oruko",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2020",
     "id": 15,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini ise ti Aare Ona Kakanfo n se ninu itan ile Yoruba?",
+    "question": "Ewo ninu awon wonyi ni oro-aponle (adverb) ninu gbolohun 'Olu sare kia-kia'?",
     "options": {
-      "A": "Balogun gbogbogbo ati olori ogun gbogbo ile Yoruba",
-      "B": "Olori awon alagbede",
-      "C": "Onidajo ilu",
-      "D": "Akowe oba"
+      "A": "Kia-kia",
+      "B": "Olu",
+      "C": "Sare",
+      "D": "Ko si"
     },
     "answer": "A",
-    "explanation": "Aare Ona Kakanfo ni olori ati gbogbogbo oludari ogun gbogbo ile Yoruba, ti a gbekele lati jagun ati daabo bo ile.",
-    "topic": "Itan ati Oye Ibile / Aare Ona Kakanfo",
+    "explanation": "'Kia-kia' n se aponle bi Olu se sare to, o n se afikun itumo si oro-ise 'sare'.",
+    "topic": "Oro-Aponle",
     "exam": "WAEC SSCE",
-    "year": "2020",
+    "year": "2019",
     "id": 16,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Iru ewi alohun wo ni a ma n ko lati fi ki oba tabi ilu ati oriki idile?",
+    "question": "Eya oro wo ni 'ati', 'sugbon', 'tabi' je?",
     "options": {
-      "A": "Rara / Oriki",
-      "B": "Ege",
-      "C": "Alo Apamo",
-      "D": "Bata"
+      "A": "Oro-asopo (Conjunction)",
+      "B": "Oro-atokun (Preposition)",
+      "C": "Oro-oruko (Noun)",
+      "D": "Oro-ise (Verb)"
     },
     "answer": "A",
-    "explanation": "Rara ati Oriki ni awon akigbe n sun lati se afihan itan, akikanju, ati ewa idile oba tabi eeyan jankanjankan.",
-    "topic": "Litireso Alohun / Oriki",
+    "explanation": "Awon eya oro wonyi n so oro meji tabi gbolohun meji po.",
+    "topic": "Oro-Asopo",
     "exam": "JAMB UTME",
-    "year": "2019",
+    "year": "2018",
     "id": 17,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini a n pe ni 'Alo Apamo' ni ede Geesi?",
+    "question": "Ninu gbolohun 'Bisi wa ninu ile', oro-atokun (preposition) ni:",
     "options": {
-      "A": "Riddles",
-      "B": "Folktales / Folktale stories",
-      "C": "Poems",
-      "D": "Proverbs"
+      "A": "Ninu",
+      "B": "Bisi",
+      "C": "Wa",
+      "D": "Ile"
     },
     "answer": "A",
-    "explanation": "Alo Apamo ni awon eko ati ibeere oye ti a n pa ('Alo o!' - 'Aalo!') ti ede Geesi n pe ni Riddles.",
-    "topic": "Litireso Alohun / Alo Apamo",
+    "explanation": "'Ninu' fihan ibi tabi ipo ti Bisi wa ni ibatan si ile.",
+    "topic": "Oro-Atokun",
     "exam": "WAEC SSCE",
-    "year": "2018",
+    "year": "2017",
     "id": 18,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini oruko odun ibile ti awon ara Ibadan n se lati fi se iranti ifipamo si abẹ apata nigba ogun?",
+    "question": "Gbolohun alase (imperative sentence) ni:",
     "options": {
-      "A": "Odun Oke Ibadan",
-      "B": "Odun Osun",
-      "C": "Odun Eyo",
-      "D": "Odun Ogun"
+      "A": "Gbolohun ti o n pase tabi beere fun igbese kan pato (bii: 'Dide kuro nibe!')",
+      "B": "Gbolohun to n beere ibeere",
+      "C": "Gbolohun to n se apejuwe ojo",
+      "D": "Gbolohun ti ko ni oro-ise"
     },
     "answer": "A",
-    "explanation": "Odun Oke Ibadan ni a n se lati se iranti bi oke ati apata se gba Lagelu ati awon ara Ibadan la nigba ogun.",
-    "topic": "Asa ati Odun Ibile / Oke Ibadan",
+    "explanation": "Gbolohun alase ni a n lo lati fi pa ase tabi fi gba eeyan lamoran lile.",
+    "topic": "Gbolohun Alase",
     "exam": "JAMB UTME",
-    "year": "2022",
+    "year": "2016",
     "id": 19,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Ninu ilana fono-lojiki, 'gb' ati 'p' je iro konsonanti:",
+    "question": "Orisi gbolohun meloo lo wa nipa igbekale?",
     "options": {
-      "A": "Afiyajumo-feyanpe (Labio-velar)",
-      "B": "Afi-eyinpe (Dental)",
-      "C": "Afi-afonpe (Glottal)",
-      "D": "Afi-etepe (Bilabial)"
+      "A": "Mete: Gbolohun Elese-kan (Simple), Gbolohun Olopo (Compound), ati Gbolohun Alakanpo (Complex)",
+      "B": "Meji",
+      "C": "Merin",
+      "D": "Marun-un"
     },
     "answer": "A",
-    "explanation": "Iro 'gb' ati 'p' je afiyajumo-feyanpe (labio-velar stops) nitori pe a n pe won pelu ete mejeeji ati eyin ahon papo.",
-    "topic": "Fonetiki / Konsonanti Labio-velar",
+    "explanation": "Nipa igbekale, a ni gbolohun abode/elese-kan, gbolohun olopo, ati gbolohun alakanpo.",
+    "topic": "Igbekale Gbolohun",
     "exam": "WAEC SSCE",
-    "year": "2023",
+    "year": "2015",
     "id": 20,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Aso ibile Yoruba wo ni a ma n hun lati inu owu ti a fi igi alafe so?",
+    "question": "Gege bi asa Yoruba, ojo meloo ni a n so omo tuntun loruko?",
     "options": {
-      "A": "Aso-Oke",
-      "B": "Lace",
-      "C": "Ankara",
-      "D": "Satin"
+      "A": "Ojo kejo (8th day) fun omo gbogbo lonii, tabi ojo keje fun obirin / kesan-an fun okunrin laye atijo",
+      "B": "Ojo kini lehin ibi",
+      "C": "Ojo karundinlogbon",
+      "D": "Lehin osu kan"
     },
     "answer": "A",
-    "explanation": "Aso-Oke (bii Etu, Sanyan, Alaari) ni aso aṣa ti a n fi ọwọ hun lori ilana ibile Yoruba.",
-    "topic": "Asa ati Ise / Aso Ibile",
+    "explanation": "Laye atijo: ojo keje fun obirin, kesan-an fun okunrin, kejo fun ibeji; sugbon ojo kejo wopo gbogbogbo lonii.",
+    "topic": "Eto Ikmo",
     "exam": "JAMB UTME",
-    "year": "2020",
+    "year": "2024",
     "id": 21,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Oro wo ninu awon wonyi ni a ko pelu 'p' ti a si n pe gege bi konsonanti Yoruba?",
+    "question": "Oruko Amutorunwa je oruko ti:",
     "options": {
-      "A": "Pupa",
-      "B": "School",
-      "C": "Cup",
-      "D": "Stop"
+      "A": "Omo ba waye pelu re lati inu iya re (bii Ige, Ojo, Aina, Taiwo, Kehinde)",
+      "B": "Awon obi fe lati so omo nitori ipo owo",
+      "C": "Awon ore baba so fun omo",
+      "D": "A so omo ni ile iwe"
     },
     "answer": "A",
-    "explanation": "Ni ede Yoruba, 'p' je konsonanti ti a n pe ni /kp/ (bii ninu pupa, pe, po, pa).",
-    "topic": "Fonetiki / Iro P",
+    "explanation": "Oruko Amutorunwa n fihan ipo tabi ona ti omo gba waye lati inu iya re.",
+    "topic": "Oruko Amutorunwa",
     "exam": "WAEC SSCE",
-    "year": "2019",
+    "year": "2023",
     "id": 22,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini itumo gbolohun eleyo-oro-ise?",
+    "question": "Omo ti a bi ti ese re ya jade saaju ori ni a n pe ni:",
     "options": {
-      "A": "Gbolohun ti o ni oro-ise kan soso ninu",
-      "B": "Gbolohun ti ko ni oro-ise kankan",
-      "C": "Gbolohun ti o ni oro-ise mewa",
-      "D": "Gbolohun ti a ko pelu ede Geesi"
+      "A": "Ige",
+      "B": "Ojo",
+      "C": "Oke",
+      "D": "Aina"
     },
     "answer": "A",
-    "explanation": "Gbolohun eleyo-oro-ise (Simple sentence) ni gbolohun ti o gbe ero pipe jade ti o si ni oro-ise kan pere.",
-    "topic": "Girama Yoruba / Gbolohun",
+    "explanation": "Ige Adubi ni omo ti a bi ti ese re yo jade saaju.",
+    "topic": "Oruko Ige",
     "exam": "JAMB UTME",
-    "year": "2021",
+    "year": "2022",
     "id": 23,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini a n pe ni omo ti o tele Kehinde lẹyin ninu ibi omo?",
+    "question": "Omo ti o ba gbe ibi (placenta) bii aso bo oju tabi ara wa saye ni a n pe ni:",
+    "options": {
+      "A": "Oke",
+      "B": "Ige",
+      "C": "Salako",
+      "D": "Oni"
+    },
+    "answer": "A",
+    "explanation": "Oke ni omo ti o gbe apo ibi tabi awo bo ara jade lati inu iya re.",
+    "topic": "Oruko Oke",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ninu awon oruko ibeji Yoruba, ewo lo koko ya jade saye ti a si ka si aburo?",
+    "options": {
+      "A": "Taiwo (To-aiye-wo)",
+      "B": "Kehinde",
+      "C": "Idowu",
+      "D": "Alaba"
+    },
+    "answer": "A",
+    "explanation": "Taiwo lo koko yo wa saye lati to aye wo, sugbon Kehinde to gbeyin ni a gba gege bi egbon.",
+    "topic": "Taiwo ati Kehinde",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Omo ti a bi lehin ibeji ni asa Yoruba ni:",
     "options": {
       "A": "Idowu",
       "B": "Alaba",
@@ -376,27 +408,1195 @@
       "D": "Ige"
     },
     "answer": "A",
-    "explanation": "Omo ti a ba bi tele Kehinde ni a n pe ni Idowu. Eni ti o ba tun tele Idowu ni Alaba.",
-    "topic": "Asa / Oruko Amutorunwa",
+    "explanation": "Idowu ni omo ti o tele ibeji; omo ti o tele Idowu ni a n pe ni Alaba.",
+    "topic": "Oruko Idowu",
     "exam": "WAEC SSCE",
-    "year": "2024",
-    "id": 24,
+    "year": "2019",
+    "id": 26,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "Kini itumo owe yii: 'Agba kii wa l'oja k'ori omo titun wo'?",
+    "question": "Ewo ninu awon nkan ikmo wonyi lo n se apejuwe 'adidun ati adun aye' fun omode?",
     "options": {
-      "A": "Awọn agbalagba gbọdọ fi ogbontarigi ati oye dari awon odo ki nkan ma ba baje",
-      "B": "Ki agbalagba ma ta oja larin odo",
-      "C": "Ki omo titun ma lo si oja",
-      "D": "Ki awon iyawo gbe omo won wo oja"
+      "A": "Oyin ati Ireke",
+      "B": "Ataare",
+      "C": "Epo pupa",
+      "D": "Oti"
     },
     "answer": "A",
-    "explanation": "Owe yii n fihan pe ojuse awon agbalagba ati olori ni lati gba awon odo niyanju ati to won si ona to to ki awujo ma ba bajẹ.",
-    "topic": "Owe Yoruba / Ojuse Awon Agba",
+    "explanation": "Oyin ati ireke n se afihan pe aye omo naa yoo dun, kii yoo ri kikoro.",
+    "topic": "Ohun Ikmo",
     "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A n lo Orogbo ninu eto ikmo gege bi apeere:",
+    "options": {
+      "A": "Agba ati emi gigun ti ko lopin",
+      "B": "Owo pupo",
+      "C": "Ayeraye iku",
+      "D": "Aibimo"
+    },
+    "answer": "A",
+    "explanation": "Orogbo gbo kaye; o n duro fun ogbo, ato, ati emi gigun.",
+    "topic": "Apeere Orogbo",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Oruko Abiso (circumstantial name) n fihan:",
+    "options": {
+      "A": "Ipo tabi isele to sele ninu ebi nigba ti a bi omo (bii Ayodele, Babatunde, Tokunbo)",
+      "B": "Oruko amutorunwa",
+      "C": "Oriki ilu",
+      "D": "Oruko oye oba"
+    },
+    "answer": "A",
+    "explanation": "A n so oruko abiso nipa akiyesi ipo inawo, ayo, tabi isele pataki ti ebi n dojukọ.",
+    "topic": "Oruko Abiso",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Oruko ti a so omo ti a bi lehin iku baba-baba re ni:",
+    "options": {
+      "A": "Babatunde (tabi Babajide)",
+      "B": "Yetunde (tabi Iyabo)",
+      "C": "Abiona",
+      "D": "Osunbemi"
+    },
+    "answer": "A",
+    "explanation": "Babatunde fihan igbagbo Yoruba ninu atunwa baba ti o ti ku pada sodo ebi.",
+    "topic": "Atunwa / Babatunde",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Igbese akoko pataki ninu eto igbeyawo ibile Yoruba laarin ebi mejeeji ni:",
+    "options": {
+      "A": "Lilo Alarina ati Ise Ifojusode",
+      "B": "Idana lojiji",
+      "C": "Igbeyawo ni soosi",
+      "D": "Gbigbe iyawo wole laisi ebi"
+    },
+    "answer": "A",
+    "explanation": "Alarina n se iwadii jinle nipa iwa, aisan idile, ati esin idile iyawo ati oko saaju itoro.",
+    "topic": "Igbese Igbeyawo / Alarina",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Itoro ninu eto igbeyawo Yoruba ni igba ti:",
+    "options": {
+      "A": "Idile afesona okunrin ba lo si odo idile omobirin pelu ebun lati beere owo re fun igbeyawo",
+      "B": "A gbe iyawo wole tan",
+      "C": "Awon omidan n jo orin",
+      "D": "Awon alaga n ja ija"
+    },
+    "answer": "A",
+    "explanation": "Itoro ni ibewo osise akoko ti idile oko fi n towo omobirin lo.",
+    "topic": "Itoro",
+    "exam": "WAEC SSCE",
     "year": "2023",
-    "id": 25,
+    "id": 32,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Owo ori (dower) ati awon eru idana ti idile oko n mu wa fun idile iyawo n se afihan:",
+    "options": {
+      "A": "Imudani ati imupari adehun igbeyawo labe ofin ati asa Yoruba",
+      "B": "Rira ti oko ra iyawo bi eru",
+      "C": "Owo osise ijoba",
+      "D": "Owo inawo ilu"
+    },
+    "answer": "A",
+    "explanation": "Eru idana kii se rira eru, bikose ami iyi, ife, ati asopọ to daju laarin idile mejeeji.",
+    "topic": "Idana",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 33,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini a n se fun iyawo tuntun ni enu ona ile oko re saaju ki o to wole?",
+    "options": {
+      "A": "Wifo ese re ninu awo pelu omi tutu ati eyo owo",
+      "B": "Gbigbe e lori aga goolu",
+      "C": "Fifi aso bo oju re patapata",
+      "D": "Gbigba tirele re kuro"
+    },
+    "answer": "A",
+    "explanation": "Fifi omi we ese iyawo n se afihan fife gbogbo ibi ati eru ese atijo nu kuro ki o to wole ire.",
+    "topic": "Igbeyawo / Wiwe Ese",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 34,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Olori ati apeja gbogbo ilu tabi ijoba ibile Yoruba ni:",
+    "options": {
+      "A": "Oba Alaye",
+      "B": "Baale",
+      "C": "Balogun",
+      "D": "Iyalode"
+    },
+    "answer": "A",
+    "explanation": "Oba Alaye ni adari gbogbo ara ilu ati aṣoju awon orisa ati baba-nla.",
+    "topic": "Iselu Ibile / Oba",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Awon afobaje (Kingmakers) ni ilu Oyo atijo ti won n yan Alaafin ni a n pe ni:",
+    "options": {
+      "A": "Oyomesi labe asiwaju Bashorun",
+      "B": "Aare Ona Kakanfo",
+      "C": "Oshoffa",
+      "D": "Ajele"
+    },
+    "answer": "A",
+    "explanation": "Oyomesi meje ti Bashorun n se olori won lo n yan Alaafin ti won si n gba awo re ye wo.",
+    "topic": "Oyomesi",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ipa ti Iyalode n ko ninu eto iselu ibile Yoruba ni:",
+    "options": {
+      "A": "Asiwaju ati aṣoju gbogbo awon obirin ati awon olosunwon/onisowo ninu ilu",
+      "B": "Balogun ogun ni oju ogun",
+      "C": "Adajo kotu alufaa",
+      "D": "Olori awon ode"
+    },
+    "answer": "A",
+    "explanation": "Iyalode ni olori gbogbo obirin ninu ilu ti o si ni ohun to lagbara ninu igbimo oba.",
+    "topic": "Oye Iyalode",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Egbe awo ibile ti o n se idajo ati oluso asa ninu ilu Yoruba ni:",
+    "options": {
+      "A": "Ogboni",
+      "B": "Egungun",
+      "C": "Gelete",
+      "D": "Agemo"
+    },
+    "answer": "A",
+    "explanation": "Awon omo Ogboni (ti Edan je ami won) n se agbatero idajo, ilaja, ati ifokanbale ilu.",
+    "topic": "Egbe Ogboni",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Olori awon jagunjagun ti o n dari ogun ilu Yoruba ni:",
+    "options": {
+      "A": "Balogun",
+      "B": "Otunba",
+      "C": "Osi-Efa",
+      "D": "Iyalaje"
+    },
+    "answer": "A",
+    "explanation": "Balogun ni oga ogun ilu to n mu ogun lo si oju ogun.",
+    "topic": "Oye Balogun",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Aare Ona Kakanfo je oye ologun to ga julo ni gbogbo ile Oyo ti a fun:",
+    "options": {
+      "A": "Agbara ati ase lati dari gbogbo jagunjagun ile Yoruba lo si ogun nla",
+      "B": "Ase lati ko owo-ori nikan",
+      "C": "Oye lati te owo ilu",
+      "D": "Oye ti oba n fi fun omo re okunrin akobi"
+    },
+    "answer": "A",
+    "explanation": "Aare Ona Kakanfo ni balogun apapo gbogbo ile Oyo ti a kii n fe ki o teriba loju ogun.",
+    "topic": "Aare Ona Kakanfo",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Iru oku wo ni a n se ayeye nla fun ti a si n jo orin ninu asa Yoruba?",
+    "options": {
+      "A": "Oku agba ti o gbo to to, ti o si fi omo ati omo-omo sile",
+      "B": "Oku ofo ti omode ku",
+      "C": "Oku ti o ku nipa ijamba ina",
+      "D": "Oku aboyun ti o ku pelu oyun"
+    },
+    "answer": "A",
+    "explanation": "Oku agba nikan ni a n se eto isinku ayeye nla fun gege bi erin-wo ati apeere iye gigun.",
+    "topic": "Asa Isinku",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Oku ti a ka si oku ofo tabi oku egbe ninu asa Yoruba ni:",
+    "options": {
+      "A": "Omode tabi odo ti o ku ni kutukutu ti o fi awon obi re sile",
+      "B": "Oku arugbo 90 odun",
+      "C": "Oba ilu ti o waja",
+      "D": "Oloye agba to dagba"
+    },
+    "answer": "A",
+    "explanation": "Oku omode je ibanuje nla ti a kii n se ayeye tabi gbe orin si, nitori pe ko to ojo re.",
+    "topic": "Oku Ofo",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Iru oku wo ni a kii n sin si inu ile, ti a si gbodo se eto ewo ati etutu pataki fun saaju isinku?",
+    "options": {
+      "A": "Oku ti ara san pa, oku ti o so ara re ro (pokunso), tabi oku ti o ku sinu odo",
+      "B": "Oku ti o ku si ibusun nitori ogbo",
+      "C": "Oku onisowo",
+      "D": "Oku olukowe"
+    },
+    "answer": "A",
+    "explanation": "Awon oku buburu tabi oku abami (bii Sanponna, ara sisan) gbodo gba etutu awon olose saaju isinku igbe.",
+    "topic": "Oku Abami",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ninu asa ogun jije Yoruba, awon wo lo ni eto akoko lati jogun dukia oku?",
+    "options": {
+      "A": "Awon omo to bi (nipa ilana Idi-Igi tabi Ori-k'ori)",
+      "B": "Awon ara ilu ejo",
+      "C": "Oba ilu nikan",
+      "D": "Awon aladugbo to sunmo won"
+    },
+    "answer": "A",
+    "explanation": "Awon omo eni lo ni eto pataki si ogun jije baba tabi iya won nipa ilana Idi-Igi tabi Ori-k'ori.",
+    "topic": "Ogun Jije",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 44,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ilana 'Idi-Igi' ninu pinpin ogun Yoruba tumo si pe:",
+    "options": {
+      "A": "A pin ogun gẹgẹ bi iye iyawo ti o bi omo fun ologbe",
+      "B": "A pin dukia labe igi iroko",
+      "C": "A pin dukia fun gbogbo omo leyo kookan laisi akiyesi iya",
+      "D": "A fun iyawo akoko nikan"
+    },
+    "answer": "A",
+    "explanation": "Idi-Igi n pin dukia si eka gẹgẹ bi iye iyawo ti o ni omo fun oku.",
+    "topic": "Ilana Idi-Igi",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 45,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Orisa ti o n se asoju ija, irin, ati ise ode ninu esin ibile Yoruba ni:",
+    "options": {
+      "A": "Ogun",
+      "B": "Sango",
+      "C": "Oya",
+      "D": "Obatala"
+    },
+    "answer": "A",
+    "explanation": "Ogun ni orisa irin, awon alagbede, awakoi, ati gbogbo awon to n lo irin.",
+    "topic": "Orisa Ogun",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 46,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Sango ninu esin ibile Yoruba ni a mo si orisa:",
+    "options": {
+      "A": "Ara ati Monamona",
+      "B": "Omi ati Odo",
+      "C": "Igi ati Ewe",
+      "D": "Owo ati Oro"
+    },
+    "answer": "A",
+    "explanation": "Sango ni orisa ti o n keregbe ara ati monamona, Alaafin Oyo atijo.",
+    "topic": "Orisa Sango",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 47,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Orunmila (Bara Agbonniregun) ni orisa ti o ni imo jinle nipa:",
+    "options": {
+      "A": "Ifa ati afose to fihan ohun ti o farasin ati ojo-iwaju",
+      "B": "Ija ogun nikan",
+      "C": "Gbingbin isu",
+      "D": "Wiwon aso"
+    },
+    "answer": "A",
+    "explanation": "Orunmila ni Eleri-Ipin ti o gbe ebo ati imo ifa lede fun itoni eda.",
+    "topic": "Orisa Orunmila",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 48,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Orisa ti a ka si eleda ti o n mo eda eniyan ninu awo amon ni:",
+    "options": {
+      "A": "Obatala (Orisa-Nla)",
+      "B": "Esu Odara",
+      "C": "Osun",
+      "D": "Yemoja"
+    },
+    "answer": "A",
+    "explanation": "Obatala ni a fi ise mọ ara ati irisi eniyan le lowo lati odo Olodumare.",
+    "topic": "Obatala",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Awon Egungun ninu asa Yoruba n duro fun:",
+    "options": {
+      "A": "Emi awon baba-nla ti o ti ku ti won n pada wa lati ba awon ara aye se idajo ati ibukun",
+      "B": "Awon omidan to fe se igbeyawo",
+      "C": "Awon ode ti n sode",
+      "D": "Awon ole ti n sa fole"
+    },
+    "answer": "A",
+    "explanation": "Ara orun ni a ka egungun si; won n se afihan ifaramora laarin awon ologbe ati alaye.",
+    "topic": "Egungun",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Awon orisi Alo alohun pataki meji ninu ede Yoruba ni:",
+    "options": {
+      "A": "Alo Onitan ati Alo Apamo",
+      "B": "Alo Ogun ati Alo Oba",
+      "C": "Alo Iwe ati Alo Redio",
+      "D": "Alo Agba ati Alo Ewe"
+    },
+    "answer": "A",
+    "explanation": "Alo Onitan n so itan iwa ati eko; Alo Apamo n se idanwo opolo ati akiyesi.",
+    "topic": "Orisi Alo",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini idahun si alo apamo yii: 'Ki ni n nkan to n lo si oja ti oju re koro si ile?'",
+    "options": {
+      "A": "Ibon (tabi Agbon)",
+      "B": "Aja",
+      "C": "Oko",
+      "D": "Aago"
+    },
+    "answer": "A",
+    "explanation": "Ibon ni nitori pe enu re n foju sona nigba ti a ba n gbe e lo.",
+    "topic": "Alo Apamo",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ijala Ere Ode je orin alohun ti o je ti:",
+    "options": {
+      "A": "Awon ode ati olusin Orisa Ogun",
+      "B": "Awon obirin onisowo",
+      "C": "Awon alufa soosi",
+      "D": "Awon oluko iwe"
+    },
+    "answer": "A",
+    "explanation": "Ijala ni ewi ati orin alohun ti awon ode n sun lati yin Ogun ati eranko igbe.",
+    "topic": "Ijala Ode",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Esa (Ewi Egungun) je orin ati ewi alohun ti:",
+    "options": {
+      "A": "Awon Oloje (awon eegun) n sun ni asiko odun Egungun",
+      "B": "A n ko nibi eto isomoloruko",
+      "C": "Awon apeja n ko lori odo",
+      "D": "A n ko ninu soosi"
+    },
+    "answer": "A",
+    "explanation": "Esa Egungun n yin oriki idile, itan ilu, ati iwa akoni nipase awon oje.",
+    "topic": "Esa Egungun",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Rara sisun je orin alohun Yoruba ti a n lo lati:",
+    "options": {
+      "A": "Ki ati yin awon oba, ijoye, ati olowo lenu ona tabi ayeye",
+      "B": "Fi ba omo wi ni ile iwe",
+      "C": "Fi pe ojo nigba ogbele",
+      "D": "Fi le awon eranko igbe sa"
+    },
+    "answer": "A",
+    "explanation": "Awon akigbe rara (bii akunyungba) n ki awon eeyan pataki pelu oriki idile won.",
+    "topic": "Rara Sisun",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Oriki Orile n se afihan:",
+    "options": {
+      "A": "Itan, akoni, iwa, ati orisun idile kan pato ninu ile Yoruba",
+      "B": "Iye owo ti idile ni",
+      "C": "Awo ti won feran lati wo",
+      "D": "Oruko awon moto ti won ra"
+    },
+    "answer": "A",
+    "explanation": "Oriki orile n so orisun, iwa akoni, ati ohun ti a mo idile mo lati igba iwashe.",
+    "topic": "Oriki Orile",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Owe Yoruba je:",
+    "options": {
+      "A": "Esin oro ti o fi ogbon ati ijinle ede han nigba ti a ba n soro",
+      "B": "Ero ti a fi n se ere omode",
+      "C": "Orin ti a n ko ni oru",
+      "D": "Aso ti a n wo lo si oko"
+    },
+    "answer": "A",
+    "explanation": "'Owe lẹsin oro, bi oro ba sonu, owe la fi n wa a.'",
+    "topic": "Owe Yoruba",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'Ile la n wo ki a to so omo loruko'?",
+    "options": {
+      "A": "A gbodo wo ipo ati isele to n sele ninu ebi saaju ki a to gbe igbese pataki",
+      "B": "A gbodo ko ile nla saaju ki a to bimo",
+      "C": "Oruko gbodo jo oruko ile",
+      "D": "A kii so omo loruko ni ita"
+    },
+    "answer": "A",
+    "explanation": "O n gba eniyan lamoran lati se akiyesi ayika ati ipo ebi saaju ipinnu.",
+    "topic": "Itumo Owe",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Gba oruko'?",
+    "options": {
+      "A": "Gbajumo tabi di olokiki ninu ilu",
+      "B": "Gba leta lowo ifiweranse",
+      "C": "Fi oruko pamo sinu iwe",
+      "D": "Ji oruko eni miiran lo"
+    },
+    "answer": "A",
+    "explanation": "'Gba oruko' tumo si di olokiki ti gbogbo aye mo rere re.",
+    "topic": "Akanlo Ede",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ninu alo onitan Yoruba, eranko wo lo wopo julo gege bi alarekereke ati olori imo arekereke?",
+    "options": {
+      "A": "Ijapa (Tiroko)",
+      "B": "Erin",
+      "C": "Kiniun",
+      "D": "Amotekun"
+    },
+    "answer": "A",
+    "explanation": "Ijapa Tiroko oko Yannibo ni a mo si olori arekereke ninu gbogbo alo onitan Yoruba.",
+    "topic": "Ijapa ninu Alo",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Awon aso-oke ibile pataki mete ninu asa Yoruba ni:",
+    "options": {
+      "A": "Aso Etu, Sanyan, ati Alaari",
+      "B": "Kente, Ankara, ati Leesi",
+      "C": "Jinsi, T-saati, ati Sakooti",
+      "D": "Brocade, Poplin, ati Damask"
+    },
+    "answer": "A",
+    "explanation": "Sanyan (alawo eweko/oyinbo), Etu (alawo buluu dudu), ati Alaari (alawo pupa) je aso iyi asa Yoruba.",
+    "topic": "Aso Ibile / Aso-Oke",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Aso Agbada ti okunrin Yoruba n wo pelu sokoto ati buuba n gbe orisirisi oruko sokoto bii:",
+    "options": {
+      "A": "Kembe, Sooro, ati Gbariye",
+      "B": "Mini-sikiiti",
+      "C": "Apolo",
+      "D": "Jeans"
+    },
+    "answer": "A",
+    "explanation": "Kembe ati Sooro je orisi sokoto ibile to n ba aso agbada re rin daadaa.",
+    "topic": "Aso Okunrin Yoruba",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Iro ati Buba pelu Gele ati Ipele je aso iroyi to wopo julo laarin:",
+    "options": {
+      "A": "Awon obirin Yoruba",
+      "B": "Awon omode okunrin",
+      "C": "Awon ode nikan",
+      "D": "Awon olori ogun"
+    },
+    "answer": "A",
+    "explanation": "Iro, buba, gele, ati ipele je aso oge ti o rewa ti awon iyawo ati obirin Yoruba n wo.",
+    "topic": "Aso Obirin Yoruba",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Tiroo ninu oge sise obirin Yoruba ni a n le si:",
+    "options": {
+      "A": "Oju lati mu ki oju tan ina ki o si rewa",
+      "B": "Ese nikan",
+      "C": "Ete lati se ote",
+      "D": "Irun ori gege bi loda"
+    },
+    "answer": "A",
+    "explanation": "Tiroo je eroja dudu ti a n fi itan tiroo le eyin oju fun oge ati itoju oju.",
+    "topic": "Oge Sise / Tiroo",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Laali ninu asa Yoruba ni a n lo lati:",
+    "options": {
+      "A": "Kun ese ati owo lati fi se oge ti o n fi awo pupa tabi dudu to rewa han",
+      "B": "Fọ aso ti o doti",
+      "C": "Se ebe fun isu",
+      "D": "Mọ awo amo"
+    },
+    "answer": "A",
+    "explanation": "A n lo ewe laali ti a lo kunna lati se oge si owo ati ese awon iyawo ati omidan.",
+    "topic": "Laali",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ila kiko ni oju ninu asa Yoruba ni a n lo fun:",
+    "options": {
+      "A": "Idanimo ebi/orile, ewa oju, ati aabo nitori ogun igba atijo",
+      "B": "Ijiya ole",
+      "C": "Isegun ogun oyinbo",
+      "D": "Aami osise banki"
+    },
+    "answer": "A",
+    "explanation": "Ila oju (bii Pele, Gombo, Abaja, Keke) n fihan orile ati idile ti eeyan ti wa.",
+    "topic": "Ila Kiko",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ounje ti a ka si 'Ounje Oloye' tabi ounje to gbajumo julo ti a fi isu se ni:",
+    "options": {
+      "A": "Iyan pelu efo riro tabi egusi",
+      "B": "Eko tutu",
+      "C": "Akara",
+      "D": "Gari gbigbe"
+    },
+    "answer": "A",
+    "explanation": "Iyan ni oba ounje ile Yoruba ti a n gun ninu odo pelu omo-odo.",
+    "topic": "Ounje Iyan",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Amala je ounje Yoruba ti a fi elubo se, orisi elubo meloo lo si wa?",
+    "options": {
+      "A": "Elubo Isu (Amala dudu) ati Elubo Lafun (ti ege)",
+      "B": "Elubo iresi nikan",
+      "C": "Elubo ewa",
+      "D": "Elubo koko"
+    },
+    "answer": "A",
+    "explanation": "Elubo isu (fun amala dudu) ati elubo lafun (ti a fi ege se) lo wopo julo.",
+    "topic": "Amala ati Elubo",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Gbegiri je obe ti a fi kini se ti a n bu si ori amala pelu ewedu?",
+    "options": {
+      "A": "Ewa ti a bo eepo re ti a se jina ti a si ja",
+      "B": "Isu gbigbe",
+      "C": "Eja yiyan",
+      "D": "Ewe gbegbe"
+    },
+    "answer": "A",
+    "explanation": "Gbegiri je obe aladun ti a fi ewa funfun tabi oloyin se pelu epo pupa ati ata.",
+    "topic": "Obe Gbegiri",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ewo ninu awon nkan mimu wonyi lo je emu abinibi ile Yoruba ti a n ro lati ara igi ope?",
+    "options": {
+      "A": "Emu Ope (tabi Emu Oguro ti ope-oguro)",
+      "B": "Waini oyinbo",
+      "C": "Bia peli",
+      "D": "Oti jin"
+    },
+    "answer": "A",
+    "explanation": "Emu ope ati oguro ni awon elere n ro lati inu ope gege bi ohun mimu asa.",
+    "topic": "Emu Ibile",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ta lo kọ iwe itan aroso Yoruba olokiki ti a n pe ni 'Ogboju Ode Ninu Igbo Irunmale'?",
+    "options": {
+      "A": "D. O. Fagunwa (Daniel Olorunfemi Fagunwa)",
+      "B": "Adebayo Faleti",
+      "C": "Akinwumi Isola",
+      "D": "Afolabi Olabimtan"
+    },
+    "answer": "A",
+    "explanation": "Chief D. O. Fagunwa lo kọ 'Ogboju Ode' ni 1938 ti Wole Soyinka si tumo si ede Geesi.",
+    "topic": "D. O. Fagunwa",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Akoni inu iwe 'Ogboju Ode Ninu Igbo Irunmale' ti o lo si Igbo Eledumare ni:",
+    "options": {
+      "A": "Akara-Ogun",
+      "B": "Olowo-aiye",
+      "C": "Kujenyo",
+      "D": "Anjonu-Iberu"
+    },
+    "answer": "A",
+    "explanation": "Akara-Ogun ni ode akoni ti o so itan gbogbo irin-ajo re ninu Igbo Irunmale.",
+    "topic": "Akara-Ogun",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Iwe itan aroso Yoruba miran ti D. O. Fagunwa kọ ni:",
+    "options": {
+      "A": "Igbo Eledumare ati Ireke Onibudo",
+      "B": "Saworoide",
+      "C": "Efunsetan Aniwura",
+      "D": "O le ku"
+    },
+    "answer": "A",
+    "explanation": "Awon iwe Fagunwa to ku ni: Igbo Eledumare, Ireke Onibudo, Irinkerindo Ninu Igbo Elegbeje, ati Adiitu Olodumare.",
+    "topic": "Awon Iwe Fagunwa",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Olukowe ati ojogbon ti o kọ iwe ere-onise 'Efunsetan Aniwura' (Iyalode Ibadan) ni:",
+    "options": {
+      "A": "Akinwumi Isola",
+      "B": "Kola Akinlade",
+      "C": "Oladejo Okediji",
+      "D": "Babatunde Olatunji"
+    },
+    "answer": "A",
+    "explanation": "Ojogbon Akinwumi Isola lo kọ ere-onise nla yii ti o fi agbara ati ijakule Efunsetan han.",
+    "topic": "Akinwumi Isola / Efunsetan",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ta lo kọ iwe itan aroso ife 'O le ku' ti o da lori Ajani ati Asake?",
+    "options": {
+      "A": "Akinwumi Isola",
+      "B": "Adebayo Faleti",
+      "C": "Afolabi Olabimtan",
+      "D": "Femi Osofisan"
+    },
+    "answer": "A",
+    "explanation": "Akinwumi Isola kọ 'O le ku' ti Tunde Kelani si tun se ni fiimu aladun.",
+    "topic": "O Le Ku",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Olukowe nla ti o kọ iwe 'Won Ro Pe Were Ni' ati ewi 'Eda Ko L'aropin' ni:",
+    "options": {
+      "A": "Adebayo Faleti",
+      "B": "D. O. Fagunwa",
+      "C": "Afolabi Olabimtan",
+      "D": "Wande Abimbola"
+    },
+    "answer": "A",
+    "explanation": "Alagba Adebayo Faleti je ojogbon akewi, olukowe, ati osere to gbayi julo.",
+    "topic": "Adebayo Faleti",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ta lo kọ iwe itan olopaa Yoruba 'Aja Lo Leru' ati 'Agbalagba Akan'?",
+    "options": {
+      "A": "Oladejo Okediji",
+      "B": "Akinwumi Isola",
+      "C": "Kola Akinlade",
+      "D": "D. O. Fagunwa"
+    },
+    "answer": "A",
+    "explanation": "Oladejo Okediji lo da ogbon iwe itan olopaa ati iwadii emele lede ninu iwe 'Aja Lo Leru'.",
+    "topic": "Oladejo Okediji",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Iwe ere-onise 'Aare-Ago Arikuyeri' ti o so itan ogun ati iwa akoni ni ilu Ibadan je iwe ti:",
+    "options": {
+      "A": "Oladejo Okediji kọ",
+      "B": "D. O. Fagunwa kọ",
+      "C": "Akinwumi Isola kọ",
+      "D": "Wole Soyinka kọ"
+    },
+    "answer": "A",
+    "explanation": "Oladejo Okediji lo kọ ere-onise aladun 'Aare-Ago Arikuyeri'.",
+    "topic": "Aare-Ago Arikuyeri",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ta lo kọ iwe itan 'Kekere Ekun' ati 'Ayanmo'?",
+    "options": {
+      "A": "Afolabi Olabimtan",
+      "B": "Adebayo Faleti",
+      "C": "Kola Akinlade",
+      "D": "Adekanmi Bello"
+    },
+    "answer": "A",
+    "explanation": "Ojogbon Afolabi Olabimtan lo kọ 'Kekere Ekun' ati 'Ayanmo'.",
+    "topic": "Afolabi Olabimtan",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Ojogbon Wande Abimbola je gbajumo nitori akitiyan re lori:",
+    "options": {
+      "A": "Ijinle Imo Ifa ati Iwe Agba Ewi Ijinle Ifa",
+      "B": "Lilo oko ofurufu",
+      "C": "Gbingbin igi roba",
+      "D": "Kiko ere-onise Geesi"
+    },
+    "answer": "A",
+    "explanation": "Wande Abimbola fi gbogbo aye re se iwadii lori Eji Ogbe ati awon Odu Ifa lede Yoruba ati Geesi.",
+    "topic": "Wande Abimbola ati Ifa",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'Bi a ba n sunkun, a maa n riran'?",
+    "options": {
+      "A": "Bi a ba tile wa ninu isoro tabi ibanuje, a kii gbodo so ogbon ati iroyin nu",
+      "B": "Omije n mu oju dara si",
+      "C": "A gbodo sunkun lo si oja",
+      "D": "Ko si eni to le ri iran ninu ile"
+    },
+    "answer": "A",
+    "explanation": "O n kọ wa pe ibanuje ko gbodo mu wa se asise ti yoo da aye wa ru.",
+    "topic": "Itumo Owe",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'Agba kii wa l'oja ki ori omo tuntun wo'?",
+    "options": {
+      "A": "Awon agbalagba gbodo gbe igbese lati da eto ati ifokanbale pada nibi ti nkan ba ti n daru",
+      "B": "Awon agba kii lo si oja rara",
+      "C": "Ori omo tuntun tobi ju ti agba lo",
+      "D": "Oja ni a ti n so omo loruko"
+    },
+    "answer": "A",
+    "explanation": "O n fihan ojuse awon agba lati se atunse ati idajo ododo ninu ilu tabi ebi.",
+    "topic": "Ojuse Agba",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Ba omije eja je'?",
+    "options": {
+      "A": "Pa eniyan lenu mo patapata tabi run ohun ti o n gberaga mo",
+      "B": "Mu eja ninu omi koto",
+      "C": "Se eja jina lori ina",
+      "D": "Fi iyo si obe eja"
+    },
+    "answer": "A",
+    "explanation": "'Ba omije eja je' tumo si run ipo tabi agbara ti eni kan fi n se igberaga.",
+    "topic": "Akanlo Ede",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Te epo si ija'?",
+    "options": {
+      "A": "La ija laarin awon ti n ja ki ifokanbale le wa",
+      "B": "Da epo pupa si ori awon ti n ja",
+      "C": "Mu ki ija gbona si i",
+      "D": "So epo nu sinu koto"
+    },
+    "answer": "A",
+    "explanation": "Te epo si ija tumo si se ilaja ati pipa ina ija re pelu ogbon.",
+    "topic": "Te Epo Si Ija",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'A kii fi owo meji gba omori isasun'?",
+    "options": {
+      "A": "A kii fi gbogbo ara da si nkan ti ko to nkan tabi ti o le fa abuku",
+      "B": "Omori isasun wuwo pupo",
+      "C": "A kii je ounje ninu isasun",
+      "D": "Owo kan nikan lo le se obe"
+    },
+    "answer": "A",
+    "explanation": "O n kọ wa pe a gbodo se nkan pelu iwontunwonsi laisi afojudi.",
+    "topic": "Owe Iwontunwonsi",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Fi owo pa lara'?",
+    "options": {
+      "A": "Tu eniyan ninu tabi te lara ba lehin iporuru",
+      "B": "Lu eniyan pelu owo",
+      "C": "Fo aso eeyan",
+      "D": "Gba owo lowo re"
+    },
+    "answer": "A",
+    "explanation": "Fi owo pa lara tumo si itunu ati ifokanbale fun eni to wa ninu iberu.",
+    "topic": "Itunu / Akanlo Ede",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'Kokoro to n je efo, ara efo lo wa'?",
+    "options": {
+      "A": "Ota to n ba eniyan ja wopo igba n je eni to sunmo eni tabi ara ile eni",
+      "B": "Kokoro feran lati je efo",
+      "C": "Efo ko ni kokoro rara",
+      "D": "A kii fo efo saaju sise"
+    },
+    "answer": "A",
+    "explanation": "O n fihan pe ewu ti o tobi julo kii jinna si eni; omo ile lo n se iku pa eeyan.",
+    "topic": "Owe Ota Inu",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Je ipe Olorun'?",
+    "options": {
+      "A": "Ku (fi aye sile)",
+      "B": "Gbo ipe lori foonu",
+      "C": "Lo si ile ijosin",
+      "D": "Se adura fun odun kan"
+    },
+    "answer": "A",
+    "explanation": "'Je ipe Olorun' je ede afopepo (euphemism) fun iku.",
+    "topic": "Ede Afopepo",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo owe yii: 'Bi ina ba ku, a f'eru boju, bi ogede ba ku, a f'omo re ropo'?",
+    "options": {
+      "A": "Eto atunbi ati rropo rere ti awon omo n se fun awon obi won lehin iku",
+      "B": "Eru ina le pa ogede",
+      "C": "Igi ogede kii ku titi aye",
+      "D": "Ina n jo ninu igbo ogede"
+    },
+    "answer": "A",
+    "explanation": "O n fihan ayo ati iyi ti omo bibi to dara n mu wa si ebi lehin iku obi.",
+    "topic": "Ropo / Omo Rere",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini itumo akanlo ede yii: 'Kolu ogiri'?",
+    "options": {
+      "A": "Pade idiwowo nla tabi ijakule to le ninu igbiyanju kan",
+      "B": "Ko ile pelu biriki",
+      "C": "Pa ogiri loda pupa",
+      "D": "Fo ogiri koja loru"
+    },
+    "answer": "A",
+    "explanation": "'Kolu ogiri' tumo si pe ona pin tabi idiwowo nla de ba igbese eni.",
+    "topic": "Kolu Ogiri",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini 'Akaye' ninu eko ede Yoruba?",
+    "options": {
+      "A": "Kika ayoka kan pelu oye lati le dahun awon ibeere to jade ninu re daadaa",
+      "B": "Gbigba awon iwe lo si ile ikawe",
+      "C": "Kiko orin pelu ohun rara",
+      "D": "Siso ede Geesi pelu ifokanbale"
+    },
+    "answer": "A",
+    "explanation": "Akaye ni kika ati gbigbo ayoka kan yegeyege lati fa itumo ati eko inu re yo.",
+    "topic": "Akaye",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini 'Akotunroko' tabi 'Akoranroko' (Summary writing)?",
+    "options": {
+      "A": "Gbigbe koko pataki ayoka jade ni soki laisi fifi oro asan tabi apere airotuntun kun un",
+      "B": "Kiko gbogbo ayoka naa pada leemeji",
+      "C": "Yiyipada oruko awon oluko iwe",
+      "D": "Fifi orin kun ayoka"
+    },
+    "answer": "A",
+    "explanation": "Akoranroko n fe ki a fa koko ati otito inu ayoka yo ni soki.",
+    "topic": "Akoranroko",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Leta kiko si Egbon eni tabi Ore eni je iru leta wo?",
+    "options": {
+      "A": "Leta Gbefe (Informal / Friendly Letter)",
+      "B": "Leta Aigbefe (Formal / Official Letter)",
+      "C": "Iwe Adehun Ile",
+      "D": "Iwe Iroyin Ojoojumo"
+    },
+    "answer": "A",
+    "explanation": "Leta si ebi ati ore je leta gbefe ti o ni adiresi kan soso ati ikini t'okan-t'okan.",
+    "topic": "Leta Gbefe",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Leta aigbefe (formal letter) n beere adiresi meloo?",
+    "options": {
+      "A": "Adiresi meji (ti olukowe ni apa otun oke ati ti olugba ni apa osi nisale re)",
+      "B": "Adiresi kan soso",
+      "C": "Adiresi meta",
+      "D": "Ko nilo adiresi kankan"
+    },
+    "answer": "A",
+    "explanation": "Leta aigbefe gbodo ni adiresi olukowe ati ti eni ti a n ko leta si pelu akori oro.",
+    "topic": "Leta Aigbefe",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Aroko asapejuwe (Descriptive essay) n beere pe ki akekoo:",
+    "options": {
+      "A": "Ya aworan nkan, eniyan, tabi ibi kan pelu oro ti yoo fi ye olukawo bi enipe o n fi oju ri i",
+      "B": "So itan ija laarin awon ore meji",
+      "C": "Jiyan lori ero ti ko to",
+      "D": "Ko iwe apero fun gomina"
+    },
+    "answer": "A",
+    "explanation": "Aroko asapejuwe n se afihan irisi, ewa, ati gbogbo abuda ohun ti a n ko nipa re.",
+    "topic": "Aroko Asapejuwe",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Aroko alariiyan (Argumentative essay) n beere pe:",
+    "options": {
+      "A": "Akekoo gbodo gbe iduro kan lese lori koko ti a gbe kale ki o si fi eri to lagbara se atileyin re",
+      "B": "Ki akekoo kọ orin idunnu",
+      "C": "Ki o so itan alo apamo",
+      "D": "Ki o ko leta si iya re"
+    },
+    "answer": "A",
+    "explanation": "Aroko alariiyan n fe kiko erongba ododo ti yoo yi ero oluka pada si owo ti a gbe.",
+    "topic": "Aroko Alariiyan",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Itumo oro naa 'Oniwa-tutu' ni:",
+    "options": {
+      "A": "Eniyan ti o ni irele, suuru, ati iwa alaafia ti kii binu lainidi",
+      "B": "Eni ti otutu n mu lojoojumo",
+      "C": "Eni ti o n gbe inu omi tutu",
+      "D": "Eni ti ko feran lati wo aso"
+    },
+    "answer": "A",
+    "explanation": "'Oniwa-tutu' fihan suuru, iteriba, ati iwa alaafia ninu ibagbepo eda.",
+    "topic": "Itumo Oro",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini idakeji oro naa 'Irora'?",
+    "options": {
+      "A": "Idunnu (tabi Irorun)",
+      "B": "Ibanuje",
+      "C": "Ogun",
+      "D": "Ofo"
+    },
+    "answer": "A",
+    "explanation": "Idakeji irora tabi inira ni irorun tabi idunnu.",
+    "topic": "Oro ati Idakeji Re",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Oro ti o ba ekeji re tan ninu itumo (Synonym) fun 'Ayo' ni:",
+    "options": {
+      "A": "Inudidun",
+      "B": "Ekun",
+      "C": "Ibanuje",
+      "D": "Iberu"
+    },
+    "answer": "A",
+    "explanation": "'Inudidun' ati 'ayo' n so nipa ipo idunnu nla ninu okan eda.",
+    "topic": "Oro To Jora Won Ni Itumo",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Kini anfani pataki ti eko ede ati litireso Yoruba n se fun akekoo?",
+    "options": {
+      "A": "O n gbe asa, ede, iwa omoluwabi, ati ogbon awon baba-nla ga fun ojo-iwaju",
+      "B": "O n mu ki akekoo gbagbe gbogbo awon ede agbaye to ku",
+      "C": "O n so akekoo di olori ogun",
+      "D": "O n dinku owo ile iwe"
+    },
+    "answer": "A",
+    "explanation": "Eko ede Yoruba n gbe iwa omoluwabi, igberaga asa, ati imo ijinle laruge fun iran ti n bo.",
+    "topic": "Iye Eko Yoruba",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]

@@ -1,402 +1,1602 @@
 [
   {
-    "question": "A literary device where inanimate objects or abstract ideas are endowed with human feelings, thoughts, and actions is called:",
+    "question": "The figure of speech in which an implicit comparison is made between two fundamentally unlike things without using 'like' or 'as' is:",
     "options": {
-      "A": "Personification",
-      "B": "Metaphor",
-      "C": "Hyperbole",
-      "D": "Synecdoche"
+      "A": "Metaphor",
+      "B": "Simile",
+      "C": "Personification",
+      "D": "Hyperbole"
     },
     "answer": "A",
-    "explanation": "Personification attributes human qualities, characteristics, or actions to non-human entities (e.g. 'The wind whispered through the trees').",
-    "topic": "Literary Appreciation / Figures of Speech",
+    "explanation": "Metaphor equates one thing directly to another (e.g., 'The sun was a golden coin in the sky').",
+    "topic": "Metaphor",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 1,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In drama, a dramatic speech delivered by a character alone on stage revealing their innermost thoughts to the audience is a:",
+    "question": "The literary device in the statement 'The ancient clock coughed and cleared its throat before striking midnight' is:",
     "options": {
-      "A": "Soliloquy",
-      "B": "Monologue",
-      "C": "Aside",
-      "D": "Prologue"
+      "A": "Personification",
+      "B": "Metonymy",
+      "C": "Litotes",
+      "D": "Synecdoche"
     },
     "answer": "A",
-    "explanation": "A soliloquy is spoken by a character solitary on stage, unveiling psychological dilemmas and genuine motives directly to the audience.",
-    "topic": "Drama / Dramatic Conventions",
-    "exam": "JAMB UTME",
+    "explanation": "Personification attributes human qualities, actions, or feelings to inanimate objects or abstractions.",
+    "topic": "Personification",
+    "exam": "WAEC SSCE",
     "year": "2023",
     "id": 2,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A regular fourteen-line poem written in iambic pentameter with a prescribed rhyme scheme is a:",
-    "options": {
-      "A": "Sonnet",
-      "B": "Ballad",
-      "C": "Elegy",
-      "D": "Ode"
-    },
-    "answer": "A",
-    "explanation": "A sonnet is a fixed poetic form of exactly 14 lines (Petrarchan octave-sestet or Shakespearean three quatrains and a heroic couplet).",
-    "topic": "Poetry / Poetic Forms",
-    "exam": "WAEC SSCE",
-    "year": "2023",
-    "id": 3,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The purging or emotional release of pity and fear experienced by an audience at the climax of a tragic play is termed:",
-    "options": {
-      "A": "Catharsis",
-      "B": "Hamartia",
-      "C": "Hubris",
-      "D": "Nemesis"
-    },
-    "answer": "A",
-    "explanation": "Aristotle defined Catharsis in his Poetics as the moral cleansing or purgation of intense emotions (pity and terror) aroused by classical tragedy.",
-    "topic": "Drama / Literary Terms & Tragedy",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 4,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The fatal character defect or tragic flaw in a protagonist that precipitates their ultimate downfall is known as:",
-    "options": {
-      "A": "Hamartia",
-      "B": "Anagnorisis",
-      "C": "Peripeteia",
-      "D": "Deus ex machina"
-    },
-    "answer": "A",
-    "explanation": "Hamartia is the inherent tragic flaw, misjudgment, or error (such as excessive ambition or pride) that leads to the tragic hero's ruin.",
-    "topic": "Drama / Tragic Concepts",
-    "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 5,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "An exaggerated statement or claim not meant to be taken literally is a/an:",
+    "question": "An intentional, extravagant exaggeration used for emphasis or comic effect is termed:",
     "options": {
       "A": "Hyperbole",
       "B": "Euphemism",
       "C": "Litotes",
-      "D": "Paradox"
+      "D": "Allusion"
     },
     "answer": "A",
-    "explanation": "Hyperbole uses deliberate, extravagant exaggeration for heightened dramatic emphasis or humorous effect (e.g. 'I've told you a million times').",
-    "topic": "Literary Appreciation / Figures of Speech",
+    "explanation": "Hyperbole overstates reality (e.g., 'I have told you a million times') to intensify emotional impact.",
+    "topic": "Hyperbole",
     "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 3,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A statement that appears self-contradictory on the surface but reveals a profound underlying truth is a:",
+    "options": {
+      "A": "Paradox",
+      "B": "Oxymoron",
+      "C": "Pun",
+      "D": "Parody"
+    },
+    "answer": "A",
+    "explanation": "Paradox resolves apparent contradictions into deeper meaning (e.g., 'The child is father of the man').",
+    "topic": "Paradox",
+    "exam": "WAEC SSCE",
     "year": "2021",
+    "id": 4,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The juxtaposition of two opposite or contradictory terms side by side (e.g., 'bittersweet', 'deafening silence') is an:",
+    "options": {
+      "A": "Oxymoron",
+      "B": "Irony",
+      "C": "Apostrophe",
+      "D": "Antithesis"
+    },
+    "answer": "A",
+    "explanation": "Oxymoron fuses contradictory words into a compact, striking descriptive unit.",
+    "topic": "Oxymoron",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 5,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The substitution of a mild, delicate, or indirect expression for an unpleasant, harsh, or taboo one is:",
+    "options": {
+      "A": "Euphemism",
+      "B": "Sarcasm",
+      "C": "Innuendo",
+      "D": "Bathos"
+    },
+    "answer": "A",
+    "explanation": "Euphemism softens unpleasant realities (e.g., saying 'passed away' instead of 'died').",
+    "topic": "Euphemism",
+    "exam": "WAEC SSCE",
+    "year": "2019",
     "id": 6,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A poem of lamentation, mourning, and sorrow composed especially for someone deceased is called a/an:",
+    "question": "In the phrase 'All hands on deck', the figure of speech used is:",
     "options": {
-      "A": "Elegy",
-      "B": "Dirge / Epitaph",
-      "C": "Pastoral ode",
-      "D": "Limerick"
+      "A": "Synecdoche",
+      "B": "Metonymy",
+      "C": "Apostrophe",
+      "D": "Simile"
     },
     "answer": "A",
-    "explanation": "An elegy is a formal lyric poem expressing sorrow, grief, and meditation upon the death of an individual or mortality generally.",
-    "topic": "Poetry / Genres",
-    "exam": "WAEC SSCE",
-    "year": "2021",
+    "explanation": "Synecdoche uses a part to represent the whole ('hands' representing sailors/workers).",
+    "topic": "Synecdoche",
+    "exam": "JAMB UTME",
+    "year": "2018",
     "id": 7,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "When an author hints at events that will happen later in the unfolding plot of a novel, the narrative technique is called:",
+    "question": "In the sentence 'The Crown announced a state of emergency', the word 'Crown' representing the monarch or government is an example of:",
     "options": {
-      "A": "Foreshadowing",
-      "B": "Flashback (analepsis)",
-      "C": "In medias res",
-      "D": "Stream of consciousness"
+      "A": "Metonymy",
+      "B": "Synecdoche",
+      "C": "Metaphor",
+      "D": "Hyperbole"
     },
     "answer": "A",
-    "explanation": "Foreshadowing provides subtle clues, omens, or warnings anticipating future dramatic events in narrative prose or theatre.",
-    "topic": "Prose / Narrative Techniques",
-    "exam": "JAMB UTME",
-    "year": "2020",
+    "explanation": "Metonymy substitutes the name of an attribute or closely associated object for the thing meant.",
+    "topic": "Metonymy",
+    "exam": "WAEC SSCE",
+    "year": "2017",
     "id": 8,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The repetition of identical consonant sounds at the beginning of adjacent or closely connected words is:",
+    "question": "An understatement expressed by negating the opposite (e.g., 'He is no fool', 'The prize was not small') is:",
     "options": {
-      "A": "Alliteration",
-      "B": "Assonance",
-      "C": "Onomatopoeia",
-      "D": "Consonance"
+      "A": "Litotes",
+      "B": "Tautology",
+      "C": "Malapropism",
+      "D": "Climax"
     },
     "answer": "A",
-    "explanation": "Alliteration is the repetition of initial consonant sounds in neighboring syllables (e.g. 'Peter Piper picked a peck of pickled peppers').",
-    "topic": "Poetry / Sound Devices",
-    "exam": "WAEC SSCE",
-    "year": "2020",
+    "explanation": "Litotes uses ironical double negatives to emphasize an affirmative proposition with subtle restraint.",
+    "topic": "Litotes",
+    "exam": "JAMB UTME",
+    "year": "2016",
     "id": 9,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The sudden reversal of fortune or circumstance from prosperity to ruin in a tragic drama is called:",
+    "question": "When words mimic or imitate the natural sounds associated with the actions or objects they describe (e.g., 'buzz', 'hiss', 'clang'), it is:",
     "options": {
-      "A": "Peripeteia",
-      "B": "Anagnorisis",
-      "C": "Denouement",
-      "D": "Epilogue"
+      "A": "Onomatopoeia",
+      "B": "Alliteration",
+      "C": "Assonance",
+      "D": "Consonance"
     },
     "answer": "A",
-    "explanation": "Peripeteia is the decisive turning point or sudden reversal of circumstances upon which the protagonist's fortunes change irrevocably.",
-    "topic": "Drama / Classical Dramatic Terms",
-    "exam": "JAMB UTME",
-    "year": "2019",
+    "explanation": "Onomatopoeia evokes sonic sensations matching physical auditory realities.",
+    "topic": "Onomatopoeia",
+    "exam": "WAEC SSCE",
+    "year": "2015",
     "id": 10,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A statement that seems self-contradictory on the surface yet reveals a profound underlying truth upon reflection is a:",
+    "question": "The repetition of identical initial consonant sounds in closely linked accented syllables is:",
     "options": {
-      "A": "Paradox",
-      "B": "Oxymoron",
-      "C": "Irony",
-      "D": "Antithesis"
+      "A": "Alliteration",
+      "B": "Assonance",
+      "C": "Rhyme",
+      "D": "Refrain"
     },
     "answer": "A",
-    "explanation": "A paradox pairs apparently contradictory terms or ideas that nonetheless express an illuminated reality (e.g. 'The child is father of the man').",
-    "topic": "Literary Appreciation / Paradox",
+    "explanation": "Alliteration (e.g., 'Peter Piper picked a peck of pickled peppers') reinforces rhythm and melody.",
+    "topic": "Alliteration",
     "exam": "JAMB UTME",
     "year": "2024",
     "id": 11,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In Chinua Achebe's 'Things Fall Apart', what is Okonkwo's tragic flaw?",
+    "question": "The repetition of identical or similar vowel sounds within nearby words is termed:",
     "options": {
-      "A": "The profound fear of failure and appearing weak like his father Unoka",
-      "B": "Excessive greed for cowries",
-      "C": "Lack of physical courage in battle",
-      "D": "Desire to convert to Western education"
+      "A": "Assonance",
+      "B": "Consonance",
+      "C": "Cacophony",
+      "D": "Euphony"
     },
     "answer": "A",
-    "explanation": "Okonkwo was dominated by the obsessive fear of weakness and failure, which made his actions rash, violent, and ultimately self-destructive.",
-    "topic": "African Prose / Achebe's Things Fall Apart",
+    "explanation": "Assonance (e.g., 'The rain in Spain stays mainly in the plain') creates internal musical echoes.",
+    "topic": "Assonance",
     "exam": "WAEC SSCE",
-    "year": "2024",
+    "year": "2023",
     "id": 12,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A comparison between two fundamentally dissimilar entities using the explicit words 'like' or 'as' is a:",
+    "question": "A poem of fourteen lines written in iambic pentameter with a structured rhyme scheme is a:",
     "options": {
-      "A": "Simile",
-      "B": "Metaphor",
-      "C": "Synecdoche",
-      "D": "Metonymy"
+      "A": "Sonnet",
+      "B": "Ballad",
+      "C": "Ode",
+      "D": "Elegy"
     },
     "answer": "A",
-    "explanation": "A simile creates an explicit comparison using connectives like 'as' or 'like' (e.g. 'He was as courageous as a lion').",
-    "topic": "Literary Devices / Simile",
+    "explanation": "Sonnets comprise 14 lines, divided into Italian (octave + sestet) or Shakespearean (3 quatrains + rhyming couplet).",
+    "topic": "The Sonnet",
     "exam": "JAMB UTME",
-    "year": "2023",
+    "year": "2022",
     "id": 13,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An English (Shakespearean) sonnet typically follows which rhyme scheme?",
+    "options": {
+      "A": "abab cdcd efef gg",
+      "B": "abba abba cde cde",
+      "C": "aabb ccdd eeff gg",
+      "D": "aaaa bbbb cccc dd"
+    },
+    "answer": "A",
+    "explanation": "Shakespearean sonnets consist of three alternate-rhyming quatrains ending in a clinching couplet (gg).",
+    "topic": "Shakespearean Sonnet Structure",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 14,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An Italian (Petrarchan) sonnet is structurally divided into:",
+    "options": {
+      "A": "An Octave (8 lines) followed by a Sestet (6 lines)",
+      "B": "Two stanzas of seven lines each",
+      "C": "Four tercets and a couplet",
+      "D": "Three quatrains and a refrain"
+    },
+    "answer": "A",
+    "explanation": "The octave poses a problem or situation, followed by a 'volta' (turn), and resolved in the sestet.",
+    "topic": "Petrarchan Sonnet",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 15,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A mournful poem composed to lament the death of a specific individual or grieve a tragedy is an:",
+    "options": {
+      "A": "Elegy (or Dirge)",
+      "B": "Ode",
+      "C": "Epic",
+      "D": "Epigram"
+    },
+    "answer": "A",
+    "explanation": "An elegy is a formal meditative lament mourning loss, death, and mortality (e.g., Gray's 'Elegy').",
+    "topic": "Elegy",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 16,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An Ode is best defined as:",
+    "options": {
+      "A": "An exalted, dignified lyric poem celebrating a noble subject, person, or natural phenomenon",
+      "B": "A humorous five-line poem with an aabba rhyme scheme",
+      "C": "A narrative song handed down by oral tradition",
+      "D": "A satirical verse mocking corrupt politicians"
+    },
+    "answer": "A",
+    "explanation": "Odes exhibit elevated tone, elaborate stanzaic structure, and deep reverence (e.g., Keats' 'Ode on a Grecian Urn').",
+    "topic": "The Ode",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 17,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A narrative poem typically composed of four-line stanzas (quatrains) that tells a dramatic folk story and includes a refrain is a:",
+    "options": {
+      "A": "Ballad",
+      "B": "Sonnet",
+      "C": "Haiku",
+      "D": "Villanelle"
+    },
+    "answer": "A",
+    "explanation": "Ballads originate as communal story-songs featuring simple meter, direct dialogue, and musical refrains.",
+    "topic": "The Ballad",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 18,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Verse written with regular meter (usually iambic pentameter) but without end rhyme is called:",
+    "options": {
+      "A": "Blank Verse",
+      "B": "Free Verse",
+      "C": "Doggerel",
+      "D": "Rhymed Couplet"
+    },
+    "answer": "A",
+    "explanation": "Blank verse is unrhymed iambic pentameter, the standard poetic medium of Shakespeare and Milton.",
+    "topic": "Blank Verse",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 19,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Poetry that lacks both regular meter and fixed rhyme scheme is known as:",
+    "options": {
+      "A": "Free Verse (Vers Libre)",
+      "B": "Blank Verse",
+      "C": "Heroic Couplet",
+      "D": "Terza Rima"
+    },
+    "answer": "A",
+    "explanation": "Free verse follows the natural cadence of speech rather than prescribed metrical constraints.",
+    "topic": "Free Verse",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 20,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The continuation of a sentence without a pause or punctuation mark beyond the end of a poetic line or stanza is called:",
+    "options": {
+      "A": "Enjambment (run-on line)",
+      "B": "Caesura",
+      "C": "End-stopping",
+      "D": "Elision"
+    },
+    "answer": "A",
+    "explanation": "Enjambment carries syntactic meaning across verse lines, creating fluidity and urgency.",
+    "topic": "Enjambment",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 21,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A pause or break occurring near the middle of a line of verse, usually marked by punctuation, is a:",
+    "options": {
+      "A": "Caesura",
+      "B": "Strophe",
+      "C": "Volta",
+      "D": "Hemistich"
+    },
+    "answer": "A",
+    "explanation": "A caesura breaks rhythmic flow to create dramatic emphasis or thoughtful hesitation.",
+    "topic": "Caesura",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 22,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The turn in thought, argument, or emotional tone in a sonnet is known as the:",
+    "options": {
+      "A": "Volta",
+      "B": "Denouement",
+      "C": "Climax",
+      "D": "Epilogue"
+    },
+    "answer": "A",
+    "explanation": "The volta occurs between octave and sestet (Italian) or before the final couplet (English).",
+    "topic": "Volta",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 23,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The speaker or narrative voice created by a poet to speak the poem is the:",
+    "options": {
+      "A": "Persona",
+      "B": "Antagonist",
+      "C": "Playwright",
+      "D": "Deuteragonist"
+    },
+    "answer": "A",
+    "explanation": "The persona is the fictional mask or character through whom the poet communicates.",
+    "topic": "Poetic Persona",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 24,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A brief, direct address to an absent or dead person, an abstract concept, or an inanimate object is:",
+    "options": {
+      "A": "Apostrophe",
+      "B": "Soliloquy",
+      "C": "Monologue",
+      "D": "Aside"
+    },
+    "answer": "A",
+    "explanation": "Apostrophe directly addresses non-responsive entities (e.g., 'O Death, where is thy sting?').",
+    "topic": "Apostrophe",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 25,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The dominant emotional atmosphere or feeling created in the reader by a literary work is the:",
+    "options": {
+      "A": "Mood",
+      "B": "Tone",
+      "C": "Diction",
+      "D": "Style"
+    },
+    "answer": "A",
+    "explanation": "Mood is the emotional ambiance evoked in the reader through descriptive setting, diction, and pace.",
+    "topic": "Mood vs Tone",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 26,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Tone in literature refers to:",
+    "options": {
+      "A": "The author or narrator's attitude toward the subject matter or audience (e.g., sarcastic, solemn)",
+      "B": "The loudness of an actor's voice on stage",
+      "C": "The musical pitch of an orchestral violin",
+      "D": "The grammatical tense used in prose"
+    },
+    "answer": "A",
+    "explanation": "Tone reflects the writer's psychological perspective and emotional posture toward the topic.",
+    "topic": "Tone",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 27,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A brief, intentional reference within a text to a well-known historical person, biblical event, or classical myth is an:",
+    "options": {
+      "A": "Allusion",
+      "B": "Illusion",
+      "C": "Allegory",
+      "D": "Analogy"
+    },
+    "answer": "A",
+    "explanation": "Allusion enriches literary texture by summoning associations from shared cultural history.",
+    "topic": "Allusion",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 28,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A narrative poem of extraordinary length recounting the heroic exploits, battles, and journeys of legendary figures is an:",
+    "options": {
+      "A": "Epic",
+      "B": "Ode",
+      "C": "Idyll",
+      "D": "Pastoral"
+    },
+    "answer": "A",
+    "explanation": "Epics (e.g., Homer's 'Iliad', Milton's 'Paradise Lost') present grand heroic struggles on a cosmic scale.",
+    "topic": "The Epic",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 29,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An extended narrative in which characters, events, and settings symbolize deeper moral, spiritual, or political truths is an:",
+    "options": {
+      "A": "Allegory",
+      "B": "Anecdote",
+      "C": "Epigram",
+      "D": "Anthology"
+    },
+    "answer": "A",
+    "explanation": "Allegories (e.g., Bunyan's 'Pilgrim's Progress', Orwell's 'Animal Farm') operate on dual literal and symbolic levels.",
+    "topic": "Allegory",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 30,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A dramatic speech in which a character alone on stage reveals their innermost thoughts, motives, and plans directly to the audience is a:",
+    "options": {
+      "A": "Soliloquy",
+      "B": "Monologue",
+      "C": "Aside",
+      "D": "Dialogue"
+    },
+    "answer": "A",
+    "explanation": "Soliloquies provide windows into private character psychology (e.g., Hamlet's 'To be or not to be').",
+    "topic": "Soliloquy",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 31,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A short remark spoken by an actor intended to be heard by the audience but unheard by other characters present on stage is an:",
+    "options": {
+      "A": "Aside",
+      "B": "Soliloquy",
+      "C": "Epilogue",
+      "D": "Prologue"
+    },
+    "answer": "A",
+    "explanation": "An aside breaks stage illusion momentarily to share ironic commentary or secrets with spectators.",
+    "topic": "Aside",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 32,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
     "question": "Dramatic irony occurs when:",
     "options": {
-      "A": "the audience possesses vital knowledge of which the characters on stage are completely unaware",
-      "B": "a speaker says the opposite of what they mean",
-      "C": "an event turns out completely contrary to all logical expectations",
-      "D": "a character forgets their dialogue during performance"
+      "A": "The audience or reader knows crucial information that characters on stage are ignorant of",
+      "B": "A character says the opposite of what they mean",
+      "C": "Events turn out contrary to all expectations",
+      "D": "The play ends without any dialogue"
     },
     "answer": "A",
-    "explanation": "Dramatic irony creates suspense and tension because the spectators know the true reality or trap while the acting character remains in the dark.",
-    "topic": "Drama / Irony",
-    "exam": "WAEC SSCE",
-    "year": "2022",
-    "id": 14,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The substitution of a mild, gentle, or indirect expression for a harsh, blunt, or offensive one is termed:",
-    "options": {
-      "A": "Euphemism",
-      "B": "Hyperbole",
-      "C": "Litotes",
-      "D": "Sarcasm"
-    },
-    "answer": "A",
-    "explanation": "Euphemisms soften unpleasant realities (e.g. using 'passed away' instead of 'died', or 'let go' instead of 'fired').",
-    "topic": "Figures of Speech / Euphemism",
+    "explanation": "Audience foreknowledge heightens suspense and tragic tension as characters stumble unwittingly toward doom.",
+    "topic": "Dramatic Irony",
     "exam": "JAMB UTME",
-    "year": "2021",
-    "id": 15,
+    "year": "2022",
+    "id": 33,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The running over of a sentence or thought from one poetic line to the next without terminal punctuation is called:",
+    "question": "According to Aristotle's Poetics, the emotional purging, cleansing, and relief of pity and fear experienced by the audience at the end of a tragedy is:",
     "options": {
-      "A": "Enjambment",
-      "B": "Caesura",
-      "C": "End-stopped line",
-      "D": "Couplet"
+      "A": "Catharsis",
+      "B": "Hamartia",
+      "C": "Anagnorisis",
+      "D": "Peripeteia"
     },
     "answer": "A",
-    "explanation": "Enjambment (or run-on line) occurs when a clause flows across line boundaries without syntactical pause, accelerating reading pace.",
-    "topic": "Poetry / Poetic Techniques",
+    "explanation": "Catharsis purifies the spectators' emotions through vicarious immersion in the protagonist's fall.",
+    "topic": "Catharsis",
     "exam": "WAEC SSCE",
-    "year": "2020",
-    "id": 16,
+    "year": "2021",
+    "id": 34,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The villain or principal character who opposes the central protagonist in a literary work is the:",
+    "question": "Hamartia in classical tragic theory refers to:",
+    "options": {
+      "A": "The fatal character flaw, error of judgment, or weakness that causes the tragic hero's downfall",
+      "B": "The comic relief scene featuring clown characters",
+      "C": "The musical song sung by the Greek chorus",
+      "D": "The architectural curtain in ancient Greek theaters"
+    },
+    "answer": "A",
+    "explanation": "Hamartia (e.g., pride, jealousy, ambition) transforms noble protagonists into architects of their ruin.",
+    "topic": "Hamartia",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 35,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Hubris is the specific tragic flaw characterized by:",
+    "options": {
+      "A": "Excessive, insolent pride and arrogance that defies divine order or moral law",
+      "B": "Cowardice on the field of battle",
+      "C": "Indecisiveness when making simple choices",
+      "D": "Extreme greed for paper money"
+    },
+    "answer": "A",
+    "explanation": "Hubris blinds heroes to human limits, inviting retributive nemesis from gods or fate.",
+    "topic": "Hubris",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 36,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Anagnorisis in dramatic plot development refers to:",
+    "options": {
+      "A": "The critical moment of recognition or discovery when a character moves from ignorance to knowledge",
+      "B": "The opening prologue recited by the chorus",
+      "C": "The physical exit of all actors from the stage",
+      "D": "The sudden reversal of royal fortunes"
+    },
+    "answer": "A",
+    "explanation": "Anagnorisis is the dramatic revelation of truth (e.g., Oedipus realizing his parentage and guilt).",
+    "topic": "Anagnorisis",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 37,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Peripeteia in classical tragedy denotes:",
+    "options": {
+      "A": "A sudden, unexpected reversal of circumstances or turning point of the plot",
+      "B": "The assassination of the king offstage",
+      "C": "The wedding feast celebrated in act four",
+      "D": "The entrance of foreign ambassadors"
+    },
+    "answer": "A",
+    "explanation": "Peripeteia flips fortune from triumph to catastrophic downfall, driving the plot into crisis.",
+    "topic": "Peripeteia",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 38,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Farce is a comedic dramatic work characterized by:",
+    "options": {
+      "A": "Absurd, highly improbable situations, slapstick physical humor, mistaken identities, and frantic pacing",
+      "B": "Solemn moral instruction and tragic murders",
+      "C": "Serious discussions of parliamentary statutes",
+      "D": "Silent pantomime performed in darkness"
+    },
+    "answer": "A",
+    "explanation": "Farce sacrifices probability and deep character development to provoke boisterous laughter.",
+    "topic": "Farce",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 39,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Comic relief in a tragedy serves to:",
+    "options": {
+      "A": "Temporarily alleviate emotional tension after harrowing scenes and heighten subsequent tragedy by contrast",
+      "B": "Allow the lead tragic actor to go home early",
+      "C": "Shorten the running time of the performance",
+      "D": "Turn the tragedy into a musical comedy"
+    },
+    "answer": "A",
+    "explanation": "Humorous interludes (e.g., the Porter in 'Macbeth', the Gravediggers in 'Hamlet') provide respite while deepening tragic resonance.",
+    "topic": "Comic Relief",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 40,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The vantage point or narrative perspective from which a story is told is its:",
+    "options": {
+      "A": "Point of View",
+      "B": "Setting",
+      "C": "Plot",
+      "D": "Theme"
+    },
+    "answer": "A",
+    "explanation": "Point of view dictates the narrator's access to events, thoughts, and objective reality.",
+    "topic": "Point of View",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 41,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A third-person omniscient narrator is characterized by having:",
+    "options": {
+      "A": "All-knowing, godlike awareness of every character's thoughts, motives, feelings, and backgrounds",
+      "B": "First-person perspective using 'I' and 'we'",
+      "C": "Access only to the sensory perceptions of a single child",
+      "D": "Knowledge restricted strictly to external dialogue"
+    },
+    "answer": "A",
+    "explanation": "Omniscience enables the narrator to move freely through time, space, and internal character psyches.",
+    "topic": "Omniscient Narrator",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 42,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In fiction, a protagonist is:",
+    "options": {
+      "A": "The central, primary character around whom the plot revolves and conflicts unfold",
+      "B": "The villain who opposes all moral laws",
+      "C": "A minor character who enters only in the final chapter",
+      "D": "The publisher of the paperback novel"
+    },
+    "answer": "A",
+    "explanation": "The protagonist drives the central narrative arc, facing conflicts that fuel thematic progression.",
+    "topic": "Protagonist",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 43,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A character who stands in direct opposition and conflict with the protagonist is the:",
     "options": {
       "A": "Antagonist",
-      "B": "Confidant",
-      "C": "Foil",
-      "D": "Anti-hero"
+      "B": "Foil",
+      "C": "Confidant",
+      "D": "Chorus"
     },
     "answer": "A",
-    "explanation": "The antagonist is the adversary or force creating the central conflict and obstacle against the protagonist.",
-    "topic": "Literary Characterization",
-    "exam": "JAMB UTME",
-    "year": "2019",
-    "id": 17,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The resolution, untying of complications, and unraveling of mystery following the climax of a novel is the:",
-    "options": {
-      "A": "Denouement",
-      "B": "Exposition",
-      "C": "Rising action",
-      "D": "Prologue"
-    },
-    "answer": "A",
-    "explanation": "Denouement (French for 'unknotting') wraps up loose ends and settles character fates following the narrative climax.",
-    "topic": "Prose / Plot Structure",
+    "explanation": "The antagonist creates obstacles, clashes, and tensions that test the protagonist.",
+    "topic": "Antagonist",
     "exam": "WAEC SSCE",
-    "year": "2018",
-    "id": 18,
+    "year": "2021",
+    "id": 44,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The figure of speech that uses a part of an object to represent the whole is:",
+    "question": "A literary foil is a character who:",
     "options": {
-      "A": "Synecdoche",
-      "B": "Metonymy",
-      "C": "Allusion",
-      "D": "Apostrophe"
+      "A": "Contrasts sharply with another character (usually the protagonist) to highlight their distinct traits",
+      "B": "Betrays the hero for gold coins",
+      "C": "Narrates the story from beginning to end",
+      "D": "Dies in the opening chapter"
     },
     "answer": "A",
-    "explanation": "Synecdoche employs a part to denote the whole (e.g. 'all hands on deck' where 'hands' represents the crew members).",
-    "topic": "Figures of Speech / Synecdoche",
-    "exam": "JAMB UTME",
-    "year": "2022",
-    "id": 19,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "A literary work that ridicules human folly, vice, and social corruptions through humor, irony, and sarcasm to inspire reform is a:",
-    "options": {
-      "A": "Satire",
-      "B": "Farce",
-      "C": "Melodrama",
-      "D": "Tragi-comedy"
-    },
-    "answer": "A",
-    "explanation": "Satire utilizes wit, irony, and parody to expose corruption, hypocrisy, or foolishness in individuals or societal institutions with intent to reform.",
-    "topic": "Literary Genres / Satire",
-    "exam": "WAEC SSCE",
-    "year": "2023",
-    "id": 20,
-    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
-  },
-  {
-    "question": "The pairing of two contradictory or opposing words side by side (e.g. 'deafening silence', 'cruel kindness') is an:",
-    "options": {
-      "A": "Oxymoron",
-      "B": "Paradox",
-      "C": "Antithesis",
-      "D": "Irony"
-    },
-    "answer": "A",
-    "explanation": "An oxymoron fuses two diametrically opposed or contradictory words in immediate conjunction for vivid poetic effect.",
-    "topic": "Figures of Speech / Oxymoron",
+    "explanation": "A foil's contrasting traits illuminate key characteristics of another figure (e.g., Banquo to Macbeth).",
+    "topic": "Literary Foil",
     "exam": "JAMB UTME",
     "year": "2020",
-    "id": 21,
+    "id": 45,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "An address made directly to an absent person, abstract entity, or dead hero as if present and listening is called:",
+    "question": "A round (dynamic) character is distinguished from a flat character because a round character:",
     "options": {
-      "A": "Apostrophe",
-      "B": "Soliloquy",
-      "C": "Invocation",
-      "D": "Aside"
+      "A": "Is complex, multifaceted, and undergoes significant psychological growth or transformation",
+      "B": "Is built around a single trait or stereotype and never changes",
+      "C": "Always speaks in rhymed verse",
+      "D": "Disappears halfway through the narrative"
     },
     "answer": "A",
-    "explanation": "Apostrophe is a rhetorical figure wherein the speaker breaks off to address directly an absent person, deity, or personified concept (e.g. 'O Death, where is thy sting?').",
-    "topic": "Poetry / Rhetorical Devices",
+    "explanation": "E. M. Forster defined round characters as three-dimensional beings capable of surprising and evolving.",
+    "topic": "Round vs Flat Characters",
     "exam": "WAEC SSCE",
     "year": "2019",
-    "id": 22,
+    "id": 46,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "In narrative prose, a character whose traits sharply contrast with another character to accentuate particular qualities is a:",
+    "question": "The physical location, historical era, social climate, and time of day in which a story unfolds constitute its:",
     "options": {
-      "A": "Foil",
-      "B": "Flat character",
-      "C": "Dynamic character",
-      "D": "Stock character"
+      "A": "Setting",
+      "B": "Exposition",
+      "C": "Plot",
+      "D": "Motif"
     },
     "answer": "A",
-    "explanation": "A foil highlights the protagonist's strengths or flaws through dramatic contrast (e.g. Banquo's prudence serves as a foil to Macbeth's unchecked ambition).",
-    "topic": "Characterization / Dramatic Foil",
+    "explanation": "Setting establishes the spatial and temporal universe framing characters and mood.",
+    "topic": "Setting",
     "exam": "JAMB UTME",
-    "year": "2021",
-    "id": 23,
+    "year": "2018",
+    "id": 47,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "A stanza of four lines in poetry, especially one having alternate rhymes, is called a:",
+    "question": "The peak of greatest emotional intensity, suspense, or crisis in a narrative plot is the:",
     "options": {
-      "A": "Quatrain",
-      "B": "Couplet",
-      "C": "Tercet",
-      "D": "Sestet"
+      "A": "Climax",
+      "B": "Exposition",
+      "C": "Denouement",
+      "D": "Foreshadowing"
     },
     "answer": "A",
-    "explanation": "A quatrain consists of four poetic lines, commonly forming the fundamental unit of English ballads and sonnets.",
-    "topic": "Poetry / Stanzaic Forms",
+    "explanation": "The climax represents the decisive turning point resolving the central dramatic conflict.",
+    "topic": "Plot Climax",
     "exam": "WAEC SSCE",
-    "year": "2024",
-    "id": 24,
+    "year": "2017",
+    "id": 48,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   },
   {
-    "question": "The underlying central message, idea, or philosophical inquiry explored throughout a literary masterpiece is its:",
+    "question": "The untangling, unknotting, or resolution of the plot following the climax is called the:",
     "options": {
-      "A": "Theme",
-      "B": "Plot",
-      "C": "Setting",
-      "D": "Tone"
+      "A": "Denouement (Resolution)",
+      "B": "In medias res",
+      "C": "Flashback",
+      "D": "Subplot"
     },
     "answer": "A",
-    "explanation": "Theme is the overarching universal idea, moral conviction, or existential insight conveyed through the narrative elements of the work.",
-    "topic": "Literary Elements / Theme",
+    "explanation": "The denouement ties up loose narrative strands and establishes a new equilibrium.",
+    "topic": "Denouement",
     "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 49,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The literary technique of providing subtle clues or hints early in a text about events that will occur later is:",
+    "options": {
+      "A": "Foreshadowing",
+      "B": "Flashback",
+      "C": "Anachronism",
+      "D": "Pastiche"
+    },
+    "answer": "A",
+    "explanation": "Foreshadowing builds anticipation, dramatic suspense, and thematic inevitability.",
+    "topic": "Foreshadowing",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 50,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Wole Soyinka's play 'The Lion and the Jewel', the conflict between traditional African culture and Western modernism is dramatized through:",
+    "options": {
+      "A": "Baroka (the Bale of Ilujinle) and Lakunle (the Western-educated schoolteacher) competing for Sidi",
+      "B": "Sadiku and the colonial district officer",
+      "C": "A dispute over building a modern church",
+      "D": "A war between rival Yoruba towns"
+    },
+    "answer": "A",
+    "explanation": "Baroka's cunning traditional wisdom triumphs over Lakunle's shallow, pretentious westernized mimicry.",
+    "topic": "The Lion and the Jewel",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 51,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Ola Rotimi's 'The Gods Are Not to Blame', the play adapts which classical Greek tragedy to a traditional Yoruba setting?",
+    "options": {
+      "A": "Oedipus Rex by Sophocles",
+      "B": "Antigone",
+      "C": "Medea by Euripides",
+      "D": "The Oresteia by Aeschylus"
+    },
+    "answer": "A",
+    "explanation": "Rotimi reinterprets Oedipus through Odewale, exploring destiny, hubris, and ancestral divination.",
+    "topic": "The Gods Are Not to Blame",
+    "exam": "WAEC SSCE",
     "year": "2023",
-    "id": 25,
+    "id": 52,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Shakespeare's 'Macbeth', Macbeth's tragic downfall is triggered by which fatal combination of factors?",
+    "options": {
+      "A": "Unchecked vaulting ambition, the prophecies of the Weird Sisters, and Lady Macbeth's instigation",
+      "B": "A military mutiny led by Macduff",
+      "C": "A maritime storm sinking his invasion fleet",
+      "D": "The murder of King Duncan by foreign spies"
+    },
+    "answer": "A",
+    "explanation": "His vaulting ambition drives him from noble Thane to tyrannical regicide, ending in moral dissolution.",
+    "topic": "Macbeth & Tragic Downfall",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 53,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In William Shakespeare's 'Romeo and Juliet', the central tragedy stems primarily from:",
+    "options": {
+      "A": "An ancient, bitter blood feud between the noble Capulet and Montague families of Verona",
+      "B": "A plague epidemic destroying Italy",
+      "C": "Romeo's refusal to marry Juliet",
+      "D": "The intervention of French naval soldiers"
+    },
+    "answer": "A",
+    "explanation": "The star-crossed lovers are crushed by ancestral hatreds, reconciled only in death.",
+    "topic": "Romeo and Juliet",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 54,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In J. C. De Graft's 'Sons and Daughters', the central generational conflict centers around:",
+    "options": {
+      "A": "James Ofosu wanting his children to study prestigious careers (law/medicine) while they desire artistic passions",
+      "B": "A land dispute between cocoa farmers",
+      "C": "A religious conversion to Christianity",
+      "D": "A strike declared by trade union clerks"
+    },
+    "answer": "A",
+    "explanation": "Aaron desires art and Maanan dance, clashing with their father's rigid professional materialism.",
+    "topic": "Sons and Daughters",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 55,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Lorraine Hansberry's 'A Raisin in the Sun', the Younger family's struggles in Chicago explore:",
+    "options": {
+      "A": "Racial discrimination, housing segregation, poverty, and conflicting dreams for insurance money",
+      "B": "A civil war between northern and southern states",
+      "C": "A gold mining strike in California",
+      "D": "The founding of a new university"
+    },
+    "answer": "A",
+    "explanation": "The family negotiates Mama's $10,000 life insurance check amid racial barriers and personal aspirations.",
+    "topic": "A Raisin in the Sun",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 56,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In August Wilson's 'Fences', Troy Maxson's tragic bitterness is fueled by:",
+    "options": {
+      "A": "Past racial exclusion from Major League Baseball, leaving him a disillusioned sanitation worker",
+      "B": "His rejection by the US military army",
+      "C": "Losing his family home in a hurricane",
+      "D": "His son Cory running away to Europe"
+    },
+    "answer": "A",
+    "explanation": "Past racism poisons his present, straining his marriage to Rose and relationship with Cory.",
+    "topic": "Fences by August Wilson",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 57,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Athol Fugard's 'Sizwe Bansi Is Dead', the play directly attacks the cruelty of:",
+    "options": {
+      "A": "The South African Apartheid Pass Laws and institutional dehumanization",
+      "B": "British colonial rule in Kenya",
+      "C": "Portuguese forced labour in Angola",
+      "D": "American segregation in deep southern states"
+    },
+    "answer": "A",
+    "explanation": "Sizwe must take the identity of a dead man's passbook to survive economically under Apartheid.",
+    "topic": "Sizwe Bansi Is Dead",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 58,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Shakespeare's 'Othello', Iago successfully manipulates Othello into murdering Desdemona by exploiting:",
+    "options": {
+      "A": "Othello's intense, irrational sexual jealousy using the symbol of the dropped strawberry handkerchief",
+      "B": "Desdemona's confession of infidelity",
+      "C": "A forged letter from the Duke of Venice",
+      "D": "A magical potion slipped into his wine"
+    },
+    "answer": "A",
+    "explanation": "Iago poisons Othello's mind with 'the green-eyed monster' of manufactured jealousy.",
+    "topic": "Othello",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 59,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Wole Soyinka's 'Death and the King's Horseman', the central tragic disruption occurs when:",
+    "options": {
+      "A": "Elesin Oba hesitates in his ritual suicide, and British District Officer Pilkings intervenes",
+      "B": "The Alaafin is overthrown in a palace coup",
+      "C": "The marketplace is destroyed by fire",
+      "D": "Olunde refuses to attend medical school in Britain"
+    },
+    "answer": "A",
+    "explanation": "Elesin's earthly attachment and colonial interference rupture cosmic continuity, demanding Olunde's sacrificial death.",
+    "topic": "Death and the King's Horseman",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 60,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Chinua Achebe's 'Things Fall Apart', Okonkwo's tragic life and ultimate suicide are driven primarily by:",
+    "options": {
+      "A": "His morbid fear of failure, weakness, and resembling his lazy, improvident father Unoka",
+      "B": "His hatred of yam farming",
+      "C": "A curse placed on him by the Oracle of the Hills and Caves",
+      "D": "Loss of all his financial cowries in a tribal war"
+    },
+    "answer": "A",
+    "explanation": "Fear of being judged weak drives Okonkwo to violence, inflexibility, and self-destruction as colonial change arrives.",
+    "topic": "Things Fall Apart",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 61,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Buchi Emecheta's 'Second Class Citizen', Adah Obi endures immense suffering in London caused by:",
+    "options": {
+      "A": "Racial prejudice in British society and domestic brutality, misogyny, and negligence from her husband Francis",
+      "B": "A severe economic depression in Lagos",
+      "C": "Her inability to learn spoken English",
+      "D": "The confiscation of her Nigerian international passport"
+    },
+    "answer": "A",
+    "explanation": "Adah fights institutional racism and Francis' patriarchal oppression to secure dignity for her children.",
+    "topic": "Second Class Citizen",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 62,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Chimamanda Ngozi Adichie's 'Purple Hibiscus', Papa Eugene Achike's tyrannical religious extremism in the home contrasts sharply with:",
+    "options": {
+      "A": "Aunty Ifeoma's warm, liberal, and intellectually liberating household in Nsukka",
+      "B": "The colonial governor's residency in Lagos",
+      "C": "The boarding school in London",
+      "D": "The quiet life of village herbalists"
+    },
+    "answer": "A",
+    "explanation": "Ifeoma's home provides Kambili and Jaja emotional sanctuary, nurturing independent critical thought.",
+    "topic": "Purple Hibiscus",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 63,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Ayi Kwei Armah's 'The Beautyful Ones Are Not Yet Born', the nameless protagonist 'the man' struggles to maintain:",
+    "options": {
+      "A": "Moral integrity and honesty amid pervasive political corruption and filth in post-independence Ghana",
+      "B": "His job as a military general",
+      "C": "Ownership of a gold mine in Ashanti",
+      "D": "A political seat in parliament"
+    },
+    "answer": "A",
+    "explanation": "'The man' resists bribes and systemic graft, symbolized by pervasive filth, excrement, and rot.",
+    "topic": "The Beautyful Ones Are Not Yet Born",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 64,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In George Orwell's 'Animal Farm', the pigs' gradual betrayal of Animalism culminates in the altered single commandment:",
+    "options": {
+      "A": "'All animals are equal, but some animals are more equal than others'",
+      "B": "'Four legs good, two legs better'",
+      "C": "'No animal shall drink alcohol in public'",
+      "D": "'Man is the only enemy of pigs'"
+    },
+    "answer": "A",
+    "explanation": "Napoleon's totalitarian rule perverts revolutionary egalitarianism into elite tyranny.",
+    "topic": "Animal Farm",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 65,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In William Golding's 'Lord of the Flies', the schoolboys stranded on an uninhabited island descend into savagery, symbolizing:",
+    "options": {
+      "A": "The inherent darkness, evil, and fragility of human civilization when institutional laws are absent",
+      "B": "The danger of tropical animal attacks",
+      "C": "The glory of British boarding school traditions",
+      "D": "The superiority of hunters over builders"
+    },
+    "answer": "A",
+    "explanation": "The breakdown of Ralph's democratic council into Jack's savage tribe explores innate human depravity.",
+    "topic": "Lord of the Flies",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 66,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Mary Shelley's 'Frankenstein', the central Gothic tragedy arises from:",
+    "options": {
+      "A": "Victor Frankenstein's obsessive scientific ambition to create life, followed by abandonment of his creature",
+      "B": "An invasion of Geneva by Swiss soldiers",
+      "C": "A shipwreck in the English channel",
+      "D": "The trial of Justine for commercial fraud"
+    },
+    "answer": "A",
+    "explanation": "Victor's irresponsibility in creating and spurning his sensitive creature prompts murderous revenge.",
+    "topic": "Frankenstein",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 67,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Emily Brontë's 'Wuthering Heights', the wild, turbulent love between Heathcliff and Catherine Earnshaw is set against the:",
+    "options": {
+      "A": "Bleak, tempestuous Yorkshire moors and civilized Thrushcross Grange",
+      "B": "Busy metropolitan streets of Victorian London",
+      "C": "Sunny countryside estates of southern France",
+      "D": "Industrial cotton factories of Manchester"
+    },
+    "answer": "A",
+    "explanation": "The passionate, untamed moors mirror the raw, destructive intensity of their obsession.",
+    "topic": "Wuthering Heights",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 68,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Ngugi wa Thiong'o's 'Weep Not, Child', the impact of the Mau Mau Uprising on Njoroge's family portrays:",
+    "options": {
+      "A": "The shattering of educational dreams, land dispossession, and colonial violence in Kenya",
+      "B": "The triumph of British colonial education",
+      "C": "The arrival of American missionaries in Nairobi",
+      "D": "The building of the Uganda railway line"
+    },
+    "answer": "A",
+    "explanation": "Njoroge's faith in western education collapses under colonial land alienation and liberation violence.",
+    "topic": "Weep Not, Child",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 69,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Bessie Head's 'Maru', the novel challenges deep-seated racial prejudice in Botswana against the:",
+    "options": {
+      "A": "San (Basarwa / Masarwa) people through the courageous figure of Margaret Cadmore",
+      "B": "White European missionaries",
+      "C": "Zulu migrant diamond miners",
+      "D": "Indian retail shopkeepers"
+    },
+    "answer": "A",
+    "explanation": "Head exposes caste-like prejudice against the Basarwa through Margaret's resilience and dignity as a teacher.",
+    "topic": "Maru by Bessie Head",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 70,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Leopold Sedar Senghor's poem 'Black Woman' (Femme Noire), the poet celebrates:",
+    "options": {
+      "A": "The radiant beauty, maternal majesty, spiritual dignity, and timeless essence of Africa and black womanhood",
+      "B": "The military victory of French colonial forces",
+      "C": "The commercial trade of peanuts in Dakar",
+      "D": "The sorrow of widowhood in rural towns"
+    },
+    "answer": "A",
+    "explanation": "A masterwork of the Negritude movement, Senghor glorifies black beauty as both woman and continent.",
+    "topic": "Black Woman by Senghor",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 71,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In David Diop's poem 'Africa', the proud tree rising among white and faded flowers symbolizes:",
+    "options": {
+      "A": "Africa patiently and obstinately acquiring the bitter taste of liberty through anti-colonial struggle",
+      "B": "The collapse of rural agriculture",
+      "C": "A rubber plantation in the Congo",
+      "D": "The ancient baobab tree of Senegal"
+    },
+    "answer": "A",
+    "explanation": "Diop moves from past agony and colonial scars to the triumphant rebirth of a sovereign Africa.",
+    "topic": "Africa by David Diop",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 72,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Lenrie Peters' poem 'The Panic of Growing Older', the poet meditates upon:",
+    "options": {
+      "A": "The relentless march of time, unfulfilled human ambitions, and the inevitable decay of youth into middle age",
+      "B": "The joy of retiring on a state pension",
+      "C": "The physical excitement of childhood sports",
+      "D": "The founding of medical clinics in Banjul"
+    },
+    "answer": "A",
+    "explanation": "Peters dissects the anxieties of aging as decades slip by with unaccomplished dreams.",
+    "topic": "The Panic of Growing Older",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 73,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Gabriel Okara's poem 'Piano and Drums', the contrasting instruments represent:",
+    "options": {
+      "A": "The complex, synthetic sophistication of Western culture versus the raw, instinctive vitality of traditional African heritage",
+      "B": "A contest between classical orchestra musicians in Lagos",
+      "C": "A church choir performing Christmas carols",
+      "D": "The acoustic sounds of river water in the Niger Delta"
+    },
+    "answer": "A",
+    "explanation": "The bleeding jungle drums and complex piano score evoke the cultural dilemma of modern Africans.",
+    "topic": "Piano and Drums",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 74,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Kwesi Brew's poem 'The Mesh', the central theme explores:",
+    "options": {
+      "A": "The enduring, inescapable bond of romantic love and emotional entanglement across time",
+      "B": "The weaving of cotton fishing nets in Cape Coast",
+      "C": "The construction of interstate railway tracks",
+      "D": "The hunting of wild antelopes in the savanna"
+    },
+    "answer": "A",
+    "explanation": "Brew depicts lovers bound in an inseparable mesh of memory, tenderness, and mutual devotion.",
+    "topic": "The Mesh by Kwesi Brew",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 75,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In William Blake's poem 'The Tyger', the central philosophical question posed by the poet is:",
+    "options": {
+      "A": "'Did He who made the Lamb make thee?' questioning how a benevolent God could forge fearsome predatory power",
+      "B": "How many tigers live in the forests of India",
+      "C": "Why tigers hunt during nighttime hours",
+      "D": "Where blacksmiths buy iron ore"
+    },
+    "answer": "A",
+    "explanation": "Blake contrasts the gentle innocence of the Lamb with the 'fearful symmetry' of the Tyger.",
+    "topic": "The Tyger by William Blake",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 76,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In William Wordsworth's 'Daffodils' (I Wandered Lonely as a Cloud), the poet finds solace in:",
+    "options": {
+      "A": "The memory of golden daffodils dancing in the breeze, which fills his heart with pleasure in solitary contemplation",
+      "B": "The wealth of merchant ships returning to London",
+      "C": "The noise of city street markets",
+      "D": "Writing long letters to parliamentary legislators"
+    },
+    "answer": "A",
+    "explanation": "Wordsworth exemplifies Romantic nature poetry: 'emotion recollected in tranquility'.",
+    "topic": "Daffodils by Wordsworth",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 77,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Robert Frost's poem 'The Road Not Taken', the speaker reflects on:",
+    "options": {
+      "A": "Making an unconventional life choice at a crossroads, which 'has made all the difference'",
+      "B": "Fixing damaged asphalt potholes on a rural road",
+      "C": "Returning home before sunset on horseback",
+      "D": "Cutting down yellow birch trees in autumn"
+    },
+    "answer": "A",
+    "explanation": "Frost examines the permanence of human choices and the contemplative retrospective gaze.",
+    "topic": "The Road Not Taken",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 78,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In John Donne's Holy Sonnet 'Death, Be Not Proud', the speaker robs death of its terror by asserting that:",
+    "options": {
+      "A": "Death is merely a short sleep leading to eternal awakening, concluding: 'Death, thou shalt die'",
+      "B": "Physicians will invent immortal medicines",
+      "C": "Only poor peasant citizens die",
+      "D": "Death will become a Roman emperor"
+    },
+    "answer": "A",
+    "explanation": "Donne's Metaphysical conceit defies mortality through Christian resurrection faith.",
+    "topic": "Death, Be Not Proud",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 79,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In Alfred Tennyson's poem 'Ulysses', the aged mythical king proclaims his resolute determination:",
+    "options": {
+      "A": "'To strive, to seek, to find, and not to yield' in continuous exploration of knowledge and life",
+      "B": "To pass the remainder of his days sleeping in Ithaca",
+      "C": "To surrender his royal sceptre to Trojan generals",
+      "D": "To burn his seafaring wooden ships"
+    },
+    "answer": "A",
+    "explanation": "Ulysses embodies the unquenchable Victorian spirit of discovery, heroic labor, and indomitable will.",
+    "topic": "Ulysses by Tennyson",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 80,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A literary work that ridicules the vices, follies, abuses, or shortcomings of individuals or society through irony and humor is:",
+    "options": {
+      "A": "Satire",
+      "B": "Eulogy",
+      "C": "Melodrama",
+      "D": "Panegyric"
+    },
+    "answer": "A",
+    "explanation": "Satire aims not merely to entertain, but to correct societal folly through exposure and censure.",
+    "topic": "Satire",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 81,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A humorous or satirical imitation of a serious piece of literature, art, or genre designed to poke fun is a:",
+    "options": {
+      "A": "Parody",
+      "B": "Pastiche",
+      "C": "Paradox",
+      "D": "Picaresque"
+    },
+    "answer": "A",
+    "explanation": "Parody exaggerates notable conventions or styles of an original work for humorous critique.",
+    "topic": "Parody",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 82,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "In narrative structure, an 'in medias res' opening means the story begins:",
+    "options": {
+      "A": "In the middle of the action rather than at the chronological starting point",
+      "B": "With the birth of the main character's grandfather",
+      "C": "With an academic dictionary definition of the theme",
+      "D": "With the final execution of the villain"
+    },
+    "answer": "A",
+    "explanation": "Epic convention plunges readers into decisive action, filling earlier backstory via flashbacks.",
+    "topic": "In Medias Res",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 83,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An unintentional, humorous misuse of a word that sounds similar to the intended word (e.g., 'allegory on the banks of the Nile') is a:",
+    "options": {
+      "A": "Malapropism",
+      "B": "Solecism",
+      "C": "Spoonerism",
+      "D": "Neologism"
+    },
+    "answer": "A",
+    "explanation": "Named after Mrs. Malaprop in Sheridan's 'The Rivals', it produces comic verbal blunders.",
+    "topic": "Malapropism",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 84,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A sudden, anti-climactic drop from an elevated, serious, or sublime tone to the trivial, ridiculous, or commonplace is:",
+    "options": {
+      "A": "Bathos",
+      "B": "Catharsis",
+      "C": "Pathos",
+      "D": "Nemesis"
+    },
+    "answer": "A",
+    "explanation": "Bathos deflates dramatic grandeur into unintentional or comedic triviality.",
+    "topic": "Bathos",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 85,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The quality in a work of literature that evokes genuine feelings of pity, tenderness, compassion, or sorrow is:",
+    "options": {
+      "A": "Pathos",
+      "B": "Logos",
+      "C": "Ethos",
+      "D": "Hubris"
+    },
+    "answer": "A",
+    "explanation": "Pathos engages the reader's heartfelt sympathies with the suffering of innocent or vulnerable characters.",
+    "topic": "Pathos",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 86,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A Picaresque novel typically recounts the:",
+    "options": {
+      "A": "Adventures of a roguish, streetwise but appealing hero from a low social class travelling through corrupt society",
+      "B": "Scientific expedition of astronauts to the moon",
+      "C": "Romance between two medieval royal monarchs",
+      "D": "Detailed legal trial of a property lawsuit"
+    },
+    "answer": "A",
+    "explanation": "Picaresque fiction (e.g., 'Don Quixote', 'Moll Flanders') presents episodic satirical road narratives.",
+    "topic": "Picaresque Novel",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 87,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Stream of consciousness is a literary narrative technique that aims to:",
+    "options": {
+      "A": "Replicate the continuous, unedited, associative flow of thoughts, memories, and sensory feelings in a character's mind",
+      "B": "Record speech strictly using stenographic shorthand",
+      "C": "Describe geographical rivers and sea estuaries",
+      "D": "Structure chapters in chronological diary entries"
+    },
+    "answer": "A",
+    "explanation": "Pioneered by Joyce and Woolf, it depicts chaotic internal mental flow prior to logical formulation.",
+    "topic": "Stream of Consciousness",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 88,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A chronological misplacement of persons, events, objects, or customs out of their proper historical time is an:",
+    "options": {
+      "A": "Anachronism",
+      "B": "Anagram",
+      "C": "Apostrophe",
+      "D": "Antithesis"
+    },
+    "answer": "A",
+    "explanation": "Anachronism places elements in anachronistic eras (e.g., mechanical clocks chiming in Shakespeare's 'Julius Caesar').",
+    "topic": "Anachronism",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 89,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "A recurrent image, idea, object, or phrase that appears across a literary work to reinforce its central theme is a:",
+    "options": {
+      "A": "Motif",
+      "B": "Genre",
+      "C": "Pastiche",
+      "D": "Plot"
+    },
+    "answer": "A",
+    "explanation": "Motifs (e.g., blood and sleep in 'Macbeth', light and dark in 'Romeo and Juliet') weave thematic coherence.",
+    "topic": "Motif",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 90,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Which school of literary criticism focuses on examining power dynamics, social class struggles, and economic conditions within texts?",
+    "options": {
+      "A": "Marxist Criticism",
+      "B": "Psychoanalytic Criticism",
+      "C": "Formalist (New) Criticism",
+      "D": "Structuralist Criticism"
+    },
+    "answer": "A",
+    "explanation": "Marxist analysis interprets literature through the lens of economic base, ideological superstructure, and class tension.",
+    "topic": "Marxist Literary Theory",
+    "exam": "JAMB UTME",
+    "year": "2024",
+    "id": 91,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Feminist literary criticism primarily investigates:",
+    "options": {
+      "A": "How literature portrays, reinforces, or subverts patriarchal oppression, gender roles, and female agency",
+      "B": "The biological species of flowers in poetry",
+      "C": "The metrical cadence of sonnet couplets",
+      "D": "The printing costs of women's magazines"
+    },
+    "answer": "A",
+    "explanation": "Feminist theory interrogates patriarchal representations, rediscovering silenced female voices and experiences.",
+    "topic": "Feminist Criticism",
+    "exam": "WAEC SSCE",
+    "year": "2023",
+    "id": 92,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Post-colonial literary criticism examines texts produced in formerly colonized regions, focusing centrally on:",
+    "options": {
+      "A": "Themes of cultural identity, hybridity, colonial resistance, language politics, and decolonization",
+      "B": "The navigation of sailing ships in the Atlantic",
+      "C": "The mathematical rhyme schemes of Latin epic poetry",
+      "D": "The translation of legal statutes into Italian"
+    },
+    "answer": "A",
+    "explanation": "Post-colonialism deconstructs imperial hegemony and analyzes the reclamation of indigenous voice.",
+    "topic": "Post-Colonial Theory",
+    "exam": "JAMB UTME",
+    "year": "2022",
+    "id": 93,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "New Criticism (Formalism) insists that a literary text should be analyzed:",
+    "options": {
+      "A": "Solely as a self-contained, autonomous aesthetic artifact through close reading, ignoring authorial biography",
+      "B": "Exclusively by consulting the author's private letters and diaries",
+      "C": "By surveying thousands of casual readers on the street",
+      "D": "By translating the entire text into ancient Greek"
+    },
+    "answer": "A",
+    "explanation": "Formalism rejects authorial intention ('intentional fallacy') to focus on internal textual structure, irony, and paradox.",
+    "topic": "Formalist Criticism",
+    "exam": "WAEC SSCE",
+    "year": "2021",
+    "id": 94,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Psychoanalytic literary criticism, drawing upon Sigmund Freud, interprets characters and plots by probing:",
+    "options": {
+      "A": "The unconscious mind, repressed desires, the Oedipus complex, and the dynamics of Id, Ego, and Superego",
+      "B": "The financial budget of the publishing house",
+      "C": "The grammatical correctness of complex sentences",
+      "D": "The historical dates of printing press patents"
+    },
+    "answer": "A",
+    "explanation": "Psychoanalysis uncovers repressed neuroses, subconscious symbols, and psychic conflicts in texts.",
+    "topic": "Psychoanalytic Criticism",
+    "exam": "JAMB UTME",
+    "year": "2020",
+    "id": 95,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "An epistolary novel is a novel written in the form of:",
+    "options": {
+      "A": "A series of letters, diary entries, or private correspondence exchanged between characters",
+      "B": "A legal police transcript of witness interviews",
+      "C": "A continuous epic poem without paragraph breaks",
+      "D": "A collection of newspaper advertisements"
+    },
+    "answer": "A",
+    "explanation": "Epistolary novels (e.g., Richardson's 'Pamela', Stoker's 'Dracula') create intimate, authentic immediacy.",
+    "topic": "Epistolary Novel",
+    "exam": "WAEC SSCE",
+    "year": "2019",
+    "id": 96,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "The term 'bildungsroman' refers to a novel that chronicles the:",
+    "options": {
+      "A": "Moral, psychological, and intellectual growth and coming-of-age of a protagonist from youth to maturity",
+      "B": "Building of a medieval stone castle",
+      "C": "Tragic assassination of an elected president",
+      "D": "Economic collapse of an industrial stock exchange"
+    },
+    "answer": "A",
+    "explanation": "Bildungsroman (e.g., 'Great Expectations', 'Jane Eyre') tracks formative life journeys and personal development.",
+    "topic": "Bildungsroman",
+    "exam": "JAMB UTME",
+    "year": "2018",
+    "id": 97,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Verisimilitude in literary fiction refers to the:",
+    "options": {
+      "A": "Appearance or semblance of truth, plausibility, and authentic reality in a work of imagination",
+      "B": "Total length of a published manuscript in word count",
+      "C": "Number of illustrations included in a text",
+      "D": "Rhyme scheme of the final stanza"
+    },
+    "answer": "A",
+    "explanation": "Verisimilitude makes fictional worlds believable by mirroring recognizable aspects of real life.",
+    "topic": "Verisimilitude",
+    "exam": "WAEC SSCE",
+    "year": "2017",
+    "id": 98,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Poetic justice in literary resolution occurs when:",
+    "options": {
+      "A": "Virtue is fittingly rewarded and vice or wickedness is appropriately punished in proportion to deeds",
+      "B": "A poet is appointed to serve as high court judge",
+      "C": "A character writes a poem inside a prison cell",
+      "D": "The villain escapes without facing any consequences"
+    },
+    "answer": "A",
+    "explanation": "Poetic justice satisfies moral expectations by aligning plot outcomes with character deserts.",
+    "topic": "Poetic Justice",
+    "exam": "JAMB UTME",
+    "year": "2016",
+    "id": 99,
+    "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
+  },
+  {
+    "question": "Deus ex machina refers to a plot contrivance where an insoluble conflict is suddenly resolved by the:",
+    "options": {
+      "A": "Unexpected, artificial, or improbable intervention of a new force, character, or divine event",
+      "B": "Natural, inevitable unfolding of character decisions",
+      "C": "Tragic death of all major characters in battle",
+      "D": "Beginning of the story from the historical conclusion"
+    },
+    "answer": "A",
+    "explanation": "Originally Greek stage machinery lowering a god, it denotes unearned, artificial narrative rescue.",
+    "topic": "Deus Ex Machina",
+    "exam": "WAEC SSCE",
+    "year": "2015",
+    "id": 100,
     "syllabus": "Current JAMB UTME / WAEC SSCE Curriculum"
   }
 ]
