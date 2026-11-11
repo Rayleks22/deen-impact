@@ -348,6 +348,7 @@ async function startExam(mode) {
     document.getElementById("cbtResultScreen").style.display = "none";
     document.getElementById("cbtReviewScreen").style.display = "none";
     document.getElementById("cbtExamScreen").style.display = "block";
+    document.body.classList.add("cbt-exam-in-progress");
     window.scrollTo({ top: 0, behavior: "smooth" });
 
     renderExamHeader();
@@ -565,7 +566,7 @@ function prevQuestion() {
    Question Palette (Grid Navigation)
    ------------------------------------------------------------- */
 function renderPalette() {
-  const grid = document.getElementById("questionPaletteGrid");
+  const grid = document.getElementById("paletteGrid") || document.getElementById("questionPaletteGrid");
   if (!grid) return;
   grid.innerHTML = "";
 
@@ -575,7 +576,7 @@ function renderPalette() {
   questions.forEach((q, idx) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "cbt-pal-btn";
+    btn.className = "cbt-palette-btn";
     btn.textContent = idx + 1;
     btn.dataset.idx = idx;
 
@@ -594,13 +595,10 @@ function renderPalette() {
 function updatePaletteStatus() {
   const questions = getCurrentQuestions();
   const currentSub = CBT.selectedSubjects[CBT.currentSubIndex];
-  const buttons = document.querySelectorAll(".cbt-pal-btn");
-
-  let answeredCount = 0;
-  let flaggedCount = 0;
+  const buttons = document.querySelectorAll(".cbt-palette-btn, .cbt-pal-btn");
 
   buttons.forEach((btn, idx) => {
-    btn.className = "cbt-pal-btn";
+    btn.className = "cbt-palette-btn";
 
     const isCurrent = idx === CBT.currentQIndex;
     const hasAnswer = CBT.userAnswers[currentSub]?.[idx] !== undefined;
@@ -609,13 +607,9 @@ function updatePaletteStatus() {
     if (isCurrent) btn.classList.add("current");
     if (isFlagged) {
       btn.classList.add("flagged");
-      flaggedCount++;
     } else if (hasAnswer) {
       btn.classList.add("answered");
-      answeredCount++;
     }
-
-    if (hasAnswer && !isFlagged) answeredCount++;
   });
 
   // Unique answered count across current subject
@@ -623,10 +617,13 @@ function updatePaletteStatus() {
   const currentSubFlagged = Object.values(CBT.flaggedMap[currentSub] || {}).filter(Boolean).length;
   const currentSubRemaining = questions.length - currentSubAnswered;
 
-  const countBadge = document.getElementById("paletteAnsweredCount");
-  if (countBadge) {
-    countBadge.textContent = `${currentSubAnswered} Answered / ${currentSubRemaining} Left`;
-  }
+  const countAnswered = document.getElementById("paletteAnsweredCount");
+  const countUnanswered = document.getElementById("paletteUnansweredCount");
+  const countFlagged = document.getElementById("paletteFlaggedCount");
+
+  if (countAnswered) countAnswered.textContent = currentSubAnswered;
+  if (countUnanswered) countUnanswered.textContent = currentSubRemaining;
+  if (countFlagged) countFlagged.textContent = currentSubFlagged;
 }
 
 /* -------------------------------------------------------------
@@ -767,6 +764,7 @@ function submitExam() {
   // Render Result Screen
   document.getElementById("cbtExamScreen").style.display = "none";
   document.getElementById("cbtResultScreen").style.display = "block";
+  document.body.classList.remove("cbt-exam-in-progress");
   window.scrollTo({ top: 0, behavior: "smooth" });
 
   document.getElementById("resCandidateName").textContent = CBT.candidateName;
@@ -924,6 +922,7 @@ function resetToSetup() {
   document.getElementById("cbtResultScreen").style.display = "none";
   document.getElementById("cbtReviewScreen").style.display = "none";
   document.getElementById("cbtSetupScreen").style.display = "block";
+  document.body.classList.remove("cbt-exam-in-progress");
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
