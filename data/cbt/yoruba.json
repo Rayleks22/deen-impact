@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Iro faweli meloo lo wa ninu ede Yoruba?",
+    "options": {
+      "A": "Marun-un (5)",
+      "B": "Meje (7)",
+      "C": "Mewa (10)",
+      "D": "Mejila (12)"
+    },
+    "answer": "D",
+    "explanation": "Faweli ede Yoruba je mejila (12): faweli aranmupe meje (a, e, ẹ, i, o, ọ, u) ati faweli aranmupe marun-un (an, ẹn, in, ọn, un).",
+    "topic": "Fonetiki ati Fonoloji Ede Yoruba",
+    "exam": "WAEC"
+  },
+  {
+    "id": 2,
+    "question": "Kini oruko oye oba ilu Ibadan?",
+    "options": {
+      "A": "Alaafin",
+      "B": "Olubadan",
+      "C": "Ooni",
+      "D": "Soun"
+    },
+    "answer": "B",
+    "explanation": "Olubadan ti ile Ibadan ni oruko oye oba alaye ilu Ibadan.",
+    "topic": "Asa ati Isese Yoruba",
+    "exam": "JAMB"
+  },
+  {
+    "id": 3,
+    "question": "Ki ni itumo owe yii: 'Ile la n wo kinto somo loruko'?",
+    "options": {
+      "A": "A gbodo ko ile giga ki a to bi omo",
+      "B": "Ipo ati iwa ebi lo n so iru oruko ti a o so omo",
+      "C": "A gbodo wo oju ona ile ki a to fe iyawo",
+      "D": "Oruko gbodo jo ti eni to ko ile"
+    },
+    "answer": "B",
+    "explanation": "Itumo owe naa ni pe ayika, orisun, ati ipo ti ebi wa ni a fi n so oruko omo.",
+    "topic": "Owe ati Ogbon Inu Yoruba",
+    "exam": "WAEC"
+  },
+  {
+    "id": 4,
+    "question": "Orisa wo lo ni ase lori irin ati ise alagbede ni ile Yoruba?",
+    "options": {
+      "A": "Sango",
+      "B": "Ogun",
+      "C": "Oya",
+      "D": "Obatala"
+    },
+    "answer": "B",
+    "explanation": "Ogun ni orisa irin ti gbogbo alagbede ati awon to n lo ohun ija irin n bo.",
+    "topic": "Esin ati Orisa Ibile",
+    "exam": "JAMB"
+  },
+  {
+    "id": 5,
+    "question": "Ewo ninu iwonyi ti a kii se fun oku agba ni ile Yoruba?",
+    "options": {
+      "A": "Isinku",
+      "B": "Ariya ati orin kiko",
+      "C": "Gbigbe oku sinu igbo eru",
+      "D": "Pinpin ogun fun awon omo"
+    },
+    "answer": "C",
+    "explanation": "Oku agba ti o ku laye gidi ni a n sin pelu eye ati ayeye; a kii gbe e ju sinu igbo eru bi eni ku iku abami.",
+    "topic": "Asa Isinku",
+    "exam": "WAEC"
+  },
+  {
+    "id": 6,
+    "question": "Ki ni oruko orisa ti o ni awo funfun ati efun ni ile Yoruba?",
+    "options": {
+      "A": "Sango",
+      "B": "Obatala (Orisa-Nla)",
+      "C": "Esu",
+      "D": "Yemoja"
+    },
+    "answer": "B",
+    "explanation": "Obatala (Orisa-Nla) ni orisa awo funfun, alainidoti, ati alafia.",
+    "topic": "Esin Ibile",
+    "exam": "JAMB"
+  },
+  {
+    "id": 7,
+    "question": "Iru eya gbolohun wo ni: 'Adebayo lo si oja loni'?",
+    "options": {
+      "A": "Gbolohun ibeere",
+      "B": "Gbolohun alalaye (iye)",
+      "C": "Gbolohun ase",
+      "D": "Gbolohun asapejuwe"
+    },
+    "answer": "B",
+    "explanation": "Gbolohun yii n se alaye ohun ti o sele (declarative sentence).",
+    "topic": "Girama Ede Yoruba",
+    "exam": "WAEC"
+  },
+  {
+    "id": 8,
+    "question": "Omo ti a bi ti ese re ko ti jade wa si aye ni a n pe ni:",
+    "options": {
+      "A": "Ige",
+      "B": "Taiwo",
+      "C": "Kehinde",
+      "D": "Ajayi"
+    },
+    "answer": "A",
+    "explanation": "Omo to fi ese jade lenu ibimo ni a n so ni 'Ige Adubi'.",
+    "topic": "Asa Oruko Siso",
+    "exam": "JAMB"
+  },
+  {
+    "id": 9,
+    "question": "Kini ewo ti o ro mo igbeyawo ibile laarin ebi kan naa ni ile Yoruba?",
+    "options": {
+      "A": "A kii fe ibatan ti eje won ba n jo",
+      "B": "A kii san owo ori",
+      "C": "A kii gba idana",
+      "D": "A kii se eto alarina"
+    },
+    "answer": "A",
+    "explanation": "Ewo nla ni ni ile Yoruba lati fe ibatan to jo eje (incest).",
+    "topic": "Asa Igbeyawo",
+    "exam": "WAEC"
+  },
+  {
+    "id": 10,
+    "question": "Iru ewi alohun wo ni a ma n lo fun awon ode ni asiko apeja tabi isode?",
+    "options": {
+      "A": "Rara",
+      "B": "Ijala",
+      "C": "Ege",
+      "D": "Oriki"
+    },
+    "answer": "B",
+    "explanation": "Ijala are ode ni ewi alohun pataki ti awon ode n sun lati fi yin Ogun ati se ariya.",
+    "topic": "Litireso Alohun",
+    "exam": "JAMB"
+  }
+]

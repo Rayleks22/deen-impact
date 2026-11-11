@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which soil component has the finest particles and the highest water-holding capacity?",
+    "options": {
+      "A": "Sand",
+      "B": "Silt",
+      "C": "Clay",
+      "D": "Gravel"
+    },
+    "answer": "C",
+    "explanation": "Clay particles are less than 0.002 mm in diameter, giving clay high surface area, micropores, and maximum moisture retention.",
+    "topic": "Soil Science",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "The main fertilizer element required by crops for vigorous vegetative leaf growth and dark green foliage is:",
+    "options": {
+      "A": "Phosphorus",
+      "B": "Potassium",
+      "C": "Nitrogen",
+      "D": "Calcium"
+    },
+    "answer": "C",
+    "explanation": "Nitrogen (N) stimulates rapid vegetative growth, leafy development, and chlorophyll formation.",
+    "topic": "Plant Nutrients & Soil Fertility",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "Leguminous cover crops are important in crop rotation because their root nodules host:",
+    "options": {
+      "A": "Mycorrhiza fungi",
+      "B": "Rhizobium bacteria that fix atmospheric nitrogen",
+      "C": "Parasitic nematodes",
+      "D": "Earthworms"
+    },
+    "answer": "B",
+    "explanation": "Rhizobium bacteria in the root nodules of legumes fix free atmospheric nitrogen into soil nitrates, enhancing fertility.",
+    "topic": "Crop Rotation & Soil Biology",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following farm tools is used for turning soil, digging trenches, and lifting root tubers?",
+    "options": {
+      "A": "Spade",
+      "B": "Sickle",
+      "C": "Secateurs",
+      "D": "Rake"
+    },
+    "answer": "A",
+    "explanation": "A spade has a flat rectangular blade designed for digging, turning soil, and harvesting tubers.",
+    "topic": "Simple Farm Tools",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The propagation of cassava is predominantly achieved through:",
+    "options": {
+      "A": "Seeds",
+      "B": "Stem cuttings",
+      "C": "Leaf buds",
+      "D": "Tubers"
+    },
+    "answer": "B",
+    "explanation": "Cassava is vegetatively propagated using mature woody stem cuttings planted angled or flat in ridges.",
+    "topic": "Crop Production (Root Crops)",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "The artificial application of water to agricultural land to supplement rainfall is termed:",
+    "options": {
+      "A": "Drainage",
+      "B": "Irrigation",
+      "C": "Mulching",
+      "D": "Infiltration"
+    },
+    "answer": "B",
+    "explanation": "Irrigation is the artificial conveyance and application of water to farm plots for crop growth during dry spells.",
+    "topic": "Water Management in Agriculture",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "A devastating fungal disease affecting Cocoa pods in West Africa characterized by blackened rotting pods is:",
+    "options": {
+      "A": "Black pod disease",
+      "B": "Swollen shoot virus",
+      "C": "Panama disease",
+      "D": "Rust"
+    },
+    "answer": "A",
+    "explanation": "Black pod disease caused by the fungus Phytophthora palmivora is a severe threat to cocoa farms in Nigeria.",
+    "topic": "Plant Pathology & Crop Protection",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The practice of growing crops and raising livestock concurrently on the same farm is known as:",
+    "options": {
+      "A": "Monoculture",
+      "B": "Mixed farming",
+      "C": "Shifting cultivation",
+      "D": "Pastoral nomadism"
+    },
+    "answer": "B",
+    "explanation": "Mixed farming integrates both arable crop cultivation and livestock husbandry on the same land.",
+    "topic": "Farming Systems",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "Soil erosion can be prevented on steep sloping farmlands by:",
+    "options": {
+      "A": "Overgrazing",
+      "B": "Terracing and contour plowing",
+      "C": "Clean clearing",
+      "D": "Deforestation"
+    },
+    "answer": "B",
+    "explanation": "Terracing and contour ridges break the velocity of runoff on slopes, preventing topsoil erosion.",
+    "topic": "Soil Conservation",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "The major environmental factor that determines the distribution of vegetation and farming zones in Nigeria is:",
+    "options": {
+      "A": "Soil pH",
+      "B": "Rainfall pattern and duration",
+      "C": "Wind velocity",
+      "D": "Atmospheric pressure"
+    },
+    "answer": "B",
+    "explanation": "Annual rainfall volume and duration determine Nigeria's agro-ecological zones (Mangrove, Rainforest, Guinea Savanna, Sudan/Sahel).",
+    "topic": "Environmental Factors in Agriculture",
+    "exam": "WAEC"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "The fundamental economic problem facing every society is:",
+    "options": {
+      "A": "Excessive taxation",
+      "B": "Scarcity of resources in relation to unlimited wants",
+      "C": "Government corruption",
+      "D": "Unstable foreign exchange rates"
+    },
+    "answer": "B",
+    "explanation": "Scarcity of productive resources relative to unlimited human needs forms the core basis of economic inquiry.",
+    "topic": "Basic Concepts of Economics",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "If an increase in the price of petroleum leads to an increase in the demand for public commuter buses, both goods are:",
+    "options": {
+      "A": "Complementary goods",
+      "B": "Substitute goods",
+      "C": "Inferior goods",
+      "D": "Giffen goods"
+    },
+    "answer": "B",
+    "explanation": "Substitute goods exhibit positive cross-elasticity of demand; an increase in the price of one raises demand for the other.",
+    "topic": "Demand & Supply",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The reward for entrepreneurship as a factor of production is:",
+    "options": {
+      "A": "Wages",
+      "B": "Rent",
+      "C": "Interest",
+      "D": "Profit"
+    },
+    "answer": "D",
+    "explanation": "Land earns rent, labour earns wages, capital earns interest, and entrepreneurship earns profit.",
+    "topic": "Factors of Production",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "When marginal utility is equal to zero, total utility is at its:",
+    "options": {
+      "A": "Minimum",
+      "B": "Maximum",
+      "C": "Zero point",
+      "D": "Decreasing stage"
+    },
+    "answer": "B",
+    "explanation": "Total utility reaches its peak (point of saturation) exactly when marginal utility equals zero.",
+    "topic": "Theory of Consumer Behaviour",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "Inflation caused by an increase in the cost of raw materials and wages is termed:",
+    "options": {
+      "A": "Demand-pull inflation",
+      "B": "Cost-push inflation",
+      "C": "Hyperinflation",
+      "D": "Creeping inflation"
+    },
+    "answer": "B",
+    "explanation": "Cost-push inflation occurs when rising production expenses (wages, raw materials) force aggregate supply downward and drive prices up.",
+    "topic": "Inflation",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "The institution legally empowered to issue currency and manage monetary policy in Nigeria is the:",
+    "options": {
+      "A": "Federal Ministry of Finance",
+      "B": "Central Bank of Nigeria (CBN)",
+      "C": "Nigeria Deposit Insurance Corporation (NDIC)",
+      "D": "Securities and Exchange Commission (SEC)"
+    },
+    "answer": "B",
+    "explanation": "The Central Bank of Nigeria (CBN) is Nigeria's apex monetary authority and sole currency-issuing body.",
+    "topic": "Money & Banking",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "Price elasticity of demand is calculated as:",
+    "options": {
+      "A": "% change in price / % change in quantity demanded",
+      "B": "% change in quantity demanded / % change in price",
+      "C": "Change in total revenue / Change in output",
+      "D": "Price / Quantity demanded"
+    },
+    "answer": "B",
+    "explanation": "Elasticity of demand = (% change in quantity demanded) divided by (% change in price).",
+    "topic": "Elasticity",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "A market structure characterized by a single seller of a unique product with high barriers to entry is a:",
+    "options": {
+      "A": "Monopoly",
+      "B": "Duopoly",
+      "C": "Monopolistic competition",
+      "D": "Perfect competition"
+    },
+    "answer": "A",
+    "explanation": "A monopoly is a market condition where a single producer controls the entire supply of a commodity without close substitutes.",
+    "topic": "Market Structures",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "Gross Domestic Product (GDP) measures:",
+    "options": {
+      "A": "Total monetary value of all final goods and services produced within a country in a year",
+      "B": "Net profits of foreign companies in a country",
+      "C": "Total savings of domestic households",
+      "D": "Total revenue from oil exports"
+    },
+    "answer": "A",
+    "explanation": "GDP is the total market value of all final goods and services produced within the geographic borders of a country within a specific timeframe.",
+    "topic": "National Income Accounting",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "A tax whose rate increases as the taxpayer's income increases is called a:",
+    "options": {
+      "A": "Regressive tax",
+      "B": "Proportional tax",
+      "C": "Progressive tax",
+      "D": "Value Added Tax (VAT)"
+    },
+    "answer": "C",
+    "explanation": "A progressive tax takes a higher percentage of income from higher earners than from lower earners.",
+    "topic": "Public Finance & Taxation",
+    "exam": "WAEC"
+  }
+]

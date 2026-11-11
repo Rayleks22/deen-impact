@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the option that is NEAREST IN MEANING to the underlined word:\nThe commissioner made an <u>ephemeral</u> remark during the press briefing.",
+    "options": {
+      "A": "permanent",
+      "B": "transient",
+      "C": "lengthy",
+      "D": "profound"
+    },
+    "answer": "B",
+    "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' is its closest synonym.",
+    "topic": "Synonyms & Lexis",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "Choose the option that is OPPOSITE IN MEANING to the underlined word:\nHer <u>audacious</u> approach to the dispute shocked the entire committee.",
+    "options": {
+      "A": "timid",
+      "B": "bold",
+      "C": "reckless",
+      "D": "insolent"
+    },
+    "answer": "A",
+    "explanation": "'Audacious' means showing a willingness to take bold risks or being insolent. The direct opposite is 'timid' (fearful or lacking courage).",
+    "topic": "Antonyms",
+    "exam": "JAMB"
+  },
+  {
+    "id": 3,
+    "question": "From the options lettered A to D, choose the word that has the SAME VOWEL SOUND as the one represented by the underlined letter(s):\nb<u>ir</u>d",
+    "options": {
+      "A": "heart",
+      "B": "word",
+      "C": "bread",
+      "D": "board"
+    },
+    "answer": "B",
+    "explanation": "The word 'bird' has the vowel sound /ɜː/. The word 'word' also has the /ɜː/ vowel sound.",
+    "topic": "Oral Forms / Vowel Sounds",
+    "exam": "WAEC"
+  },
+  {
+    "id": 4,
+    "question": "Choose the option that best completes the sentence:\nNeither the teacher nor the students _______ present at the orientation.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "is",
+      "D": "has been"
+    },
+    "answer": "B",
+    "explanation": "When two subjects are joined by 'neither... nor', the verb agrees in number with the subject closer to it ('the students' is plural, hence 'were').",
+    "topic": "Grammar & Concord",
+    "exam": "JAMB"
+  },
+  {
+    "id": 5,
+    "question": "Choose the option that best explains the idiom:\nTo <u>cut corners</u> in project execution often leads to catastrophe.",
+    "options": {
+      "A": "To follow safety guidelines strictly",
+      "B": "To do something perfunctorily to save money or time",
+      "C": "To trim excess wood at corners",
+      "D": "To seek professional counsel"
+    },
+    "answer": "B",
+    "explanation": "'To cut corners' is an idiom meaning to undertake something in an easy, cheap, or careless way.",
+    "topic": "Idioms & Figurative Expressions",
+    "exam": "WAEC"
+  },
+  {
+    "id": 6,
+    "question": "Identify the word with the correct primary stress placement:",
+    "options": {
+      "A": "pho-TO-gra-pher",
+      "B": "PHO-to-gra-pher",
+      "C": "pho-to-GRA-pher",
+      "D": "pho-to-gra-PHER"
+    },
+    "answer": "A",
+    "explanation": "In 'photographer', the primary stress falls on the second syllable: pho-TO-gra-pher /fəˈtɒɡrəfə/.",
+    "topic": "Oral Stress Patterns",
+    "exam": "JAMB"
+  },
+  {
+    "id": 7,
+    "question": "Choose the option that best completes the sentence:\nThe committee insisted that every candidate _______ by the rules.",
+    "options": {
+      "A": "abide",
+      "B": "abides",
+      "C": "abided",
+      "D": "is abiding"
+    },
+    "answer": "A",
+    "explanation": "Verbs expressing insistence, demand, or resolution take the subjunctive mood (base form of verb), so 'abide' is grammatically correct.",
+    "topic": "Subjunctive Mood",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "Choose the correct spelling:",
+    "options": {
+      "A": "Accomodation",
+      "B": "Accommodation",
+      "C": "Acommodation",
+      "D": "Acomodation"
+    },
+    "answer": "B",
+    "explanation": "'Accommodation' is spelled with double 'c' and double 'm'.",
+    "topic": "Spelling",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "Choose the interpretation that best describes the statement:\n'Had I known earlier, I would have intervened.' This implies that:",
+    "options": {
+      "A": "The speaker knew and intervened",
+      "B": "The speaker did not know and did not intervene",
+      "C": "The speaker knew but refused to intervene",
+      "D": "The speaker intervened without knowing"
+    },
+    "answer": "B",
+    "explanation": "Third conditional constructions express unfulfilled past hypotheses. The speaker didn't know in advance, hence did not intervene.",
+    "topic": "Conditionals & Sentence Interpretation",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank with the appropriate preposition:\nThe principal congratulated the debate team _______ their outstanding victory.",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "at",
+      "D": "with"
+    },
+    "answer": "B",
+    "explanation": "The verb 'congratulate' collocates with the preposition 'on' (congratulate someone ON something).",
+    "topic": "Prepositional Collocations",
+    "exam": "WAEC"
+  }
+]

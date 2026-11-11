@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "A system of government where power is shared between a central authority and constituent regional units is called:",
+    "options": {
+      "A": "Unitary system",
+      "B": "Confederal system",
+      "C": "Federal system",
+      "D": "Monarchical system"
+    },
+    "answer": "C",
+    "explanation": "Federalism is a constitutional division of power between the central (federal) government and component units (states/provinces).",
+    "topic": "Forms of Government",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "In Nigeria, the 1979 Constitution introduced the:",
+    "options": {
+      "A": "Parliamentary system",
+      "B": "Presidential system",
+      "C": "Unitary system",
+      "D": "Diarchy system"
+    },
+    "answer": "B",
+    "explanation": "The 1979 Constitution replaced the British parliamentary model with the American-style executive presidential system in Nigeria.",
+    "topic": "Constitutional Development in Nigeria",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The primary function of the legislature in a democracy is to:",
+    "options": {
+      "A": "Execute laws",
+      "B": "Interpret laws",
+      "C": "Enact laws",
+      "D": "Pardon criminals"
+    },
+    "answer": "C",
+    "explanation": "The constitutional responsibility of the legislative arm is lawmaking.",
+    "topic": "Arms of Government",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "The principle of 'Rule of Law' popularized by A.V. Dicey implies:",
+    "options": {
+      "A": "Supremacy of regular law over arbitrary power",
+      "B": "Immunity of military officers",
+      "C": "Rule by decree",
+      "D": "Judicial subservience to the executive"
+    },
+    "answer": "A",
+    "explanation": "Rule of Law emphasizes supremacy of the law, equality before the law, and protection of fundamental human rights.",
+    "topic": "Political Concepts",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "Nigeria became a Republic in which year?",
+    "options": {
+      "A": "1960",
+      "B": "1963",
+      "C": "1966",
+      "D": "1979"
+    },
+    "answer": "B",
+    "explanation": "Nigeria gained independence in 1960 but severed constitutional ties with the British monarchy to become a Federal Republic on October 1, 1963.",
+    "topic": "Nigerian Political History",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "The headquarters of the Economic Community of West African States (ECOWAS) is located in:",
+    "options": {
+      "A": "Accra, Ghana",
+      "B": "Abidjan, Côte d'Ivoire",
+      "C": "Abuja, Nigeria",
+      "D": "Dakar, Senegal"
+    },
+    "answer": "C",
+    "explanation": "The ECOWAS Commission headquarters is situated in Abuja, Nigeria.",
+    "topic": "International Organizations",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "Franchise in political science refers to:",
+    "options": {
+      "A": "Right to own commercial businesses",
+      "B": "Right to vote and be voted for",
+      "C": "Right to state judicial immunity",
+      "D": "Right to religious assembly"
+    },
+    "answer": "B",
+    "explanation": "Franchise (or suffrage) is the constitutional right of citizens to participate in elections by voting or contesting.",
+    "topic": "Electoral Systems",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The Clifford Constitution of 1922 was remarkable in Nigeria because it:",
+    "options": {
+      "A": "Granted full independence",
+      "B": "Introduced the elective principle",
+      "C": "Created the office of the Prime Minister",
+      "D": "Abolished indirect rule"
+    },
+    "answer": "B",
+    "explanation": "The 1922 Clifford Constitution introduced the elective principle for the first time in Nigeria, allowing 4 elected members (3 from Lagos, 1 from Calabar).",
+    "topic": "Colonial Constitutional History",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "An unwritten constitution is one that:",
+    "options": {
+      "A": "Is not committed to paper at all",
+      "B": "Is not contained in a single documentary source",
+      "C": "Can never be amended",
+      "D": "Only exists in dictatorial regimes"
+    },
+    "answer": "B",
+    "explanation": "An unwritten constitution (like that of Great Britain) consists of conventions, statutes, and judicial precedents drawn from multiple sources rather than a single document.",
+    "topic": "Types of Constitutions",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "The power of the judiciary to declare acts of the executive or legislature null and void if they violate the constitution is:",
+    "options": {
+      "A": "Judicial review",
+      "B": "Habeas corpus",
+      "C": "Mandamus",
+      "D": "Prerogative of mercy"
+    },
+    "answer": "A",
+    "explanation": "Judicial review is the power of courts to examine and invalidate government actions that contravene the constitution.",
+    "topic": "Judiciary & Constitutional Checks",
+    "exam": "WAEC"
+  }
+]

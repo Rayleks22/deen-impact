@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "The highest law of the Federal Republic of Nigeria to which all other laws must conform is the:",
+    "options": {
+      "A": "Acts of the National Assembly",
+      "B": "The Constitution",
+      "C": "Customary Law",
+      "D": "Supreme Court Circular"
+    },
+    "answer": "B",
+    "explanation": "The Constitution is supreme and binding on all authorities and persons throughout Nigeria (Section 1 of the 1999 Constitution).",
+    "topic": "The Nigerian Constitution",
+    "exam": "WAEC"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following values promotes peaceful coexistence and national integration in a multicultural society?",
+    "options": {
+      "A": "Ethnocentrism",
+      "B": "Tolerance",
+      "C": "Nepotism",
+      "D": "Fanaticism"
+    },
+    "answer": "B",
+    "explanation": "Tolerance and mutual respect are essential civic values for unity in diverse societies.",
+    "topic": "National Values",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The agency established in Nigeria to combat human trafficking and child exploitation is:",
+    "options": {
+      "A": "NAPTIP",
+      "B": "NDLEA",
+      "C": "EFCC",
+      "D": "FRSC"
+    },
+    "answer": "A",
+    "explanation": "NAPTIP (National Agency for the Prohibition of Trafficking in Persons) specifically tackles human trafficking and child abuse.",
+    "topic": "Law Enforcement & Human Rights",
+    "exam": "WAEC"
+  },
+  {
+    "id": 4,
+    "question": "A major responsibility of a good citizen towards national defense and safety is:",
+    "options": {
+      "A": "Reporting criminal activities and threats to security agencies",
+      "B": "Taking the law into one's own hands",
+      "C": "Harbouring illegal immigrants",
+      "D": "Avoiding civic duties"
+    },
+    "answer": "A",
+    "explanation": "Citizens have a duty to report suspicious activities and collaborate with lawful security forces.",
+    "topic": "Citizenship Obligations",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The political apathy observed during elections can be reduced through:",
+    "options": {
+      "A": "Sensitization and civic voter education",
+      "B": "Electoral violence",
+      "C": "Underage voting",
+      "D": "Disenfranchising rural communities"
+    },
+    "answer": "A",
+    "explanation": "Civic education enlightens voters on the importance of their franchise, thereby reducing apathy.",
+    "topic": "Political Apathy & Participation",
+    "exam": "WAEC"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a fundamental human right recognized internationally and constitutionally in Nigeria?",
+    "options": {
+      "A": "Right to evade taxes",
+      "B": "Right to life and dignity of the human person",
+      "C": "Right to carry unregistered firearms",
+      "D": "Right to disobey lawful court orders"
+    },
+    "answer": "B",
+    "explanation": "Section 33 of the 1999 Constitution guarantees the right to life as a supreme fundamental human right.",
+    "topic": "Human Rights",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "The National Drug Law Enforcement Agency (NDLEA) is charged with the responsibility of:",
+    "options": {
+      "A": "Regulating packaged food products",
+      "B": "Eradicating illicit drug manufacturing and trafficking",
+      "C": "Preventing road traffic crashes",
+      "D": "Prosecuting financial internet scams"
+    },
+    "answer": "B",
+    "explanation": "NDLEA enforces laws against illicit cultivation, production, trafficking, and consumption of narcotic drugs.",
+    "topic": "Social Vices & Enforcement",
+    "exam": "WAEC"
+  },
+  {
+    "id": 8,
+    "question": "Rule of Law guarantees all the following EXCEPT:",
+    "options": {
+      "A": "Equality before the law",
+      "B": "Arbitrary arrest and detention without trial",
+      "C": "Right to fair hearing",
+      "D": "Supremacy of the constitution"
+    },
+    "answer": "B",
+    "explanation": "Arbitrary arrests violate the rule of law; the rule of law guarantees due process and protection against arbitrary state power.",
+    "topic": "Rule of Law",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "Cultism in educational institutions is harmful primarily because it:",
+    "options": {
+      "A": "Promotes academic debate",
+      "B": "Leads to violence, loss of life, and moral decay",
+      "C": "Encourages sportsmanship",
+      "D": "Enhances community leadership"
+    },
+    "answer": "B",
+    "explanation": "Cultism breeds destructive violent behaviors, insecurity, and tragic loss of promising youth lives.",
+    "topic": "Cultism & Youth Crimes",
+    "exam": "WAEC"
+  },
+  {
+    "id": 10,
+    "question": "The arms of government established to ensure checks and balances are:",
+    "options": {
+      "A": "Executive, Legislature, and Judiciary",
+      "B": "Military, Police, and Civil Defense",
+      "C": "Federal, State, and Local governments",
+      "D": "President, Senate, and Governors"
+    },
+    "answer": "A",
+    "explanation": "The tripartite separation of powers divides governance between Executive, Legislature, and Judiciary to prevent tyranny.",
+    "topic": "Democratic Institutions",
+    "exam": "WAEC"
+  }
+]

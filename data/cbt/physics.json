@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "A body of mass 5 kg is accelerated uniformly from rest to a velocity of 20 m/s in 4 seconds. Calculate the net force acting on the body.",
+    "options": {
+      "A": "25 N",
+      "B": "20 N",
+      "C": "15 N",
+      "D": "10 N"
+    },
+    "answer": "A",
+    "explanation": "Acceleration a = (v - u) / t = (20 - 0) / 4 = 5 m/s². Force F = m * a = 5 kg * 5 m/s² = 25 N.",
+    "topic": "Newton's Laws & Dynamics",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following electromagnetic waves has the highest frequency?",
+    "options": {
+      "A": "Infrared rays",
+      "B": "Gamma rays",
+      "C": "Radio waves",
+      "D": "Ultraviolet rays"
+    },
+    "answer": "B",
+    "explanation": "In the electromagnetic spectrum, Gamma rays possess the shortest wavelength and the highest frequency/energy.",
+    "topic": "Electromagnetic Spectrum",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "A convex lens has a focal length of 15 cm. An object is placed 30 cm from the lens. What is the image distance?",
+    "options": {
+      "A": "15 cm",
+      "B": "30 cm",
+      "C": "45 cm",
+      "D": "60 cm"
+    },
+    "answer": "B",
+    "explanation": "1/f = 1/u + 1/v => 1/15 = 1/30 + 1/v => 1/v = 1/15 - 1/30 = 1/30 => v = 30 cm. (When object is at 2f, image forms at 2f).",
+    "topic": "Geometrical Optics",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "The SI unit of electrical capacitance is the:",
+    "options": {
+      "A": "Henry",
+      "B": "Coulomb",
+      "C": "Farad",
+      "D": "Tesla"
+    },
+    "answer": "C",
+    "explanation": "Capacitance is measured in Farads (F). Henry is for inductance, Coulomb is for charge, and Tesla is for magnetic flux density.",
+    "topic": "Electrostatics & Capacitance",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "An electric iron rated 1200 W is used for 5 hours. Calculate the electrical energy consumed in kilowatt-hours (kWh).",
+    "options": {
+      "A": "6.0 kWh",
+      "B": "12.0 kWh",
+      "C": "2.4 kWh",
+      "D": "60.0 kWh"
+    },
+    "answer": "A",
+    "explanation": "Energy = Power (kW) * Time (hours) = (1200 / 1000) kW * 5 h = 1.2 * 5 = 6.0 kWh.",
+    "topic": "Current Electricity",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "According to Hooke's law, within the elastic limit, the extension of a spring is directly proportional to:",
+    "options": {
+      "A": "Spring constant",
+      "B": "Applied force",
+      "C": "Surface area",
+      "D": "Acceleration due to gravity"
+    },
+    "answer": "B",
+    "explanation": "Hooke's law states that force F = k * e, meaning the stretching force is directly proportional to extension within the elastic limit.",
+    "topic": "Elastic Properties of Matter",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "A radioactive sample has a half-life of 6 days. If the initial mass is 64 g, what mass remains after 18 days?",
+    "options": {
+      "A": "16 g",
+      "B": "8 g",
+      "C": "4 g",
+      "D": "2 g"
+    },
+    "answer": "B",
+    "explanation": "Number of half-lives = 18 / 6 = 3. Remaining mass = 64 / (2³) = 64 / 8 = 8 g.",
+    "topic": "Nuclear Physics / Radioactivity",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The velocity of sound is fastest in:",
+    "options": {
+      "A": "Vacuum",
+      "B": "Air at 0°C",
+      "C": "Water",
+      "D": "Steel"
+    },
+    "answer": "D",
+    "explanation": "Sound travels faster in denser, more elastic media. It travels fastest in solids (like steel: ~5000 m/s), slower in liquids, and slowest in gases (cannot travel in vacuum).",
+    "topic": "Wave Motion & Sound",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The anomalous expansion of water occurs between:",
+    "options": {
+      "A": "0°C and 4°C",
+      "B": "4°C and 100°C",
+      "C": "-4°C and 0°C",
+      "D": "0°C and 10°C"
+    },
+    "answer": "A",
+    "explanation": "Between 0°C and 4°C, water contracts when heated and expands when cooled, having maximum density at 4°C.",
+    "topic": "Thermal Expansion",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "Which instrument is used to measure the relative humidity of the atmosphere?",
+    "options": {
+      "A": "Hydrometer",
+      "B": "Hygrometer",
+      "C": "Barometer",
+      "D": "Manometer"
+    },
+    "answer": "B",
+    "explanation": "A hygrometer measures atmospheric humidity. A hydrometer measures relative density of liquids; a barometer measures atmospheric pressure.",
+    "topic": "Measurement & Instruments",
+    "exam": "WAEC"
+  }
+]

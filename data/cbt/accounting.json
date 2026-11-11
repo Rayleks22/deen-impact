@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "The fundamental accounting equation is stated as:",
+    "options": {
+      "A": "Assets = Liabilities + Capital",
+      "B": "Assets = Liabilities - Capital",
+      "C": "Capital = Assets + Liabilities",
+      "D": "Liabilities = Assets + Capital"
+    },
+    "answer": "A",
+    "explanation": "The core accounting equation requires that Assets equal the sum of Liabilities and Owner's Equity (Capital).",
+    "topic": "Accounting Principles",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following books of original entry is used to record goods returned by customers?",
+    "options": {
+      "A": "Purchases returns journal",
+      "B": "Sales returns (Returns inwards) journal",
+      "C": "Cash book",
+      "D": "General journal"
+    },
+    "answer": "B",
+    "explanation": "Returns Inwards (Sales Returns) Journal records goods returned back into the business by customers.",
+    "topic": "Books of Prime Entry",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The trial balance is prepared primarily to test the:",
+    "options": {
+      "A": "Financial profitability of the firm",
+      "B": "Arithmetical accuracy of ledger postings",
+      "C": "Cash position at the bank",
+      "D": "Valuation of inventory"
+    },
+    "answer": "B",
+    "explanation": "A trial balance ensures that total debits equal total credits, testing arithmetic accuracy under the double-entry system.",
+    "topic": "Trial Balance",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "An asset cost ₦100,000 with an estimated scrap value of ₦10,000 and an expected useful life of 5 years. Using straight-line depreciation, calculate the annual depreciation charge.",
+    "options": {
+      "A": "₦18,000",
+      "B": "₦20,000",
+      "C": "₦22,000",
+      "D": "₦15,000"
+    },
+    "answer": "A",
+    "explanation": "Straight-line depreciation = (Cost - Scrap Value) / Life = (100,000 - 10,000) / 5 = 90,000 / 5 = ₦18,000 per year.",
+    "topic": "Depreciation of Fixed Assets",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The petty cash fund is maintained on which principle?",
+    "options": {
+      "A": "Accrual concept",
+      "B": "Imprest system",
+      "C": "Prudence concept",
+      "D": "Going concern concept"
+    },
+    "answer": "B",
+    "explanation": "Under the imprest system, a fixed float is replenished periodically based on exact vouchers submitted.",
+    "topic": "Petty Cash Book",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "In a partnership, interest on partners' capital is an:",
+    "options": {
+      "A": "Expense in the Profit & Loss Account",
+      "B": "Appropriation of profit in the Profit & Loss Appropriation Account",
+      "C": "Addition to external liabilities",
+      "D": "Direct charge on sales revenue"
+    },
+    "answer": "B",
+    "explanation": "Interest on partners' capital is not an operating business expense; it is an appropriation of net profits distributed to partners.",
+    "topic": "Partnership Accounts",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "Carriage outwards is treated in the financial statements as an:",
+    "options": {
+      "A": "Addition to purchases in the trading account",
+      "B": "Operating selling and distribution expense in the profit and loss account",
+      "C": "Current asset in the balance sheet",
+      "D": "Direct deduction from capital"
+    },
+    "answer": "B",
+    "explanation": "Carriage outwards is the transport cost incurred in delivering goods to buyers, recorded as an operating expense in the P&L account.",
+    "topic": "Final Accounts of Sole Trader",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The concept that advises accountants to 'anticipate no profits, but provide for all possible losses' is the:",
+    "options": {
+      "A": "Consistency concept",
+      "B": "Prudence (Conservatism) concept",
+      "C": "Materiality concept",
+      "D": "Realization concept"
+    },
+    "answer": "B",
+    "explanation": "The prudence convention mandates that assets and income are not overstated and liabilities and potential losses are provided for.",
+    "topic": "Accounting Concepts & Conventions",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "Bank reconciliation statements are prepared by:",
+    "options": {
+      "A": "The bank manager for the customer",
+      "B": "The business enterprise to reconcile its cash book with the bank statement",
+      "C": "The Central Bank auditors",
+      "D": "External tax collectors"
+    },
+    "answer": "B",
+    "explanation": "The firm prepares a bank reconciliation statement to explain discrepancies between its Cash Book bank column and the Bank Statement.",
+    "topic": "Bank Reconciliation",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "Working capital is calculated as:",
+    "options": {
+      "A": "Current Assets - Current Liabilities",
+      "B": "Total Assets - Total Liabilities",
+      "C": "Fixed Assets + Current Assets",
+      "D": "Capital + Long-term Loans"
+    },
+    "answer": "A",
+    "explanation": "Working Capital = Current Assets - Current Liabilities. It represents short-term operational liquidity.",
+    "topic": "Accounting Ratios & Balance Sheet",
+    "exam": "WAEC"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "According to the Gospel of Matthew, in the Sermon on the Mount, Jesus taught: 'Blessed are the peacemakers, for they shall be called:'",
+    "options": {
+      "A": "Inheritors of the earth",
+      "B": "Children of God",
+      "C": "Mighty in the kingdom",
+      "D": "Rulers of nations"
+    },
+    "answer": "B",
+    "explanation": "Matthew 5:9 declares: 'Blessed are the peacemakers, for they shall be called the children of God.'",
+    "topic": "The Synoptic Gospels & Beatitudes",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "Who was appointed to replace Judas Iscariot as an Apostle in Acts chapter 1?",
+    "options": {
+      "A": "Barnabas",
+      "B": "Matthias",
+      "C": "Stephen",
+      "D": "Timothy"
+    },
+    "answer": "B",
+    "explanation": "In Acts 1:26, lots were cast between Joseph Barsabbas and Matthias, and the lot fell on Matthias.",
+    "topic": "The Early Church (Acts of the Apostles)",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "In the Old Testament, the prophet who challenged 450 prophets of Baal on Mount Carmel was:",
+    "options": {
+      "A": "Elisha",
+      "B": "Elijah",
+      "C": "Isaiah",
+      "D": "Jeremiah"
+    },
+    "answer": "B",
+    "explanation": "Prophet Elijah contested the prophets of Baal on Mount Carmel (1 Kings 18) to prove that the Lord is God.",
+    "topic": "Old Testament Prophets",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "Paul's teaching on justification by faith rather than the works of the law is prominently detailed in his epistle to the:",
+    "options": {
+      "A": "Romans",
+      "B": "Corinthians",
+      "C": "Thessalonians",
+      "D": "Philemon"
+    },
+    "answer": "A",
+    "explanation": "The Epistle to the Romans (especially Romans 3-5) presents Paul's systematic theology on justification by faith.",
+    "topic": "Pauline Epistles",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The Holy Spirit descended upon the disciples in the form of tongues of fire on the day of:",
+    "options": {
+      "A": "Passover",
+      "B": "Pentecost",
+      "C": "Ascension",
+      "D": "Transfiguration"
+    },
+    "answer": "B",
+    "explanation": "Acts 2:1-4 records the outpouring of the Holy Spirit on the day of Pentecost in Jerusalem.",
+    "topic": "The Early Church",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "King Solomon is renowned in the biblical narrative primarily for his extraordinary:",
+    "options": {
+      "A": "Military conquest",
+      "B": "Wisdom and building the Temple",
+      "C": "Prophetic visions",
+      "D": "Agrarian reforms"
+    },
+    "answer": "B",
+    "explanation": "King Solomon asked God for wisdom to govern Israel (1 Kings 3) and constructed the First Temple in Jerusalem.",
+    "topic": "Old Testament Monarchy",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "In 1 Corinthians 13, Apostle Paul identifies the greatest Christian virtue as:",
+    "options": {
+      "A": "Faith",
+      "B": "Hope",
+      "C": "Love (Charity)",
+      "D": "Knowledge"
+    },
+    "answer": "C",
+    "explanation": "1 Corinthians 13:13: 'And now abide faith, hope, love, these three; but the greatest of these is love.'",
+    "topic": "Christian Ethics & Virtues",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The first Christian martyr recorded in the Book of Acts who was stoned to death was:",
+    "options": {
+      "A": "James the brother of John",
+      "B": "Stephen",
+      "C": "Philip",
+      "D": "Peter"
+    },
+    "answer": "B",
+    "explanation": "Stephen, one of the seven deacons, was stoned outside Jerusalem after defending the gospel (Acts 7).",
+    "topic": "Early Church History",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The covenant between God and Abraham was sealed through the physical sign of:",
+    "options": {
+      "A": "Animal sacrifice at the altar",
+      "B": "Circumcision",
+      "C": "Water baptism",
+      "D": "Wearing priestly robes"
+    },
+    "answer": "B",
+    "explanation": "Genesis 17 specifies circumcision of all male offspring as the everlasting sign of God's covenant with Abraham.",
+    "topic": "Covenant Theology",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "Jesus performed his first recorded public miracle by turning water into wine at:",
+    "options": {
+      "A": "Cana of Galilee",
+      "B": "Capernaum",
+      "C": "Bethlehem",
+      "D": "Jericho"
+    },
+    "answer": "A",
+    "explanation": "John 2:1-11 documents the wedding feast at Cana in Galilee where Jesus manifested his glory by turning water into wine.",
+    "topic": "Miracles of Jesus",
+    "exam": "WAEC"
+  }
+]

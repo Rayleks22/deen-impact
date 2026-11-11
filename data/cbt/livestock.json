@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following animals is classified as a ruminant?",
+    "options": {
+      "A": "Pig",
+      "B": "Goat",
+      "C": "Rabbit",
+      "D": "Poultry"
+    },
+    "answer": "B",
+    "explanation": "Goats, sheep, and cattle are ruminants with four-chambered stomachs (rumen, reticulum, omasum, abomasum).",
+    "topic": "Livestock Classification & Digestive System",
+    "exam": "WAEC"
+  },
+  {
+    "id": 2,
+    "question": "Newcastle disease is a highly contagious viral infection that primarily affects:",
+    "options": {
+      "A": "Cattle",
+      "B": "Pigs",
+      "C": "Poultry (Chickens & Turkeys)",
+      "D": "Sheep"
+    },
+    "answer": "C",
+    "explanation": "Newcastle disease is a deadly viral respiratory and nervous affliction in birds and poultry.",
+    "topic": "Livestock Diseases & Health",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The gestation period of a sow (female pig) is approximately:",
+    "options": {
+      "A": "3 months, 3 weeks, and 3 days (114 days)",
+      "B": "9 months (283 days)",
+      "C": "5 months (150 days)",
+      "D": "30 days"
+    },
+    "answer": "A",
+    "explanation": "The gestation period of pigs is traditionally remembered as 3 months, 3 weeks, and 3 days (~114 days).",
+    "topic": "Animal Reproduction & Breeding",
+    "exam": "WAEC"
+  },
+  {
+    "id": 4,
+    "question": "Colostrum is the first milk produced after parturition which is essential because it:",
+    "options": {
+      "A": "Is cheap and easy to dispose",
+      "B": "Is rich in maternal antibodies that confer immunity to the newborn",
+      "C": "Causes immediate weaning",
+      "D": "Prevents rumination"
+    },
+    "answer": "B",
+    "explanation": "Colostrum delivers concentrated antibodies (immunoglobulins) that protect newborns against infections in early life.",
+    "topic": "Animal Nutrition & Management",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The removal of the testes in young male livestock to improve docility and meat quality is called:",
+    "options": {
+      "A": "Docking",
+      "B": "Castration",
+      "C": "Dehorning",
+      "D": "Culling"
+    },
+    "answer": "B",
+    "explanation": "Castration removes testicles, curbing aggression, preventing unwanted breeding, and improving meat fattening.",
+    "topic": "Routine Management Practices",
+    "exam": "WAEC"
+  },
+  {
+    "id": 6,
+    "question": "A balanced poultry layer mash is formulated with a higher proportion of which mineral for strong eggshell formation?",
+    "options": {
+      "A": "Iron",
+      "B": "Calcium",
+      "C": "Potassium",
+      "D": "Sulfur"
+    },
+    "answer": "B",
+    "explanation": "Eggshells are primarily composed of calcium carbonate; hence laying hens require diets rich in calcium and phosphorus.",
+    "topic": "Poultry Nutrition",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an ectoparasite in livestock production?",
+    "options": {
+      "A": "Tapeworm",
+      "B": "Liver fluke",
+      "C": "Tick",
+      "D": "Roundworm"
+    },
+    "answer": "C",
+    "explanation": "Ticks and lice are external parasites (ectoparasites) that live on the skin of livestock and transmit blood protozoans.",
+    "topic": "Livestock Parasitology",
+    "exam": "WAEC"
+  },
+  {
+    "id": 8,
+    "question": "The true stomach in a ruminant where enzymatic digestion occurs is the:",
+    "options": {
+      "A": "Rumen",
+      "B": "Reticulum",
+      "C": "Omasum",
+      "D": "Abomasum"
+    },
+    "answer": "D",
+    "explanation": "The abomasum is the fourth compartment and the true glandular stomach of ruminants, secreting gastric juices.",
+    "topic": "Anatomy of Farm Animals",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The process of removing unproductive or sick birds from a flock is known as:",
+    "options": {
+      "A": "Candling",
+      "B": "Culling",
+      "C": "Brooding",
+      "D": "Debudding"
+    },
+    "answer": "B",
+    "explanation": "Culling removes inferior, non-laying, or diseased animals from the herd/flock to conserve feed and maintain productivity.",
+    "topic": "Poultry Management",
+    "exam": "WAEC"
+  },
+  {
+    "id": 10,
+    "question": "A deep litter housing system is most commonly utilized in the management of:",
+    "options": {
+      "A": "Cattle",
+      "B": "Poultry",
+      "C": "Horses",
+      "D": "Fish"
+    },
+    "answer": "B",
+    "explanation": "Deep litter housing uses wood shavings or sawdust on concrete floors for commercial poultry production.",
+    "topic": "Housing Systems",
+    "exam": "WAEC"
+  }
+]

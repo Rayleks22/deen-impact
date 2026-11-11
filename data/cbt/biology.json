@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which part of the mammalian brain is responsible for balance and coordination of voluntary movements?",
+    "options": {
+      "A": "Cerebrum",
+      "B": "Cerebellum",
+      "C": "Medulla oblongata",
+      "D": "Hypothalamus"
+    },
+    "answer": "B",
+    "explanation": "The cerebellum coordinates voluntary muscular movements, posture, and body balance.",
+    "topic": "Nervous System",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "The process by which green plants manufacture carbohydrates using sunlight, water, and chlorophyll is known as:",
+    "options": {
+      "A": "Respiration",
+      "B": "Transpiration",
+      "C": "Photosynthesis",
+      "D": "Chemosynthesis"
+    },
+    "answer": "C",
+    "explanation": "Photosynthesis is the synthesis of organic compounds from CO₂ and H₂O using solar radiant energy trapped by chlorophyll.",
+    "topic": "Plant Nutrition",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "A cross between a homozygous red flower (RR) and a homozygous white flower (rr) in an incomplete dominance system produces:",
+    "options": {
+      "A": "100% red flowers",
+      "B": "100% pink flowers",
+      "C": "50% red, 50% white",
+      "D": "75% red, 25% white"
+    },
+    "answer": "B",
+    "explanation": "In incomplete dominance, the heterozygous genotype (Rr) displays an intermediate phenotype (pink), yielding 100% pink offspring.",
+    "topic": "Genetics & Heredity",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "Which blood group is known as the universal donor in the ABO blood system?",
+    "options": {
+      "A": "Group A",
+      "B": "Group B",
+      "C": "Group AB",
+      "D": "Group O"
+    },
+    "answer": "D",
+    "explanation": "Blood Group O lacks A and B antigens on red blood cells, meaning it can be donated to all other groups without immediate agglutination.",
+    "topic": "Circulatory System & Genetics",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The structural and functional unit of the human kidney is the:",
+    "options": {
+      "A": "Neuron",
+      "B": "Nephron",
+      "C": "Alveolus",
+      "D": "Villus"
+    },
+    "answer": "B",
+    "explanation": "The nephron is the microscopic structural and functional filtering unit of the kidney.",
+    "topic": "Excretory System",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "In an ecosystem, organisms that feed directly on primary producers are classified as:",
+    "options": {
+      "A": "Primary consumers (Herbivores)",
+      "B": "Secondary consumers (Carnivores)",
+      "C": "Tertiary consumers",
+      "D": "Decomposers"
+    },
+    "answer": "A",
+    "explanation": "Primary consumers feed directly on autotrophs (producers) and are known as herbivores.",
+    "topic": "Ecology (Trophic Levels)",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "Which hormone regulates the blood glucose level by stimulating glycogen synthesis in the liver?",
+    "options": {
+      "A": "Adrenaline",
+      "B": "Glucagon",
+      "C": "Insulin",
+      "D": "Thyroxine"
+    },
+    "answer": "C",
+    "explanation": "Insulin, secreted by beta cells of the islets of Langerhans in the pancreas, lowers blood glucose levels by converting excess glucose to glycogen.",
+    "topic": "Endocrine System & Homeostasis",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The deficiency of vitamin C in the human diet causes:",
+    "options": {
+      "A": "Beriberi",
+      "B": "Scurvy",
+      "C": "Rickets",
+      "D": "Pellagra"
+    },
+    "answer": "B",
+    "explanation": "Vitamin C (ascorbic acid) deficiency causes scurvy, characterized by bleeding gums and poor wound healing.",
+    "topic": "Human Nutrition",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The transfer of pollen grains from the anther to the stigma of a flower is termed:",
+    "options": {
+      "A": "Fertilization",
+      "B": "Pollination",
+      "C": "Germination",
+      "D": "Dispersal"
+    },
+    "answer": "B",
+    "explanation": "Pollination is the transfer of pollen grains from anther to stigma. Fertilization is the fusion of male and female gametes.",
+    "topic": "Reproduction in Plants",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "A symbiotic relationship in which one organism benefits while the other is neither harmed nor helped is:",
+    "options": {
+      "A": "Parasitism",
+      "B": "Mutualism",
+      "C": "Commensalism",
+      "D": "Predation"
+    },
+    "answer": "C",
+    "explanation": "Commensalism is a relationship where one organism benefits and the host is unaffected (e.g. remora fish and shark).",
+    "topic": "Ecological Interactions",
+    "exam": "WAEC"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "The Holy Qur'an was revealed to Prophet Muhammad (peace be upon him) over a total period of approximately:",
+    "options": {
+      "A": "10 years",
+      "B": "23 years",
+      "C": "33 years",
+      "D": "40 years"
+    },
+    "answer": "B",
+    "explanation": "The revelation of the Holy Qur'an commenced when the Prophet was 40 years old and continued until his death at age 63 (approximately 23 years: 13 in Makkah, 10 in Madinah).",
+    "topic": "Ulum al-Qur'an (Qur'anic Sciences)",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "The first five verses revealed in the Holy Qur'an are located in Surah:",
+    "options": {
+      "A": "Al-Fatihah",
+      "B": "Al-Baqarah",
+      "C": "Al-Alaq (Surah 96)",
+      "D": "Al-Ikhlas"
+    },
+    "answer": "C",
+    "explanation": "The first revelation brought by Angel Jibreel in Cave Hira was the opening 5 ayat of Surah Al-Alaq ('Iqra bi-ismi rabbika allathee khalaq...').",
+    "topic": "Qur'anic History",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following compilers produced the Sahih compilation of Hadith recognized as the most authentic after the Qur'an?",
+    "options": {
+      "A": "Imam Muslim",
+      "B": "Imam al-Bukhari",
+      "C": "Imam Abu Dawud",
+      "D": "Imam at-Tirmidhi"
+    },
+    "answer": "B",
+    "explanation": "Sahih al-Bukhari compiled by Imam Muhammad ibn Ismail al-Bukhari is universally recognized by scholars as the most authentic book after the Qur'an.",
+    "topic": "Hadith Sciences",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "The pillar of Islam that is obligatory on every sane, adult Muslim who possesses the Nisab of wealth for one full lunar year is:",
+    "options": {
+      "A": "Sawm (Fasting)",
+      "B": "Zakat (Almsgiving)",
+      "C": "Hajj (Pilgrimage)",
+      "D": "Salah (Prayer)"
+    },
+    "answer": "B",
+    "explanation": "Zakat is the annual obligatory charity levied on qualifying surplus wealth reaching the Nisab threshold held for a lunar year.",
+    "topic": "Fiqh (Pillars of Islam)",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The treaty signed between the Prophet (SAW) and the Quraysh of Makkah in the 6th year of Hijrah was:",
+    "options": {
+      "A": "Treaty of Ta'if",
+      "B": "Treaty of Hudaybiyyah",
+      "C": "Pledge of Aqabah",
+      "D": "Constitution of Madinah"
+    },
+    "answer": "B",
+    "explanation": "The Treaty of Hudaybiyyah was agreed in 6 AH, which the Qur'an described as 'Fathan Mubeena' (a clear victory).",
+    "topic": "Sirah & Islamic History",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "The dry purification performed with clean earth or sand in the absence of water is called:",
+    "options": {
+      "A": "Ghusl",
+      "B": "Wudu",
+      "C": "Tayammum",
+      "D": "Istinjah"
+    },
+    "answer": "C",
+    "explanation": "Tayammum is dry ablution using clean dust/earth when water is unavailable or its use is medically hazardous.",
+    "topic": "Taharah (Purification)",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "The concept of Tawheed-ur-Ruboobiyyah entails believing that:",
+    "options": {
+      "A": "Allah is the Sole Creator, Provider, and Sustainer of the universe",
+      "B": "Only Allah deserves acts of worship",
+      "C": "Allah possesses unique divine names and attributes",
+      "D": "Prophets were infallible in human form"
+    },
+    "answer": "A",
+    "explanation": "Tawheed-ur-Ruboobiyyah is the affirmation of Allah's Oneness in His Lordship: Creation, Ownership, and Sovereignty.",
+    "topic": "Aqeedah (Tawheed)",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The caliph who unified the Muslims upon a single standardized script (Mushaf) of the Holy Qur'an was:",
+    "options": {
+      "A": "Abu Bakr as-Siddiq",
+      "B": "Umar ibn al-Khattab",
+      "C": "Uthman ibn Affan",
+      "D": "Ali ibn Abi Talib"
+    },
+    "answer": "C",
+    "explanation": "Caliph Uthman ibn Affan (RA) authorized the master copies based on the dialect of the Quraysh and distributed them across provinces.",
+    "topic": "Khulafa ar-Rashidun",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "A Hadith whose chain of narration (Isnad) goes directly back to Allah the Almighty, but narrated in the words of the Prophet, is:",
+    "options": {
+      "A": "Hadith Nabawi",
+      "B": "Hadith Qudsi",
+      "C": "Hadith Hasan",
+      "D": "Hadith Da'eef"
+    },
+    "answer": "B",
+    "explanation": "Hadith Qudsi contains divine meanings from Allah expressed in the prophetic words, distinct from the literal revelation of the Qur'an.",
+    "topic": "Hadith Classification",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "The prayer performed during solar or lunar eclipses in Islam is known as:",
+    "options": {
+      "A": "Salat-ul-Istisqa",
+      "B": "Salat-ul-Kusoof / Khusoof",
+      "C": "Salat-ul-Janazah",
+      "D": "Salat-ut-Tarawih"
+    },
+    "answer": "B",
+    "explanation": "Salat-ul-Kusoof (solar) and Salat-ul-Khusoof (lunar) are special sunnah congregational prayers observed during eclipses.",
+    "topic": "Salah (Special Prayers)",
+    "exam": "WAEC"
+  }
+]

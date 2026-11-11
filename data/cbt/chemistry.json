@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What is the oxidation number of sulfur in H₂SO₄?",
+    "options": {
+      "A": "+4",
+      "B": "+6",
+      "C": "+2",
+      "D": "-2"
+    },
+    "answer": "B",
+    "explanation": "2(+1) + S + 4(-2) = 0 => 2 + S - 8 = 0 => S - 6 = 0 => S = +6.",
+    "topic": "Redox Reactions",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following hydrocarbons decolourizes acidified KMnO₄ and bromine water rapidly?",
+    "options": {
+      "A": "Methane",
+      "B": "Ethane",
+      "C": "Ethene",
+      "D": "Propane"
+    },
+    "answer": "C",
+    "explanation": "Ethene (C₂H₄) is an unsaturated alkene containing a carbon-carbon double bond, which undergoes rapid addition reactions with bromine water and cold alkaline/acidified KMnO₄.",
+    "topic": "Organic Chemistry (Alkenes)",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "Calculate the volume of 0.5 mol/dm³ HCl required to neutralize 25 cm³ of 0.2 mol/dm³ NaOH.",
+    "options": {
+      "A": "10 cm³",
+      "B": "15 cm³",
+      "C": "20 cm³",
+      "D": "25 cm³"
+    },
+    "answer": "A",
+    "explanation": "HCl + NaOH -> NaCl + H₂O. CaVa / CbVb = na / nb => (0.5 * Va) / (0.2 * 25) = 1/1 => 0.5Va = 5 => Va = 10 cm³.",
+    "topic": "Volumetric Analysis",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "Which element has the electron configuration 1s² 2s² 2p⁶ 3s² 3p⁴?",
+    "options": {
+      "A": "Silicon",
+      "B": "Phosphorus",
+      "C": "Sulfur",
+      "D": "Chlorine"
+    },
+    "answer": "C",
+    "explanation": "Total electrons = 2 + 2 + 6 + 2 + 4 = 16. The element with atomic number 16 is Sulfur (S).",
+    "topic": "Atomic Structure & Periodic Table",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "The temporary hardness of water is caused by the presence of dissolved:",
+    "options": {
+      "A": "Calcium sulfate",
+      "B": "Calcium hydrogentrioxocarbonate(IV)",
+      "C": "Magnesium chloride",
+      "D": "Sodium trioxocarbonate(IV)"
+    },
+    "answer": "B",
+    "explanation": "Temporary hardness is caused by Ca(HCO₃)₂ and Mg(HCO₃)₂, which can be removed simply by boiling.",
+    "topic": "Water & Hardness",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "According to Le Chatelier's principle, an increase in pressure on the system N₂(g) + 3H₂(g) ⇌ 2NH₃(g) will:",
+    "options": {
+      "A": "Shift equilibrium to the left",
+      "B": "Shift equilibrium to the right",
+      "C": "Have no effect",
+      "D": "Decrease the yield of ammonia"
+    },
+    "answer": "B",
+    "explanation": "The reactants have 4 moles of gas while the products have 2 moles. Increasing pressure favours the side with fewer gaseous moles (shifts to the right).",
+    "topic": "Chemical Equilibrium",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "What is the mass of 0.25 moles of Calcium carbonate (CaCO₃)? [Ca = 40, C = 12, O = 16]",
+    "options": {
+      "A": "25 g",
+      "B": "50 g",
+      "C": "100 g",
+      "D": "12.5 g"
+    },
+    "answer": "A",
+    "explanation": "Molar mass of CaCO₃ = 40 + 12 + (3 * 16) = 100 g/mol. Mass = 0.25 mol * 100 g/mol = 25 g.",
+    "topic": "Stoichiometry & Mole Concept",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following alloys is composed of copper and zinc?",
+    "options": {
+      "A": "Bronze",
+      "B": "Brass",
+      "C": "Steel",
+      "D": "Duralumin"
+    },
+    "answer": "B",
+    "explanation": "Brass is an alloy of Copper and Zinc. Bronze is Copper and Tin.",
+    "topic": "Metals & Alloys",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The gas responsible for global greenhouse warming produced by fossil fuel combustion is:",
+    "options": {
+      "A": "Carbon(II) oxide",
+      "B": "Carbon(IV) oxide",
+      "C": "Nitrogen",
+      "D": "Sulfur(IV) oxide"
+    },
+    "answer": "B",
+    "explanation": "Carbon(IV) oxide (CO₂) is the primary greenhouse gas contributing to global warming from combustion.",
+    "topic": "Environmental Chemistry",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "A solution has a pH of 3.0. The solution is considered:",
+    "options": {
+      "A": "Strongly alkaline",
+      "B": "Weakly alkaline",
+      "C": "Acidic",
+      "D": "Neutral"
+    },
+    "answer": "C",
+    "explanation": "pH below 7 indicates an acidic solution. pH 3.0 is definitely acidic.",
+    "topic": "Acids, Bases & Salts",
+    "exam": "WAEC"
+  }
+]

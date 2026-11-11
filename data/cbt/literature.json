@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "A figure of speech in which a part is made to represent the whole or vice versa is known as:",
+    "options": {
+      "A": "Metonymy",
+      "B": "Synecdoche",
+      "C": "Hyperbole",
+      "D": "Personification"
+    },
+    "answer": "B",
+    "explanation": "Synecdoche uses a part to signify the whole (e.g. 'all hands on deck' where 'hands' represents sailors).",
+    "topic": "Literary Devices",
+    "exam": "JAMB"
+  },
+  {
+    "id": 2,
+    "question": "In drama, a long speech delivered by a character alone on stage revealing their inner thoughts is a:",
+    "options": {
+      "A": "Dialogue",
+      "B": "Soliloquy",
+      "C": "Prologue",
+      "D": "Aside"
+    },
+    "answer": "B",
+    "explanation": "A soliloquy is a monologue spoken when the actor is alone, revealing internal motives directly to the audience.",
+    "topic": "Dramatic Techniques",
+    "exam": "WAEC"
+  },
+  {
+    "id": 3,
+    "question": "The tragic flaw in the character of a protagonist that leads to their downfall is termed:",
+    "options": {
+      "A": "Catharsis",
+      "B": "Hamartia",
+      "C": "Nemesis",
+      "D": "Hubris"
+    },
+    "answer": "B",
+    "explanation": "Hamartia is the fatal flaw or error of judgment in Aristotle's classical tragedy.",
+    "topic": "Tragedy & Dramatic Theory",
+    "exam": "JAMB"
+  },
+  {
+    "id": 4,
+    "question": "A poem of 14 lines with a formal rhyme scheme and iambic pentameter is a:",
+    "options": {
+      "A": "Ballad",
+      "B": "Sonnet",
+      "C": "Ode",
+      "D": "Elegy"
+    },
+    "answer": "B",
+    "explanation": "A sonnet is strictly a 14-line poem written in iambic pentameter (Petrarchan or Shakespearean).",
+    "topic": "Poetry & Poetic Forms",
+    "exam": "WAEC"
+  },
+  {
+    "id": 5,
+    "question": "An elegy is primarily written to:",
+    "options": {
+      "A": "Celebrate a victorious military campaign",
+      "B": "Mourn the death of a person or lament the past",
+      "C": "Praise a bride on her wedding day",
+      "D": "Criticize social follies with humour"
+    },
+    "answer": "B",
+    "explanation": "An elegy is a meditative, melancholic poem expressing sorrow for the deceased.",
+    "topic": "Poetic Genres",
+    "exam": "JAMB"
+  },
+  {
+    "id": 6,
+    "question": "The literary device illustrated by 'The friendly sun smiled down upon our journey' is:",
+    "options": {
+      "A": "Metaphor",
+      "B": "Personification",
+      "C": "Apostrophe",
+      "D": "Oxymoron"
+    },
+    "answer": "B",
+    "explanation": "Personification attributes human qualities (smiling, friendly) to inanimate natural objects (the sun).",
+    "topic": "Figures of Speech",
+    "exam": "WAEC"
+  },
+  {
+    "id": 7,
+    "question": "In narrative fiction, the perspective from which a story is told is called the:",
+    "options": {
+      "A": "Theme",
+      "B": "Point of view",
+      "C": "Setting",
+      "D": "Plot"
+    },
+    "answer": "B",
+    "explanation": "Point of view (first-person, third-person limited, omniscient) determines the narrative lens through which events are recounted.",
+    "topic": "Prose Fiction Elements",
+    "exam": "JAMB"
+  },
+  {
+    "id": 8,
+    "question": "The juxtaposition of two contradictory words side by side (e.g. 'deafening silence') is an:",
+    "options": {
+      "A": "Oxymoron",
+      "B": "Paradox",
+      "C": "Irony",
+      "D": "Alliteration"
+    },
+    "answer": "A",
+    "explanation": "An oxymoron joins two contradictory terms side-by-side.",
+    "topic": "Literary Devices",
+    "exam": "WAEC"
+  },
+  {
+    "id": 9,
+    "question": "The turning point or moment of highest emotional tension in a dramatic plot is the:",
+    "options": {
+      "A": "Exposition",
+      "B": "Climax",
+      "C": "Denouement",
+      "D": "Foreshadowing"
+    },
+    "answer": "B",
+    "explanation": "The climax is the peak of crisis in a narrative plot where conflict culminates.",
+    "topic": "Plot Structure",
+    "exam": "JAMB"
+  },
+  {
+    "id": 10,
+    "question": "Satire is a genre of literature designed primarily to:",
+    "options": {
+      "A": "Glorify royalty with mythic verse",
+      "B": "Expose and ridicule human foolishness or societal vices to inspire reform",
+      "C": "Chronicle historical genealogies accurately",
+      "D": "Entertain through slapstick physical humor alone"
+    },
+    "answer": "B",
+    "explanation": "Satire uses irony, ridicule, and wit to expose vice and follies with an aim to improve society.",
+    "topic": "Literary Genres",
+    "exam": "WAEC"
+  }
+]
